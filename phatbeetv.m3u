@@ -224,6 +224,30 @@ https://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive10.png", FPT Live 10 - Esports
 https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 1 🔴
+https://rg.hducanh.site/live1
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 2 🔴
+https://rg.hducanh.site/live2
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 3 🔴
+https://rg.hducanh.site/live3
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 4 🔴
+https://rg.hducanh.site/live4
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 5 🔴
+https://rg.hducanh.site/live5
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 6 🔴
+https://rg.hducanh.site/live6
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 7 🔴
+https://rg.hducanh.site/live7
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 8 🔴
+https://rg.hducanh.site/live8
+
 
 #EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
