@@ -538,7 +538,7 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png", Boomerang
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://img.lichphatsong.xyz/logo/boomerang.png", Boomerang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
 
