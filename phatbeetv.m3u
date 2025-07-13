@@ -241,6 +241,11 @@ https://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive10.png", FPT Live 10 - Esports
 https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive10.png", FPT Live  - Esports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vips-livecdn.fptplay.net/MTc0NDM1Mnx0aGV0aGFvMjM5fG90aGVyfDE3NTI0MzIwOTF8MTAzLjE1Ni4yLjE2fGIxZTdmNWYwZWEyN2IyNTM2Yjc2OThjZGU2ZGJkZmQ4/channel/thethao239/master_hvc.mpd
+
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 1 🔴
 https://rg.hducanh.site/live1
 
