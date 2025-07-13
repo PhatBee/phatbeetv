@@ -291,7 +291,7 @@ https://sgchill.io.vn/360/192/index.m3u8
 
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://sgchill.io.vn/360/193/index.m3u8
+https://1011154949.vnns.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8?XSignKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiWC1EUk0iLCJqdGkiOiJmYTRlZTE1Yy1mOGUxLTQwYzUtYWE0ZS05NGZjYTI3Mjc3ZDgiLCJleHRyYURhdGEiOiJUaGlzIGlzIGFkZGl0aW9uYWwgZGF0YSB0byBpbmNyZWFzZSB0aGUgcGF5bG9hZCBzaXplLiIsImV4cCI6MTcyNDEzMjc3OSwiaXNzIjoiaHR2Yy5jb20udm4iLCJhdWQiOiJodHZjLmNvbS52biJ9.iJCmZpy3FfWcvRFqaOyc9ZvSFfJgCe78167HbfOSKQg
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
