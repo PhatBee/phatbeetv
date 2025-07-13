@@ -290,6 +290,12 @@ http://14.234.186.91:1024/rtp/232.84.3.111:10666
 #EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2 - MyTV - 2
 http://14.234.186.91:1024/rtp/232.84.3.129:10672
 
+#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV - MyTV - 3
+http://14.234.186.91:1024/rtp/232.84.3.49:11758
+
+#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2 - MyTV - 
+http://14.234.186.91:1024/rtp/232.84.3.48:11764
+
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
