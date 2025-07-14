@@ -513,7 +513,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/historyhd.jpg", History HD
-https://sgchill.io.vn/360/9856/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/9856/index.m3u8--#
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/dw.jpg", DW
 #EXTVLCOPT:http-user-agent=VThanhTivi
