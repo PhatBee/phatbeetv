@@ -317,43 +317,53 @@ http://14.234.186.91:1024/rtp/232.84.3.48:11764
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/159/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/159/index.m3u8--#
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/hollywoodclassics.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://sgchill.io.vn/360/160/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/160/index.m3u8--#
 
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/inthebox.jpg", In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/360/235/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/235/index.m3u8--#
 
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/boxhits.jpg", Box Hits
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://sgchill.io.vn/360/239/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/239/index.m3u8--#
 
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/man.jpg", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/237/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/237/index.m3u8--#
 
 #EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/289/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/289/index.m3u8--#
 
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/drfithd.jpg", Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/162/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/162/index.m3u8--#
 
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg", Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://sgchill.io.vn/360/212/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/212/index.m3u8--#
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/135/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/135/index.m3u8--#
 
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/woman.jpg", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/163/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+#--https://sgchill.io.vn/360/163/index.m3u8--#
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
