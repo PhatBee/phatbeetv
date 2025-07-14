@@ -646,3 +646,7 @@ https://xem.TruyenHinh.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", ATV3 - Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250711/2025071118/aUnuN4tqI2-BTV-THUMBNAIL-KENHVTVgo-500x281.webp", BTV -  Báo và PTTH Bắc Ninh
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://xem.TruyenHinh.Click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
