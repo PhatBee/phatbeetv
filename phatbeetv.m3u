@@ -631,7 +631,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="https://img.lichphatsong.xyz/logo/anvien.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/anvien.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
@@ -671,5 +671,9 @@ https://xem.TruyenHinh.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
+#EXTINF:-1 tvg-id="soctrang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+
+#EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo Cao Bằng
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://xem.TruyenHinh.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
