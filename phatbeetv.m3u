@@ -685,3 +685,7 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/PmFxeTP8wZ-DNRT2-THUMBNAIL-KENHVTVgo-500x281.webp", ĐNRT2 - Báo và PTTH Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", DRT HD - Báo và PTTH Đắk Lắk
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://xem.TruyenHinh.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
