@@ -692,3 +692,11 @@ https://xem.TruyenHinh.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dienbien.png", ĐTV HD - Báo và PTTH Điện Biên
 https://xem.TruyenHinh.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai1.png", ĐNRTV1 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=VMTTV
+https://xem.TruyenHinh.Click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai2.png", ĐRNTV2 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=VMTTV
+https://xem.TruyenHinh.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
