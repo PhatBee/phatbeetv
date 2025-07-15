@@ -697,10 +697,18 @@ https://xem.TruyenHinh.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=VMTTV
 https://xem.TruyenHinh.Click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai2.png", ĐRNTV2 - Báo và PTTH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai2.png", ĐNRTV2 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://xem.TruyenHinh.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.webp", ĐNRTV3 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1.org.vn/dongnai3
+
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD - Báo và PTTH Đồng Tháp
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png", THĐT2 HD - Báo và PTTH Đồng Tháp
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
