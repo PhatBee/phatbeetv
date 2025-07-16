@@ -235,6 +235,9 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive1.png", FPT Live 1 - Football (ASEAN Championship)
+https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive2.png", FPT Live 2 - Esports
 https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 
