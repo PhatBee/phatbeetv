@@ -564,7 +564,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
-http://sv.cvtv.xyz:81/cnbc?token=live
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162533.ts
+#--http://sv.cvtv.xyz:81/cnbc?token=live--#
+
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
