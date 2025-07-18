@@ -549,7 +549,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306610.ts
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png", CNN
-http://sv.cvtv.xyz:81/cnn?token=live
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/480.ts
+#--http://sv.cvtv.xyz:81/cnn?token=live--#
 
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/france24eng.png", France 24
 http://sv.cvtv.xyz:81/f24?token=live
