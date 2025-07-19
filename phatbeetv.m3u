@@ -236,7 +236,8 @@ https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png", SCTV22 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn2.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1752941302/eYWnpKQ6JbSfB_VT9KL5189jqiY/e10.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/Ho8PrUcm8El75SOq0rJ-sA/1753030800/RIPQ1Y7/live/sctv22/router_v1_windows_10_chrome.mpd?token=hBpr1of_9k9Q6PvxMONrbw&e=1752951706
+https://cdn2.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1752941302/eYWnpKQ6JbSfB_VT9KL5189jqiY/e10.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/Ho8PrUcm8El75SOq0rJ-sA/1753030800/RIPQ1Y7/live/sctv22/router_v1_windows_10_chrome.mpd?token=eAb6V1aIdWS4iW7_UWVWXw&e=1752951880
+
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
