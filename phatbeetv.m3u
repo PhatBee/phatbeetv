@@ -204,7 +204,7 @@ https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-
+https://cdn2.tvmienphi.xyz:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1752933185/ZmK5pEck9nSlG3IQww7DTPCqKm4/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/hBZbuznkh9s6PvHmNJavIg/1753030800/RIPQ1Y7/live/hls/sctv9/01.m3u8?token=BOYkn-i9POQ2ypx00irMAA&e=1752952379
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -234,7 +234,7 @@ https://cdn2.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.png", SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg", SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn2.tvmienphi.xyz:8444/sctv/s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1752934366/lAZn5t4YvVYxdmC4W4ZY9xursn0/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/Q3uykeldu7yvwSUyflx8gQ/1753030800/RIPQ1Y7/live/hls/sctv21/02.m3u8?token=AkYp7zyqVnXG44FB25_ziQ&e=1752952119
 
