@@ -73,7 +73,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV HDHD
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/136/index.m3u8--#
