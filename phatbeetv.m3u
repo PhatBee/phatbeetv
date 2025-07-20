@@ -2,7 +2,8 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=7852"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=89907"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=9396"
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=171917"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=412091"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=369727"
 #--#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"--#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}", VTV1 HD
@@ -647,11 +648,11 @@ https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 http://sv.cvtv.xyz:81/trtw?token=live
 
-#EXTINF:0 tvg-id="171917" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
+#EXTINF:0 tvg-id="412091" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts
 
-#EXTINF:0 tvg-id="blueantext - Khác" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
+#EXTINF:0 tvg-id="369727" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298490.ts
 
