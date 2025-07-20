@@ -575,7 +575,8 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/480.ts
 http://sv.cvtv.xyz:81/f24?token=live
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/nhkworld.png", NHK World
-http://sv.cvtv.xyz:81/nhkw?token=live
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
+#--http://sv.cvtv.xyz:81/nhkw?token=live--#
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/tv5monde.png", TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
