@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=7852"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=89907"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=9396"
 #--#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"--#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}", VTV1 HD
@@ -612,7 +613,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
+#EXTINF:-1 tvg-id="9396" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
