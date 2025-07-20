@@ -766,3 +766,15 @@ https://xem.TruyenHinh.Click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://gialaitv.vn/wp-content/themes/gialaitv/img/video1.png", GTV - Báo và PTTH Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.TruyenHinh.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi1.png", Hà Nội 1 HD - Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://xem.TruyenHinh.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi2.png", Hà Nội 2 HD - Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://xem.TruyenHinh.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", Hà Nội 2 UHD - Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
