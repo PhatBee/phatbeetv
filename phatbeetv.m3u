@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=7852"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=89907"
 #--#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"--#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}", VTV1 HD
@@ -621,7 +622,7 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://img.lichphatsong.xyz/logo/boomerang.png", Boomerang
+#EXTINF:-1 tvg-id="89907" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://img.lichphatsong.xyz/logo/boomerang.png", Boomerang
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
 
 #EXTINF:-1 tvg-id="7852" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
