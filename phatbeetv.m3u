@@ -778,3 +778,7 @@ https://xem.TruyenHinh.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo Hà Tĩnh
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://xem.TruyenHinh.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
