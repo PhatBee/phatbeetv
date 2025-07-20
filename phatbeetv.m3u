@@ -543,7 +543,8 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/kbsworld.jpg", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+https://xem.TruyenHinh.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+#--https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8--#
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
