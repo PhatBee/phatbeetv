@@ -228,8 +228,7 @@ https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn2.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1752917533/SKhW79vIBmBOw9zsEUBenvQV2A8/e10.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/SB9XJ4C00zaiFI5RiSuXdg/1753030800/anonymous/live/sctv15/video_hd_compat/playlist.m3u8?token=u5JsX7eoOXa6L424pPuySg&e=1752931613
-
+https://cdn3.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1753111814/RL2a_EILwfhMtnBCqurIwUYQNbg/e13.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/4IG_cuqYlRrS9AyROfa-Sg/1753203600/RIPQ1Y7/live/sctv15/video_hd_compat/playlist.m3u8?token=UdDJPol_QCgjDtQnOX47Ew&e=1753121814
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
