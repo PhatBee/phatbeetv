@@ -283,6 +283,10 @@ https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png", TV360+4
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
+#EXTVLCOPT:http-user-agent=vuminhthanh
+https://xem.TruyenHinh.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 1 🔴
 https://rg.hducanh.site/live1
 
