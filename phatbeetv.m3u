@@ -112,7 +112,8 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" catchup="append" catchup-days="2" codec="system", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+http://113.177.113.7:4022/rtp/232.84.3.243:11380
+#--https://freem3u.xyz/api/live/play.m3u8?oid=onfootball--#
 
 #EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg", ON TRENDING TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
