@@ -812,3 +812,7 @@ https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hungyen.png", HYTV HD - Báo và PTTH Hưng Yên
 https://xem.TruyenHinh.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://xem.TruyenHinh.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
