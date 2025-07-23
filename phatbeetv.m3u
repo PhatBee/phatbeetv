@@ -795,7 +795,7 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.TruyenHinh.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png", THP HD - Báo và PTTH Hải Phòng 
 https://xem.TruyenHinh.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Báo và PTTH Hải Phòng
@@ -805,3 +805,7 @@ https://xem.TruyenHinh.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 HD - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.TruyenHinh.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
