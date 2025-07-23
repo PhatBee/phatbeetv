@@ -816,3 +816,6 @@ https://xem.TruyenHinh.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.TruyenHinh.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png", LTV - Báo Lai Châu
+https://xem.TruyenHinh.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
