@@ -820,3 +820,12 @@ https://xem.TruyenHinh.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png", LTV - Báo Lai Châu
 https://xem.TruyenHinh.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.png", LTV1 HD - Báo và PTTH Lâm Đồng
+https://xem.TruyenHinh.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png", LTV2 HD - Báo và PTTH Lâm Đồng
+https://xem.TruyenHinh.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png", LTV3 HD - Báo và PTTH Lâm Đồng
+https://xem.TruyenHinh.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
