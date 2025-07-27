@@ -829,3 +829,6 @@ https://xem.TruyenHinh.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png", LTV3 HD - Báo và PTTH Lâm Đồng
 https://xem.TruyenHinh.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD - Báo và PTTH Lạng Sơn
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
