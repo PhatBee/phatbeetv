@@ -153,7 +153,7 @@ https://263.org.vn/OnGolf
 #--https://sgchill.io.vn/360/169/index.m3u8--#
 
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine HD
+#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE%20HD.png",K+ Cine HD
 http://113.177.113.7:4022/rtp/232.84.1.122:10314 
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action HD
@@ -169,7 +169,7 @@ http://113.177.113.7:4022/rtp/232.84.1.176:10374
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg",K+ Kids HD
 http://113.177.113.7:4022/rtp/232.84.3.42:11800
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine
+#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
