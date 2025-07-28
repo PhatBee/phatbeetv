@@ -24,8 +24,8 @@ http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}", VTV5 HD (MyTV)
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://113.177.113.7:4022/rtp/232.84.2.33:10606
-#--https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8--#
+#--http://113.177.113.7:4022/rtp/232.84.2.33:10606--#
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}", VTV5 Tây Nam Bộ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
@@ -62,9 +62,10 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoa
 https://xem.TruyenHinh.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/175/index.m3u8--#
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (MyTV)
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (Viettel)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.177.113.7:4022/rtp/232.84.3.242:11374
+http://iptv.hainghia.net:6789/rtp/232.84.1.207:9216
+#--http://113.177.113.7:4022/rtp/232.84.3.242:11374--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsports--#
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies HD
@@ -79,7 +80,8 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ HD (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.177.113.7:4022/rtp/232.84.3.75:11602
+http://iptv.hainghia.net:6789/rtp/232.84.3.75:11602
+#--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplussportsplus--#
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV HD
@@ -112,9 +114,10 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m
 https://xem.TruyenHinh.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/185/index.m3u8--#
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" catchup="append" catchup-days="2" codec="system", ON Football HD (MyTV)
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" catchup="append" catchup-days="2" codec="system", ON Football HD (ViettelViettel)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.177.113.7:4022/rtp/232.84.3.243:11380
+http://iptv.hainghia.net:6789/rtp/232.84.1.210:9234
+#--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onfootball--#
 
 #EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg", ON TRENDING TV HD
@@ -124,7 +127,8 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News HD (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.177.113.7:4022/rtp/232.84.2.193:10942
+http://iptv.hainghia.net:6789/rtp/232.84.2.193:10942
+#--http://113.177.113.7:4022/rtp/232.84.2.193:10942-#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews--#
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas HD
@@ -149,14 +153,14 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://263.org.vn/OnGolf
+https://263.org.vn/OOnGolf
 #--https://sgchill.io.vn/360/169/index.m3u8--#
 
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE%20HD.png",K+ Cine HD
 http://113.177.113.7:4022/rtp/232.84.1.122:10314 
 
-#EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action HD
+#EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action HD
 http://113.177.113.7:4022/rtp/232.84.1.33:8172
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
@@ -172,7 +176,7 @@ http://113.177.113.7:4022/rtp/232.84.3.42:11800
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
 
-#EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
+#EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
 http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201.png",K+ Sport 1
