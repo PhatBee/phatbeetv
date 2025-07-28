@@ -159,7 +159,7 @@ http://113.177.113.7:4022/rtp/232.84.1.122:10314
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action HD
 http://113.177.113.7:4022/rtp/232.84.1.33:8172
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg",K+ Sport 1 HD
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
 http://113.177.113.7:4022/rtp/232.84.1.37:8196
 
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg",K+ Sport 2 HD
@@ -175,7 +175,7 @@ http://113.177.113.7:4022/rtp/232.84.1.96:8550
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
 http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg",K+ Sport 1
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201.png",K+ Sport 1
 http://113.177.113.7:4022/rtp/232.84.1.98:8562
 
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg",K+ Sport 2
