@@ -80,7 +80,8 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ HD (MyTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.177.113.7:4022/rtp/232.84.3.75:11602
+http://iptv.hainghia.net:6789/rtp/232.84.3.75:11602
+#--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplussportsplus--#
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV HD
@@ -152,8 +153,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.hainghia.net:6789/rtp/232.84.3.75:11602
-#--https://263.org.vn/OOnGolf--#
+https://263.org.vn/OOnGolf
 #--https://sgchill.io.vn/360/169/index.m3u8--#
 
 
