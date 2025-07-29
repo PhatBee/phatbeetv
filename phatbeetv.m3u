@@ -110,6 +110,9 @@ https://xem.hoiquan.click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/184/index.m3u8--#
 
+#EXTINF:-1 tvg-id="onhomeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnHomeShopping.png", ON Home Shopping HD
+https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMusic.png", On Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
