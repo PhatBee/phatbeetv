@@ -315,18 +315,6 @@ http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/PxdJR3mH/z6780816311701-9ee278d9b353fd32bb6528fa7a729cd0-removebg-preview.png", Nino Channel 2
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONi1
-https://truyenhinh.click/oni1?/playlist.m3u8
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
-https://truyenhinh.click/oni3?/playlist.m3u8
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.ibb.co/d0ZLxsYs/Logo-ONi5-2025.png", ONi5
-https://truyenhinh.click/oni5?/playlist.m3u8
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.ibb.co/k61xv8FH/1743416475697.png", ONi7
-https://truyenhinh.click/oni7?/playlist.m3u8
-
 #EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
