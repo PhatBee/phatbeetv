@@ -63,7 +63,8 @@ https://xem.hoiquan.click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.hainghia.net:6789/rtp/232.84.1.207:9216
+https://rg.hducanh.site/vtvcab3
+#--http://iptv.hainghia.net:6789/rtp/232.84.1.207:9216--#
 #--http://113.177.113.7:4022/rtp/232.84.3.242:11374--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsports--#
 
@@ -79,7 +80,8 @@ https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports%2B.png", ON Sports+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.hainghia.net:6789/rtp/232.84.3.75:11602
+https://rg.hducanh.site/vtvcab6
+#--http://iptv.hainghia.net:6789/rtp/232.84.3.75:11602--#
 #--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplussportsplus--#
 
@@ -115,7 +117,8 @@ https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.hainghia.net:6789/rtp/232.84.1.210:9234
+https://tv.hducanh.site/vtvcab16
+#--http://iptv.hainghia.net:6789/rtp/232.84.1.210:9234--#
 #--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onfootball--#
 
