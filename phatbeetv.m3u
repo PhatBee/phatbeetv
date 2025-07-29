@@ -195,7 +195,8 @@ https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png", SCTV2 HD - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+#--https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8--#
 #--https://sgchill.io.vn/360/201/index.m3u8--#
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png", SCTV3 - SEE TV
