@@ -6,6 +6,7 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=369727"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=369795"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=12590"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&channel_id=1298"
 #--#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"--#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -636,14 +637,6 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="lovenature" group-title="Quốc Tế - Khác" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg", CGTN
-http://sv.cvtv.xyz:81/cgtn?token=live
-
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg", CGTN Documentary
-http://217.156.66.36:8080/live/c77a5914/cd600797bc/199989.ts
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
@@ -660,7 +653,7 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts
 #EXTVLCOPT:http-user-agent="KIIP"
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298490.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế - Khác", Celestial Movies
+#EXTINF:0 tvg-id="1298" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế - Khác", Celestial Movies
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=683142&extension=ts&play_token=36m9d1cA2P
 
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế - Khác", Clubbingtv
