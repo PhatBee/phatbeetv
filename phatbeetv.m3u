@@ -130,7 +130,7 @@ http://iptv.hainghia.net:6789/rtp/232.84.2.193:10942
 #--http://113.177.113.7:4022/rtp/232.84.2.193:10942-#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews--#
 
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas HD
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieDramas.png", ON Vie Dramas HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/177/index.m3u8--#
