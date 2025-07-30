@@ -110,6 +110,9 @@ https://xem.hoiquan.click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/184/index.m3u8--#
 
+#EXTINF:-1 tvg-id="onhomeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnHomeShopping.png", ON Home Shopping HD
+https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMusic.png", On Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
@@ -117,7 +120,8 @@ https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.hducanh.site/vtvcab16
+https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball
+#--https://tv.hducanh.site/vtvcab16--#
 #--http://iptv.hainghia.net:6789/rtp/232.84.1.210:9234--#
 #--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onfootball--#
@@ -162,20 +166,20 @@ https://xem.hoiquan.click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3
 
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE%20HD.png",K+ Cine HD
-http://14.176.128.35:12343/rtp/232.84.1.122:10314 
+http://113.177.113.7:4022/rtp/232.84.1.122:10314 
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action HD
-http://14.176.128.35:12343/rtp/232.84.1.33:8172
+http://113.177.113.7:4022/rtp/232.84.1.33:8172
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
-http://14.176.128.35:12343/rtp/232.84.1.37:8196
+http://113.177.113.7:4022/rtp/232.84.1.37:8196
 
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%202%20HD.png",K+ Sport 2 HD
 #--http://113.177.113.7:4022/rtp/232.84.1.34:8178--#
-http://14.176.128.35:12343/rtp/232.84.1.176:10374
+http://113.177.113.7:4022/rtp/232.84.1.176:10374
 
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS%20HD.png",K+ Kids HD
-http://14.176.128.35:12343/rtp/232.84.3.42:11800
+http://113.177.113.7:4022/rtp/232.84.3.42:11800
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
@@ -266,27 +270,11 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV4K.png", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FEvent241.png", FPT Event 241
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive1.png", FPT Live 1 - Football (ASEAN Championship)
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive2.png", FPT Live 2 - Esports
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive7.png", FPT Live 7 - Esports
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive10.png", FPT Live 10 - Esports
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive17.png", FPT Live 17 - Football (ASEAN Championship)
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive18.png", FPT Live 18 - Football (ASEAN Championship)
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/FLive25.png", FPT Live 25 - Esports
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png", TV360+4
 https://xem.hoiquan.click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
-#EXTVLCOPT:http-user-agent=vuminhthanh
 https://xem.hoiquan.click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 1 🔴
@@ -495,7 +483,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD (MyTV)
-http://113.177.113.7:4022/rtp/232.84.3.61:11686
+http://14.176.128.35:12343/rtp/232.84.3.61:11686
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts--#
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth HD
