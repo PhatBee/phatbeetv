@@ -166,20 +166,20 @@ https://xem.hoiquan.click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3
 
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE%20HD.png",K+ Cine HD
-http://14.176.128.35:12343/rtp/232.84.1.122:10314 
+http://113.177.113.7:4022/rtp/232.84.1.122:10314 
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action HD
-http://14.176.128.35:12343/rtp/232.84.1.33:8172
+http://113.177.113.7:4022/rtp/232.84.1.33:8172
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
-http://14.176.128.35:12343/rtp/232.84.1.37:8196
+http://113.177.113.7:4022/rtp/232.84.1.37:8196
 
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%202%20HD.png",K+ Sport 2 HD
 #--http://113.177.113.7:4022/rtp/232.84.1.34:8178--#
-http://14.176.128.35:12343/rtp/232.84.1.176:10374
+http://113.177.113.7:4022/rtp/232.84.1.176:10374
 
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS%20HD.png",K+ Kids HD
-http://14.176.128.35:12343/rtp/232.84.3.42:11800
+http://113.177.113.7:4022/rtp/232.84.3.42:11800
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
