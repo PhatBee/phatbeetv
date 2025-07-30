@@ -1,1 +1,1 @@
-Nguồn logo lấy từ ntdiptv
+Nguồn lấy từ ntdiptv, hanoiiptv, hoantp
