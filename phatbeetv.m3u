@@ -307,35 +307,23 @@ http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.postimg.cc/PxdJR3mH/z6780816311701-9ee278d9b353fd32bb6528fa7a729cd0-removebg-preview.png", Nino Channel 2
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
 
-#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV
+#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png" group-title="SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2
+#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png" group-title="SPOTV",SPOTV2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV - MyTV
+#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png" group-title="SPOTV",SPOTV - MyTV
 http://113.177.113.7:4022/rtp/232.84.2.141:10666
 
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2 - MyTV
+#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png" group-title="SPOTV",SPOTV2 - MyTV
 http://113.177.113.7:4022/rtp/232.84.2.142:10672
-
-#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV - MyTV - 2
-http://113.177.113.7:4022/rtp/232.84.3.111:10666
-
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2 - MyTV - 2
-http://113.177.113.7:4022/rtp/232.84.3.129:10672
-
-#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg" group-title="SPOTV",SPOTV - MyTV - Original
-http://113.177.113.7:4022/rtp/232.84.3.49:11758
-
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg" group-title="SPOTV",SPOTV2 - MyTV - Original
-http://113.177.113.7:4022/rtp/232.84.3.48:11764
 
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg", Box Movie 1 HD
