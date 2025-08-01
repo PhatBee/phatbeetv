@@ -274,6 +274,15 @@ https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="", Football
 http://14.182.202.62:8989/rtp/232.84.3.243:11380
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B1.png", TV360+1
+https://sgchill.io.vn/v1/b521/2554/index.m3u8
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B2.png", TV360+2
+https://sgchill.io.vn/v1/b521/1/index.m3u8
+
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B3.png", TV360+3
+https://sgchill.io.vn/v1/b521/148/index.m3u8
+
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B4.png", TV360+4
 https://sgchill.io.vn/v1/b521/2458/index.m3u8
 
