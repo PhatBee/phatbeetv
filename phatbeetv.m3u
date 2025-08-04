@@ -612,7 +612,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="9396" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV HD
+#EXTINF:-1 tvg-id="9396" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/BabyTv.png", BabyTV HD
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD
