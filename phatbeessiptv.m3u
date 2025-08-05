@@ -1,0 +1,410 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="VTV",VTV1 HD
+http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VTV",VTV2 HD
+https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VTV",VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",VTV4 HD
+http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTV",VTV5 HD
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57",VTV5 Tây Nam Bộ HD
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57",VTV5 Tây Nguyên HD
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",VTV Cần Thơ HD
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",VTV8 HD
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",VTV9 HD
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Vie Giải trí HD
+https://xem.hoiquan.click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Phim Việt HD
+https://xem.hoiquan.click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Sports HD
+http://113.177.113.7:4022/rtp/232.84.3.242:11374|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="avi" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On Movies HD
+https://xem.hoiquan.click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON E- Channel HD
+https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Sports+ HD
+http://113.177.113.7:4022/rtp/232.84.3.75:11602|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On O2TV HD
+https://xem.hoiquan.click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On BiBi HD
+https://xem.hoiquan.click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Info HD
+https://xem.hoiquan.click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Cine HD
+https://xem.hoiquan.click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Style HD
+https://xem.hoiquan.click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab",ON Home Shopping HD
+https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On Music HD
+https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Football HD
+http://113.177.113.7:4022/rtp/232.84.3.243:11380|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON TRENDING TV HD
+https://xem.hoiquan.click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON Sports News HD
+http://113.177.113.7:4022/rtp/232.84.2.193:10942|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Dalvik/2.1.0",ON Vie Dramas HD
+https://xem.hoiquan.click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ON V Family HD
+https://xem.hoiquan.click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On Kids HD
+https://xem.hoiquan.click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On Life HD
+https://xem.hoiquan.click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="VTVcab" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",On Golf HD
+https://xem.hoiquan.click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Cine HD
+http://113.177.113.7:4022/rtp/232.84.1.122:10314
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Action HD
+http://113.177.113.7:4022/rtp/232.84.1.33:8172
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Sport 1 HD
+http://113.177.113.7:4022/rtp/232.84.1.37:8196
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Sport 2 HD
+http://113.177.113.7:4022/rtp/232.84.1.176:10374
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Kids HD
+http://113.177.113.7:4022/rtp/232.84.3.42:11800
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Cine
+http://113.177.113.7:4022/rtp/232.84.1.96:8550
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Action
+http://113.177.113.7:4022/rtp/232.84.1.97:8556
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Sport 1
+http://113.177.113.7:4022/rtp/232.84.1.98:8562
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Sport 2
+http://113.177.113.7:4022/rtp/232.84.1.131:10368
+#EXTINF:0 tvg-id="ext" group-title="K+ Test",K+ Kids
+http://113.177.113.7:4022/rtp/232.84.3.43:11794
+
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV1 HD
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV2 HD - TODAY TV
+https://liveh12.seenow.vn/hls/SCTV2/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV3 - SEE TV
+https://liveh12.seenow.vn/hls/SCTV3/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV4 HD
+https://liveh12.seenow.vn/hls/SCTV4/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV",SCTV6 HD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV7 HD
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV8
+https://liveh12.seenow.vn/hls/SCTV8/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",SCTV9 HD
+https://livecdn.seenow.vn/mean/SCTV9/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV11 HD
+https://liveh12.seenow.vn/hls/SCTV11/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV12 HD
+https://liveh12.seenow.vn/hls/SCTV12/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV13 HD
+https://liveh12.seenow.vn/hls/SCTV13/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV14 HD
+https://liveh12.seenow.vn/hls/SCTV14/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV18 HD
+https://liveh12.seenow.vn/hls/SCTV18/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",SCTV Phim Tổng Hợp HD
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="SCTV",SCTV4K
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+1
+https://sgchill.io.vn/v1/b521/2554/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+2
+https://sgchill.io.vn/v1/b521/1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+3
+https://sgchill.io.vn/v1/b521/148/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+4
+https://sgchill.io.vn/v1/b521/2458/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+5
+https://sgchill.io.vn/v1/b521/9867/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+6
+https://sgchill.io.vn/v1/b521/9868/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+7
+https://sgchill.io.vn/v1/b521/9869/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+8
+https://sgchill.io.vn/v1/b521/9870/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",TV360+9
+https://sgchill.io.vn/v1/b521/9887/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV360",Mê Kông
+https://263.org.vn/MeKong
+#EXTINF:0 tvg-id="ext" group-title="TV360",Phim Âu Mỹ
+https://263.org.vn/PhimAuMy
+
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 1 🔴
+https://rg.hducanh.site/live1
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 2 🔴
+https://rg.hducanh.site/live2
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 3 🔴
+https://rg.hducanh.site/live3
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 4 🔴
+https://rg.hducanh.site/live4
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 5 🔴
+https://rg.hducanh.site/live5
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 6 🔴
+https://rg.hducanh.site/live6
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 7 🔴
+https://rg.hducanh.site/live7
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Hoangducanh Live 8 🔴
+https://rg.hducanh.site/live8
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Nino Channel 1
+http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",Nino Channel 2
+http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",ONi1
+https://proxy.liyao.space/1.org.vn/oni1/?/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sự kiện",ONi3
+https://proxy.liyao.space/1.org.vn/oni3/?/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPOTV" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",SPOTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:0 tvg-id="ext" group-title="SPOTV" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",SPOTV2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:0 tvg-id="ext" group-title="SPOTV",SPOTV - MyTV
+http://113.177.113.7:4022/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="ext" group-title="SPOTV",SPOTV2 - MyTV
+http://113.177.113.7:4022/rtp/232.84.2.142:10672
+
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="Dalvik/2.1.0",Box Movie 1 HD
+https://xem.hoiquan.click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent=""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"",Hollywood Classics HD
+https://xem.hoiquan.click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",In The Box HD
+https://xem.hoiquan.click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent=""Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"",Box Hits HD
+https://xem.hoiquan.click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8|User-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="Dalvik/2.1.0",Man HD
+https://xem.hoiquan.click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="musicbox" group-title="In The Box" user-agent="Dalvik/2.1.0",Music Box HD
+https://xem.hoiquan.click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="Dalvik/2.1.0",Dr.Fit HD
+https://xem.hoiquan.click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3",Happy Kids HD
+https://xem.hoiquan.click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 tvg-id="ext" group-title="In The Box" user-agent="Dalvik/2.1.0",Planet Earth HD
+https://xem.hoiquan.click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="Woman.svn" group-title="In The Box" user-agent="Dalvik/2.1.0",Woman HD
+https://xem.hoiquan.click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Dalvik/2.1.0
+
+#EXTINF:0 tvg-id="HRTTV1.hr" group-title="HTV",HTV1
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTV2 HD - Vie Channel
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTV" user-agent="Dalvik/2.1.0",HTV3
+https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="HTV",HTV Keys HD
+https://sgchill.io.vn/v1/b521/9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTV7 HD
+https://vc.101vn.com/htv/htvcmb.php?id=256|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTV" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTV Thể Thao HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Thuần Việt HD
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Gia đình HD
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Phụ nữ HD
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Du lịch Cuộc sống HD
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Ca nhạc HD
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Phim HD
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="HTVC" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",HTVC Plus HD
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:0 tvg-id="HBOEast.us" group-title="HBO" user-agent="Dalvik/2.1.0",HBO
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="HBO" user-agent="Dalvik/2.1.0",Cinemax HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",AXN HD
+https://tv.ddns.vn/tv/axnhd/index.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="WarnerTV.pl" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",Warner TV HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",Cinema World HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="animal-hd" group-title="Quốc Tế",Animal Planet HD
+https://hls.mskycdn.online/tv/animalhd/index.m3u8
+#EXTINF:0 tvg-id="BBCEarth.tr" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",BBC Earth HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",BBC Lifestyle HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="bbc-world" group-title="Quốc Tế",BBC World News HD
+https://i.mjh.nz/.r/bbc-news.m3u8
+#EXTINF:0 tvg-id="DMAX.it" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",DMAX HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",Discovery HD
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế" user-agent="Dalvik/2.1.0",Discovery Asia HD
+https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",KIX HD
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Quốc Tế",TLC HD
+https://1.org.vn/tlc
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",Asian Food Network HD
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="fashion" group-title="Quốc Tế",Fashion TV HD
+https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",KBS World HD
+https://xem.hoiquan.click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="outdoor-hd" group-title="Quốc Tế",Outdoor Channel HD
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Quốc Tế",History HD
+https://xem.hoiquan.click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="dwelle" group-title="Quốc Tế",DW HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",ABC Australia HD
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế",Bloomberg HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306610.ts
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế",CNN HD
+https://hls.mskycdn.online/tv/cnn/index.m3u8
+#EXTINF:0 tvg-id="france24" group-title="Quốc Tế",France 24 HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/192306.ts
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",NHK World Japan HD
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",TV5Monde Asie HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế",CNBC
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162533.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Thiếu Nhi" user-agent="Dalvik/2.1.0",BBC Cbeebies HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="DaVinciLearning.pl" group-title="Quốc Tế - Thiếu Nhi" user-agent="VThanhTivi",Da Vinci HD
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="cartoon" group-title="Quốc Tế - Thiếu Nhi" user-agent="Dalvik/2.1.0",Cartoon Network HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Thiếu Nhi",BabyTV HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="Quốc Tế - Thiếu Nhi" user-agent="Dalvik/2.1.0",Dreamworks HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Quốc Tế - Thiếu Nhi",Boomerang HD
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Thiếu Nhi",Animax HD
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Quốc Tế - Khác",Al Jazeera English
+https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Quốc Tế - Khác",TRT World
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/11025.ts
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Khác" user-agent=""KIIP"",Rock Entertainment
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts|User-agent="KIIP"
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Khác" user-agent=""KIIP"",Rock Action
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298490.ts|User-agent="KIIP"
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Khác",Celestial Movies
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=683142&extension=ts&play_token=36m9d1cA2P
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Khác",Clubbingtv
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1829549&extension=ts&play_token=Pep5fALXEa
+#EXTINF:0 tvg-id="film-box" group-title="Quốc Tế - Khác",Filmbox
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1567844&extension=ts&play_token=CRxWHJe641
+#EXTINF:0 tvg-id="ext" group-title="Quốc Tế - Khác",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Thiết yếu" user-agent="VThanhTivi" timeshift="2",ANTV HD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Thiết yếu" user-agent="VThanhTivi" timeshift="2",QPVN HD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8|User-agent=VThanhTivi
+
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",BTV9 HD - An Viên TV
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",You TV
+https://sgchill.io.vn/v1/b521/31/index.m3u8
+#EXTINF:0 tvg-id="hitv" group-title="Địa phương",HiTV HD
+https://sgchill.io.vn/v1/b521/32/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ATV1 HD - Báo và PTTH An Giang
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Dalvik/2.1.0",ATV2 HD - Báo và PTTH An Giang
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ATV3 HD - Báo và PTTH An Giang
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",BTV -  Báo và PTTH Bắc Ninh
+https://xem.hoiquan.click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",BTV1 HD - Đài PTTH Bình Dương
+https://xem.hoiquan.click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",BTV2 HD - Đài PTTH Bình Dương
+https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Dalvik/2.1.0",CTV HD - Báo và PTTH Cà Mau
+https://tv.ctvcamau.vn/live/tv/tv.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Dalvik/2.1.0",THTPCT - Báo và PTTH Thành Phố Cần Thơ
+https://live.canthotv.vn/live/tv_web/playlist.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Dalvik/2.1.0",THTPCT - Báo và PTTH Thành Phố Cần Thơ
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8|User-agent=Dalvik/2.1.0
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",CRTV HD - Báo Cao Bằng
+https://xem.hoiquan.click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",ĐNRT1 - Báo và PTTH Đà Nẵng
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",ĐNRT2 - Báo và PTTH Đà Nẵng
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",DRT HD - Báo và PTTH Đắk Lắk
+https://xem.hoiquan.click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",ĐTV HD - Báo và PTTH Điện Biên
+https://xem.hoiquan.click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VMTTV",ĐNRTV1 - Báo và PTTH Đồng Nai
+https://xem.hoiquan.click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VMTTV
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VMTTV",ĐNRTV2 - Báo và PTTH Đồng Nai
+https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VMTTV
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",ĐNRTV3 - Báo và PTTH Đồng Nai
+https://1.org.vn/dongnai3|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="ANTmedia",THĐT1 HD - Báo và PTTH Đồng Tháp
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8|User-agent=ANTmedia
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",THĐT2 HD - Báo và PTTH Đồng Tháp
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",THĐT - Báo và PTTH Đồng Tháp
+https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",GTV - Báo và PTTH Gia Lai
+https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VMTTV",Hà Nội 1 HD - Đài Hà Nội
+https://xem.hoiquan.click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VMTTV
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VMTTV",Hà Nội 2 HD - Đài Hà Nội
+https://xem.hoiquan.click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VMTTV
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VMTTV",Hà Nội 2 UHD - Đài Hà Nội
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8|User-agent=VMTTV
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",BHTTV - Báo Hà Tĩnh
+https://xem.hoiquan.click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",THP HD - Báo và PTTH Hải Phòng
+https://xem.hoiquan.click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",THP+ HD - Báo và PTTH Hải Phòng
+https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",THP3 HD - Báo và PTTH Hải Phòng
+https://xem.hoiquan.click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",Huế TV - Báo và PTTH Huế
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",HYTV HD - Báo và PTTH Hưng Yên
+https://xem.hoiquan.click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="VThanhTivi",KTV HD - Báo và PTTH Khánh Hòa
+https://xem.hoiquan.click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8|User-agent=VThanhTivi
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",LTV - Báo Lai Châu
+https://xem.hoiquan.click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",LTV1 HD - Báo và PTTH Lâm Đồng
+https://xem.hoiquan.click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",LTV2 HD - Báo và PTTH Lâm Đồng
+https://xem.hoiquan.click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",LTV3 HD - Báo và PTTH Lâm Đồng
+https://xem.hoiquan.click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",LSTV HD - Báo và PTTH Lạng Sơn
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",THLC HD - Báo và PTTH Lào Cai
+https://xem.hoiquan.click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",NTV - Báo và PTTH Nghệ An
+https://xem.hoiquan.click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Địa phương",NBTV - Báo và PTTH Ninh Bình
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
