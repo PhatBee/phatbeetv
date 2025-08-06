@@ -728,12 +728,12 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://xem.hoiquan.click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #--https://live.canthotv.vn/live/tv_web/playlist.m3u8--#
 
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT2_CanTho", THTPCT2 | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT2_CanTho.png", THTPCT2 | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
-#EXTINF:-1 tvg-id="soctrang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho", THTPCT3 | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="soctrang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 | Đài PTTH Thành phố Cần Thơ
 https://sgchill.io.vn/v1/b522/stv1/index.m3u8
 #--https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8--#
 
