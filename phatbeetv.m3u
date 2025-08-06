@@ -707,8 +707,7 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250711/2025071118/aUnuN4tqI2-BTV-THUMBNAIL-KENHVTVgo-500x281.webp", BTV -  Báo và PTTH Bắc Ninh
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png", BTV | Báo và PTTH Bắc Ninh
 https://xem.hoiquan.click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/binhduong1.png", BTV1 HD - Đài PTTH Bình Dương
