@@ -771,7 +771,7 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png", THĐT - Báo và PTTH Đồng Tháp
 #--https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
-#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://gialaitv.vn/wp-content/themes/gialaitv/img/video1.png", GTV - Báo và PTTH Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/GTV_GiaLai.png", GTV HD | Báo và PTTH Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 
