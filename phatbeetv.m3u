@@ -710,11 +710,11 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png", BTV | Báo và PTTH Bắc Ninh
 https://xem.hoiquan.click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/binhduong1.png", BTV1 HD - Đài PTTH Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png", BTV1 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/binhduong2.png", BTV2 HD - Đài PTTH Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV2_BinhDuong.png", BTV2 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 
