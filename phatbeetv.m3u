@@ -718,7 +718,7 @@ https://xem.hoiquan.click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CTV_CaMau.png", CTV HD | Báo và PTTH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #--https://xem.hoiquan.click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8--#
