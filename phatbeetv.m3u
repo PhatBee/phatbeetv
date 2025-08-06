@@ -740,12 +740,10 @@ https://sgchill.io.vn/v1/b522/stv1/index.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CRTV_CaoBang.png", CRTV HD | Báo Cao Bằng
 https://xem.hoiquan.click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RTF9mH0WuG-DNRT1-THUMBNAIL-KENHVTVgo-500x281.webp", ĐNRT1 - Báo và PTTH Đà Nẵng
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png", ĐNRT1 HD | Báo và Đài PTTH Đà Nẵng
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/PmFxeTP8wZ-DNRT2-THUMBNAIL-KENHVTVgo-500x281.webp", ĐNRT2 - Báo và PTTH Đà Nẵng
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png", ĐNRT2 HD | Báo và Đài PTTH Đà Nẵng
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", DRT HD - Báo và PTTH Đắk Lắk
