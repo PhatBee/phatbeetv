@@ -752,17 +752,15 @@ https://xem.hoiquan.click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DTV_DienBien.png", ĐTV HD | Báo và PTTH Điện Biên
 https://xem.hoiquan.click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai1.png", ĐNRTV1 - Báo và PTTH Đồng Nai
-#EXTVLCOPT:http-user-agent=VMTTV
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV1_DongNai.png", ĐNNRTV1 HD | Báo và Đài PTTH Đồng Nai 
 https://xem.hoiquan.click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongnai2.png", ĐNRTV2 - Báo và PTTH Đồng Nai
-#EXTVLCOPT:http-user-agent=VMTTV
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV2_DongNai.png", ĐNNRTV2 HD | Báo và Đài PTTH Đồng Nai 
 https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.webp", ĐNRTV3 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://1.org.vn/dongnai3
+#--https://1.org.vn/dongnai3--#
 
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD - Báo và PTTH Đồng Tháp
 #EXTVLCOPT:http-user-agent=ANTmedia
