@@ -643,7 +643,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="89907" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Boomerang.png", Boomerang HD
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
 
-#EXTINF:-1 tvg-id="369848" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Animax.png", Animax HD
+#EXTINF:-1 tvg-id="369848" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Animax.png", Animax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
@@ -746,8 +746,7 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png", ĐNRT2 HD | Báo và Đài PTTH Đà Nẵng
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", DRT HD - Báo và PTTH Đắk Lắk
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DRT_DakLak.png", DRT HD | Báo và PTTH Đắk Lắk
 https://xem.hoiquan.click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dienbien.png", ĐTV HD - Báo và PTTH Điện Biên
