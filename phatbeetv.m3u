@@ -772,7 +772,6 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #--https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/GTV_GiaLai.png", GTV HD | Báo và PTTH Gia Lai
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png", H1 HD | Đài Hà Nội
@@ -784,8 +783,7 @@ https://xem.hoiquan.click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi_UHD.png", H2 UHD | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
-#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo Hà Tĩnh
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png", BHTTV HD | Báo Hà Tĩnh
 https://xem.hoiquan.click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png", THP HD - Báo và PTTH Hải Phòng 
