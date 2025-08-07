@@ -775,16 +775,13 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi1.png", Hà Nội 1 HD - Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png", H1 HD | Đài Hà Nội
 https://xem.hoiquan.click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi2.png", Hà Nội 2 HD - Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi.png", H2 HD | Đài Hà Nội
 https://xem.hoiquan.click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", Hà Nội 2 UHD - Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi_UHD.png", H2 UHD | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo Hà Tĩnh
