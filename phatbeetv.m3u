@@ -795,11 +795,11 @@ https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png", THP3 HD | Báo và PTTH Hải Phòng
 https://xem.hoiquan.click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png", Huế TV | Báo và PTTH Huế
+#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png", HueTV HD | Báo và PTTH Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/hungyen.png", HYTV HD - Báo và PTTH Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png", HY HD | Báo và PTTH Hưng Yên
 https://xem.hoiquan.click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
