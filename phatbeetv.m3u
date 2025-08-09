@@ -336,6 +336,8 @@ http://14.226.244.23:11111/rtp/232.84.2.195:10954
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.imgur.com/MvdzZwM.png", Event 134
 https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://i.imgur.com/MvdzZwM.png", Event 21
+https://live.fptplay53.net/fnxch1/thethao21_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://iptv.hoangducanh.site/logo.png", Hoangducanh Live 1 🔴
 https://rg.hducanh.site/live1
