@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=89907,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=412091,https://epg.pw/api/epg.xml?lang=en&channel_id=369727,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590,https://epg.pw/api/epg.xml?lang=en&channel_id=1298"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=412091,https://epg.pw/api/epg.xml?lang=en&channel_id=369727,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590,https://epg.pw/api/epg.xml?lang=en&channel_id=1298"
 #EXTM3U x-tvg-url="https://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -370,10 +370,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png" group-title="SPOTV", SPOTV | MyTV
+#EXTINF:-1 tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png" group-title="SPOTV", SPOTV (MyTV)
 http://113.177.113.7:4022/rtp/232.84.2.141:10666
 
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png" group-title="SPOTV", SPOTV2 | MyTV
+#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png" group-title="SPOTV", SPOTV2 (MyTV)
 http://113.177.113.7:4022/rtp/232.84.2.142:10672
 
 
@@ -487,12 +487,15 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD (MSky)
+https://hls.mskycdn.online/tv/hbohd/index.m3u8
 
 #EXTINF:-1 tvg-id="369795" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -500,6 +503,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="369795" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD (MSky)
+https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AXN.png", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -637,6 +643,9 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CartoonNetwork.png", Cartoon Network HD (MSky)
+https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+
 #EXTINF:-1 tvg-id="9396" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/BabyTv.png", BabyTV HD
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 
@@ -647,8 +656,12 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="89907" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Boomerang.png", Boomerang HD
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD (MSky)
+https://hls.mskycdn.online/tv/dreamworks/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartonnito.png", Cartoonito HD
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302023.ts
+#--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts--#
 
 #EXTINF:-1 tvg-id="369848" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Animax.png", Animax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
