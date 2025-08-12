@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=412091,https://epg.pw/api/epg.xml?lang=en&channel_id=369727,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590,https://epg.pw/api/epg.xml?lang=en&channel_id=1298"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590"
 #EXTM3U x-tvg-url="https://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -688,34 +688,6 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302023.ts
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
-https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/11025.ts
-#--http://sv.cvtv.xyz:81/trtw?token=live--#
-
-#EXTINF:0 tvg-id="412091" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
-#EXTVLCOPT:http-user-agent="KIIP"
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts
-
-#EXTINF:0 tvg-id="369727" group-title="Quốc Tế - Khác" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
-#EXTVLCOPT:http-user-agent="KIIP"
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298490.ts
-
-#EXTINF:0 tvg-id="1298" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế - Khác", Celestial Movies
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=683142&extension=ts&play_token=36m9d1cA2P
-
-#EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế - Khác", Clubbingtv
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1829549&extension=ts&play_token=Pep5fALXEa
-
-#EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế - Khác", Filmbox
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1567844&extension=ts&play_token=CRxWHJe641
-
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Khác" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s", Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/AnNinhTv.png", ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
@@ -726,12 +698,12 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-
-#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/YouTv.png", You TV
+#EXTINF:-1 tvg-id="youtv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/YouTv.png", You TV
 https://sgchill.io.vn/v1/b521/31/index.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HiTV.png", HiTV HD
+#EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HiTV.png", HiTV HD
 https://sgchill.io.vn/v1/b521/32/index.m3u8
+
 
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV1_AnGiang.png", ATV1 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
