@@ -1,1 +1,1 @@
-Nguồn lấy từ ntdiptv, hanoiiptv, hoantp
+Nguồn sưu tầm từ ntdiptv, hanoiiptv, hoantp
