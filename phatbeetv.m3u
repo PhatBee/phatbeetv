@@ -553,11 +553,13 @@ https://hls.mskycdn.online/tv/animalhd/index.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCEarth.png", BBC Earth HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
+https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+#--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts--#
 
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCLifeStyle.png", BBC Lifestyle HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
+https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
+#--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts--#
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCNews.png", BBC World News HD
 https://i.mjh.nz/.r/bbc-news.m3u8
