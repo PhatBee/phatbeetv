@@ -870,6 +870,9 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV1_TayNinh.png", TTV1 | Báo và PTTH Tây Ninh
 https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2_TayNinh.png", TTV2 | Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png", TTV2 | Báo và PTTH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png", TN | Báo và PTTH Thái Nguyên
+https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
