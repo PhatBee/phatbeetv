@@ -625,7 +625,8 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/192306.ts
 #--http://sv.cvtv.xyz:81/f24?token=live--#
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/NHKWorldJapan.png", NHK World Japan HD
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
+https://hls.mskycdn.online/tv/nhkworld/index.m3u8
+#--https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8--#
 #--https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8--#
 #--http://sv.cvtv.xyz:81/nhkw?token=live--#
 
