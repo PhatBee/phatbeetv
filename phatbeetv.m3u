@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590,https://epg.pw/api/epg.xml?lang=en&channel_id=448553,https://epg.pw/api/epg.xml?lang=en&channel_id=54963"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&channel_id=369848,https://epg.pw/api/epg.xml?lang=en&channel_id=9396,https://epg.pw/api/epg.xml?lang=en&channel_id=369795,https://epg.pw/api/epg.xml?lang=en&channel_id=12590,https://epg.pw/api/epg.xml?lang=en&channel_id=448553,https://epg.pw/api/epg.xml?lang=en&channel_id=54963,https://epg.pw/api/epg.xml?lang=en&channel_id=55773"
 #EXTM3U x-tvg-url="https://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -895,6 +895,9 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="448553" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2B.png" group-title="CANAL+", CANAL+
 https://1.org.vn/tbbEdc
+
+#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports1.png" group-title="beIN Sports", beIN Sports 1
+https://1.org.vn/IaoHqg
 
 #EXTINF:-1 tvg-id="54963" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports3.png" group-title="beIN Sports", beIN Sports 3
 https://1.org.vn/KgPveO
