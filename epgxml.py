@@ -13,7 +13,8 @@ urls = [
     'https://epg.pw/api/epg.xml?lang=en&channel_id=448553',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=54963',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=55773',
-    'https://epg.pw/api/epg.xml?lang=en&channel_id=450289'
+    'https://epg.pw/api/epg.xml?lang=en&channel_id=450289',
+    'https://epg.pw/api/epg.xml?lang=en&channel_id=369807'
 ]
 
 # Tạo root element <tv>
