@@ -5,7 +5,7 @@ name: Merge EPG Automatically
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '30 18 * * *'  # Chạy tự động hàng ngày cho mỗi 6 giờ
+    - cron: '0 18 * * *'  # Chạy tự động hàng ngày vào 01:00 (UTC+7)
   workflow_dispatch:  # Cho phép chạy thủ công từ GitHub UI
 
 permissions:
