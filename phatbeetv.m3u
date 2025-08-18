@@ -633,7 +633,7 @@ https://hls.mskycdn.online/tv/nhkworld/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cna.png", CNA
+#EXTINF:-1 tvg-id="369807" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cna.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cnbc.png", CNBC
