@@ -674,7 +674,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD (MSky)
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartonnito.png", Cartoonito HD
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302023.ts
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/8915.ts--#
 
@@ -904,3 +904,6 @@ https://1.org.vn/KgPveO
 
 #EXTINF:-1 tvg-id="450289" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsFootball.png" group-title="Sky Sports", Sky Sports Football
 https://1.org.vn/vWhwNu
+
+#EXTINF:-1 tvg-id="12453" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsPremierLeague.png" group-title="Sky Sports", Sky Sports Premier League
+https://1.org.vn/sKPEWk
