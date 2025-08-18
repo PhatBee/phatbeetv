@@ -765,8 +765,8 @@ https://xem.hoiquan.click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV2_DongNai.png", ĐNNRTV2 HD | Báo và Đài PTTH Đồng Nai 
 https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.webp", ĐNRTV3 - Báo và PTTH Đồng Nai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV3_DongNai.png", ĐNNRTV3 HD | Báo và Đài PTTH Đồng Nai 
+https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 #--https://1.org.vn/dongnai3--#
 
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png", THĐT1 HD | Báo và Đài PTTH Đồng Tháp
