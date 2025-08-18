@@ -772,7 +772,7 @@ https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png", THĐT1 HD | Báo và Đài PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT2_DongThap.png", THĐT2 Miền Tây HD | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT2_DongThap.png", THĐT2 Miền Tây HD | Báo và Đài PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png", THĐT - Báo và PTTH Đồng Tháp
