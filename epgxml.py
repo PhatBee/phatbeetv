@@ -7,7 +7,7 @@ import gzip
 urls = [
     # 'https://lichphatsong.xyz/schedule/epg.xml.gz',
     'https://vnepg.site/epg.xml',
-    'https://lichphatsong.xyz/schedule/detail?id=dmax',
+   # 'https://lichphatsong.xyz/schedule/detail?id=dmax',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=369848',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=9396',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=448553',
