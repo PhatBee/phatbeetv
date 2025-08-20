@@ -701,16 +701,16 @@ https://sgchill.io.vn/v1/b521/31/index.m3u8
 https://sgchill.io.vn/v1/b521/32/index.m3u8
 
 
-#EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV1_AnGiang.png", ATV1 HD | Báo và PTTH An Giang
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV1_AnGiang.png", ATV1 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV2_AnGiang.png", ATV2 HD | Báo và PTTH An Giang
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV2_AnGiang.png", ATV2 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #--https://xem.hoiquan.click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
-#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV3_AnGiang.png", ATV3 HD | Báo và PTTH An Giang
+#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV3_AnGiang.png", ATV3 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
@@ -730,17 +730,17 @@ https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #--https://xem.hoiquan.click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8--#
 
-#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT1_CanTho.png", THTPCT1 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT1_CanTho.png", THTPCT1 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #--https://live.canthotv.vn/live/tv_web/playlist.m3u8--#
 
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT2_CanTho.png", THTPCT2 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT2_CanTho.png", THTPCT2 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
-#EXTINF:-1 tvg-id="soctrang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
 https://sgchill.io.vn/v1/b522/stv1/index.m3u8
 #--https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8--#
 
@@ -769,13 +769,13 @@ https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 #--https://1.org.vn/dongnai3--#
 
-#EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png", THĐT1 HD | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png", THĐT1 HD | Báo và Đài PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT2_DongThap.png", THĐT2 Miền Tây HD | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT2_DongThap.png", THĐT2 Miền Tây HD | Báo và Đài PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png", THĐT - Báo và PTTH Đồng Tháp
+##EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png", THĐT - Báo và PTTH Đồng Tháp
 #--https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/GTV_GiaLai.png", GTV HD | Báo và PTTH Gia Lai
@@ -799,7 +799,7 @@ https://xem.hoiquan.click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP%2B_HaiPhong.png", THP+ HD | Báo và PTTH Hải Phòng
 https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png", THP3 HD | Báo và PTTH Hải Phòng
+#EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png", THP3 HD | Báo và PTTH Hải Phòng
 https://xem.hoiquan.click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png", HueTV HD | Báo và PTTH Huế
@@ -812,19 +812,19 @@ https://xem.hoiquan.click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png", KTV HD | Báo và PTTH Khánh Hòa
 https://xem.hoiquan.click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV1_KhanhHoa.png", KTV1 HD | Báo và PTTH Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV1_KhanhHoa.png", KTV1 HD | Báo và PTTH Khánh Hòa
 https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV_LaiChau.png", LTV HD | Báo và PTTH Lai Châu
 https://xem.hoiquan.click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV1_LamDong.png", LTV1 HD | Báo và PTTH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV1_LamDong.png", LTV1 HD | Báo và PTTH Lâm Đồng
 https://xem.hoiquan.click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV2_LamDong.png", LTV2 HD | Báo và PTTH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV2_LamDong.png", LTV2 HD | Báo và PTTH Lâm Đồng
 https://xem.hoiquan.click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV3_LamDong.png", LTV3 HD | Báo và PTTH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV3_LamDong.png", LTV3 HD | Báo và PTTH Lâm Đồng
 https://xem.hoiquan.click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LSTV_LangSon.png", LSTV HD | Báo và Đài PTTH Lạng Sơn
@@ -861,10 +861,10 @@ https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/STV_SonLa.png", STV HD | Báo và PTTH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV1_TayNinh.png", TTV1 HD | Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV1_TayNinh.png", TTV1 HD | Báo và PTTH Tây Ninh
 https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png", TTV2 HD | Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png", TTV2 HD | Báo và PTTH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
 
