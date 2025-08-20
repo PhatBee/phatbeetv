@@ -5,7 +5,7 @@ import gzip
 
 # Danh sách URL EPG của bạn
 urls = [
-    # 'https://lichphatsong.xyz/schedule/epg.xml.gz',
+    'https://lichphatsong.xyz/schedule/epg.xml.gz',
     'https://vnepg.site/epg.xml',
    # 'https://lichphatsong.xyz/schedule/detail?id=dmax',
     'https://epg.pw/api/epg.xml?lang=en&channel_id=369848',
