@@ -694,6 +694,9 @@ https://english-livebktx.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="one" group-title="Quốc Tế - Khác" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/One.png", One HD
 https://smart.pendy.dpdns.org/Smart.php?id=One
 
+#EXTINF:-1 tvg-id="wsport" group-title="Quốc Tế - Khác" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/W_Sport.png", Astro W-Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/AnNinhTv.png", ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
