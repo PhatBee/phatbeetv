@@ -605,6 +605,9 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HGTV.png", HGTV HD
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/History.png", History HD
 https://xem.hoiquan.click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/9856/index.m3u8--#
