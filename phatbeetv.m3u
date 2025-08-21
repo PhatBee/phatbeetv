@@ -520,6 +520,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD (MSky)
 https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 
+#EXTINF:-1 tvg-id="hbohits" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HBOHits.png", HBO Hits HD
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CinemaWorld.png", Cinema World HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
