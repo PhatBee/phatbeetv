@@ -957,10 +957,25 @@
     <desc>Flowers,Songs &amp; Rhymes,Songs &amp; Rhymes,Milky Way,Close Your Eyes,Twilight,Shooting Star.</desc>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="9396" start="20250823223000 +0000" stop="20250824000000 +0000">
+  <programme channel="9396" start="20250823223000 +0000" stop="20250823230000 +0000">
     <title lang="zh">Dreamy Nights</title>
     <desc>Good Night,Twilight,Shooting Star,Songs &amp; Rhymes,Ocean,Night Sky.</desc>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="9396" start="20250823230000 +0000" stop="20250823233000 +0000">
+    <title lang="zh">Dreamy Nights</title>
+    <desc>Sky,Night Sky,Flowers,Twilight,Shooting Star,Ocean.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="9396" start="20250823233000 +0000" stop="20250824000000 +0000">
+    <title lang="zh">Moon and Stars</title>
+    <desc>Ocean,Starry Nights,Magic Stars,Songs &amp; Rhymes,Moonlight,Good Night.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="9396" start="20250824000000 +0000" stop="20250825000000 +0000">
+    <title lang="zh">BabyTV's night time melodies</title>
+    <desc>Shooting Star,Songs &amp; Rhymes,Starry Nights,Ocean,Sleep Time,Twilight,Starry Nights,Night Sky.</desc>
+    <date>2025-08-24</date>
   </programme>
 <channel id="54963">
     <display-name lang="France">beIN SPORTS 3</display-name>
@@ -2296,101 +2311,6 @@
     <display-name lang="Russian Federation">Canal+ Foot [FR]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/05/07/20250507021410188865_14.png" />
   </channel>
-  <programme channel="430092" start="20250822005500 +0700" stop="20250822023700 +0700">
-    <title lang="zh">FC Bâle / Copenhague «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822023700 +0700" stop="20250822042000 +0700">
-    <title lang="zh">FK Bodø/Glimt / Sturm Graz «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822042000 +0700" stop="20250822060100 +0700">
-    <title lang="zh">Fenerbahçe / Benfica Lisbonne «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822060100 +0700" stop="20250822114700 +0700">
-    <title lang="zh">Fin des programmes</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822114700 +0700" stop="20250822115500 +0700">
-    <title lang="zh">Celtic Glasgow / Kairat Almaty «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822115500 +0700" stop="20250822133100 +0700">
-    <title lang="zh">Football: Qualifications pour la Ligue des champions</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822133100 +0700" stop="20250822133700 +0700">
-    <title lang="zh">FC Bâle / Copenhague «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822133700 +0700" stop="20250822151600 +0700">
-    <title lang="zh">Football: Qualifications pour la Ligue des champions</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822151600 +0700" stop="20250822152000 +0700">
-    <title lang="zh">FK Bodø/Glimt / Sturm Graz «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822152000 +0700" stop="20250822170000 +0700">
-    <title lang="zh">Football: Qualifications pour la Ligue des champions</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822170000 +0700" stop="20250822170200 +0700">
-    <title lang="zh">Fenerbahçe / Benfica Lisbonne «Qualifications pour la Ligue des champions – Barrage aller»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822170200 +0700" stop="20250822184400 +0700">
-    <title lang="zh">Football: Qualifications pour la Ligue des champions</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822184400 +0700" stop="20250822184500 +0700">
-    <title lang="zh">Aston Villa / Newcastle «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822184500 +0700" stop="20250822202600 +0700">
-    <title lang="zh">Aston Villa / Newcastle «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822202600 +0700" stop="20250822202700 +0700">
-    <title lang="zh">Nottingham Forest / Brentford «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822202700 +0700" stop="20250822220900 +0700">
-    <title lang="zh">Nottingham Forest / Brentford «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822220900 +0700" stop="20250822221000 +0700">
-    <title lang="zh">Chelsea / Crystal Palace «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822221000 +0700" stop="20250822235300 +0700">
-    <title lang="zh">Chelsea / Crystal Palace «Premier League – 1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
-  <programme channel="430092" start="20250822235300 +0700" stop="20250823000000 +0700">
-    <title lang="zh">Premier League Review «1re journée»</title>
-    <desc />
-    <date>2025-08-22</date>
-  </programme>
   <programme channel="430092" start="20250823005000 +0700" stop="20250823025200 +0700">
     <title lang="zh">⋗ West Ham / Chelsea «Premier League – 2e journée»</title>
     <desc />
@@ -2475,6 +2395,86 @@
     <title lang="zh">⋗ Arsenal / Leeds «Premier League – 2e journée»</title>
     <desc />
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="430092" start="20250824003800 +0700" stop="20250824012000 +0700">
+    <title lang="zh">⋗ Plateau sport</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824012000 +0700" stop="20250824033300 +0700">
+    <title lang="zh">⋗ FC Barcelone – Flamengo «Coupe intercontinentale U20 – Finale»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824033300 +0700" stop="20250824051700 +0700">
+    <title lang="zh">Football: Premier League</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824051700 +0700" stop="20250824070100 +0700">
+    <title lang="zh">Brentford – Aston Villa «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824070100 +0700" stop="20250824084300 +0700">
+    <title lang="zh">Bournemouth / Wolverhampton «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824084300 +0700" stop="20250824114800 +0700">
+    <title lang="zh">Fin des programmes</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824114800 +0700" stop="20250824133100 +0700">
+    <title lang="zh">Brentford / Aston Villa «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824133100 +0700" stop="20250824151400 +0700">
+    <title lang="zh">FC Barcelone / Flamengo «Coupe intercontinentale U20 – Finale»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824151400 +0700" stop="20250824165700 +0700">
+    <title lang="zh">Football: Premier League</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824165700 +0700" stop="20250824184000 +0700">
+    <title lang="zh">Football: Premier League</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824184000 +0700" stop="20250824185500 +0700">
+    <title lang="zh">⋗ Match of ze Day</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824185500 +0700" stop="20250824210000 +0700">
+    <title lang="zh">⋗ Everton / Brighton &amp; Hove Albion «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824210000 +0700" stop="20250824213000 +0700">
+    <title lang="zh">⋗ The Match</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824213000 +0700" stop="20250824232500 +0700">
+    <title lang="zh">⋗ Fulham / Manchester United «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824232500 +0700" stop="20250824232800 +0700">
+    <title lang="zh">⋗ The Match</title>
+    <desc />
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="430092" start="20250824232800 +0700" stop="20250825000000 +0700">
+    <title lang="zh">⋗ The Match</title>
+    <desc />
+    <date>2025-08-24</date>
   </programme>
 <channel id="381881">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp+HD</display-name>
@@ -2690,10 +2690,20 @@
     <desc>All the best reaction and talking points from the day's big games.</desc>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="381881" start="20250823210000 +0000" stop="20250824000000 +0000">
+  <programme channel="381881" start="20250823210000 +0000" stop="20250823230000 +0000">
     <title lang="zh">Live The Rugby Champs': ARG v NZ</title>
     <desc>Argentina battle New Zealand during round two of the 2025 Rugby Championship.</desc>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="381881" start="20250823230000 +0000" stop="20250824000000 +0000">
+    <title lang="zh">Sky Sports Catch-Up</title>
+    <desc>Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="381881" start="20250824000000 +0000" stop="20250825000000 +0000">
+    <title lang="zh">Sky Sports Catch-Up</title>
+    <desc>Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <date>2025-08-24</date>
   </programme>
 <channel id="403788">
     <display-name lang="US">Disney - Eastern Feed</display-name>
