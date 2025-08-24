@@ -957,10 +957,25 @@
     <desc>Sky,Good Night,Flowers,Ocean.</desc>
     <date>2025-08-25</date>
   </programme>
-  <programme channel="9396" start="20250825223000 +0000" stop="20250826000000 +0000">
+  <programme channel="9396" start="20250825223000 +0000" stop="20250825230000 +0000">
     <title lang="zh">Dreamy Nights</title>
     <desc>Magic Stars,Songs &amp; Rhymes,Sky,Flowers,Twilight.</desc>
     <date>2025-08-25</date>
+  </programme>
+  <programme channel="9396" start="20250825230000 +0000" stop="20250825233000 +0000">
+    <title lang="zh">Dreamy Nights</title>
+    <desc>Twilight,Shooting Star,Songs &amp; Rhymes,Songs &amp; Rhymes,River,Flowers.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="9396" start="20250825233000 +0000" stop="20250826000000 +0000">
+    <title lang="zh">Moon and Stars</title>
+    <desc>Magic Stars,Moonlight,Starry Nights,Songs &amp; Rhymes,Sleep Time,Shooting Star,Milky Way,Moonlight,Songs &amp; Rhymes.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="9396" start="20250826000000 +0000" stop="20250827000000 +0000">
+    <title lang="zh">BabyTV's night time melodies</title>
+    <desc>Shooting Star,Songs &amp; Rhymes,Starry Nights,Ocean,Sleep Time,Twilight,Starry Nights,Night Sky.</desc>
+    <date>2025-08-26</date>
   </programme>
 <channel id="54963">
     <display-name lang="France">beIN SPORTS 3</display-name>
@@ -2441,141 +2456,6 @@
     <display-name lang="Russian Federation">Canal+ Foot [FR]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/05/07/20250507021410188865_14.png" />
   </channel>
-  <programme channel="430092" start="20250824003800 +0700" stop="20250824004200 +0700">
-    <title lang="zh">⋗ Plateau sport</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824004200 +0700" stop="20250824004700 +0700">
-    <title lang="zh">⋗ Plateau sport</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824004700 +0700" stop="20250824012000 +0700">
-    <title lang="zh">Histoires de Premier League «Goodbye Goodison»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824012000 +0700" stop="20250824033300 +0700">
-    <title lang="zh">⋗ FC Barcelone / Flamengo «Coupe intercontinentale U20 – Finale»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824033300 +0700" stop="20250824033500 +0700">
-    <title lang="zh">Football: Premier League</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824033500 +0700" stop="20250824051700 +0700">
-    <title lang="zh">Burnley / Sunderland «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824051700 +0700" stop="20250824052100 +0700">
-    <title lang="zh">Brentford – Aston Villa «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824052100 +0700" stop="20250824070100 +0700">
-    <title lang="zh">Brentford / Aston Villa «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824070100 +0700" stop="20250824070600 +0700">
-    <title lang="zh">Bournemouth / Wolverhampton «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824070600 +0700" stop="20250824084300 +0700">
-    <title lang="zh">Bournemouth / Wolverhampton «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824084300 +0700" stop="20250824084800 +0700">
-    <title lang="zh">Fin des programmes</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824084800 +0700" stop="20250824114100 +0700">
-    <title lang="zh">Fin des programmes</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824114100 +0700" stop="20250824114800 +0700">
-    <title lang="zh">Brentford / Aston Villa «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824114800 +0700" stop="20250824132500 +0700">
-    <title lang="zh">Brentford / Aston Villa «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824132500 +0700" stop="20250824133100 +0700">
-    <title lang="zh">FC Barcelone / Flamengo «Coupe intercontinentale U20 – Finale»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824133100 +0700" stop="20250824151100 +0700">
-    <title lang="zh">FC Barcelone / Flamengo «Coupe intercontinentale U20 – Finale»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824151100 +0700" stop="20250824151400 +0700">
-    <title lang="zh">Burnley / Sunderland «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824151400 +0700" stop="20250824165600 +0700">
-    <title lang="zh">Football: Premier League</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824165600 +0700" stop="20250824165700 +0700">
-    <title lang="zh">Bournemouth / Wolverhampton «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824165700 +0700" stop="20250824184000 +0700">
-    <title lang="zh">Football: Premier League</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824184000 +0700" stop="20250824185500 +0700">
-    <title lang="zh">⋗ Match of ze Day</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824185500 +0700" stop="20250824210000 +0700">
-    <title lang="zh">⋗ Everton / Brighton &amp; Hove Albion «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824210000 +0700" stop="20250824213000 +0700">
-    <title lang="zh">⋗ The Match «Avant-match Fulham – Manchester United»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824213000 +0700" stop="20250824232500 +0700">
-    <title lang="zh">⋗ Fulham / Manchester United «Premier League – 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824232500 +0700" stop="20250824232800 +0700">
-    <title lang="zh">⋗ The Match «Débrief Fulham – Manchester United»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824232800 +0700" stop="20250824232900 +0700">
-    <title lang="zh">⋗ The Match</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
-  <programme channel="430092" start="20250824232900 +0700" stop="20250825000000 +0700">
-    <title lang="zh">⋗ The Match «Débrief 2e journée»</title>
-    <desc />
-    <date>2025-08-24</date>
-  </programme>
   <programme channel="430092" start="20250825002400 +0700" stop="20250825002600 +0700">
     <title lang="zh">Manchester City / Tottenham «Premier League – 2e journée»</title>
     <desc />
@@ -2646,8 +2526,18 @@
     <desc />
     <date>2025-08-25</date>
   </programme>
-  <programme channel="430092" start="20250825172500 +0700" stop="20250826000000 +0700">
+  <programme channel="430092" start="20250825172500 +0700" stop="20250825191100 +0700">
     <title lang="zh">FC Barcelone / Flamengo «Coupe intercontinentale U20 – Finale»</title>
+    <desc />
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="430092" start="20250825191100 +0700" stop="20250825205600 +0700">
+    <title lang="zh">Arsenal / Leeds «Premier League – 2e journée»</title>
+    <desc />
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="430092" start="20250825205600 +0700" stop="20250826000000 +0700">
+    <title lang="zh">Manchester City / Tottenham «Premier League – 2e journée»</title>
     <desc />
     <date>2025-08-25</date>
   </programme>
@@ -2795,9 +2685,14 @@
     <desc>A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
     <date>2025-08-25</date>
   </programme>
-  <programme channel="381881" start="20250825143000 +0000" stop="20250826000000 +0000">
+  <programme channel="381881" start="20250825143000 +0000" stop="20250825230000 +0000">
     <title lang="zh">Live US Open</title>
     <desc>Day two of the 2025 US Open in New York City - the final Grand Slam of the year. Aryna Sabalenka reigns as women's champion, while Jannik Sinner holds the men's singles crown.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="381881" start="20250825230000 +0000" stop="20250826000000 +0000">
+    <title lang="zh">Live US Open</title>
+    <desc>On day two of the 2025 US Open, night descends with the opening game of the evening in New York City.</desc>
     <date>2025-08-25</date>
   </programme>
 <channel id="403788">
