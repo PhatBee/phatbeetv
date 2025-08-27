@@ -959,55 +959,6 @@ https://1.org.vn/eOlFgo
 #EXTINF:-1 tvg-id="212145" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsTennis.png" group-title="UK: Sky Sports", Sky Sports Tennis
 https://1.org.vn/JcDOnX
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsPlus.png" group-title="UK: TNT Sports", TNT Sports 1#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV_ThanhHoa.png", TTV HD | Báo và Đài PTTH Thanh Hóa
-https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV_TuyenQuang.png", TTV HD | Báo và Đài PTTH Tuyên Quang
-https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL1_VinhLong.png", THVL1 HD | Báo và Đài PTTH Vĩnh Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL2_VinhLong.png", THVL2 HD | Báo và Đài PTTH Vĩnh Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL3_VinhLong.png", THVL3 HD | Báo và Đài PTTH Vĩnh Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png", THVL4 HD | Báo và Đài PTTH Vĩnh Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png", BRT HD | Đài PTTH Bà Rịa Vũng Tàu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="448553" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2B.png" group-title="CANAL+", CANAL+
-https://1.org.vn/tbbEdc
-
-#EXTINF:-1 tvg-id="430092" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2BFoot.png" group-title="CANAL+", CANAL+ FOOT
-https://1.org.vn/nEeDuL
-
-#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports1.png" group-title="beIN Sports", beIN Sports 1
-https://1.org.vn/IaoHqg
-
-#EXTINF:-1 tvg-id="54963" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports3.png" group-title="beIN Sports", beIN Sports 3
-https://1.org.vn/KgPveO
-
-#EXTINF:-1 tvg-id="381881" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsPlus.png" group-title="UK: Sky Sports", Sky Sports+
-https://1.org.vn/lhIdWX
-
-#EXTINF:-1 tvg-id="450289" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsFootball.png" group-title="UK: Sky Sports", Sky Sports Football
-https://1.org.vn/vWhwNu
-
-#EXTINF:-1 tvg-id="12453" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsPremierLeague.png" group-title="UK: Sky Sports", Sky Sports Premier League
-https://1.org.vn/eOlFgo
-
-#EXTINF:-1 tvg-id="212145" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/Sky%20Sports/SkySportsTennis.png" group-title="UK: Sky Sports", Sky Sports Tennis
-https://1.org.vn/JcDOnX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="UK: TNT Sports", TNT Sports 1
 https://1.org.vn/ucqtYR
