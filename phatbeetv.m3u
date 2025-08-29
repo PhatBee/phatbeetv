@@ -386,10 +386,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV1.png" group-title="SPOTV", SPOTV (MyTV)
-http://113.177.113.7:4022/rtp/232.84.2.141:10666
+http://luizkun.duckdns.org:63213/rtp/232.84.2.141:10666
+#--http://113.177.113.7:4022/rtp/232.84.2.141:10666--#
 
 #EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SPOTV/SPOTV2.png" group-title="SPOTV", SPOTV2 (MyTV)
-http://113.177.113.7:4022/rtp/232.84.2.142:10672
+http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
+#--http://113.177.113.7:4022/rtp/232.84.2.142:10672--#
 
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png", Box Movie 1 HD
