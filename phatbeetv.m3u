@@ -192,7 +192,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 #http://113.177.113.7:4022/rtp/232.84.1.176:10374
 
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS%20HD.png",K+ Kids HD
-http://113.177.113.7:4022/rtp/232.84.3.42:11800
+http://113.172.29.170:10101/rtp/232.84.3.42:11800
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
