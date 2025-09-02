@@ -333,6 +333,10 @@ https://263.org.vn/MeKong
 #EXTINF:-1 group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/PhimAuMy.png", Phim Âu Mỹ
 https://263.org.vn/PhimAuMy
 
+#EXTINF:-1 tvg-id="" group-title="Sự kiện" tvg-logo="", Sự kiện
+https://zva42xy9rlliv.vcdn.cloud/eventa80/eventa80.m3u8
+
+
 #EXTINF:-1 tvg-id="mytv804" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/804.png", Event 804 | Giải trí tổng hợp
 http://113.177.113.7:4022/rtp/232.84.2.196:10960
 #http://14.226.244.23:11111/rtp/232.84.2.196:10960
