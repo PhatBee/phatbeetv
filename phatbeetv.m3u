@@ -783,8 +783,8 @@ https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
-https://sgchill.io.vn/v1/b522/stv1/index.m3u8
-#--https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8--#
+#https://sgchill.io.vn/v1/b522/stv1/index.m3u8
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CRTV_CaoBang.png", CRTV HD | Báo Cao Bằng
 https://xem.hoiquan.click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
