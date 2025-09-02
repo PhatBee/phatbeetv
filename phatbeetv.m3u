@@ -828,8 +828,7 @@ https://xem.hoiquan.click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi_UHD.png", H2 UHD | Đài Hà Nội
-http://42.113.21.106:9000/udp/225.1.1.109:30120
-#https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png", BHTTV HD | Báo Hà Tĩnh
 https://xem.hoiquan.click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
