@@ -783,8 +783,8 @@ https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
-#https://sgchill.io.vn/v1/b522/stv1/index.m3u8
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+https://sgchill.io.vn/v1/b521/84/index.m3u8
+#https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CRTV_CaoBang.png", CRTV HD | Báo Cao Bằng
 https://xem.hoiquan.click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
@@ -934,6 +934,10 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL4_VinhLong.png", THVL4 HD | Báo và Đài PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/91/index.m3u8
 
 #EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png", BRT HD | Đài PTTH Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
