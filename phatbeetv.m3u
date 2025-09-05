@@ -772,17 +772,17 @@ https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #--https://xem.hoiquan.click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8--#
 
-#EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT1_CanTho.png", THTPCT1 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho1.png", Cần Thơ 1 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #--https://live.canthotv.vn/live/tv_web/playlist.m3u8--#
 
-#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT2_CanTho.png", THTPCT2 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho2.png", Cần Thơ 2 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
-#EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THTPCT3_CanTho.png", THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho3.png", Cần Thơ 3 HD | Đài PTTH Thành phố Cần Thơ
 https://sgchill.io.vn/v1/b521/84/index.m3u8
 #https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
@@ -935,7 +935,7 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD | Báo và Đài PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/v1/b521/91/index.m3u8
 
