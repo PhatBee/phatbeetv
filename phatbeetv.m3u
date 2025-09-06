@@ -337,6 +337,9 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 tvg-id="mytv802" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/802.png", Event 802 | Phim truyện
 http://luizkun.duckdns.org:63213/rtp/232.84.2.176:10864
 
+#EXTINF:-1 tvg-id="mytv803" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/803.png", Event 803 | Âm nhạc
+http://luizkun.duckdns.org:63213/rtp/232.84.2.195:10954
+
 #EXTINF:-1 tvg-id="mytv804" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/804.png", Event 804 | Giải trí tổng hợp
 http://luizkun.duckdns.org:63213/rtp/232.84.2.196:10960
 #http://113.177.113.7:4022/rtp/232.84.2.196:10960
