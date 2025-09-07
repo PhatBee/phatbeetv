@@ -699,8 +699,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD (MSky)
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 
-#EXTINF:-1 tvg-id="403576" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Boomerang.png", Boomerang HD
-https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
+http://42.113.21.106:9000/udp/225.1.1.138:30120
+#https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
 #--http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302023.ts--#
