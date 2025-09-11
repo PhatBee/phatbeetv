@@ -69,6 +69,21 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3Z4NKK7BXV4SDQlxDbmAEU/ts
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV - FPT" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/VietnamToday.png", Vietnam Today (HD 8Mbps)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBxlLn3VrOI6PcRbQNWsR58A/ts
 
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png",VTV1 (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBwMVgk3zKYD4TjGiKdEp77A/ts
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV2.png",VTV2 (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6WpQWCymttJjfy5fyCZMjI/ts
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV3.png",VTV3 (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB09pF6DOkVbG3thQU8fWpW4/ts
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV4.png",VTV4 (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3DP32Bet-SmgVw4Mfoj8ag/ts
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5.png",VTV5 (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB909f_aqnQ2APdOSHPNDcWE/ts
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8sx0Qm66q5LBoiax4Uhlt4/ts
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV - MyTV" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5%20T%C3%A2y%20Nguy%C3%AAn.png",VTV5 Tây Nguyên (HD 8.5Mbps)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6ZIFGrnIzFXzNnyk27itwQ/ts
+
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
