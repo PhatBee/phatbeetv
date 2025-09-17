@@ -114,6 +114,12 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ms_yseMvBK3tSOMTqfjgE/ts
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/115/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV9.png",VTV9 HD
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/8/index.m3u8
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnPhimViet.png", ON Phim Việt HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMovies.png", On Movies HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
