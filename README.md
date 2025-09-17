@@ -4,6 +4,7 @@ Nguồn sưu tầm từ
 - hoantp: https://github.com/hoantp
 - Abdou SAT: https://www.facebook.com/profile.php?id=61557160161117
 - alexdang86: https://7pal.short.gy
+- vuminhthanh: https://github.com/vuminhthanh12
 
 Nguồn epg từ
 - Bảo Chính: https://lichphatsong.xyz
