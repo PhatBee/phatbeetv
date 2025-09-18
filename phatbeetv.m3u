@@ -122,7 +122,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMovies.png", On Movies HD
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
-
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnEChannel.png", ON E- Channel HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
