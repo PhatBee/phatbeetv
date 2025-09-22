@@ -14,6 +14,9 @@
 
 #EXTINF:-1 tvg-id="" group-title="Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/2560px-Premier_League_Logo.svg.png", 
 
+#EXTINF:-1 tvg-id="" group-title="Ligue 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_Ligue_1_McDonald%27s_2024.svg/1143px-Logo_Ligue_1_McDonald%27s_2024.svg.png", Olympique de Marseille - Paris Saint-Germain (23/9 - 1:00)
+https://bom.so/Bein-Sports-1-USA
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
