@@ -149,6 +149,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnCine.png", ON Cine HD
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnStyleTv.png", ON Style HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
