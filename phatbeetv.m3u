@@ -158,6 +158,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts
+#EXTINF:0 tvg-id="ontrending" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png", ON TRENDING TV HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
