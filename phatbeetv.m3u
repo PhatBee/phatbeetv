@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
 
 #EXTINF:-1 tvg-id="" group-title="AFC Champions League Two" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png", CLB Bắc Kinh - CLB Công An Hà Nội (18/9 - 19:45)
-#https://1.org.vn/DFXcaf
+
 #EXTINF:-1 tvg-id="" group-title="UEFA Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png", FC Copenhagen - Bayer Leverkusen (18/9 - 23:45)
 
 #EXTINF:-1 tvg-id="" group-title="UEFA Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png", Eintracht Frankfurt - Galatasaray (19/9 - 2:00)
@@ -15,7 +15,6 @@
 #EXTINF:-1 tvg-id="" group-title="Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/2560px-Premier_League_Logo.svg.png", 
 
 #EXTINF:-1 tvg-id="" group-title="Ligue 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_Ligue_1_McDonald%27s_2024.svg/1143px-Logo_Ligue_1_McDonald%27s_2024.svg.png", Olympique de Marseille - Paris Saint-Germain (23/9 - 1:00)
-https://bom.so/Bein-Sports-1-USA
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -160,6 +159,12 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png", ON TRENDING TV HD
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png", ON Sports News HD
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieDramas.png", ON Vie Dramas HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
+#EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVFamily.png", ON V Family HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
