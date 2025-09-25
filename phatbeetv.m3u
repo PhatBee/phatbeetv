@@ -165,6 +165,8 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVFamily.png", ON V Family HD
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
+#EXTINF:-1 tvg-id="onkids" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnKids.png", On Kids HD
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
