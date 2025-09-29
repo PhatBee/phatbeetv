@@ -657,8 +657,9 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD (MSky)
-https://hls.mskycdn.online/tv/hbohd/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD
+http://luizkun.duckdns.org:63213/rtp/232.84.2.138:10648
+#https://hls.mskycdn.online/tv/hbohd/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -667,8 +668,9 @@ https://hls.mskycdn.online/tv/hbohd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD (MSky)
-https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD
+http://luizkun.duckdns.org:63213/rtp/232.84.3.117:10654
+#https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohits" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HBOHits.png", HBO Hits HD
 https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
@@ -696,11 +698,13 @@ https://tv.ddns.vn/tv/axnhd/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/FashionTV.png", Fashion TV HD
-https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.2.52:10522
+#https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #--https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8--#
 
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AnimalPlanet.png", Animal Planet HD
-https://hls.mskycdn.online/tv/animalhd/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.61:11686
+#https://hls.mskycdn.online/tv/animalhd/index.m3u8
 #--https://tv.ddns.vn/tv/animalhd/index.m3u8--#
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts--#
 
@@ -716,29 +720,34 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DiscoveryAsia.png", Discovery Asia HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.219:11236
+#https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/197968.ts--#
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCEarth.png", BBC Earth HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.226:11278
+#https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts--#
 
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCLifeStyle.png", BBC Lifestyle HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.225:11272
+#https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts--#
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCNews.png", BBC World News HD
 https://i.mjh.nz/.r/bbc-news.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CNN.png", CNN HD
-https://hls.mskycdn.online/tv/cnn/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.153:10690
+#https://hls.mskycdn.online/tv/cnn/index.m3u8
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/480.ts--#
 #--http://sv.cvtv.xyz:81/cnn?token=live--#
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/ABCAustralia.png", ABC Australia HD
-https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.2.244:10482
+#https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #--http://49.0.64.96:8007/ABC--#
 
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Bloomberg.png", Bloomberg HD
@@ -777,7 +786,8 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #--http://sv.cvtv.xyz:81/cnbc?token=live--#
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/NHKWorldJapan.png", NHK World Japan HD
-https://hls.mskycdn.online/tv/nhkworld/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.1.72:8406
+#https://hls.mskycdn.online/tv/nhkworld/index.m3u8
 #--https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8--#
 #--https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8--#
 #--http://sv.cvtv.xyz:81/nhkw?token=live--#
@@ -820,7 +830,8 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CartoonNetwork.png", Cartoon Network HD (MSky)
-https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.2.144:10684
+#https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 
 #EXTINF:-1 tvg-id="9396" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/BabyTv.png", BabyTV HD
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/64399.ts--#
@@ -833,11 +844,12 @@ https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD (MSky)
-https://hls.mskycdn.online/tv/dreamworks/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.3.227:11284
+#https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
-http://42.113.21.106:9000/udp/225.1.1.138:30120
-#https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
+#http://42.113.21.106:9000/udp/225.1.1.138:30120
+https://fl5.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
 #--http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302023.ts--#
