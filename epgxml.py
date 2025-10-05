@@ -7,6 +7,8 @@ import gzip
 urls = [
    # 'https://lichphatsong.xyz/schedule/epg.xml.gz',
     'https://vnepg.site/epg.xml',
+    'https://live.qphim.xyz/epg.xml',
+    'http://onnaonlinetv.xyz/epg.xml',
     'https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&channel_id=369848', #Animax
     'https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&channel_id=9396', #BabyTV
     'https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&channel_id=448553',
