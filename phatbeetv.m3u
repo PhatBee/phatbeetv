@@ -314,7 +314,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LZ0kyurqQvi0TkE/4E8OXA","kid":"Iqmppj0nRt+fkMGExZYQWg"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
 
