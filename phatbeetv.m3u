@@ -339,7 +339,11 @@ http://113.177.113.7:4022/rtp/232.84.1.97:8556
 http://luizkun.duckdns.org:63213/rtp/232.84.1.98:8562
 
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/K%2BSPORT%202.png",K+ Sport 2
-http://113.177.113.7:4022/rtp/232.84.1.131:10368
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LZ0kyurqQvi0TkE/4E8OXA","kid":"Iqmppj0nRt+fkMGExZYQWg"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/mean/KSPORT2/manifest.mpd
+#http://113.177.113.7:4022/rtp/232.84.1.131:10368
 
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS.png",K+ Kids
 http://luizkun.duckdns.org:63213/rtp/232.84.3.43:11794
