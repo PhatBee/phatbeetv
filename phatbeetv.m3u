@@ -314,7 +314,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
 
@@ -335,7 +335,7 @@ http://113.177.113.7:4022/rtp/232.84.1.96:8550
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/K_LIFE_7777/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
@@ -345,7 +345,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.98:8562
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/K%2BSPORT%202.png",K+ Sport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/KSPORT2/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.131:10368
 
