@@ -254,7 +254,11 @@ https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
+#http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
 #--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball--#
 #--https://tv.hducanh.site/vtvcab16--#
 #--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
