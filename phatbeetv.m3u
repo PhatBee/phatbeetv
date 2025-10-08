@@ -335,7 +335,7 @@ http://113.177.113.7:4022/rtp/232.84.1.96:8550
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LZ0kyurqQvi0TkE/4E8OXA","kid":"Iqmppj0nRt+fkMGExZYQWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/K_LIFE_7777/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
