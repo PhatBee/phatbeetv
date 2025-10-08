@@ -333,7 +333,11 @@ https://livevlisctcdnw.seenow.vn/mean/KKIDS/manifest.mpd
 http://113.177.113.7:4022/rtp/232.84.1.96:8550
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
-http://113.177.113.7:4022/rtp/232.84.1.97:8556
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"Iqmppj0nRt+fkMGExZYQWg"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/livesnv2/K_LIFE_7777/manifest.mpd
+#http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201.png",K+ Sport 1
 http://luizkun.duckdns.org:63213/rtp/232.84.1.98:8562
