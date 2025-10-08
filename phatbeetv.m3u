@@ -524,6 +524,9 @@ http://luizkun.duckdns.org:63213/rtp/232.84.2.196:10960
 #http://113.177.113.7:4022/rtp/232.84.2.196:10960
 #http://14.226.244.23:11111/rtp/232.84.2.196:10960
 
+#EXTINF:-1 tvg-id="eventplus" group-title="Sự kiện" tvg-logo="",Event Plus
+https://1.org.vn/VUBQvK
+
 #EXTINF:-1 tvg-id="sgevents" group-title="Sự kiện" tvg-logo="http://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://1.org.vn/AkBPyj
