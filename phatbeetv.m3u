@@ -207,7 +207,11 @@ https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports%2B.png", ON Sports+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
+#http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
 #--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus--#
 #--https://rg.hducanh.site/vtvcab6--#
 #--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
@@ -272,7 +276,11 @@ https://xem.hoiquan.click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png", ON Sports News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+#http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
 #--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews--#
 #--http://113.177.113.7:4022/rtp/232.84.2.193:10942--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews--#
@@ -318,7 +326,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ Sport 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
 
@@ -339,7 +347,7 @@ http://113.177.113.7:4022/rtp/232.84.1.96:8550
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/K_LIFE_7777/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.97:8556
 
@@ -349,7 +357,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.98:8562
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/K%2BSPORT%202.png",K+ Sport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/KSPORT2/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.131:10368
 
@@ -510,6 +518,30 @@ https://xem.hoiquan.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
 https://263.org.vn/MeKong
 
 #EXTINF:-1 group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/PhimAuMy.png", Phim Âu Mỹ
+https://263.org.vn/PhimAuMy
+
+#EXTINF:-1 group-title="Prime" tvg-logo="", Event 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/mean/ONSPORT3/manifest.mpd
+
+#EXTINF:-1 group-title="Prime" tvg-logo="", Event 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/mean/ONSPORT5/manifest.mpd
+
+#EXTINF:-1 group-title="Prime" tvg-logo="", Event 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
+https://livevlisctcdnw.seenow.vn/mean/ONSPORT6/manifest.mpd
+
+#EXTINF:-1 group-title="Prime" tvg-logo="", Phim Âu Mỹ
 https://263.org.vn/PhimAuMy
 
 
