@@ -549,6 +549,8 @@ https://livevlisctcdnw.seenow.vn/mean/ONSPORT5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/ONSPORT6/manifest.mpd
 
+#EXTINF:-1 tvg-id="mytv801" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/801.png", Event 801 | Sự kiện thể thao
+http://luizkun.duckdns.org:63213/rtp/232.84.2.175:10858
 
 #EXTINF:-1 tvg-id="mytv802" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/802.png", Event 802 | Phim truyện
 http://luizkun.duckdns.org:63213/rtp/232.84.2.176:10864
