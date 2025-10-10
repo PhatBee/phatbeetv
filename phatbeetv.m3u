@@ -210,7 +210,7 @@ https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
+https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
 #--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus--#
 #--https://rg.hducanh.site/vtvcab6--#
@@ -540,9 +540,6 @@ https://livevlisctcdnw.seenow.vn/mean/ONSPORT5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/mean/ONSPORT6/manifest.mpd
-
-#EXTINF:-1 group-title="Prime" tvg-logo="", Phim Âu Mỹ
-https://263.org.vn/PhimAuMy
 
 
 #EXTINF:-1 tvg-id="mytv802" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/802.png", Event 802 | Phim truyện
