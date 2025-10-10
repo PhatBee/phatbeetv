@@ -1198,17 +1198,41 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="448553" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2B.png" group-title="CANAL+", CANAL+
+#EXTINF:-1 tvg-id="448553" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2B.png" group-title="FR", CANAL+
 https://1.org.vn/tbbEdc
 
-#EXTINF:-1 tvg-id="430092" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2BFoot.png" group-title="CANAL+", CANAL+ FOOT
+#EXTINF:-1 tvg-id="430092" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2BFoot.png" group-title="FR", CANAL+ FOOT
 https://1.org.vn/nEeDuL
 
-#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports1.png" group-title="beIN Sports", beIN Sports 1
+#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports1.png" group-title="FR", beIN Sports 1
 https://1.org.vn/IaoHqg
 
-#EXTINF:-1 tvg-id="54963" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports3.png" group-title="beIN Sports", beIN Sports 3
+#EXTINF:-1 tvg-id="443147" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports2.png" group-title="FR", beIN Sports 2
+https://1.org.vn/TESqGq
+
+#EXTINF:-1 tvg-id="54963" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSports3.png" group-title="FR", beIN Sports 3
 https://1.org.vn/KgPveO
+
+#EXTINF:-1 tvg-id="443239" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax4.png" group-title="FR", beIN Sports Max 4
+https://1.org.vn/EsOFid
+
+#EXTINF:-1 tvg-id="443103" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax5.png" group-title="FR", beIN Sports Max 5
+https://1.org.vn/WiOifu
+
+#EXTINF:-1 tvg-id="55982" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax6.png" group-title="FR", beIN Sports Max 6
+https://1.org.vn/izHICx
+
+#EXTINF:-1 tvg-id="55920" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax7.png" group-title="FR", beIN Sports Max 7
+https://1.org.vn/vzMnuJ
+
+#EXTINF:-1 tvg-id="443213" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax8.png" group-title="FR", beIN Sports Max 8
+https://1.org.vn/eQhSyL
+
+#EXTINF:-1 tvg-id="55983" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax9.png" group-title="FR", beIN Sports Max 9
+https://1.org.vn/eXeKMa
+
+#EXTINF:-1 tvg-id="443150" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/BeIN/beINSportsMax10.png" group-title="FR", beIN Sports Max 10
+https://1.org.vn/GdiCFS
 
 
 #EXTINF:-1 tvg-id="9151" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/UK/ITV/ITV1.png" group-title="UK", ITV1 
