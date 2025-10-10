@@ -985,7 +985,8 @@ https://xem.hoiquan.click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV2_BinhDuong.png", BTV2 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
+#https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CTV_CaMau.png", CTV HD | Báo và PTTH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1003,7 +1004,8 @@ https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho3.png", Cần Thơ 3 HD | Đài PTTH Thành phố Cần Thơ
-https://sgchill.io.vn/v1/b521/84/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#https://sgchill.io.vn/v1/b521/84/index.m3u8
 #https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CRTV_CaoBang.png", CRTV HD | Báo Cao Bằng
@@ -1028,7 +1030,8 @@ https://xem.hoiquan.click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV3_DongNai.png", ĐNNRTV3 HD | Báo và Đài PTTH Đồng Nai 
-https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
+https://sgchill.io.vn/s97/vieon.php?id=dongnai3
+#https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 #--https://1.org.vn/dongnai3--#
 
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png", THĐT1 HD | Báo và Đài PTTH Đồng Tháp
@@ -1041,7 +1044,8 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #--https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/GTV_GiaLai.png", GTV HD | Báo và PTTH Gia Lai
-https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=55
+#https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png", H1 HD | Đài Hà Nội
 https://xem.hoiquan.click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
@@ -1059,7 +1063,8 @@ https://xem.hoiquan.click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP%2B_HaiPhong.png", THP+ HD | Báo và PTTH Hải Phòng
-https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/s97/vieon.php?id=haiphongplus
+#https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png", THP3 HD | Báo và PTTH Hải Phòng
 https://xem.hoiquan.click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
@@ -1157,7 +1162,8 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL5_VinhLong.png", THVL5 HD | Báo và Đài PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/91/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/91/index.m3u8
 
 #EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png", BRT HD | Đài PTTH Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
