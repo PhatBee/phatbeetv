@@ -342,8 +342,9 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 https://livevlisctcdnw.seenow.vn/mean/KKIDS/manifest.mpd
 #http://113.172.29.170:10101/rtp/232.84.3.42:11800
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine
-http://113.177.113.7:4022/rtp/232.84.1.96:8550
+#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ Cine HD
+https://1.org.vn/kYFyEI
+#http://113.177.113.7:4022/rtp/232.84.1.96:8550
 
 #EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
