@@ -783,7 +783,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AXN.png", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.ddns.vn/tv/axnhd/index.m3u8
+http://luizkun.duckdns.org:63213/rtp/232.84.2.140:10660
+#https://tv.ddns.vn/tv/axnhd/index.m3u8
 #--http://live247.freem3u.xyz:21585/axn/index.m3u8--#
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/WarnerTV.png", Warner TV HD
@@ -805,7 +806,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.3.61:11686
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts--#
 
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/TLC.png", TLC HD
-https://1.org.vn/tlc
+http://luizkun.duckdns.org:63213/rtp/232.84.3.156:10708
+#https://1.org.vn/tlc
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Discovery.png", Discovery HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -833,7 +835,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.3.225:11272
 #--http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts--#
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCNews.png", BBC World News HD
-https://i.mjh.nz/.r/bbc-news.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
+#https://i.mjh.nz/.r/bbc-news.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế - MSky" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CNN.png", CNN HD
 http://luizkun.duckdns.org:63213/rtp/232.84.3.153:10690
