@@ -518,7 +518,7 @@ https://263.org.vn/MeKong
 #EXTINF:-1 group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/PhimAuMy.png", Phim Âu Mỹ
 https://263.org.vn/PhimAuMy
 
-#EXTINF:-1 group-title="Prime" tvg-logo="", Event 2
+#EXTINF:-1 group-title="Prime" tvg-logo="https://bom.so/SwEMqm", Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
