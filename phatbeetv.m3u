@@ -176,19 +176,19 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5mdoLtPsm6g90l6pfMwxJk/ts
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/180/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/180/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnPhimViet.png", ON Phim Việt HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/175/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/175/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 http://luizkun.duckdns.org:63213/rtp/232.84.1.207:9216
-#--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsports--#
+#--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsports--#
 #--https://rg.hducanh.site/vtvcab3--#
 #--http://113.177.113.7:4022/rtp/232.84.3.242:11374--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsports--#
@@ -196,13 +196,13 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.207:9216
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMovies.png", On Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/181/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/181/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnEChannel.png", ON E- Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/182/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/182/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports%2B.png", ON Sports+ HD
@@ -212,7 +212,7 @@ https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
-#--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus--#
+#--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsplus--#
 #--https://rg.hducanh.site/vtvcab6--#
 #--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplussportsplus--#
@@ -220,41 +220,41 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnO2tv.png", On O2TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/136/index.m3u8--#
-https://xem.hoiquan.click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/136/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnBibi.png", On BiBi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/178/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/178/index.m3u8--#
 
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnInfo.png", ON Info HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/189/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/189/index.m3u8--#
 
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnCine.png", ON Cine HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/176/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/176/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnStyleTv.png", ON Style HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/184/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/184/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onhomeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnHomeShopping.png", ON Home Shopping HD
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd
-#https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMusic.png", On Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/185/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/185/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
@@ -264,7 +264,7 @@ https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
-#--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball--#
+#--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onfootball--#
 #--https://tv.hducanh.site/vtvcab16--#
 #--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onfootball--#
@@ -272,7 +272,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png", ON TRENDING TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/186/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/186/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png", ON Sports News HD
@@ -282,38 +282,38 @@ https://xem.hoiquan.click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
-#--https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews--#
+#--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsnews--#
 #--http://113.177.113.7:4022/rtp/232.84.2.193:10942--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews--#
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieDramas.png", ON Vie Dramas HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #--https://sgchill.io.vn/v1/b521/177/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/177/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVFamily.png", ON V Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/187/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/187/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnKids.png", On Kids HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/179/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/179/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnLife.png", On Life HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/188/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/188/index.m3u8--#
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnGolf.png", On Golf HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #--https://sgchill.io.vn/v1/b521/169/index.m3u8--#
-https://xem.hoiquan.click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #--https://263.org.vn/OOnGolf--#
 #--https://sgchill.io.vn/360/169/index.m3u8--#
 
@@ -367,7 +367,7 @@ https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png", SCTV2 HD | TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
-#--https://xem.hoiquan.click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8--#
+#--https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8--#
 #--https://sgchill.io.vn/360/201/index.m3u8--#
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png", SCTV3 (Kênh thiếu nhi) | SEE TV
@@ -475,39 +475,39 @@ https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B1.png", TV360+1
-https://xem.hoiquan.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/2554/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus2" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B2.png", TV360+2
-https://xem.hoiquan.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/1/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus3" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B3.png", TV360+3
-https://xem.hoiquan.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/148/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus4" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B4.png", TV360+4
-https://xem.hoiquan.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/2458/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus5" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B5.png", TV360+5
-https://xem.hoiquan.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/9867/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus6" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B6.png", TV360+6
-https://xem.hoiquan.Click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/9868/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus7" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B7.png", TV360+7
-https://xem.hoiquan.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/9869/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus8" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B8.png", TV360+8
-https://xem.hoiquan.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/9870/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/TV360%2B9.png", TV360+9
-https://xem.hoiquan.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/v1/b521/9887/index.m3u8
 
 #EXTINF:-1 group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/MeKong.png", Mê Kông
@@ -606,52 +606,52 @@ http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png", Box Movie 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/159/index.m3u8--#
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HollywoodClassics.png", Hollywood Classics HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://xem.hoiquan.click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/160/index.m3u8--#
 
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/InTheBoxChannel.png", In The Box HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/235/index.m3u8--#
 
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxHits.png", Box Hits HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://xem.hoiquan.click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/239/index.m3u8--#
 
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MAN.png", Man HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/237/index.m3u8--#
 
 #EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MusicBox.png", Music Box HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/289/index.m3u8--#
 
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/DrFit.png", Dr.Fit HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/162/index.m3u8--#
 
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HappyKids.png", Happy Kids HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://xem.hoiquan.click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/212/index.m3u8--#
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/PlanetEarth.png", Planet Earth HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/135/index.m3u8--#
 
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/WOMAN.png", Woman HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/163/index.m3u8--#
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/HTV/HTV1.png", HTV1 HD
@@ -841,10 +841,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HGTV.png", HGTV HD
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
-#https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/History.png", History HD
-https://xem.hoiquan.click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #--https://sgchill.io.vn/360/9856/index.m3u8--#
 
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Kix.png", KIX HD
@@ -883,7 +883,7 @@ https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/KBSWorld.png", KBS World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-#https://xem.hoiquan.click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
 #--https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8--#
 
 
@@ -982,37 +982,37 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV2_AnGiang.png", ATV2 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-#--https://xem.hoiquan.click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8--#
+#--https://toiyeuvietnam.dpdns.org/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/ATV3_AnGiang.png", ATV3 HD | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png", BTV HD | Báo và PTTH Bắc Ninh
-https://xem.hoiquan.click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png", BTV1 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV2_BinhDuong.png", BTV2 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
-#https://xem.hoiquan.click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CTV_CaMau.png", CTV HD | Báo và PTTH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#--https://xem.hoiquan.click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8--#
+#--https://toiyeuvietnam.dpdns.org/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho1.png", Cần Thơ 1 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #--https://live.canthotv.vn/live/tv_web/playlist.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho2.png", Cần Thơ 2 HD | Đài PTTH Thành phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #--https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8--#
 
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CanTho3.png", Cần Thơ 3 HD | Đài PTTH Thành phố Cần Thơ
@@ -1021,7 +1021,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=84
 #https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/CRTV_CaoBang.png", CRTV HD | Báo Cao Bằng
-https://xem.hoiquan.click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png", ĐNRT1 HD | Báo và Đài PTTH Đà Nẵng
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
@@ -1030,16 +1030,16 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DRT_DakLak.png", DRT HD | Báo và PTTH Đắk Lắk
-https://xem.hoiquan.click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DTV_DienBien.png", ĐTV HD | Báo và PTTH Điện Biên
-https://xem.hoiquan.click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV1_DongNai.png", ĐNNRTV1 HD | Báo và Đài PTTH Đồng Nai 
-https://xem.hoiquan.click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV2_DongNai.png", ĐNNRTV2 HD | Báo và Đài PTTH Đồng Nai 
-https://xem.hoiquan.click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNNRTV3_DongNai.png", ĐNNRTV3 HD | Báo và Đài PTTH Đồng Nai 
 https://sgchill.io.vn/s97/vieon.php?id=dongnai3
@@ -1053,79 +1053,79 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
 ##EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png", THĐT - Báo và PTTH Đồng Tháp
-#--https://xem.hoiquan.click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
+#--https://toiyeuvietnam.dpdns.org/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8--#
 
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/GTV_GiaLai.png", GTV HD | Báo và PTTH Gia Lai
 https://freem3u.xyz/api/live/play.m3u8?vid=55
-#https://xem.hoiquan.click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H1_HaNoi.png", H1 HD | Đài Hà Nội
-https://xem.hoiquan.click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi.png", H2 HD | Đài Hà Nội
-https://xem.hoiquan.click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/H2_HaNoi_UHD.png", H2 UHD | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png", BHTTV HD | Báo Hà Tĩnh
-https://xem.hoiquan.click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP_HaiPhong.png", THP HD | Báo và PTTH Hải Phòng 
-https://xem.hoiquan.click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP%2B_HaiPhong.png", THP+ HD | Báo và PTTH Hải Phòng
 https://sgchill.io.vn/s97/vieon.php?id=haiphongplus
-#https://xem.hoiquan.click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THP3_HaiPhong.png", THP3 HD | Báo và PTTH Hải Phòng
-https://xem.hoiquan.click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png", HueTV HD | Báo và PTTH Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png", HY HD | Báo và PTTH Hưng Yên
-https://xem.hoiquan.click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png", KTV HD | Báo và PTTH Khánh Hòa
-https://xem.hoiquan.click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV1_KhanhHoa.png", KTV1 HD | Báo và PTTH Khánh Hòa
-https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV_LaiChau.png", LTV HD | Báo và PTTH Lai Châu
-https://xem.hoiquan.click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV1_LamDong.png", LTV1 HD | Báo và PTTH Lâm Đồng
-https://xem.hoiquan.click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV2_LamDong.png", LTV2 HD | Báo và PTTH Lâm Đồng
-https://xem.hoiquan.click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="lamdong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LTV3_LamDong.png", LTV3 HD | Báo và PTTH Lâm Đồng
-https://xem.hoiquan.click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/LSTV_LangSon.png", LSTV HD | Báo và Đài PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THLC_LaoCai.png", THLC HD | Báo và PTTH Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NTV_NgheAn.png", NTV HD | Báo và Đài PTTH Nghệ An
-https://xem.hoiquan.click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NBTV_NinhBinh.png", NBTV HD | Báo và Đài PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/PTV_PhuTho.png", PTV HD | Báo và PTTH Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QNgTV_QuangNgai.png", QNgTV HD | Báo và PTTH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV1_QuangNinh.png", QTV1 HD | Trung tâm Truyền thông Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
@@ -1135,26 +1135,26 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTTV_QuangTri.png", QTTV HD | Báo và PTTH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/STV_SonLa.png", STV HD | Báo và PTTH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV1_TayNinh.png", TTV1 HD | Báo và PTTH Tây Ninh
-https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png", TTV2 HD | Báo và PTTH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png", TN HD | Báo và PTTH Thái Nguyên
-https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV_ThanhHoa.png", TTV HD | Báo và Đài PTTH Thanh Hóa
-https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV_TuyenQuang.png", TTV HD | Báo và Đài PTTH Tuyên Quang
-https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THVL1_VinhLong.png", THVL1 HD | Báo và Đài PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
@@ -1179,7 +1179,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png", BRT HD | Đài PTTH Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="448553" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/France/Canal%2B/Canal%2B.png" group-title="FR", CANAL+
 https://1.org.vn/tbbEdc
