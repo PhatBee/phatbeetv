@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
@@ -340,8 +341,9 @@ https://1.org.vn/AvTNto
 #https://livevlisctcdnw.seenow.vn/mean/KSPORT2/manifest.mpd
 #http://113.177.113.7:4022/rtp/232.84.1.131:10368
 
-#EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS.png",K+ Kids
-http://luizkun.duckdns.org:63213/rtp/232.84.3.43:11794
+#EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS.png",K+ KIDS HD
+https://1.org.vn/zljFpf
+#http://luizkun.duckdns.org:63213/rtp/232.84.3.43:11794
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
