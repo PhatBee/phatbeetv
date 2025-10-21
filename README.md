@@ -5,7 +5,7 @@ Nguồn sưu tầm từ
 - Abdou SAT: https://www.facebook.com/profile.php?id=61557160161117
 - alexdang86: https://7pal.short.gy
 - vuminhthanh: https://github.com/vuminhthanh12
-- Hội quán: https://xem.hoiquan.click/
+- Hội quán: https://github.com/hoiquanclick
 
 Nguồn epg từ
 - Bảo Chính: https://lichphatsong.xyz
