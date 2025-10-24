@@ -190,12 +190,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoa
 #--https://sgchill.io.vn/360/182/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSports%2B.png", ON Sports+ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z22fWijUCdfWAVFLqhR8nQ","kid":"TmGcW1RJR2KxMfZfw0qIWw"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
+http://luizkun.duckdns.org:63213/rtp/232.84.3.75:11602
 #--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsplus--#
 #--https://rg.hducanh.site/vtvcab6--#
 #--http://113.177.113.7:4022/rtp/232.84.3.75:11602--#
@@ -242,12 +237,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m
 #--https://sgchill.io.vn/360/185/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png", ON Football HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQKKrQ4gA7J4XPUZak4voQ","kid":"9pvwKDl+Ts+vzoSrt8X+Kw"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
-#http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
+http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
 #--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onfootball--#
 #--https://tv.hducanh.site/vtvcab16--#
 #--http://113.177.113.7:4022/rtp/232.84.3.243:11380--#
@@ -260,12 +250,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoan
 #--https://sgchill.io.vn/360/186/index.m3u8--#
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png", ON Sports News HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kgYf/rE/R8TYh5MW28lSHQ","kid":"yvtuYMFQTfyFj9Pd3G/SDA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
-#http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
+http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
 #--https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsnews--#
 #--http://113.177.113.7:4022/rtp/232.84.2.193:10942--#
 #--https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews--#
@@ -316,11 +301,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 #http://113.177.113.7:4022/rtp/232.84.1.176:10374
 
 #EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS%20HD.png",K+ Kids HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/KKIDS/manifest.mpd
-#http://113.172.29.170:10101/rtp/232.84.3.42:11800
+http://113.172.29.170:10101/rtp/232.84.3.42:11800
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ CINE HD
 https://1.org.vn/kYFyEI
@@ -384,12 +365,7 @@ https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
 #https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png", SCTV9 HD (Phim Châu Á)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LZ0kyurqQvi0TkE/4E8OXA","kid":"Iqmppj0nRt+fkMGExZYQWg"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV10.png", SCTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
@@ -417,24 +393,12 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png", SCTV15 HD | S Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
-#https://livecdn.seenow.vn/mean/SCTV15HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png", SCTV17 HD | S Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
-#https://livecdn.seenow.vn/mean/SCTV17/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
@@ -506,34 +470,6 @@ https://263.org.vn/MeKong
 
 #EXTINF:-1 group-title="TV360" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/TV360/PhimAuMy.png", Phim Âu Mỹ
 https://263.org.vn/PhimAuMy
-
-#EXTINF:-1 group-title="Prime" tvg-logo="https://bom.so/SwEMqm", Event 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/ONSPORT2/manifest.mpd
-
-#EXTINF:-1 group-title="Prime" tvg-logo="", Event 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/ONSPORT3/manifest.mpd
-
-#EXTINF:-1 group-title="Prime" tvg-logo="", Event 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/ONSPORT5/manifest.mpd
-
-#EXTINF:-1 group-title="Prime" tvg-logo="https://bom.so/yTzaFS", Event 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bVQ1gwZXFlj/25UsZWBoiw","kid":"p8lCd46HTUO+krjQoM0RtA"}],"type":"temporary"}
-https://livevlisctcdnw.seenow.vn/mean/ONSPORT6/manifest.mpd
 
 #EXTINF:-1 tvg-id="mytv801" group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Event/801.png", Event 801 | Sự kiện thể thao
 http://luizkun.duckdns.org:63213/rtp/232.84.2.175:10858
