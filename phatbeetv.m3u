@@ -437,40 +437,40 @@ http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png", Box Movie 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HollywoodClassics.png", Hollywood Classics HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/InTheBoxChannel.png", In The Box HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxHits.png", Box Hits HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MAN.png", Man HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=237&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MusicBox.png", Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=289&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/DrFit.png", Dr.Fit HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=162&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HappyKids.png", Happy Kids HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/PlanetEarth.png", Planet Earth HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025
+#https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/WOMAN.png", Woman HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
