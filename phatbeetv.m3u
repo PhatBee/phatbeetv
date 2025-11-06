@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="" group-title="WRC" tvg-logo="https://tv.assets.pressassociation.io/748e40ea-d172-5560-949e-4a5b8d0dd92a.jpg", WRC FORUM8 Rally Nhật Bản 2025 Chặng 1
 http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1458815&extension=ts&play_token=TYnKp98oXh
 
+#EXTINF:-1 tvg-id="" group-title="WTA" tvg-logo="https://tv.assets.pressassociation.io/1a7165f7-cdea-5074-a592-8ccef69b8e90.jpg", The WTA Finals
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1458813&extension=ts&play_token=pYUhbk9lw0
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 
