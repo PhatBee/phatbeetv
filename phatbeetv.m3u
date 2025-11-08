@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
 
-#EXTINF:-1 tvg-id="" group-title="UEFA Europe League" tvg-logo="https://tv.assets.pressassociation.io/6e307e0c-4a55-53be-a9b4-27674fbf60b6.jpg", Aston Villa vs Maccabi Tel Aviv
-http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1458666&extension=ts&play_token=AlmENHXk4G
+#EXTINF:-1 tvg-id="" group-title="Premier League" tvg-logo="https://tv.assets.pressassociation.io/b83d800e-dbbe-5373-abce-3502056c37e4.jpg", Tottenham Hotspur vs Manchester United
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1595637&extension=ts&play_token=pZ6QedRr6M
 
 #EXTINF:-1 tvg-id="" group-title="WTA" tvg-logo="https://tv.assets.pressassociation.io/1a7165f7-cdea-5074-a592-8ccef69b8e90.jpg", The WTA Finals
 http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1458813&extension=ts&play_token=pYUhbk9lw0
