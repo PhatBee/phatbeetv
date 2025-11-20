@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
 
-#EXTINF:-1 tvg-id="" group-title="Premier League" tvg-logo="https://tv.assets.pressassociation.io/b83d800e-dbbe-5373-abce-3502056c37e4.jpg", Tottenham Hotspur vs Manchester United
-http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1595637&extension=ts&play_token=pZ6QedRr6M
-
-#EXTINF:-1 tvg-id="" group-title="WTA" tvg-logo="https://tv.assets.pressassociation.io/1a7165f7-cdea-5074-a592-8ccef69b8e90.jpg", The WTA Finals
-http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:C5:59&stream=1458813&extension=ts&play_token=pYUhbk9lw0
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 
@@ -44,28 +38,6 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/VietnamToday.png", Vietnam Today HD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png",VTV1 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV2.png",VTV2 HD
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmByiFuA5896CzEhwIxRc3GAE/ts
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV3.png",VTV3 HD
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB4GI3ipfcNzbgwvXG8a5jNU/ts
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV4.png",VTV4 HD
-https://toiyeuvietnam.dpdns.org/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5.png",VTV5 HD
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ZQYqdDgnRIJqqs2O-jhcU/ts
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.png",VTV5 Tây Nam Bộ HD
-https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nam-bo/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV5%20T%C3%A2y%20Nguy%C3%AAn.png",VTV5 Tây Nguyên HD
-https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV%20C%E1%BA%A7n%20Th%C6%A1.png",VTV Cần Thơ HD
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB0fOnwxyCbrhly3Tco-hwA8/ts
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV7.png",VTV7 HD
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ms_yseMvBK3tSOMTqfjgE/ts
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV8.png",VTV8 HD
-https://toiyeuvietnam.dpdns.org/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV9.png",VTV9 HD
-https://toiyeuvietnam.dpdns.org/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieGiaiTri.png",ON Vie Giải trí HD
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab - TV360" group-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/VTVcab.png" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnPhimViet.png", ON Phim Việt HD
