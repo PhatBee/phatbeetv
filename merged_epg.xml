@@ -463,10 +463,30 @@
     <desc>Akutsu rescues Lily, skipping their date for a demon hunt. As they investigate wild dog attacks, a menacing gaze follows them.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="369848" start="20251230220000 +0700" stop="20251231000000 +0700">
+  <programme channel="369848" start="20251230220000 +0700" stop="20251230223000 +0700">
     <title lang="zh">THE DO-OVER DAMSEL CONQUERS THE DRAGON EMPEROR</title>
     <desc>Jill, betrayed and imprisoned, wakes in the past. To change her fate, she makes a choice that alters love and destiny.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="369848" start="20251230223000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">THE DO-OVER DAMSEL CONQUERS THE DRAGON EMPEROR</title>
+    <desc>Jill, betrayed and imprisoned, wakes in the past. To change her fate, she makes a choice that alters love and destiny.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="369848" start="20251230230000 +0700" stop="20251230233000 +0700">
+    <title lang="zh">THE RED RANGER BECOMES AN ADVENTURER IN ANOTHER WORLD</title>
+    <desc>Yihdra Arvoln, a mage, meets Togo Asagaki, a new adventurer. What secret lies beyond his strange movements and poses?</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="369848" start="20251230233000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">THE RED RANGER BECOMES AN ADVENTURER IN ANOTHER WORLD</title>
+    <desc>Yihdra and Togo form a party. As adventurers mock Yihdra's father, Togo suggests an idea to settle their differences.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="369848" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu rescues Lily, and they hunt demons instead of dating. As they investigate wild dog attacks, a sinister gaze watches them.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="55773">
     <display-name lang="France">beIN SPORTS 1</display-name>
@@ -622,9 +642,99 @@
     <desc />
     <date>2025-12-30</date>
   </programme>
-  <programme channel="55773" start="20251230064500 +0700" stop="20251231000000 +0700">
+  <programme channel="55773" start="20251230064500 +0700" stop="20251230070000 +0700">
     <title lang="zh">Ça se passe sur beIN SPORTS</title>
     <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230070000 +0700" stop="20251230071500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230071500 +0700" stop="20251230080000 +0700">
+    <title lang="zh">NBA Extra</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230080000 +0700" stop="20251230103000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230103000 +0700" stop="20251230104500 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230104500 +0700" stop="20251230131500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230131500 +0700" stop="20251230133000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230133000 +0700" stop="20251230140000 +0700">
+    <title lang="zh">Salon VIP</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230140000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">Court Central</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230150000 +0700" stop="20251230151500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230151500 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230170000 +0700" stop="20251230184500 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230184500 +0700" stop="20251230193000 +0700">
+    <title lang="zh">NBA Extra</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230193000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Salon VIP</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230200000 +0700" stop="20251230201500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230201500 +0700" stop="20251230203000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230203000 +0700" stop="20251230223000 +0700">
+    <title lang="zh">Football : Coupe d'Afrique des Nations</title>
+    <desc>Le pays organisateur, le Maroc, affronte la Zambie, pour le compte de la 3e journée du groupe A. Considéré par les observateurs comme le favori de la compétition, le Maroc peut compter sur sa ribambelle de stars, parmi lesquelles on retrouve Azzedine Ounahi, l'ancien joueur de l'OM, désormais à Gérone.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230223000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">Club CAN</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55773" start="20251230230000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Football : Coupe d'Afrique des Nations</title>
+    <desc>Retransmission d'un match de la Coupe d'Afrique des nations de football.</desc>
     <date>2025-12-30</date>
   </programme>
 <channel id="443147">
@@ -930,10 +1040,55 @@
     <desc>Diffusion d'un match de NCAA, le championnat universitaire américain de Basket-ball.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="54963" start="20251230051500 +0700" stop="20251231000000 +0700">
+  <programme channel="54963" start="20251230051500 +0700" stop="20251230074500 +0700">
     <title lang="zh">Football américain : NCAA</title>
     <desc>Diffusion d'un match de NCAA, le championnat universitaire de football américain aux Etats-Unis.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230074500 +0700" stop="20251230120000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230120000 +0700" stop="20251230140000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230140000 +0700" stop="20251230153000 +0700">
+    <title lang="zh">Handball : Liqui Moly StarLigue</title>
+    <desc>Retransmission d'un match de la Liqui Moly StarLigue, la plus haute division du handball professionnel masculin en France.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230153000 +0700" stop="20251230173000 +0700">
+    <title lang="zh">Hockey sur glace : NHL</title>
+    <desc>Retransmission d'un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230173000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Football américain : NFL</title>
+    <desc>Diffusion d'un match de la NFL (National Football League).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230200000 +0700" stop="20251230203000 +0700">
+    <title lang="zh">Terrains d'espoirs</title>
+    <desc>Le parcours des jeunes footballeurs camerounais lors de tournois de détection organisés à Yaoundé, véritable tremplin vers le monde professionnel, à l'image de Wilfried Singo et André-Frank Zambo Anguissa.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230203000 +0700" stop="20251230221500 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251230221500 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="54963" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">NBA Extra</title>
+    <desc />
+    <date>2025-12-31</date>
   </programme>
 <channel id="443239">
     <display-name lang="France">beIN SPORTS MAX 4</display-name>
@@ -1132,7 +1287,32 @@
     <desc>Retransmission d'un match du Championnat du Portugal de football. Fondée en 1934, il s'agit de la plus haute compétition de football du Portugal.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="55982" start="20251230051500 +0700" stop="20251231000000 +0700">
+  <programme channel="55982" start="20251230051500 +0700" stop="20251230070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55982" start="20251230070000 +0700" stop="20251230110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55982" start="20251230110000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55982" start="20251230150000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55982" start="20251230190000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="55982" start="20251230230000 +0700" stop="20251231000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2025-12-30</date>
@@ -1368,7 +1548,32 @@
     <desc />
     <date>2025-12-29</date>
   </programme>
-  <programme channel="443150" start="20251230030000 +0700" stop="20251231000000 +0700">
+  <programme channel="443150" start="20251230030000 +0700" stop="20251230070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="443150" start="20251230070000 +0700" stop="20251230110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="443150" start="20251230110000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="443150" start="20251230150000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="443150" start="20251230190000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="443150" start="20251230230000 +0700" stop="20251231000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2025-12-30</date>
@@ -1737,10 +1942,135 @@
     <desc>Nottingham Forest v Yeovil Town. A chance to see highlights of the 2006/07 League One play-off semi-final second leg, which took place at the City Ground.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="450289" start="20251230104500 +0700" stop="20251231000000 +0700">
+  <programme channel="450289" start="20251230104500 +0700" stop="20251230110000 +0700">
     <title lang="zh">EFL Greatest Games</title>
     <desc>Cardiff City v Swansea City. Action from the match in the 2008/09 Championship, which took place at Ninian Park.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230110000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">SPFL Greatest Games</title>
+    <desc>Motherwell v Hibernian from 2010.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230130000 +0700" stop="20251230140000 +0700">
+    <title lang="zh">EFL</title>
+    <desc>Huddersfield Town v Read"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ing. Action from the 2016/17 Championship play-off final at Wembley Stadium, as the sides battled it out for promotion to the Premier League.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230140000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">EFL</title>
+    <desc>Bradford City v Millwall. A"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ction from the 2016/17 League One play-off final at Wembley Stadium, as the sides contested a place in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230150000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">EFL</title>
+    <desc>Blackpool v Exeter City. Actio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n from the 2016/17 League Two play-off final at Wembley Stadium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230160000 +0700" stop="20251230161500 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Action from Millwall v Scunthorpe United in the 2008/09 League One play-off final, held at Wembley Stadium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230161500 +0700" stop="20251230163000 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Sheffield United v Sheffield Wednesday. A chance to see highlights of the 2009/10 Championship fixture, which took place at Bramall Lane.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230163000 +0700" stop="20251230164500 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Peterborough United v Southampton. A chance to see highlights of the 2010/11 League One fixture, which took place at London Road.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230164500 +0700" stop="20251230170000 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Watford v Leicester City. A chance to see highlights of the 2012/13 Championship play-off semi-final second leg, which took place at Vicarage Road.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230170000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">Championship Retro</title>
+    <desc>Blackburn Rovers v Manchester City from 2000.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230190000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Bundesliga Special: Midseason Review (?)</title>
+    <desc>).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230200000 +0700" stop="20251230203000 +0700">
+    <title lang="zh">EFL Cup Highlights</title>
+    <desc>Manchester City v Brentford.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230203000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">EFL Cup Highlights</title>
+    <desc>Cardiff City v Chelsea.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230210000 +0700" stop="20251230211500 +0700">
+    <title lang="zh">SPFL Round-Up</title>
+    <desc>A round-up of the goals from the latest weekend of Scottish Premiership.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230211500 +0700" stop="20251230213000 +0700">
+    <title lang="zh">SPFL Highlights</title>
+    <desc>Hibernian v Hearts in the Scottish Premiership.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230213000 +0700" stop="20251230214500 +0700">
+    <title lang="zh">SPFL Highlights</title>
+    <desc>Livingston v Celtic in the Scottish Premiership.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230214500 +0700" stop="20251230220000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Coventry City v Ipswich Town in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230220000 +0700" stop="20251230221500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Birmingham City v Southampton in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230221500 +0700" stop="20251230223000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Leicester City v Derby County in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230223000 +0700" stop="20251230224500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Middlesbrough v Hull City in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230224500 +0700" stop="20251230230000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Millwall v Bristol City in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230230000 +0700" stop="20251230231500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Norwich City v Watford in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230231500 +0700" stop="20251230233000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Oxford United v Swansea City in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230233000 +0700" stop="20251230234500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Portsmouth v Charlton Athletic in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251230234500 +0700" stop="20251231000000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Sheffield Wednesday v Blackburn Rovers in the Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="450289" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Stoke City v Sheffield United in the Championship.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="12453">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp PL HD</display-name>
@@ -1996,10 +2326,90 @@
     <desc>A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="12453" start="20251230144500 +0700" stop="20251231000000 +0700">
+  <programme channel="12453" start="20251230144500 +0700" stop="20251230151500 +0700">
     <title lang="zh">The Big Interview: Michael Carrick</title>
     <desc>In a series of extended-access interviews, hear from some of the biggest and most interesting names in the Premier League - as players and managers tell their own story in their own words.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230151500 +0700" stop="20251230154500 +0700">
+    <title lang="zh">PL Stories: Forgotten Class of '92</title>
+    <desc>Three decades on from United's iconic Class of '92, beyond the headline names are the teammates who shared the same dressing room and dreams of one of football's most revered youth systems.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230154500 +0700" stop="20251230164500 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230164500 +0700" stop="20251230184500 +0700">
+    <title lang="zh">PL Retro: West Ham v Spurs 2007</title>
+    <desc>In this classic encounter from the 2006-07 campaign, West Ham welcome rivals Tottenham Hotspur to Upton Park for a thrilling, end-to-end London derby in the Premier League.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230184500 +0700" stop="20251230190000 +0700">
+    <title lang="zh">PL Greatest Games:Spurs/Arsenal'04</title>
+    <desc>Remember a classic match from the Premier League. Here, Arsenal head to White Hart Lane back in 2004, looking to secure the Premier League title.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230190000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Best Premier League Goals 12/13</title>
+    <desc>Enjoy some of the best Premier League goals from years gone by. Here, the finest strikes from the 2012-2013 season, in which Man Utd won the title in Sir Alex's final year in charge.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230200000 +0700" stop="20251230203000 +0700">
+    <title lang="zh">Best PL Goals: North London Derby</title>
+    <desc>Relive some of the best goals from north London derby meetings between Arsenal and Tottenham Hotspur in years gone by.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230203000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">Best PL Goals: Tottenham v Chelsea</title>
+    <desc>A chance to look back at some of the best goals from previous Premier League meetings between Tottenham and Chelsea.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230210000 +0700" stop="20251230211500 +0700">
+    <title lang="zh">PL Greatest:A Villa/B'Ham City '08</title>
+    <desc>A chance to relive a Premier League classic. Here, Aston Villa enjoy a 5-1 win over Midlands rivals Birmingham at Villa Park back in 2008.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230211500 +0700" stop="20251230213000 +0700">
+    <title lang="zh">PL Greatest: Spurs v United '17</title>
+    <desc>A chance to relive a classic Premier League match. Here, a look back to 2017 and a clash between Tottenham Hotspur and Manchester United in Spurs' final game at White Hart Lane.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230213000 +0700" stop="20251230214500 +0700">
+    <title lang="zh">PL Greatest Games:M City/L'Pool 15</title>
+    <desc>Relive a Premier League classic, as Man City face Liverpool back in November 2015. City needed a win to go back top of the table, while Liverpool were adapting to life under Jurgen Klopp.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230214500 +0700" stop="20251230220000 +0700">
+    <title lang="zh">PL Greatest Games:M City/L'Pool 13</title>
+    <desc>Relive a Premier League classic, as Man City face Liverpool back in 2013. City needed three points to close the gap at the top to Man Utd, while the Reds were chasing a top four spot.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230220000 +0700" stop="20251230223000 +0700">
+    <title lang="zh">PL Legends: David Seaman</title>
+    <desc>Series profiling some of the greatest players to grace the Premier League. Here the focus is on former Arsenal goalkeeper David Seaman.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230223000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">PL Legends: Paolo Di Canio</title>
+    <desc>Series profiling some of the greatest players to grace the Barclays Premier League. Here the focus is on former Sheffield Wednesday and West Ham striker Paolo Di Canio.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230230000 +0700" stop="20251230233000 +0700">
+    <title lang="zh">PL 100 Club: Paul Scholes</title>
+    <desc>A celebration of some of the finest goalscorers in Barclays Premier League history. This episode features the best of Paul Scholes' 107 top-flight goals. Tweet your favourite #pl100club</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251230233000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">PL 100 Club: Sergio Aguero</title>
+    <desc>A celebration of the players to have bagged 100 goals or more in the Premier League. Here, a look at Sergio Aguero, who has scored over 100 times during his time at Manchester City.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="12453" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">PL Icons: Dennis Bergkamp</title>
+    <desc>A look at one of the most iconic players to have graced the Premier League. Here, the focus is on the highly skilled Arsenal legend Dennis Bergkamp.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="212145">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp Tennis HD</display-name>
@@ -2165,10 +2575,60 @@
     <desc>Entering her first final since 2021, Jill Teichmann faces off against Irina-Camelia Begu in the Iasi final. (20.07)</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="212145" start="20251230140000 +0700" stop="20251231000000 +0700">
+  <programme channel="212145" start="20251230140000 +0700" stop="20251230150000 +0700">
     <title lang="zh">ATP Final: Bucharest</title>
     <desc>In a first head-to-head meeting of the two, Argentinian top seed Sebastian Baez and Italy's Flavio Cobolli compete for the Bucharest Open title in the final of this ATP 250 event. (06.04)</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230150000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">WTA Final: Hamburg</title>
+    <desc>In Hamburg, second seed Lois Boisson and seventh seed Anna Bondar lock horns. With both entering their first-ever Tour final, who will emerge victorious? (20.07)</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230160000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">ATP Final: Marrakesh</title>
+    <desc>Top seed Tallon Griekspoor competes in his maiden tour-level championship match on clay, as the Dutchman faces 23-year-old Italian Luciano Darderi in the final of ATP Marrakesh. (06.04)</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230170000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">Best of the US Open 2025</title>
+    <desc>In the fourth round of the women's singles at the 2025 US Open, Taylor Townsend's dream New York run saw the American take on two-time Grand Slam champion Barbora Krejcikova.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230180000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">Best of the US Open 2025</title>
+    <desc>American Tommy Paul, the 14th seed at Flushing Meadows, entered a third-round contest at the 2025 US Open against an in-form Alexander Bublik on Arthur Ashe.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230190000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Best of the US Open 2025</title>
+    <desc>Crowned Australian Open champion earlier in the year, sixth seed Madison Keys began her 2025 US Open bid on Arthur Ashe Stadium against Mexican Renata Zarazúa.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230200000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">Best of the US Open 2025</title>
+    <desc>Daniil Medvedev competes in opening-round action against Frenchman Benjamin Bonzi. Amid a modest run of form, can former world number one Medvedev recapture the magic of his 2021 triumph?</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230210000 +0700" stop="20251230220000 +0700">
+    <title lang="zh">WTA Final: Berlin</title>
+    <desc>A women's singles champion is crowned in the final of the Berlin Tennis Open, a WTA 500 grass-court event. (22.06)</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230220000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">ATP Final: Dubai</title>
+    <desc>A men's singles champion is crowned in the final of the Dubai Duty Free Tennis Championships, an ATP Tour 500 event in the United Arab Emirates. (01.03)</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251230230000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">WTA Final: Madrid</title>
+    <desc>In a repeat of the 2023 US Open final, two-time Madrid champion Aryna Sabalenka eyes another marquee title against Coco Gauff, who won their only prior clay-court meeting. (03.05)</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="212145" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">ATP Final: Monte Carlo</title>
+    <desc>Chasing a sixth ATP 1000 title and a first in Monte-Carlo, 21-year-old Spaniard Carlos Alcaraz competes in a blockbuster clash with first-time Masters finalist Lorenzo Musetti. (13.04)</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="430092">
     <display-name lang="Russian Federation">Canal+ Foot [FR]</display-name>
@@ -2308,10 +2768,100 @@
     <desc>A chance to relive a classic play-off final from the English Football League. Here, rewind to 1998, and a fascinating, pulsating eight-goal encounter between Sunderland and Charlton.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="381881" start="20251230060000 +0700" stop="20251231000000 +0700">
+  <programme channel="381881" start="20251230060000 +0700" stop="20251230070000 +0700">
     <title lang="zh">Sky Sports News</title>
     <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230070000 +0700" stop="20251230073000 +0700">
+    <title lang="zh">Sky Sports News</title>
+    <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230073000 +0700" stop="20251230103000 +0700">
+    <title lang="zh">Live NBA: Cavaliers @ Spurs</title>
+    <desc>The San Antonio Spurs take on the Cleveland Cavaliers during the NBA regular season.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230103000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">Live NBA: Mavericks @ Blazers</title>
+    <desc>The Portland Trail Blazers play the Dallas Mavericks in the NBA.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230130000 +0700" stop="20251230140000 +0700">
+    <title lang="zh">ATP Final: Indian Wells</title>
+    <desc>Britain's Jack Draper competes in his maiden ATP Masters 1000 final at Indian Wells as the top-10 bound Brit faces Holger Rune. Draper knocked out Carlos Alcaraz in the last four. (16.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230140000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">EFL Cup Retro 20:A.Villa v ManCity</title>
+    <desc>Relive the 2019-20 Carabao Cup final as Aston Villa and Manchester City went head-to-head at Wembley. City were looking for a third consecutive trophy in this competition.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230160000 +0700" stop="20251230163000 +0700">
+    <title lang="zh">Sky Sports Breakfast</title>
+    <desc>Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230163000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Fantasy Football Countdown</title>
+    <desc>Join the Fantasy Premier League experts for tips and last-minute advice on which top-flight stars to pick ahead of each gameweek deadline.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230170000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">Live: Sky Sports FC</title>
+    <desc>Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230180000 +0700" stop="20251230183000 +0700">
+    <title lang="zh">Live: Sky Sports FC</title>
+    <desc>Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230183000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">Live: Sky Sports FC</title>
+    <desc>Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230190000 +0700" stop="20251230193000 +0700">
+    <title lang="zh">Lunchtime Live</title>
+    <desc>Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230193000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Lunchtime Live</title>
+    <desc>Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230200000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">Lunchtime Live</title>
+    <desc>Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230210000 +0700" stop="20251230220000 +0700">
+    <title lang="zh">Sports Desk</title>
+    <desc>A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230220000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">Sports Desk</title>
+    <desc>A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230230000 +0700" stop="20251230233000 +0700">
+    <title lang="zh">Sports Desk</title>
+    <desc>A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251230233000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Sports Desk</title>
+    <desc>A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="381881" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">Live: The Premier League Show</title>
+    <desc>Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
@@ -2387,10 +2937,45 @@
     <desc>Coverage of the evening session on day three at Players Pool and Snooker Lounge in Newcastle-under-Lyme.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="400477" start="20251230050000 +0700" stop="20251231000000 +0700">
+  <programme channel="400477" start="20251230050000 +0700" stop="20251230060000 +0700">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230060000 +0700" stop="20251230143000 +0700">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. England have not won a Test here since 2010, when Jonathan Trott's total of 168 helped them to a comfortable victory by an innings and 157 runs. Since then they have earned two draws here and lost the other two contests, including a defeat by an innings and 14 runs when they las</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230143000 +0700" stop="20251230153000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Nottingham Forest v Manchester City, Manchester United v Newcastle United, and Liverpool v Wolverhampton Wanderers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230153000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230160000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Ally's Social Club</title>
+    <desc>Ally McCoist talks to Liverpool legend Steven Gerrard.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230170000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230180000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Live: Ultimate Pool Taom Pro Cup (?)</title>
+    <desc>).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">Roll The Tape</title>
+    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -2616,10 +3201,100 @@
     <desc>Gloucester v Saracens.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="400480" start="20251230110000 +0700" stop="20251231000000 +0700">
+  <programme channel="400480" start="20251230110000 +0700" stop="20251230120000 +0700">
     <title lang="zh">The Gallagher PREM</title>
     <desc>Bath v Northampton Saints.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230120000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Leicester Tigers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230130000 +0700" stop="20251230131500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>We look back at week eight of the season, including Sale Sharks v Harlequins, Bath v Northampton Saints and Gloucester v Saracens.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230131500 +0700" stop="20251230134500 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230134500 +0700" stop="20251230141500 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An in-depth interview with fromer Manchester United midfielder Michael Carrick.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230141500 +0700" stop="20251230144500 +0700">
+    <title lang="zh">Training Day</title>
+    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230144500 +0700" stop="20251230150000 +0700">
+    <title lang="zh">For The Love Of The Game With Laura &amp; Ally</title>
+    <desc>Laura Woods and Ally McCoist host special guests that share stories, relive memories and review the year in sport.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230150000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Western Sydney Wanderers v Wellington Phoenix (Kick-off 8.00am). Coverage of the match at Wanderers Football Park.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230170000 +0700" stop="20251230173000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230173000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230180000 +0700" stop="20251230183000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230183000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">Premier League</title>
+    <desc>Nottingham Forest v Manchester City.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230200000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230210000 +0700" stop="20251230220000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Nottingham Forest v Manchester City, Manchester United v Newcastle United, and Liverpool v Wolverhampton Wanderers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230220000 +0700" stop="20251230223000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's World Cup meeting in Gavere, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230223000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's World Cup meeting in Dendermonde, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230230000 +0700" stop="20251230233000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230233000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's World Cup meeting in Dendermonde, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
@@ -2795,10 +3470,45 @@
     <desc>Action from the 2022 Australian GP at Phillip Island Circuit.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="400479" start="20251230120000 +0700" stop="20251231000000 +0700">
+  <programme channel="400479" start="20251230120000 +0700" stop="20251230123000 +0700">
     <title lang="zh">Cyclocross</title>
     <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230123000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230130000 +0700" stop="20251230143000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Action from Adelaide Cro"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ws v Hawthorn Hawks in the second semi-final.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230143000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Action from Brisbane Lio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ns v Gold Coast Suns in the first semi-final.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230160000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Pisa v Juventus.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230170000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Atalanta v Inter.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251230180000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Live: Ultimate Pool Taom Pro Cup</title>
+    <desc>Coverage of the afternoon session on day four at Players Pool and Snooker Lounge in Newcastle-under-Lyme.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400479" start="20251231000000 +0700" stop="20260101000000 +0700">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Highlights from round 10.</desc>
+    <date>2025-12-31</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
@@ -2949,9 +3659,64 @@
     <desc>A look back at UFC 288 as Aljamain Sterling faced Henry Cejudo.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="400478" start="20251230110000 +0700" stop="20251231000000 +0700">
+  <programme channel="400478" start="20251230110000 +0700" stop="20251230120000 +0700">
     <title lang="zh">WRC Review</title>
     <desc>A look back at the latest action from Rally Japan.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230120000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A review of the Rally Saudi Arabia).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230130000 +0700" stop="20251230133000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230133000 +0700" stop="20251230140000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230140000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">Superbike World Championship</title>
+    <desc>A review of the 2025 season.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230150000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Newcastle Jets v Macarthur FC.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230160000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Adelaide United v Western Sydney Wanderers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230170000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Melbourne City v Perth Glory.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230180000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Melbourne Victory v Wellington Phoenix.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230190000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the First Test between New Zealand and West Indies.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230210000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the Second Test between New Zealand and West Indies.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400478" start="20251230230000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the Third Test between New Zealand and West Indies.</desc>
     <date>2025-12-30</date>
   </programme>
 <channel id="369822">
@@ -3501,9 +4266,99 @@
     <desc>Highlights from the latest round of the United Rugby Championship.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="219100" start="20251230050000 +0700" stop="20251231000000 +0700">
+  <programme channel="219100" start="20251230050000 +0700" stop="20251230070000 +0700">
     <title lang="zh">NHL Ice Hockey</title>
     <desc>Detroit Red Wings v Toronto Maple Leafs.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230070000 +0700" stop="20251230100000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Carolina Hurricanes v New York Rangers (Face-off 12.00am). Coverage of the Eastern Conference match at Lenovo Center in Raleigh.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230100000 +0700" stop="20251230103000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Colombia.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230103000 +0700" stop="20251230110000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Jamaica.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230110000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">Top 14 Rugby Union</title>
+    <desc>Pau v Montpellier.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230130000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Scarlets v Ospreys.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230150000 +0700" stop="20251230160000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look at the Florida Panthers' historic repeat victory in the Stanley Cup.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230160000 +0700" stop="20251230180000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Carolina Hurricanes v New York Rangers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230180000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">Scottish Football Social Club</title>
+    <desc>A round-up of the latest news and results.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230190000 +0700" stop="20251230200000 +0700">
+    <title lang="zh">URC in 60</title>
+    <desc>Highlights from the latest round of the United Rugby Championship.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230200000 +0700" stop="20251230201000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Osasuna v Alavés.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230201000 +0700" stop="20251230202000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Girona v Atlético Madrid.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230202000 +0700" stop="20251230203000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Villarreal v Barcelona.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230203000 +0700" stop="20251230204000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Elche v Rayo Vallecano.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230204000 +0700" stop="20251230205000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Betis v Getafe.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230205000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Athletic Bilbao v Espanyol.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230210000 +0700" stop="20251230220000 +0700">
+    <title lang="zh">NHL on the Fly</title>
+    <desc>Catch up on all the latest NHL news.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230220000 +0700" stop="20251230223000 +0700">
+    <title lang="zh">Road to the Winter Classic</title>
+    <desc>Following the build-up to the outfoor NHL match at at LoanDepot Park in Miami, which will see the Florida Panthers take on the New York Panthers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219100" start="20251230223000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Top 14 Rugby Union</title>
+    <desc>Toulouse v La Rochelle.</desc>
     <date>2025-12-30</date>
   </programme>
 <channel id="219104">
@@ -3620,9 +4475,64 @@
     <desc>A look at the growth of ice hockey in Brazil.</desc>
     <date>2025-12-30</date>
   </programme>
-  <programme channel="219104" start="20251230063000 +0700" stop="20251231000000 +0700">
+  <programme channel="219104" start="20251230063000 +0700" stop="20251230073000 +0700">
     <title lang="zh">NHL Tonight</title>
     <desc>A countdown of the top 20 defensemen currently in the NHL.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230073000 +0700" stop="20251230103000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Winnipeg Jets v Edmonton Oilers (Face-off 12.30am). Coverage of the Western Conference match at Canada Life Centre.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230103000 +0700" stop="20251230110000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>The Florida Panthers celebrate their 2024/25 Stanley Cup success.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230110000 +0700" stop="20251230113000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Puerto Rico.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230113000 +0700" stop="20251230123000 +0700">
+    <title lang="zh">NHL Tonight</title>
+    <desc>A look at the top 50 players, focusing on those ranked 1-10.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230123000 +0700" stop="20251230130000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230130000 +0700" stop="20251230150000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Northampton Saints v Bulls.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230150000 +0700" stop="20251230170000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Leicester Tigers v Leinster Rugby.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230170000 +0700" stop="20251230190000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Winnipeg Jets v Edmonton Oilers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230190000 +0700" stop="20251230210000 +0700">
+    <title lang="zh">SPFL</title>
+    <desc>Aberdeen v Dundee United.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230210000 +0700" stop="20251230230000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Zebre Parma v Benetton.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="219104" start="20251230230000 +0700" stop="20251231000000 +0700">
+    <title lang="zh">Swedish Hockey League</title>
+    <desc>Rogle v Frolunda.</desc>
     <date>2025-12-30</date>
   </programme>
 </tv>
