@@ -151,48 +151,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoan
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnGolf.png", On Golf HD
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE%20HD.png",K+ Cine HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314 
-
-#EXTINF:0 tvg-id="kactionhd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ Action HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
-
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201.png",K+ Sport 1 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
-
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%202%20HD.png",K+ Sport 2 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
-#http://113.177.113.7:4022/rtp/232.84.1.176:10374
-
-#EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS%20HD.png",K+ Kids HD
-http://113.172.29.170:10101/rtp/232.84.3.42:11800
-
-#EXTINF:0 tvg-id="kcinehd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+ CINE HD
-https://1.org.vn/kYFyEI
-#http://113.177.113.7:4022/rtp/232.84.1.96:8550
-
-#EXTINF:0 tvg-id="kaction" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ ACTION HD
-https://1.org.vn/NrocCv
-#http://113.177.113.7:4022/rtp/232.84.1.97:8556
-
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BSPORT%201%20HD.png",K+ SPORT 1 HD
-https://1.org.vn/egAPOH
-#http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
-
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/K%2BSPORT%202.png",K+ SPORT 2 HD
-https://1.org.vn/AvTNto
-#http://113.177.113.7:4022/rtp/232.84.1.131:10368
-
-#EXTINF:0 tvg-id="kkidshd" group-title="K+ Test" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BKIDS.png",K+ KIDS HD
-https://1.org.vn/zljFpf
-#http://luizkun.duckdns.org:63213/rtp/232.84.3.43:11794
-
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BCINE.png",K+CINE HD (F)
-https://1.org.vn/pTwqAL
-
-#EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/K%2B/K%2BACTION.png",K+ACTION HD (F)
-https://1.org.vn/MRzlup
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png", SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 
