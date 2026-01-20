@@ -463,10 +463,30 @@
     <desc>Asticassia School of Technology is run by Benerit Group. Suletta Mercury is looking forward to her new life at the school.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="369848" start="20260122220000 +0700" stop="20260123000000 +0700">
+  <programme channel="369848" start="20260122220000 +0700" stop="20260122223000 +0700">
     <title lang="zh">WIND BREAKER</title>
     <desc>During the fight against Togame, Sakura is baffled by a feeling that is not just the thrill of facing a strong opponent.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="369848" start="20260122223000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">WIND BREAKER</title>
+    <desc>Togame cannot hide his doubts about what Shishitoren has become. Sakura seeks to understand him through the fight.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="369848" start="20260122230000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Crimson sends an order to bomb places in the royal capital in pursuit of Ultimatia, who tries to revert the world again.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="369848" start="20260122233000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Crimson is captured by Starlia Lese and tries to deceive her, but Starlia sees through Crimson's dangerous true nature.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="369848" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM: THE WITCH FROM MERCURY</title>
+    <desc>In the laboratory of the Vanadis Institute, an operation experiment of Gundam Lfrith is being conducted.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="55773">
     <display-name lang="France">beIN SPORTS 1</display-name>
@@ -637,9 +657,89 @@
     <desc />
     <date>2026-01-22</date>
   </programme>
-  <programme channel="55773" start="20260122061500 +0700" stop="20260123000000 +0700">
+  <programme channel="55773" start="20260122061500 +0700" stop="20260122070000 +0700">
     <title lang="zh">NBA Extra</title>
     <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122070000 +0700" stop="20260122093000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122093000 +0700" stop="20260122121500 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122121500 +0700" stop="20260122123000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122123000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">Made in England</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122130000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">Football : Liga</title>
+    <desc>Diffusion d'un match de LaLiga EA Sports, championnat d'Espagne de football très prestigieux : la plus haute compétition de football d'Espagne.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122150000 +0700" stop="20260122151500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122151500 +0700" stop="20260122170000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122170000 +0700" stop="20260122184500 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122184500 +0700" stop="20260122193000 +0700">
+    <title lang="zh">NBA Extra</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122193000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">Pourquoi moi ?</title>
+    <desc>Ce documentaire permet de comprendre la mentalité des plus grands champions. Comment fonctionne leur cerveau ? Comment leur mental est-il façonné ?</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122203000 +0700" stop="20260122204500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122204500 +0700" stop="20260122211500 +0700">
+    <title lang="zh">Salon VIP</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122211500 +0700" stop="20260122213000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122213000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">Handball : Euro masculin</title>
+    <desc>Retransmission de matchs de l'Euro masculin de handball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122233000 +0700" stop="20260122234500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55773" start="20260122234500 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Handball : Euro masculin</title>
+    <desc>Retransmission de matchs de l'Euro masculin de handball.</desc>
     <date>2026-01-22</date>
   </programme>
 <channel id="443147">
@@ -915,9 +1015,59 @@
     <desc>Diffusion d'un match de la NFL (National Football League).</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="54963" start="20260122060000 +0700" stop="20260123000000 +0700">
+  <programme channel="54963" start="20260122060000 +0700" stop="20260122083000 +0700">
     <title lang="zh">Football américain : NFL</title>
     <desc>Diffusion d'un match de la NFL (National Football League).</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122083000 +0700" stop="20260122120000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122120000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122140000 +0700" stop="20260122153000 +0700">
+    <title lang="zh">Handball : Euro masculin</title>
+    <desc>Retransmission de matchs de l'Euro masculin de handball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122153000 +0700" stop="20260122180000 +0700">
+    <title lang="zh">Football américain : NFL</title>
+    <desc>Diffusion d'un match de la NFL (National Football League).</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122180000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Rugby : Champions Cup</title>
+    <desc>L'Aviron Bayonnais se mesure aux redoutables Irlandais du Leinster : une journée de Champions Cup qui s'annonce serrée pour les rugbymen de Bayonne.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122200000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">Terrains d'espoirs</title>
+    <desc>Le parcours des jeunes footballeurs camerounais lors de tournois de détection organisés à Yaoundé, véritable tremplin vers le monde professionnel, à l'image de Wilfried Singo et André-Frank Zambo Anguissa.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122203000 +0700" stop="20260122204500 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122204500 +0700" stop="20260122211500 +0700">
+    <title lang="zh">NBA : Top 100</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122211500 +0700" stop="20260122230000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="54963" start="20260122230000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Basket-ball : NBA</title>
+    <desc>Diffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
     <date>2026-01-22</date>
   </programme>
 <channel id="443239">
@@ -1112,7 +1262,32 @@
     <desc />
     <date>2026-01-21</date>
   </programme>
-  <programme channel="55982" start="20260122030000 +0700" stop="20260123000000 +0700">
+  <programme channel="55982" start="20260122030000 +0700" stop="20260122070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55982" start="20260122070000 +0700" stop="20260122110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55982" start="20260122110000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55982" start="20260122150000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55982" start="20260122190000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="55982" start="20260122230000 +0700" stop="20260123000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-01-22</date>
@@ -1348,7 +1523,32 @@
     <desc />
     <date>2026-01-21</date>
   </programme>
-  <programme channel="443150" start="20260122030000 +0700" stop="20260123000000 +0700">
+  <programme channel="443150" start="20260122030000 +0700" stop="20260122070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="443150" start="20260122070000 +0700" stop="20260122110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="443150" start="20260122110000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="443150" start="20260122150000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="443150" start="20260122190000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="443150" start="20260122230000 +0700" stop="20260123000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-01-22</date>
@@ -1672,10 +1872,95 @@
     <desc>Bradford City v Swindon Town from the 2013/14 League One season.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="450289" start="20260122110000 +0700" stop="20260123000000 +0700">
+  <programme channel="450289" start="20260122110000 +0700" stop="20260122120000 +0700">
     <title lang="zh">EFL Cup Final 17</title>
     <desc>Manchester United take on Southampton in the EFL Cup final at Wembley. United are looking to win the trophy for a fifth time, while Southampton are aiming to win it for the first time.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122120000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">SPFL Special: Celtic's Invincibles</title>
+    <desc>A look back at Celtic's unbeaten 2016/17 domestic campaign, as manager Brendan Rodgers collected the Scottish Premiership, Scottish Cup and Scottish League Cup in his first season.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122130000 +0700" stop="20260122154500 +0700">
+    <title lang="zh">EFL Cup Retro</title>
+    <desc>Chelsea v Manchester City in the 2019 final.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122154500 +0700" stop="20260122160000 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Bradford City v Arsenal. Action from the League Cup quarter-final clash at Valley Parade.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122160000 +0700" stop="20260122161500 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Derby County v Hull City from the 2017/18 season.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122161500 +0700" stop="20260122163000 +0700">
+    <title lang="zh">EFL Greatest Games</title>
+    <desc>Sheffield Wednesday v Sheffield United from the 2017/18 season.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122163000 +0700" stop="20260122180000 +0700">
+    <title lang="zh">Championship Season Review</title>
+    <desc>A look back at the 2024/25 EFL Championship season.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122180000 +0700" stop="20260122183000 +0700">
+    <title lang="zh">Best Goals: EFL Cup 24/25</title>
+    <desc>The finest strikes from the competition.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122183000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">EFL Trophy Football</title>
+    <desc>Action from Birmingham City v Peterborough United in the final.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122190000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Stoke City v Middlesbrough in the Championship.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122210000 +0700" stop="20260122211500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Wrexham v Leicester City in the Championship.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122211500 +0700" stop="20260122213000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Coventry City v Millwall in the Championship.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122213000 +0700" stop="20260122220000 +0700">
+    <title lang="zh">EFL League One Goals</title>
+    <desc>A round-up of goals from the division.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122220000 +0700" stop="20260122223000 +0700">
+    <title lang="zh">EFL League Two Goals</title>
+    <desc>A round-up of strikes from the competition.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122223000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">Bundesliga Highlights Show</title>
+    <desc>Action from the German top flight.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122233000 +0700" stop="20260122234500 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Ipswich Town v Bristol City in the Championship.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260122234500 +0700" stop="20260123000000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Oxford United v Queens Park Rangers in the Championship.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="450289" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">EFL Highlights</title>
+    <desc>Swansea City v Blackburn Rovers in the Championship.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="12453">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp PL HD</display-name>
@@ -1921,10 +2206,105 @@
     <desc>PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far using match footage.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="12453" start="20260122141500 +0700" stop="20260123000000 +0700">
+  <programme channel="12453" start="20260122141500 +0700" stop="20260122151500 +0700">
     <title lang="zh">Premier League Review</title>
     <desc>A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122151500 +0700" stop="20260122154500 +0700">
+    <title lang="zh">PL Stories: Fabian Hurzeler</title>
+    <desc>Chart the emergence of Fabian Hürzeler, tracing his evolution from a young, inexperienced coach in his native Germany to becoming one of the Premier League's most progressive managers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122154500 +0700" stop="20260122160000 +0700">
+    <title lang="zh">PL One on One: Josh King</title>
+    <desc>Joe Thomlinson speaks with Fulham's Josh King as they discuss the influence of family, growing up in the academy, almost scoring against Chelsea and what he hopes to achieve in the future.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122160000 +0700" stop="20260122180000 +0700">
+    <title lang="zh">Premier League Years 11/12</title>
+    <desc>A look back at all of the most memorable moments from the 2011-2012 Premier League campaign. The title was decided in the most memorable fashion on the final day...</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122180000 +0700" stop="20260122181500 +0700">
+    <title lang="zh">PL Greatest:A Villa/B'Ham City '08</title>
+    <desc>A chance to relive a Premier League classic. Here, Aston Villa enjoy a 5-1 win over Midlands rivals Birmingham at Villa Park back in 2008.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122181500 +0700" stop="20260122183000 +0700">
+    <title lang="zh">PL Greatest Games: Char v WHam '01</title>
+    <desc>A chance to relive a classic clash from the Premier League. Here, rewind to 2001 and thrilling encounter between Charlton Athletic and West Ham United at The Valley.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122183000 +0700" stop="20260122184500 +0700">
+    <title lang="zh">PL Greatest Games: WHam v ManU '16</title>
+    <desc>A chance to relive a classic clash from the Premier League. Here, rewind to 2016 and a great game between West Ham and Manchester United at Upton Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122184500 +0700" stop="20260122190000 +0700">
+    <title lang="zh">PL Greatest Games:M City/L'Pool 15</title>
+    <desc>Relive a Premier League classic, as Man City face Liverpool back in November 2015. City needed a win to go back top of the table, while Liverpool were adapting to life under Jurgen Klopp.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122190000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Best Premier League Goals 11/12</title>
+    <desc>Relive some classic action from the Premier League. Here, a collection of some of the best goals from the 2011-2012 Premier League season.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122200000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">Best PL Goals: Chelsea v Arsenal</title>
+    <desc>Enjoy some of the finest goals from matches between London rivals Chelsea and Arsenal.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122203000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">Best PL Goals: Man Utd v Everton</title>
+    <desc>Enjoy some of the finest Premier League goals from past meetings between Manchester United and Everton.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122210000 +0700" stop="20260122211500 +0700">
+    <title lang="zh">PL Greatest:C Palace/L'Pool 2014</title>
+    <desc>A chance to relive a classic clash from the Premier League. Here, Crystal Palace host Liverpool at Selhurst Park towards the end of the 2013-14 season in a vital match in the title race.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122211500 +0700" stop="20260122213000 +0700">
+    <title lang="zh">PL Greatest : Man U/Man City 2009</title>
+    <desc>Relive some classic action from the Premier League archive. Here, Man Utd and Man City meet in a memorable derby encounter that produced seven goals and went to the final minute.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122213000 +0700" stop="20260122214500 +0700">
+    <title lang="zh">PL Greatest: United v Spurs '12</title>
+    <desc>A chance to relive a classic Premier League match. Here, rewind to 2012 and a thrilling five-goal game between Man Utd and Tottenham Hotspur at Old Trafford.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122214500 +0700" stop="20260122220000 +0700">
+    <title lang="zh">PL Greatest: Spurs v United '17</title>
+    <desc>A chance to relive a classic Premier League match. Here, a look back to 2017 and a clash between Tottenham Hotspur and Manchester United in Spurs' final game at White Hart Lane.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122220000 +0700" stop="20260122223000 +0700">
+    <title lang="zh">PL Legends: Thierry Henry</title>
+    <desc>Series profiling some of the greatest players to grace the Premier League. As part of Black History Month, here the focus is on former Arsenal striker Thierry Henry.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122223000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">PL Legends: Van Nistelrooy</title>
+    <desc>A profile of former Manchester United striker Ruud van Nistelrooy. The Dutchman scored 95 goals in 150 appearances for the Red Devils before moving to Real Madrid.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122230000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">PL 100 Club: Peter Crouch</title>
+    <desc>A celebration of the players to have bagged 100 goals or more in the Premier League. Here, a look at Peter Crouch, who has scored across a career at Liverpool, Spurs, Portsmouth and Stoke.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260122233000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Transfer 360: Michael Carrick</title>
+    <desc>Tasked with replacing the legendary Roy Keane at Manchester United: how did Michael Carrick handle his move from Tottenham Hotspur? Hear from him as well as former managers and teammates.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="12453" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">Good Morning Transfers</title>
+    <desc>Join Sky Sports News for all the latest updates and stories from around the transfer market, with analysis of the big talking points.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="212145">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp Tennis HD</display-name>
@@ -2110,10 +2490,55 @@
     <desc>Step behind the scenes of men's professional tennis throughout the 2026 season on the ATP Tour with special features, interviews and much more.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="212145" start="20260122140000 +0700" stop="20260123000000 +0700">
+  <programme channel="212145" start="20260122140000 +0700" stop="20260122150000 +0700">
     <title lang="zh">ATP/WTA Tour Classic Matches</title>
     <desc>Adding the Doha title to her successful Australian Open defence, Victoria Azarenka kept Serena Williams at bay as the top two seeds served up a memorable final in 2013.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122150000 +0700" stop="20260122160000 +0700">
+    <title lang="zh">Vinci v Serena 2015</title>
+    <desc>After winning the first three majors of the year, Serena Williams' pursuit of the Calendar Grand Slam ran into an unseeded Roberta Vinci in the semi-final of the 2015 US Open.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122160000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">Murray v Nadal 2008</title>
+    <desc>At the 2008 US Open, Sir Andy Murray came up against the number one seed Rafael Nadal in the men's singles semi-final at Louis Armstrong Stadium. Roger Federer would await in the final.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122170000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">United Cup Final 2026</title>
+    <desc>Iga Swiatek and Belinda Bencic get the 2026 United Cup final between Poland and Switzerland underway, while Hubert Hurkacz and Stan Wawrinka collide ahead of the mixed doubles. (11.01)</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122190000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Murray's Moments</title>
+    <desc>Aiming to emulate Andre Agassi in becoming the first player to defend the Toronto crown since 1995, Andy Murray would have to find a way past Roger Federer in a final for the first time.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122200000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">Murray's Moments</title>
+    <desc>At the 2023 US Open, 2012 champion Andy Murray fought his way to a 200th Grand Slam win by overcoming the flamboyant Frenchman Corentin Moutet in an entertaining straight-set victory.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122210000 +0700" stop="20260122220000 +0700">
+    <title lang="zh">ATP/WTA Tour Classic Matches</title>
+    <desc>A US Open finalist one month prior, Caroline Wozniacki's 2014 WTA Finals campaign got underway against then world number two Maria Sharapova in Singapore.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122220000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">ATP/WTA Tour Classic Matches</title>
+    <desc>In a rematch of the 2023 Madrid Open final, world number one Iga Swiatek and defending champion Aryna Sabalenka meet again to determine this year's women's singles champion.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260122230000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">ATP Final: Hong Kong</title>
+    <desc>Chasing his first title since the two he won back in 2022, the top-five-bound Italian Lorenzo Musetti battles Hong Kong second seed Alexander Bublik. (11.01)</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="212145" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">WTA Final: Hobart</title>
+    <desc>A women's singles champion is crowned in the final of the Hobart International.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="430092">
     <display-name lang="Russian Federation">Canal+ Foot [FR]</display-name>
@@ -2418,9 +2843,94 @@
     <desc>A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="381881" start="20260122060000 +0700" stop="20260123000000 +0700">
+  <programme channel="381881" start="20260122060000 +0700" stop="20260122070000 +0700">
     <title lang="zh">Sky Sports News</title>
     <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122070000 +0700" stop="20260122080000 +0700">
+    <title lang="zh">Sky Sports News</title>
+    <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122080000 +0700" stop="20260122090000 +0700">
+    <title lang="zh">WTA Final: Austin</title>
+    <desc>A women's singles champion is crowned in the final of the ATX Open, a WTA Tour 250 event held in Austin, Texas. (02.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122090000 +0700" stop="20260122100000 +0700">
+    <title lang="zh">WTA Final: Merida</title>
+    <desc>A women's singles champion is crowned in the final of the Merida Open Akron, a WTA Tour 500 event held in Mexico. (02.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122100000 +0700" stop="20260122110000 +0700">
+    <title lang="zh">WTA Final: Indian Wells</title>
+    <desc>Mirra Andreeva meets top seed Aryna Sabalenka in the Indian Wells final. Sabalenka avenged her Australian Open defeat to Keys in the semis, while Andreeva dethroned Swiatek. (16.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122110000 +0700" stop="20260122120000 +0700">
+    <title lang="zh">WTA Final: Miami</title>
+    <desc>In Miami, the women's final get underway as top seed Aryna Sabalenka meets with home favourite Jessica Pegula in a repeat of last year's US Open decider. (29.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122120000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">WTA Final: Bogota</title>
+    <desc>Defending champion Camila Osorio targets a third trophy on home soil as the two-time Bogota winner takes on 32-year-old Polish qualifier Katarzyna Kawa in the final. (06.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122130000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">Sky Sports News</title>
+    <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122140000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">Sky Sports Breakfast</title>
+    <desc>Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122150000 +0700" stop="20260122153000 +0700">
+    <title lang="zh">Sky Sports Breakfast</title>
+    <desc>Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122153000 +0700" stop="20260122160000 +0700">
+    <title lang="zh">Transfer 360: Michael Carrick</title>
+    <desc>Tasked with replacing the legendary Roy Keane at Manchester United: how did Michael Carrick handle his move from Tottenham Hotspur? Hear from him as well as former managers and teammates.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122160000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">Good Morning Transfers</title>
+    <desc>Join Sky Sports News for all the latest updates and stories from around the transfer market, with analysis of the big talking points.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122170000 +0700" stop="20260122180000 +0700">
+    <title lang="zh">Live: Sky Sports FC</title>
+    <desc>Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122180000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">Live: Sky Sports FC</title>
+    <desc>Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122190000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Transfer Talk</title>
+    <desc>The Sky Sports team break down all the latest talking points from the January transfer window, with analysis and discussion of the major headlines.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122200000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">Lunchtime Live</title>
+    <desc>Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122203000 +0700" stop="20260122205000 +0700">
+    <title lang="zh">Lunchtime Live</title>
+    <desc>Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="381881" start="20260122205000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Live WPL Gujarat G v UP Warriorz</title>
+    <desc>Gujarat Giants take on UP Warriorz in the WPL.</desc>
     <date>2026-01-22</date>
   </programme>
 <channel id="400477">
@@ -2542,10 +3052,30 @@
     <desc>).</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="400477" start="20260122103000 +0700" stop="20260123000000 +0700">
+  <programme channel="400477" start="20260122103000 +0700" stop="20260122123000 +0700">
     <title lang="zh">Live: Australian Open (?)</title>
     <desc>).</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="400477" start="20260122123000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400477" start="20260122140000 +0700" stop="20260122153000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400477" start="20260122153000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Live: One Day International Cricket</title>
+    <desc>Sri Lanka v England. Coverage of the first match of the three-game series, held at R. Premadasa Stadium in Colombo. The teams have not met here in this format since 2018, when the hosts claimed a dominant 219-run victory via the Duckworth-Lewis Method.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400477" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">Live UEFA Europa League</title>
+    <desc>Fenerbahce v Aston Villa (Kick-off 5.45pm). Coverage of the matchday seven fixture at Sükrü Saracoglu Stadium. The Villans are enjoying a strong European campaign so far, winning five of their six matches, but face a potentially tough test in Turkey against a team who will also be targeting a place in the top eight of the table to earn qualification for the last 16.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -2786,10 +3316,110 @@
     <desc>Action from the 13th round of fixtures.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="400480" start="20260122120000 +0700" stop="20260123000000 +0700">
+  <programme channel="400480" start="20260122120000 +0700" stop="20260122123000 +0700">
     <title lang="zh">Serie A - Full Impact</title>
     <desc>All the best moments from the latest matches.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122123000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">The WRC Magazine</title>
+    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122130000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Wednesday's fixtures, including Marseille v Liverpool, Newcastle United v PSV Eindhoven, and Chelsea v Pafos.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122140000 +0700" stop="20260122143000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122143000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A fast-paced look at all the best action.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122150000 +0700" stop="20260122153000 +0700">
+    <title lang="zh">Premier League Stories</title>
+    <desc>The emergence of Brighton \u0026 Hove Albion manager Fabian Hurzeler.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122153000 +0700" stop="20260122160000 +0700">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from the latest matches.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122160000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v New Zealand. Action from the first T20 in the five-match series from Vidarbha Cricket Association Stadium in Jamtha, India.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122170000 +0700" stop="20260122173000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Marseille v Liverpool.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122173000 +0700" stop="20260122180000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Newcastle United v PSV Eindhoven.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122180000 +0700" stop="20260122183000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Chelsea v Pafos.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122183000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Galatasaray v Atletico Madrid.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122190000 +0700" stop="20260122193000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Atalanta v Athletic Bilbao.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122193000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Juventus v Benfica.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122200000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Slavia Prague v Barcelona.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122203000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Bayern Munich v Union Saint-Gilloise.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122210000 +0700" stop="20260122213000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Qarabag v Eintracht Frankfurt.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122213000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from Group 3 of the Women's Champions League.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122230000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">Match Officials Mic'd Up</title>
+    <desc>PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260122233000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with Fulham midfielder Harry Wilson.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400480" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">Live UEFA Europa League</title>
+    <desc>Bologna v Celtic (Kick-off 5.45pm). Coverage of the league phase match from Stadio Renato Dall'Ara. The visitors are currently occupying 24th place in the table at the moment and will looking to give themselves a chance of at least making it into the play-off picture with a victory here. Their hosts are faring better in 13th place right now and a victory would help their chances of finishing in th</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
@@ -2880,10 +3510,50 @@
     <desc>Coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="400479" start="20260122103000 +0700" stop="20260123000000 +0700">
+  <programme channel="400479" start="20260122103000 +0700" stop="20260122123000 +0700">
     <title lang="zh">Live: Australian Open</title>
     <desc>Further coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122123000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122140000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122170000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day five of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122203000 +0700" stop="20260122213000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v New Zealand. Action from the first T20 in the five-match series from Vidarbha Cricket Association Stadium in Jamtha, India.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122213000 +0700" stop="20260122223000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Wednesday's fixtures, including Marseille v Liverpool, Newcastle United v PSV Eindhoven, and Chelsea v Pafos.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122223000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260122230000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Live: World Ski Flying Championship</title>
+    <desc>Coverage of the qualifying for the first event of the season, which takes place in Oberstdorf, Germany.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400479" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">Discovery Golf</title>
+    <desc>A weekly show featuring the latest news from the world of golf.</desc>
+    <date>2026-01-23</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
@@ -3019,9 +3689,49 @@
     <desc>Continued coverage of day five of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="400478" start="20260122103000 +0700" stop="20260123000000 +0700">
+  <programme channel="400478" start="20260122103000 +0700" stop="20260122123000 +0700">
     <title lang="zh">Live: Australian Open</title>
     <desc>Continued coverage of day five of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122123000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day five of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122150000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day five of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122170000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day five of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122200000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the latest matches, including Nottingham Forest v Arsenal, Manchester United v Manchester City, and Tottenham Hotspur v West Ham United.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122210000 +0700" stop="20260122213000 +0700">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from the latest matches.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122213000 +0700" stop="20260122220000 +0700">
+    <title lang="zh">The WRC Magazine</title>
+    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122220000 +0700" stop="20260122233000 +0700">
+    <title lang="zh">Live World Rally Championship</title>
+    <desc>The Rallye Monte Carlo. Coverage from Special Stage one of the first round of the season, which takes place in Monte-Carlo.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="400478" start="20260122233000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of the 2025 Blue Fin Tuna Championship.</desc>
     <date>2026-01-22</date>
   </programme>
 <channel id="369822">
@@ -3611,9 +4321,94 @@
     <desc>A look at the latest news from the world of women's football.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="219100" start="20260122053000 +0700" stop="20260123000000 +0700">
+  <programme channel="219100" start="20260122053000 +0700" stop="20260122073000 +0700">
     <title lang="zh">Eredivisie</title>
     <desc>PEC Zwolle v AZ Alkmaar.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122073000 +0700" stop="20260122093000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Los Angeles Kings v New York Rangers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122093000 +0700" stop="20260122123000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Calgary Flames v Pittsburgh Penguins (Face-off 2.30am). Coverage of the inter-conference match from Scotiabank Saddledome.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122123000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Argentina.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122130000 +0700" stop="20260122133000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122133000 +0700" stop="20260122140000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122140000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">NHL Tonight</title>
+    <desc>A countdown of the top 20 defensemen currently in the NHL.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122150000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Calgary Flames v Pittsburgh Penguins.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122170000 +0700" stop="20260122190000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Glasgow Warriors v Saracens.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122190000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">Scottish Football Social Club</title>
+    <desc>A round-up of the latest news and results.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122200000 +0700" stop="20260122201000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Celta Vigo v Rayo Vallecano.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122201000 +0700" stop="20260122202000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Sociedad v Barcelona.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122202000 +0700" stop="20260122203000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Elche v Sevilla.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122203000 +0700" stop="20260122210000 +0700">
+    <title lang="zh">Sporting Countdowns</title>
+    <desc>Focusing on some of the most memorable moments in sports history.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122210000 +0700" stop="20260122213000 +0700">
+    <title lang="zh">NHL on the Fly</title>
+    <desc>Catch up on all the latest NHL news.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122213000 +0700" stop="20260122220000 +0700">
+    <title lang="zh">Champions Cup Show</title>
+    <desc>Get all the insights about the EPCR European Cup competitions in this magazine show.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122220000 +0700" stop="20260122230000 +0700">
+    <title lang="zh">Eredivisie Highlights</title>
+    <desc>Action from the latest round of fixtures.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219100" start="20260122230000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Swedish Hockey League</title>
+    <desc>Djurgarden v Vaxjo.</desc>
     <date>2026-01-22</date>
   </programme>
 <channel id="219104">
@@ -3725,9 +4520,74 @@
     <desc>The finest players in history discuss their careers.</desc>
     <date>2026-01-22</date>
   </programme>
-  <programme channel="219104" start="20260122050000 +0700" stop="20260123000000 +0700">
+  <programme channel="219104" start="20260122050000 +0700" stop="20260122070000 +0700">
     <title lang="zh">NHL Ice Hockey</title>
     <desc>Dallas Stars v Boston Bruins.</desc>
     <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122070000 +0700" stop="20260122100000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Toronto Maple Leafs v Detroit Red Wings (Face-off 12.00am). Coverage of the Eastern Conference match from Scotiabank Arena.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122100000 +0700" stop="20260122103000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122103000 +0700" stop="20260122110000 +0700">
+    <title lang="zh">FastZone</title>
+    <desc>Weekly Motorsports highlights show.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122110000 +0700" stop="20260122120000 +0700">
+    <title lang="zh">NHL Tonight</title>
+    <desc>A look at the top 50 players, focusing on those ranked 21-30.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122120000 +0700" stop="20260122130000 +0700">
+    <title lang="zh">NHL Tonight</title>
+    <desc>A look at the top 50 players, focusing on those ranked 11-20.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122130000 +0700" stop="20260122150000 +0700">
+    <title lang="zh">Eredivisie</title>
+    <desc>Feyenoord v Sparta Rotterdam.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122150000 +0700" stop="20260122170000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Toronto Maple Leafs v Detroit Red Wings.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122170000 +0700" stop="20260122173000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc>The finest players in history discuss their careers.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122173000 +0700" stop="20260122193000 +0700">
+    <title lang="zh">Challenge Cup</title>
+    <desc>Exeter Chiefs v Cardiff.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122193000 +0700" stop="20260122200000 +0700">
+    <title lang="zh">FastZone</title>
+    <desc>Weekly Motorsports highlights show.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122200000 +0700" stop="20260122220000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Osasuna v Oviedo.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260122220000 +0700" stop="20260123000000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Gloucester v Toulon.</desc>
+    <date>2026-01-22</date>
+  </programme>
+  <programme channel="219104" start="20260123000000 +0700" stop="20260124000000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues.</desc>
+    <date>2026-01-23</date>
   </programme>
 </tv>
