@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
 # Dalvik/2.1.0 (Linux; U; Android 16; CPH2791 Build/TP1A.251005.001)
-
+# Mozilla/5.0 (Linux; Android 15; SM-A057F Build/AP3A.240905.015.A2.A057FXXSBDYJ1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png", VTV1 HD
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 
