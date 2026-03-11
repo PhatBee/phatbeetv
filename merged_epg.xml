@@ -463,10 +463,30 @@
     <desc>Driving Caliban, Suletta confronts Ericht. The rocket carrying Miorine and the others makes its way into Quiet Zero.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="369848" start="20260313220000 +0700" stop="20260314000000 +0700">
+  <programme channel="369848" start="20260313220000 +0700" stop="20260313223000 +0700">
     <title lang="zh">WITCH WATCH</title>
     <desc>After two years of training, Alicia sets out for the village of Roana, where she achieves something remarkable.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313223000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito tells Nico to keep her witch identity secret at the start of high school, but her magic causes trouble.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313230000 +0700" stop="20260313233000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Liliya, Lily's clone, attends school as her stand-in, teasing Akutsu before calling him out at lunch.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260313233000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Lily's brother, Zwei, appears. Sensing Lily's uneasy smile, Akutsu follows—only to find her trembling as Zwei points a saber at her…!?</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="369848" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">MOBILE SUIT GUNDAM THE WITCH FROM MERCURY SEASON2</title>
+    <desc>Determined to stop them, Suletta heads to the front of Benerit's headquarters to board the new Gundam, Caliban.</desc>
+    <date>2026-03-14</date>
   </programme>
 <channel id="55773">
     <display-name lang="France">beIN SPORTS 1</display-name>
@@ -617,9 +637,79 @@
     <desc>L'équipe de France entame sa campagne de qualifications pour la prochaine Coupe du monde de basket en Allemagne par une rencontre face aux Philippines. Parmi les cadres présentes, on retrouve la joueuse de Fenerbahçe, Marième Badiane, qui fait valoir son expérience dans ce genre de rencontres pour aider ses coéquipières à remporter une victoire précieuse.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="55773" start="20260313061500 +0700" stop="20260314000000 +0700">
+  <programme channel="55773" start="20260313061500 +0700" stop="20260313081500 +0700">
     <title lang="zh">Football : Liga</title>
     <desc>Diffusion d'un match de LaLiga EA Sports, championnat d'Espagne de football très prestigieux : la plus haute compétition de football d'Espagne.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313081500 +0700" stop="20260313101500 +0700">
+    <title lang="zh">Football : Championnat du Portugal</title>
+    <desc>Retransmission d'un match du Championnat du Portugal de football. Fondée en 1934, il s'agit de la plus haute compétition de football du Portugal.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313101500 +0700" stop="20260313111500 +0700">
+    <title lang="zh">Présidents propriétaires, la fin d'une ère</title>
+    <desc>Pour comprendre la particularité de leur rôle, plusieurs présidents propriétaires de clubs de football témoignent sur leur quotidien. Laurent Nicollin (Montpellier HSC), Waldemar et Franck Kita (FC Nantes), Joseph Oughourlian (RC Lens), ou encore Jean-Pierre Caillot (Stade de Reims) racontent la spécificité de leur position, leur passion pour leur club et révèlent les sacrifices, les décisions dif</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313111500 +0700" stop="20260313114500 +0700">
+    <title lang="zh">Le film du Super Bowl LX</title>
+    <desc>Retour sur les temps forts du Super Bowl LX qui a opposé les New England Patriots aux Seattle Seahawks en finale de la saison 2025/2026 de la NFL.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313114500 +0700" stop="20260313120000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313120000 +0700" stop="20260313140000 +0700">
+    <title lang="zh">Football : Coupe d'Angleterre</title>
+    <desc>Les Gunners d'Arsenal devraient logiquement passer l'obstacle de Mansfield Town, club de EFL League One (3e division) dans ce match de FA Cup.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313140000 +0700" stop="20260313160000 +0700">
+    <title lang="zh">Football : Ligue 2 BKT</title>
+    <desc>Retransmission d'une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313160000 +0700" stop="20260313163000 +0700">
+    <title lang="zh">Made in England</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313163000 +0700" stop="20260313170000 +0700">
+    <title lang="zh">beIN Zap</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313170000 +0700" stop="20260313184500 +0700">
+    <title lang="zh">Basket-ball : Qualifications à la Coupe du monde féminine</title>
+    <desc>L'équipe de France entame sa campagne de qualifications pour la prochaine Coupe du monde de basket en Allemagne par une rencontre face aux Philippines. Parmi les cadres présentes, on retrouve la joueuse de Fenerbahçe, Marième Badiane, qui fait valoir son expérience dans ce genre de rencontres pour aider ses coéquipières à remporter une victoire précieuse.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313184500 +0700" stop="20260313193000 +0700">
+    <title lang="zh">NBA Extra</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313193000 +0700" stop="20260313213000 +0700">
+    <title lang="zh">Football : Bundesliga</title>
+    <desc>Suivez les plus belles affiches de la Bundesliga, le championnat de football allemand. C'est la plus haute compétition de football d'Allemagne.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313213000 +0700" stop="20260313220000 +0700">
+    <title lang="zh">Terrains d'espoirs</title>
+    <desc>Le parcours des jeunes footballeurs camerounais lors de tournois de détection organisés à Yaoundé, véritable tremplin vers le monde professionnel, à l'image de Wilfried Singo et André-Frank Zambo Anguissa.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313220000 +0700" stop="20260313223000 +0700">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55773" start="20260313223000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">Football : Coupe d'Angleterre</title>
+    <desc>Déjà tombeur de Nottingham Forest, formation de Premier League, au troisième tour (3-3, 4-3 aux t.a.b.), le club gallois de l'AFC Wrexham va, cette fois, recevoir un cador de l'élite anglaise, Chelsea, pour le compte des 8es de finale de la Coupe d'Angleterre. Les "Red Dragons" de l'acteur Ryan Reynolds figurent en sixième position de Championship (D2),.</desc>
     <date>2026-03-13</date>
   </programme>
 <channel id="443147">
@@ -741,10 +831,60 @@
     <desc>Diffusion d'un match de LaLiga EA Sports, championnat d'Espagne de football très prestigieux : la plus haute compétition de football d'Espagne.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="443147" start="20260313063000 +0700" stop="20260314000000 +0700">
+  <programme channel="443147" start="20260313063000 +0700" stop="20260313083000 +0700">
     <title lang="zh">Football : Coupe d'Angleterre</title>
     <desc>Retransmission d'un match de la Coupe d'Angleterre de football.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313083000 +0700" stop="20260313103000 +0700">
+    <title lang="zh">Football : Ligue 2 BKT</title>
+    <desc>Retransmission d'une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313103000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">This is Paris</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313110000 +0700" stop="20260313120000 +0700">
+    <title lang="zh">Passion sous pression</title>
+    <desc>Ils sont souvent critiqués mais sont ils sont nombreux en France. Qui sont les arbitres amateurs ou internationaux, qui sont avant tout des passionnés du jeu et du sport ?</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313120000 +0700" stop="20260313140000 +0700">
+    <title lang="zh">Football : Coupe d'Angleterre</title>
+    <desc>Les Magpies de Newcastle United espèrent créer un exploit contre Manchester City dans ce 8e de finale de la Coupe d'Angleterre.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313140000 +0700" stop="20260313160000 +0700">
+    <title lang="zh">Football : Liga</title>
+    <desc>Diffusion d'un match de LaLiga EA Sports, championnat d'Espagne de football très prestigieux : la plus haute compétition de football d'Espagne.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313160000 +0700" stop="20260313180000 +0700">
+    <title lang="zh">Football : Bundesliga</title>
+    <desc>Suivez les plus belles affiches de la Bundesliga, le championnat de football allemand. C'est la plus haute compétition de football d'Allemagne.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313180000 +0700" stop="20260313200000 +0700">
+    <title lang="zh">Football : Coupe d'Angleterre</title>
+    <desc>Retransmission d'un match de la Coupe d'Angleterre de football.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313200000 +0700" stop="20260313220000 +0700">
+    <title lang="zh">Football : Liga</title>
+    <desc>Diffusion d'un match de LaLiga EA Sports, championnat d'Espagne de football très prestigieux : la plus haute compétition de football d'Espagne.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260313220000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">Football : Ligue 2 BKT</title>
+    <desc>Retransmission d'une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443147" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">Football : Süper Lig</title>
+    <desc>Retransmission d'un match du championnat de Turquie de football, appelé Süper Lig.</desc>
+    <date>2026-03-14</date>
   </programme>
 <channel id="54963">
     <display-name lang="France">beIN SPORTS 3</display-name>
@@ -825,10 +965,65 @@
     <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="54963" start="20260313040000 +0700" stop="20260314000000 +0700">
+  <programme channel="54963" start="20260313040000 +0700" stop="20260313070000 +0700">
     <title lang="zh">Tennis : Tournoi WTA d'Indian Wells</title>
     <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313070000 +0700" stop="20260313111500 +0700">
+    <title lang="zh">Tennis : Tournoi WTA d'Indian Wells</title>
+    <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313111500 +0700" stop="20260313120000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313120000 +0700" stop="20260313140000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313140000 +0700" stop="20260313160000 +0700">
+    <title lang="zh">Rugby à XIII : NRL</title>
+    <desc>Diffusion du match des All Stars de la NRA, la fédération australienne de rugby à XIII.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313160000 +0700" stop="20260313180000 +0700">
+    <title lang="zh">Rugby à XIII : NRL</title>
+    <desc>Diffusion du match des All Stars de la NRA, la fédération australienne de rugby à XIII.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313180000 +0700" stop="20260313200000 +0700">
+    <title lang="zh">Volley-ball : Marmara SpikeLigue</title>
+    <desc>Suivez les rencontres de la Marmara SpikeLigue, le championnat de France masculin de volley-ball.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313200000 +0700" stop="20260313203000 +0700">
+    <title lang="zh">Salon VIP</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313203000 +0700" stop="20260313220000 +0700">
+    <title lang="zh">Handball : Championnat de France féminin</title>
+    <desc>Retransmission d'un match de la Ligue Butagaz Energie, la plus haute division de handball professionnel féminin en France.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313220000 +0700" stop="20260313223000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260313223000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">Basket-ball : NCAA</title>
+    <desc>Diffusion d'un match de NCAA, le championnat universitaire américain de Basket-ball.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="54963" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">Ça se passe sur beIN SPORTS</title>
+    <desc />
+    <date>2026-03-14</date>
   </programme>
 <channel id="443239">
     <display-name lang="France">beIN SPORTS MAX 4</display-name>
@@ -884,9 +1079,34 @@
     <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="443239" start="20260313040000 +0700" stop="20260314000000 +0700">
+  <programme channel="443239" start="20260313040000 +0700" stop="20260313090000 +0700">
     <title lang="zh">Tennis : Tournoi WTA d'Indian Wells</title>
     <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443239" start="20260313090000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">Tennis : Tournoi WTA d'Indian Wells</title>
+    <desc>Retransmission d'un match de tennis du tournoi WTA d'Indian Wells.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443239" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443239" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443239" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443239" start="20260313230000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
     <date>2026-03-13</date>
   </programme>
 <channel id="443103">
@@ -958,7 +1178,37 @@
     <desc>Retransmission d'un match de la Ligue Butagaz Energie, la plus haute division de handball professionnel féminin en France.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="443103" start="20260313034500 +0700" stop="20260314000000 +0700">
+  <programme channel="443103" start="20260313034500 +0700" stop="20260313070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313070000 +0700" stop="20260313100000 +0700">
+    <title lang="zh">Hockey sur glace : NHL</title>
+    <desc>Retransmission d'un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313100000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443103" start="20260313230000 +0700" stop="20260314000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-03-13</date>
@@ -1027,9 +1277,34 @@
     <desc />
     <date>2026-03-13</date>
   </programme>
-  <programme channel="55982" start="20260313065000 +0700" stop="20260314000000 +0700">
+  <programme channel="55982" start="20260313065000 +0700" stop="20260313090000 +0700">
     <title lang="zh">Basket-ball : Qualifications à la Coupe du monde féminine</title>
     <desc>Diffusion d'un match de qualifications à la Coupe du monde de Basket-ball féminine.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55982" start="20260313090000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55982" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55982" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55982" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55982" start="20260313230000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
     <date>2026-03-13</date>
   </programme>
 <channel id="55920">
@@ -1076,7 +1351,32 @@
     <desc />
     <date>2026-03-12</date>
   </programme>
-  <programme channel="55920" start="20260313030000 +0700" stop="20260314000000 +0700">
+  <programme channel="55920" start="20260313030000 +0700" stop="20260313070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55920" start="20260313070000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55920" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55920" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55920" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55920" start="20260313230000 +0700" stop="20260314000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-03-13</date>
@@ -1120,7 +1420,32 @@
     <desc />
     <date>2026-03-12</date>
   </programme>
-  <programme channel="443213" start="20260313030000 +0700" stop="20260314000000 +0700">
+  <programme channel="443213" start="20260313030000 +0700" stop="20260313070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443213" start="20260313070000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443213" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443213" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443213" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443213" start="20260313230000 +0700" stop="20260314000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-03-13</date>
@@ -1159,7 +1484,27 @@
     <desc />
     <date>2026-03-12</date>
   </programme>
-  <programme channel="55983" start="20260313030000 +0700" stop="20260314000000 +0700">
+  <programme channel="55983" start="20260313030000 +0700" stop="20260313070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55983" start="20260313070000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55983" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55983" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="55983" start="20260313190000 +0700" stop="20260314000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-03-13</date>
@@ -1198,7 +1543,32 @@
     <desc />
     <date>2026-03-12</date>
   </programme>
-  <programme channel="443150" start="20260313030000 +0700" stop="20260314000000 +0700">
+  <programme channel="443150" start="20260313030000 +0700" stop="20260313070000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443150" start="20260313070000 +0700" stop="20260313110000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443150" start="20260313110000 +0700" stop="20260313150000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443150" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443150" start="20260313190000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
+    <desc />
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="443150" start="20260313230000 +0700" stop="20260314000000 +0700">
     <title lang="zh">beIN SPORTS, le plus grand des spectacles</title>
     <desc />
     <date>2026-03-13</date>
@@ -1951,10 +2321,95 @@
     <desc>Get the inside story on how an unknown French midfielder became one of Arsenal's greatest stars. Hear from Patrick Vieira himself and Arsene Wenger on how the deal happened.</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="12453" start="20260313140000 +0700" stop="20260314000000 +0700">
+  <programme channel="12453" start="20260313140000 +0700" stop="20260313160000 +0700">
     <title lang="zh">Premier League Years 2021-2022</title>
     <desc>Revisit the annals of Premier League history by taking a look at the 2021-2022 season, a year that saw another unrelenting title battle between two standard-bearers of English football.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313160000 +0700" stop="20260313180000 +0700">
+    <title lang="zh">PL Retro:Liverpool v Man City 2014</title>
+    <desc>A chance to relive a classic match from the 2013-14 Premier League as title chasers Liverpool and Manchester City go head-to-head in a memorable clash at Anfield.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313180000 +0700" stop="20260313181500 +0700">
+    <title lang="zh">Premier League Greatest Games</title>
+    <desc>A chance to relive a classic match from the Premier League. Here Liverpool, who have yet to lose a game this season, and Watford meet at Vicarage Road in the 2019-20 campaign.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313181500 +0700" stop="20260313183000 +0700">
+    <title lang="zh">Premier League Greatest Games</title>
+    <desc>Take a look back at Leicester City's record-equalling 9-0 demolition of the Saints during the 2019-20 Premier League season, as the Foxes tore 10-man Southampton to shreds.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313183000 +0700" stop="20260313184500 +0700">
+    <title lang="zh">Premier League Greatest Games</title>
+    <desc>Revisit a classic serving of Premier League action, as West Ham and a struggling Newcastle United came to blows during the 2019-20 campaign.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313184500 +0700" stop="20260313190000 +0700">
+    <title lang="zh">Premier League Greatest Games</title>
+    <desc>A chance to relive a classic match from the Premier League. Here, West Ham United welcome Brighton &amp; Hove Albion to London Stadium for a thrilling tussle in the 2019-20 campaign.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313190000 +0700" stop="20260313200000 +0700">
+    <title lang="zh">Best Premier League Goals 97/98</title>
+    <desc>Relive some of the best goals in years gone by from the Premier League. Here, the finest strikes from the 97-98 campaign, a year in which Arsenal took their first Premier League crown.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313200000 +0700" stop="20260313203000 +0700">
+    <title lang="zh">Best PL Goals: Manchester United</title>
+    <desc>Enjoy the best Premier League goals scored by Manchester United over the years. See strikes from legends of the game including Ryan Giggs, David Beckham and more.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313203000 +0700" stop="20260313210000 +0700">
+    <title lang="zh">Best PL Goals: Manchester City</title>
+    <desc>A look at the very best goals scored by Manchester City in the history of the Premier League.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313210000 +0700" stop="20260313211500 +0700">
+    <title lang="zh">PL Greatest Games:Man Utd/Man City</title>
+    <desc>A chance to relive some classic action from the Premier League. Here, a memorable Manchester derby at Old Trafford back in the 2011-12 season that saw a six-goal Man City run rampant.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313211500 +0700" stop="20260313213000 +0700">
+    <title lang="zh">PL Greatest Games:Man U/Arsenal 01</title>
+    <desc>A chance to relive some classic action from the Premier League. Here, Manchester United versus Arsenal back in the 2000-01 season in a one-sided game that saw seven goals.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313213000 +0700" stop="20260313214500 +0700">
+    <title lang="zh">PL Greatest Games: L'pool/Newc 96</title>
+    <desc>A chance to relive a classic match from the Premier League. Here, rewind to the seven-goal thriller between Liverpool and Newcastle United at Anfield back in the 1995-96 season.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313214500 +0700" stop="20260313220000 +0700">
+    <title lang="zh">PL Greatest Games:Spurs/Chelsea 08</title>
+    <desc>Relive a classic match from the Premier League. Here, Spurs and Chelsea go head-to-head at White Hart Lane in an end-to-end encounter that produced eight goals.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313220000 +0700" stop="20260313223000 +0700">
+    <title lang="zh">PL Legends: Andrew Cole</title>
+    <desc>Series profiling some of the greatest players to grace the Barclays Premier League. As part of Black History Month, here the focus is on former Newcastle United striker Andy Cole.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313223000 +0700" stop="20260313230000 +0700">
+    <title lang="zh">PL Legends: Jamie Carragher</title>
+    <desc>A profile of former Liverpool player Jamie Carragher. The defender spent his whole senior career at Anfield, winning numerous trophies including the 2005 UEFA Champions League.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313230000 +0700" stop="20260313233000 +0700">
+    <title lang="zh">PL 100 Club: Raheem Sterling</title>
+    <desc>Raheem Sterling, the boy from Brent, has stamped his mark on the annals of Premier League history, joining the famed PL 100 Club as one of the top flight's most prolific marksmen.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260313233000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">PL 100 Club: Andy Cole</title>
+    <desc>Series profiling some of the greatest players to grace the Barclays Premier League. Here the focus is on former Newcastle United and Manchester United striker Andy Cole.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="12453" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">PL Stories: Unai Emery</title>
+    <desc>As the spotlight shines on Unai Emery, trace the journey of one of Europe's most meticulous and innovative coaches from his roots in Spain to the pinnacle of the Premier League.</desc>
+    <date>2026-03-14</date>
   </programme>
 <channel id="212145">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp Tennis HD</display-name>
@@ -1965,24 +2420,49 @@
     <desc>Jannik Sinner's pursuit of a maiden Indian Wells title continues with a last-16 clash against Brazilian youngster Joao Fonseca. (10.03)</desc>
     <date>2026-03-12</date>
   </programme>
-  <programme channel="212145" start="20260312020000 +0700" stop="20260312030000 +0700">
+  <programme channel="212145" start="20260312020000 +0700" stop="20260312020500 +0700">
     <title lang="zh">ATP Final: Dallas</title>
     <desc>Taylor Fritz and Ben Shelton - the Dallas top two - vie for the crown. Fritz downed Marin Cilic in the semi-finals, while Shelton dethroned reigning champion Denis Shapovalov. (15.02)</desc>
     <date>2026-03-12</date>
   </programme>
-  <programme channel="212145" start="20260312030000 +0700" stop="20260312040000 +0700">
+  <programme channel="212145" start="20260312020500 +0700" stop="20260312030000 +0700">
+    <title lang="zh">ATP Final: Dallas</title>
+    <desc>Taylor Fritz and Ben Shelton - the Dallas top two - vie for the crown. Fritz downed Marin Cilic in the semi-finals, while Shelton dethroned reigning champion Denis Shapovalov. (15.02)</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="212145" start="20260312030000 +0700" stop="20260312031000 +0700">
     <title lang="zh">ATP Final: Acapulco</title>
     <desc>Frances Tiafoe targets a first ATP title since 2023 as the American meets fifth seed Flavio Cobolli in the Acapulco final. Tiafoe leads the pair's head-to-head record 2-0. (28.02)</desc>
     <date>2026-03-12</date>
   </programme>
-  <programme channel="212145" start="20260312040000 +0700" stop="20260312043000 +0700">
+  <programme channel="212145" start="20260312031000 +0700" stop="20260312040000 +0700">
+    <title lang="zh">ATP Final: Acapulco</title>
+    <desc>Frances Tiafoe targets a first ATP title since 2023 as the American meets fifth seed Flavio Cobolli in the Acapulco final. Tiafoe leads the pair's head-to-head record 2-0. (28.02)</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="212145" start="20260312040000 +0700" stop="20260312041000 +0700">
     <title lang="zh">WTA Doha 2026 Review</title>
     <desc>A review of the 2026 Qatar Open - the first WTA 1000 event of the season.</desc>
     <date>2026-03-12</date>
   </programme>
-  <programme channel="212145" start="20260312043000 +0700" stop="20260312063000 +0700">
+  <programme channel="212145" start="20260312041000 +0700" stop="20260312043000 +0700">
+    <title lang="zh">WTA Doha 2026 Review</title>
+    <desc>A review of the 2026 Qatar Open - the first WTA 1000 event of the season.</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="212145" start="20260312043000 +0700" stop="20260312044000 +0700">
     <title lang="zh">Indian Wells: Sabalenka v Osaka</title>
     <desc>World number one Aryna Sabalenka faces 16th seed Naomi Osaka in a meeting of two four-time Grand Slam winners in the Indian Wells round of 16. (10.03)</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="212145" start="20260312044000 +0700" stop="20260312062000 +0700">
+    <title lang="zh">Indian Wells: Sabalenka v Osaka</title>
+    <desc>World number one Aryna Sabalenka faces 16th seed Naomi Osaka in a meeting of two four-time Grand Slam winners in the Indian Wells round of 16. (10.03)</desc>
+    <date>2026-03-12</date>
+  </programme>
+  <programme channel="212145" start="20260312062000 +0700" stop="20260312063000 +0700">
+    <title lang="zh">Indian Wells: Fonseca v Sinner</title>
+    <desc>Jannik Sinner's pursuit of a maiden Indian Wells title continues with a last-16 clash against Brazilian youngster Joao Fonseca. (10.03)</desc>
     <date>2026-03-12</date>
   </programme>
   <programme channel="212145" start="20260312063000 +0700" stop="20260312083000 +0700">
@@ -1992,12 +2472,12 @@
   </programme>
   <programme channel="212145" start="20260312083000 +0700" stop="20260312160000 +0700">
     <title lang="zh">Live: ATP/WTA Indian Wells</title>
-    <desc>Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc>With Brits Cam Norrie and Sonay Kartal in last-16 action, facing Rinky Hijikata and Elena Rybakina, world number one Carlos Alcaraz plays Casper Ruud and Jess Pegula meets Belinda Bencic.</desc>
     <date>2026-03-12</date>
   </programme>
   <programme channel="212145" start="20260312160000 +0700" stop="20260312180000 +0700">
     <title lang="zh">Live: ATP/WTA Indian Wells</title>
-    <desc>Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc>British number one Jack Draper - the defending Indian Wells champion - goes up against five-time winner Novak Djokovic. The Serb enters the last 16 for the first time since 2017.</desc>
     <date>2026-03-12</date>
   </programme>
   <programme channel="212145" start="20260312180000 +0700" stop="20260312183000 +0700">
@@ -2042,12 +2522,12 @@
   </programme>
   <programme channel="212145" start="20260312220000 +0700" stop="20260313000000 +0700">
     <title lang="zh">Tennis Highlights</title>
-    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <desc>Sonay Kartal, the first British woman to reach the fourth round here twice, targets her second WTA 1000 quarter-final in a clash with the Australian Open champion Elena Rybakina. (11.03)</desc>
     <date>2026-03-12</date>
   </programme>
   <programme channel="212145" start="20260313000000 +0700" stop="20260313020000 +0700">
     <title lang="zh">Tennis Highlights</title>
-    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <desc>British number one Jack Draper - the defending Indian Wells champion - goes up against five-time winner Novak Djokovic. The Serb enters the last 16 for the first time since 2017. (11.03)</desc>
     <date>2026-03-13</date>
   </programme>
   <programme channel="212145" start="20260313020000 +0700" stop="20260313030000 +0700">
@@ -2067,18 +2547,63 @@
   </programme>
   <programme channel="212145" start="20260313043000 +0700" stop="20260313063000 +0700">
     <title lang="zh">Tennis Highlights</title>
-    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <desc>Sonay Kartal, the first British woman to reach the fourth round here twice, targets her second WTA 1000 quarter-final in a clash with the Australian Open champion Elena Rybakina. (11.03)</desc>
     <date>2026-03-13</date>
   </programme>
   <programme channel="212145" start="20260313063000 +0700" stop="20260313083000 +0700">
     <title lang="zh">Tennis Highlights</title>
-    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <desc>British number one Jack Draper - the defending Indian Wells champion - goes up against five-time winner Novak Djokovic. The Serb enters the last 16 for the first time since 2017. (11.03)</desc>
     <date>2026-03-13</date>
   </programme>
-  <programme channel="212145" start="20260313083000 +0700" stop="20260314000000 +0700">
+  <programme channel="212145" start="20260313083000 +0700" stop="20260313150000 +0700">
     <title lang="zh">Live: ATP/WTA Indian Wells QFs</title>
     <desc>Enjoy live action from the ATP and WTA Tours.</desc>
     <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313150000 +0700" stop="20260313190000 +0700">
+    <title lang="zh">Live: ATP/WTA Indian Wells QFs</title>
+    <desc>Enjoy live action from the ATP and WTA Tours.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313190000 +0700" stop="20260313191500 +0700">
+    <title lang="zh">ATP Final: Paris</title>
+    <desc>A year-end champion is crowned in the French capital at the Rolex Paris Masters. (02.11)</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313191500 +0700" stop="20260313193000 +0700">
+    <title lang="zh">WTA Final: Dubai</title>
+    <desc>A women's singles champion is crowned in Dubai. Mirra Andreeva - the youngest-ever WTA finalist - and Denmark's Clara Tauson face off for glory. (22.02)</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313193000 +0700" stop="20260313194500 +0700">
+    <title lang="zh">ATP Finals: Turin Final</title>
+    <desc>World number one Carlos Alcaraz faces Italy's reigning ATP Finals champion Jannik Sinner in their sixth meeting of the year, marking the finale to the 2025 Tour season in Turin. (16.11)</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313194500 +0700" stop="20260313200000 +0700">
+    <title lang="zh">WTA Final: Indian Wells</title>
+    <desc>Mirra Andreeva meets top seed Aryna Sabalenka in the Indian Wells final. Sabalenka avenged her Australian Open defeat to Keys in the semis, while Andreeva dethroned Swiatek. (16.03)</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313200000 +0700" stop="20260313210000 +0700">
+    <title lang="zh">ATP/WTA Tour Classic Matches</title>
+    <desc>Saving four match points in the process, Roger Federer was pushed to the limit in his 2014 ATP Finals semi-final meeting with fellow Swiss superstar Stan Wawrinka.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313210000 +0700" stop="20260313220000 +0700">
+    <title lang="zh">WTA Final: Dubai</title>
+    <desc>Meeting for the first time in a final, 31-year-olds Jessica Pegula and Elina Svitolina vie for the Dubai crown. Svitolina bids to end an eight-year wait for her third title here. (21.02)</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260313220000 +0700" stop="20260314000000 +0700">
+    <title lang="zh">Tennis Highlights</title>
+    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <date>2026-03-13</date>
+  </programme>
+  <programme channel="212145" start="20260314000000 +0700" stop="20260315000000 +0700">
+    <title lang="zh">Tennis Highlights</title>
+    <desc>Revisit a standout match from yesterday's action on the WTA and ATP Tours.</desc>
+    <date>2026-03-14</date>
   </programme>
 <channel id="381881">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">SkySp+HD</display-name>
