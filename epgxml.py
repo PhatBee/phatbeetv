@@ -5,8 +5,8 @@ import gzip
 
 # Danh sách URL EPG của bạn
 urls = [
-   # 'https://lichphatsong.xyz/schedule/epg.xml.gz',
-    'https://vnepg.site/epg.xml',
+   'http://lichphatsong.site/schedule/epg.xml',
+    # 'https://vnepg.site/epg.xml',
     # 'https://live.qphim.xyz/epg.xml',
     # 'http://onnaonlinetv.xyz/epg.xml',
    'https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib19DaGlfTWluaA%3D%3D&channel_id=400477', #TNT Sports 1
