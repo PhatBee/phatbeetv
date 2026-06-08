@@ -45,7 +45,7 @@ https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV6.png",VTV6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://263.org.vn/phatbee-vtv6tt
+https://vtvgolive-ssaimh.vtvdigital.vn/b3G7w1FRxEVsxUPcwxLarg/1780872755/manifest/vtv6tt/playlist-pre_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV7.png",VTV7
 #KODIPROP:inputstream=inputstream.adaptive
