@@ -1,9 +1,14 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
 # Nhóm event
-#EXTINF:-1 tvg-id="" group-title="Event" tvg-logo="",Indonesia vs Vietnam
+#EXTINF:-1 tvg-id="" group-title="Event" tvg-logo="",Vietnam vs Campuchia
 #EXTVLCOPT:http-user-agent="Media3/1.6.1, (Linux; Android 13), AndroidXMedia3/1.6.1"
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Event" tvg-logo="",Vietnam vs Campuchia
+#EXTVLCOPT:http-user-agent="Media3/1.6.1, (Linux; Android 13), AndroidXMedia3/1.6.1"
+https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
+
 # --- Nhóm VTV --- 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png",VTV1
 #KODIPROP:inputstream=inputstream.adaptive
