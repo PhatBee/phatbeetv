@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "PhatBees"
+          git config user.name "PhatBee"
           git config user.email "vinhphatst1235@gmail.com"
           git add merged_epg.xml
           git commit -m "Auto-update merged EPG" || echo "No changes to commit"
