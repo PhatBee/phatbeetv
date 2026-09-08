@@ -10,4 +10,4 @@ Nguồn sưu tầm từ
 Nguồn epg từ
 - Bảo Chính: https://lichphatsong.xyz
 - FREE EPG: https://epg.pw/index.html
-- Ngô Văn Thành: https://vnepg.site
+- Ngô Văn Thành: [https://epg.io.vn/](https://epg.io.vn/)
