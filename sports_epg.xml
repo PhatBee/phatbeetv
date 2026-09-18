@@ -3,10 +3,21 @@
   <channel id="match.brentford.chelsea">
     <display-name>Brentford vs Chelsea</display-name>
   </channel>
+
+  <channel id="match.bayernmunich.fcunionberlin">
+    <display-name>Bayern Munich vs FC Union Berlin</display-name>
+  </channel>
   
   <programme start="20260919020000 +0700" stop="20260919040000 +0700" channel="match.brentford.chelsea">
     <title>Brentford vs Chelsea</title>
     <desc>Both London teams made a perfect start to their season with brilliant victories on the opening day. But Brentford seem formidable at home.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/1920x1080/filters:quality(80)/mht.images.prod.siec.canal.aws.io-cplus.net/program/1321225/49/1321225_49-4da1e4ca-95de-4635-8a70-e1becf15b287.jpg" />
   </programme>
+
+   <programme start="20260919013000 +0700" stop="20260919033000 +0700" channel="match.bayernmunich.fcunionberlin">
+    <title>Bayern Munich vs FC Union Berlin</title>
+    <desc>Bayern Munich đối đầu FC Union Berlin. Đội chủ sân Allianz Arena hướng đến mục tiêu giành trọn 3 điểm, trong khi Union Berlin quyết tâm tạo nên bất ngờ trước đối thủ nặng ký.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/1920x1080/filters:quality(80)/mht.images.prod.siec.canal.aws.io-cplus.net/program/1321225/49/1321225_49-4da1e4ca-95de-4635-8a70-e1becf15b287.jpg" />
+  </programme>
+  
 </tv>
