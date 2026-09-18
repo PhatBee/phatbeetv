@@ -7,3 +7,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630
+
+#EXTINF:-1 tvg-id="match.bayernmunich.fcunionberlin" group-title="Bundesliga" tvg-logo="https://wosufazagi.shorts.gy/evBGy", Bayern Munich / FC Union Berlin - Matchday 4
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://247.dpdns.org/Key/90ecaa80d34364be3a079b8245e2a2f3
+https://beest.s.gy/match-bayernmunich-fcunionberlin
+
