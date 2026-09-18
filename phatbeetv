@@ -1,3 +1,9 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/sports_epg.xml"
 
 # Nhóm sự kiện
+
+#EXTINF:-1 tvg-id="match.brentford.chelsea" group-title="Premier League Round 5" tvg-logo="", Brendford / Chelsea - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630
