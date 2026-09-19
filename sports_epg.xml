@@ -15,17 +15,39 @@
   <channel id="match.sevilla.barcelona">
     <display-name>Sevilla vs Barcelona</display-name>
   </channel>
+
+  <channel id="match.hanoibuffaloes.saigonheat">
+    <display-name>Hanoi Buffaloes vs Saigon Heat</display-name>
+  </channel>
   
-  <programme start="20260919020000 +0700" stop="20260919040000 +0700" channel="match.brentford.chelsea">
-    <title>Brentford vs Chelsea</title>
-    <desc>Both London teams made a perfect start to their season with brilliant victories on the opening day. But Brentford seem formidable at home.</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/1920x1080/filters:quality(80)/mht.images.prod.siec.canal.aws.io-cplus.net/program/1321225/49/1321225_49-4da1e4ca-95de-4635-8a70-e1becf15b287.jpg" />
+  <programme start="20260919183000 +0700" stop="20260919203000 +0700" channel="match.tottenhamsotspur.astonvilla">
+    <title>Tottenham Hotspur vs Aston Villa</title>
+    <desc</desc>
+    <icon src="https://gelimo.shorts.gy/skGRZ" />
   </programme>
 
-   <programme start="20260919013000 +0700" stop="20260919033000 +0700" channel="match.bayernmunich.fcunionberlin">
-    <title>Bayern Munich vs FC Union Berlin</title>
-    <desc>Bayern Munich đối đầu FC Union Berlin. Đội chủ sân Allianz Arena hướng đến mục tiêu giành trọn 3 điểm, trong khi Union Berlin quyết tâm tạo nên bất ngờ trước đối thủ nặng ký.</desc>
-    <icon src="https://wosufazagi.shorts.gy/evBGy" />
+   <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.brightonhomealbion.arsenal">
+    <title>Brighton & Home Albion vs Arsenal</title>
+    <desc</desc>
+    <icon src="https://momeva.shorts.gy/uGkZb" />
+  </programme>
+
+   <programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="match.stuttgart.borussiiadortmund">
+    <title>Stuttgart vs Borussia Dortmund</title>
+    <desc></desc>
+    <icon src="https://vufo.shorts.gy/zJFMr" />
+  </programme>
+
+  <programme start="20260920020000 +0700" stop="20260920040000 +0700" channel="match.sevilla.barcelona">
+    <title>Sevilla vs Barcelona</title>
+    <desc></desc>
+    <icon src="https://lalige.shorts.gy/sdiln" />
+  </programme>
+
+  <programme start="20260919190000 +0700" stop="20260919220000 +0700" channel="match.hanoibuffaloes.saigonheat">
+    <title>Hanoi Buffaloes vs Saigon Heat</title>
+    <desc></desc>
+    <icon src="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Sports/ndk6sgndk6sgndk6.webp" />
   </programme>
   
 </tv>
