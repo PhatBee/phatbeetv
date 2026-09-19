@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="PhatBeeTV">
-  <channel id="match.tottenhamsotspur.astonvilla">
-    <display-name>Tottenham Hotspur vs Aston Villa</display-name>
-  </channel>
-
-  <channel id="match.brightonhomealbion.arsenal">
-    <display-name>Brighton Home Albion vs Arsenal</display-name>
-  </channel>
-
-  <channel id="match.newcastle.hullcity">
-    <display-name>Newcastle vs Hull City </display-name>
-  </channel>
-
-  <channel id="match.everton.ipswichtown">
-    <display-name>Everton vs Ipswich Town </display-name>
-  </channel>
-
+  
   <channel id="match.stuttgart.borussiiadortmund">
     <display-name>Stuttgart vs Borussia Dortmund</display-name>
   </channel>
@@ -28,30 +13,6 @@
     <display-name>Hanoi Buffaloes vs Saigon Heat</display-name>
   </channel>
   
-  <programme start="20260919183000 +0700" stop="20260919203000 +0700" channel="match.tottenhamsotspur.astonvilla">
-    <title>Tottenham Hotspur vs Aston Villa</title>
-    <desc>Both sides return to Premier League action at the Tottenham Hotspur Stadium, each searching for their first league victory of the campaign. With crucial points on the line, expect a tactical and closely contested battle in North London.</desc>
-    <icon src="https://gelimo.shorts.gy/skGRZ" />
-  </programme>
-
-   <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.brightonhomealbion.arsenal">
-    <title>Brighton Home Albion vs Arsenal</title>
-    <desc>This match of the 5th day of the Premier League, which takes place at the American Express Stadium, pits two ambitious teams of the English championship against each other, Brighton and Arsenal.</desc>
-    <icon src="https://momeva.shorts.gy/uGkZb" />
-  </programme>
-
-  <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.newcastle.hullcity">
-    <title>Newcastle vs Hull City</title>
-    <desc>Newcastle United welcome surprise package Hull City to St. James' Park this Saturday. Eager to bounce back from recent setbacks, the hosts face a tough test against the newly-promoted visitors, who remain undefeated after four rounds. A compelling fixture as both teams strive to strengthen their positions in the top half of the table.</desc>
-    <icon src="https://yibahine.shorts.gy/rNlhh" />
-  </programme>
-
-  <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.everton.ipswichtown">
-    <title>Everton vs Ipswich Town</title>
-    <desc>Everton and Ipswich Town go head-to-head at Goodison Park this Saturday. With vital early-season points on the line, expect a competitive clash as both managers eye a positive result.</desc>
-    <icon src="https://bukuhewa.shorts.gy/mCHNX" />
-  </programme>
-
    <programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="match.stuttgart.borussiiadortmund">
     <title>Stuttgart vs Borussia Dortmund</title>
     <desc>Đón xem màn so tài hấp dẫn giữa VfB Stuttgart và Borussia Dortmund trong khuôn khổ vòng 4 giải vô địch quốc gia Đức Bundesliga. Stuttgart có lợi thế sân nhà MHPArena, nhưng Dortmund đang thể hiện phong độ cao với chuỗi trận toàn thắng ấn tượng kể từ đầu mùa. Một trận cầu cởi mở và kịch tính đang chờ đợi người hâm mộ.</desc>
