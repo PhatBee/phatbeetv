@@ -13,12 +13,22 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 tvg-id="match.stuttgart.borussiiadortmund" group-title="Bundesliga" tvg-logo="https://vufo.shorts.gy/zJFMr", Stuttgart /  Borussia Dortmund - Matchday 4
+#EXTINF:-1 tvg-id="match.newcastle.hullcity" group-title="Premier League" tvg-logo="https://yibahine.shorts.gy/rNlhh", Newcastle / Hull City - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 tvg-id="match.sevilla.barcelona" group-title="Laliga" tvg-logo="https://lalige.shorts.gy/sdiln", Sevilla /  Barcelona - Matchday 7
+#EXTINF:-1 tvg-id="match.everton.ipswichtown" group-title="Premier League" tvg-logo="https://bukuhewa.shorts.gy/mCHNX", Everton / Ipswich Town - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="match.stuttgart.borussiiadortmund" group-title="Bundesliga" tvg-logo="https://vufo.shorts.gy/zJFMr", Stuttgart / Borussia Dortmund - Matchday 4
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="match.sevilla.barcelona" group-title="Laliga" tvg-logo="https://lalige.shorts.gy/sdiln", Sevilla / Barcelona - Matchday 7
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
