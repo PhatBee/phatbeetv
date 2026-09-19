@@ -2,20 +2,10 @@
 
 # Nhóm sự kiện chính
 
-#EXTINF:-1 tvg-id="match.brightonhomealbion.arsenal" group-title="Premier League" tvg-logo="https://momeva.shorts.gy/uGkZb", Brighton & Home Albion / Arsenal - Matchday 5
+#EXTINF:-1 tvg-id="match.nottinghamforest.coventrycity" group-title="Premier League" tvg-logo="", Nottingham Forest / Coventry City - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#EXTVLCOPT:http-referrer="https://player.up909.com/"
-https://live.uu6611.com/live/hd-en-1-4558560.m3u8?txSecret=cd97440615751c61b8bdd000d1dcfef7&txTime=6AAED7AB
-
-#EXTINF:-1 tvg-id="match.newcastle.hullcity" group-title="Premier League" tvg-logo="https://yibahine.shorts.gy/rNlhh", Newcastle / Hull City - Matchday 5
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#EXTVLCOPT:http-referrer="https://player.up909.com/"
-https://live.uu6611.com/live/hd-en-1-4558575.m3u8?txSecret=c15e12f25d3222c3bd225196ba1acdb7&txTime=6AAED7C8
-
-#EXTINF:-1 tvg-id="match.everton.ipswichtown" group-title="Premier League" tvg-logo="https://bukuhewa.shorts.gy/mCHNX", Everton / Ipswich Town - Matchday 5
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#EXTVLCOPT:http-referrer="https://player.up909.com/"
-https://live.uu6611.com/live/hd-en-1-4558562.m3u8?txSecret=e2c3e2d9b4e025f05316cd0b1c4384a1&txTime=6AAED7E0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="match.stuttgart.borussiiadortmund" group-title="Bundesliga" tvg-logo="https://vufo.shorts.gy/zJFMr", Stuttgart / Borussia Dortmund - Matchday 4
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
