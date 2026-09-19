@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="match.brightonhomealbion.arsenal" group-title="Premier League" tvg-logo="https://momeva.shorts.gy/uGkZb", Brighton & Homee Albion / Arsenal - Matchday 5
+#EXTINF:-1 tvg-id="match.brightonhomealbion.arsenal" group-title="Premier League" tvg-logo="https://momeva.shorts.gy/uGkZb", Brighton & Home Albion / Arsenal - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -24,4 +24,5 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="match.hanoibuffaloes.saigonheat" group-title="VBA" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Sports/ndk6sgndk6sgndk6.webp", Hanoi Buffaloes / Saigon Heat - Final
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#EXTVLCOPT:http-user-agent="Media3/1.6.1, (Linux; Android 13), AndroidXMedia3/1.6.1"
+https://d.org.vn/match-hanoibuffaloes-saigonheat
