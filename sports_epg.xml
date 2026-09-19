@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="PhatBeeTV">
+
+  <channel id="match.nottinghamforest.coventrycity">
+    <display-name>Nottingham Forest vs Coventry City</display-name>
+  </channel>
   
   <channel id="match.stuttgart.borussiiadortmund">
     <display-name>Stuttgart vs Borussia Dortmund</display-name>
@@ -8,10 +12,6 @@
   <channel id="match.sevilla.barcelona">
     <display-name>Sevilla vs Barcelona</display-name>
   </channel>
-
-  <channel id="match.hanoibuffaloes.saigonheat">
-    <display-name>Hanoi Buffaloes vs Saigon Heat</display-name>
-  </channel>
   
    <programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="match.stuttgart.borussiiadortmund">
     <title>Stuttgart vs Borussia Dortmund</title>
@@ -19,16 +19,16 @@
     <icon src="https://vufo.shorts.gy/zJFMr" />
   </programme>
 
+   <programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="match.nottinghamforest.coventrycity">
+    <title>Nottingham Forest vs Coventry City</title>
+    <desc>Nottingham Forest look to capitalize on their home advantage against a struggling Coventry City side at the City Ground. With contrasting recent forms, this Matchday 5 fixture presents a vital opportunity for both teams to gather crucial points.</desc>
+    <icon src="https://degofoziji.shorts.gy/fGcOS" />
+  </programme>
+
   <programme start="20260920020000 +0700" stop="20260920040000 +0700" channel="match.sevilla.barcelona">
     <title>Sevilla vs Barcelona</title>
     <desc>Đón xem cuộc đối đầu giữa Sevilla và Barcelona ở vòng 7 La Liga 2026/27. Barcelona đang có chuỗi phong độ ấn tượng trong khi Sevilla nỗ lực tận dụng lợi thế sân nhà Ramón Sánchez Pizjuán để giành điểm.</desc>
     <icon src="https://lalige.shorts.gy/sdiln" />
-  </programme>
-
-  <programme start="20260919190000 +0700" stop="20260919220000 +0700" channel="match.hanoibuffaloes.saigonheat">
-    <title>Hanoi Buffaloes vs Saigon Heat</title>
-    <desc>Trực tiếp Game 1 loạt trận Chung kết giải Bóng rổ Chuyên nghiệp Việt Nam VBA 2026 giữa đương kim vô địch Hanoi Buffaloes và Saigon Heat tại Nhà thi đấu Tây Hồ.</desc>
-    <icon src="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/Sports/ndk6sgndk6sgndk6.webp" />
   </programme>
   
 </tv>
