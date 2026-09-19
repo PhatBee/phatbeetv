@@ -8,6 +8,14 @@
     <display-name>Brighton Home Albion vs Arsenal</display-name>
   </channel>
 
+  <channel id="match.newcastle.hullcity">
+    <display-name>Newcastle vs Hull City </display-name>
+  </channel>
+
+  <channel id="match.everton.ipswichtown">
+    <display-name>Everton vs Ipswich Town </display-name>
+  </channel>
+
   <channel id="match.stuttgart.borussiiadortmund">
     <display-name>Stuttgart vs Borussia Dortmund</display-name>
   </channel>
@@ -30,6 +38,18 @@
     <title>Brighton Home Albion vs Arsenal</title>
     <desc>This match of the 5th day of the Premier League, which takes place at the American Express Stadium, pits two ambitious teams of the English championship against each other, Brighton and Arsenal.</desc>
     <icon src="https://momeva.shorts.gy/uGkZb" />
+  </programme>
+
+  <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.brightonhomealbion.arsenal">
+    <title>Newcastle vs Hull City</title>
+    <desc></desc>
+    <icon src="https://yibahine.shorts.gy/rNlhh" />
+  </programme>
+
+  <programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="match.brightonhomealbion.arsenal">
+    <title>Everton vs Ipswich Town</title>
+    <desc></desc>
+    <icon src="https://bukuhewa.shorts.gy/mCHNX" />
   </programme>
 
    <programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="match.stuttgart.borussiiadortmund">
