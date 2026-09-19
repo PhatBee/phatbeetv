@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="PhatBeeTV">
-  <channel id="match.brentford.chelsea">
-    <display-name>Brentford vs Chelsea</display-name>
+  <channel id="match.tottenhamsotspur.astonvilla">
+    <display-name>Tottenham Hotspur vs Aston Villa</display-name>
   </channel>
 
-  <channel id="match.bayernmunich.fcunionberlin">
-    <display-name>Bayern Munich vs FC Union Berlin</display-name>
+  <channel id="match.brightonhomealbion.arsenal">
+    <display-name>Brighton & Home Albion vs Arsenal</display-name>
+  </channel>
+
+  <channel id="match.stuttgart.borussiiadortmund">
+    <display-name>Stuttgart vs Borussia Dortmund</display-name>
+  </channel>
+
+  <channel id="match.sevilla.barcelona">
+    <display-name>Sevilla vs Barcelona</display-name>
   </channel>
   
   <programme start="20260919020000 +0700" stop="20260919040000 +0700" channel="match.brentford.chelsea">
