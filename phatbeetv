@@ -4,9 +4,8 @@
 
 #EXTINF:-1 tvg-id="match.bournemouth.liverpool" group-title="Premier League" tvg-logo="https://fatifefote.shorts.gy/TQKWJ", Bournemouth vs Liverpool - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTVLCOPT:http-referer="https://gooz.aapmains.net"
+https://chatgpt.hereisman.net/playlist/56798/load-playlist?
 
 #EXTINF:-1 tvg-id="match.mancity.sunderland" group-title="Premier League" tvg-logo="https://relu.shorts.gy/YPIoh", Man City vs Sunderland - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
