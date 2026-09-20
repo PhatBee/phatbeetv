@@ -2,7 +2,18 @@
 
 # Nhóm sự kiện chính
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",
+#EXTINF:-1 tvg-id="match.bournemouth.liverpool" group-title="Premier League" tvg-logo="https://fatifefote.shorts.gy/TQKWJ", Bournemouth vs Liverpool - Matchday 5
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="match.mancity.sunderland" group-title="Premier League" tvg-logo="https://relu.shorts.gy/YPIoh", Man City vs Sunderland - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="match.leeds.crystalpalace" group-title="Premier League" tvg-logo="https://sojicacivehe.shorts.gy/kQQDr", Leeds United vs Crystal Palace - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
