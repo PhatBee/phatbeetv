@@ -2,5 +2,7 @@
 
 # Nhóm sự kiện chính
 
-#EXTINF:-1 tvg-id="" group-title="Premier League" tvg-logo="", 
+#EXTINF:-1 tvg-id="match.laos.brunei" group-title="Fifa Asean Cup" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png", 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
