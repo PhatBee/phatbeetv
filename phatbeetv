@@ -2,7 +2,6 @@
 
 # Nhóm sự kiện chính
 
-#EXTINF:-1 tvg-id="match.laos.brunei" group-title="FIFA ASEAN Cup 2026™" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png",Division 2 - Laos vs Brunei Darussalam
+#EXTINF:-1 tvg-id="match.laos.brunei" group-title="FIFA ASEAN Cup 2026™" tvg-logo="",Division 2 - Laos vs Brunei Darussalam
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#EXTVLCOPT:http-referer="https://player.up909.com/"
-https://live.uu6611.com/live/sd-1-4566540.m3u8?txSecret=86ca359a146fd95704467c426be858b4&txTime=6AADACDB
+https://live2.zundrixmediapipeline.com/live/channel24.m3u8
