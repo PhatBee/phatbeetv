@@ -4,6 +4,5 @@
 
 #EXTINF:-1 tvg-id="match.laos.brunei" group-title="FIFA ASEAN Cup 2026™" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png",Division 2 - Laos vs Brunei Darussalam
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
-https://cdn01.now.com/_tkn_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImtleV9hIn0.eyJwcm92aWRlciI6IlZpdVRWIiwidXJpIjoiL3A4LTUtZjMwNjEzZjhmZjAtZjg5ODQwNWI0NGUwNDI5L0NvbnRlbnQvREFTSF9WT1MzL0xpdmUvY2hhbm5lbChWT1NfQ0gwOTYpL21hbmlmZXN0Lm1wZCIsInVzZXJpZCI6IiIsInNpZCI6InA4LTUtZjMwNjEzZjhmZjAtZjg5ODQwNWI0NGUwNDI5IiwiaXAiOiIxNjkuMTUwLjIyMi4yMTgiLCJpbWF4IjoyLCJuYmYiOjE3OTAyMzkzMjcsImV4cCI6MTc5MDI1NDAyN30.0umqewHXVdn6rZhbdg4tWrkPlZDzXjhyIskIHHkDl4A/p8-5-f30613f8ff0-f898405b44e0429/Content/DASH_VOS3/Live/channel(VOS_CH096)/manifest.mpd
+#EXTVLCOPT:http-referer="https://player.up909.com/"
+https://live.uu6611.com/live/sd-1-4566540.m3u8?txSecret=86ca359a146fd95704467c426be858b4&txTime=6AADACDB
