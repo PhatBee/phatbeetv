@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="PhatBeeTV">
 
+  <channel id="match.laos.brunei">
+    <display-name>Ep.1｜Division 2 - Laos vs Brunei Darussalam</display-name>
+  </channel>
+
+  <programme start="20260924160000 +0700" stop="20260924180000 +0700" channel="match.laos.brunei">
+    <title>Division 2 - Laos vs Brunei Darussalam</title>
+    <desc>Live coverage of the FIFA ASEAN Cup 2026 Group A match between Laos and Brunei Darussalam from Mong Kok Stadium in Hong Kong. Both teams kick off their Division 2 campaign aiming for a crucial maximum three points.</desc>
+    <icon src="https://static.viu.tv/resized-1280/vHJavLf-kmUwMEYk.jpg" />
+  </programme>
+
   <channel id="">
     <display-name></display-name>
   </channel>
