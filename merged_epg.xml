@@ -2273,9 +2273,49 @@
     <desc>Joaquin Buckley v Mike Malott. Coverage of the welterweight bout from Rogers Place in Edmonton, Canada, plus the undercard for UFC Fight Night 291.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400477" start="20261018103000 +0700" stop="20261019000000 +0700">
+  <programme channel="400477" start="20261018103000 +0700" stop="20261018123000 +0700">
     <title lang="zh">Live: AFLW</title>
     <desc>GWS Giants Women v Hawthorn Hawks Women (Bounce-up 4.35am). Coverage of the match from Henson Park in Sydney.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018123000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Live: UCI Track Cycling World Championship</title>
+    <desc>Further coverage of the fifth day of the event, which takes place in Shanghai, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018163000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the fifth and final T20 in the series from M Chinnaswamy Stadium, Bengaluru.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018173000 +0700" stop="20261018193000 +0700">
+    <title lang="zh">Live: Women's Cycling Pro Series</title>
+    <desc>The Eneco Tour. Coverage of the fifth and final stage of the race, a 78.2km route around Arnhem.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018193000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The Eneco Tour. Coverage of the fifth and final stage of the race, a 149.2km route around Arnhem.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The Venetia Classic. Coverage of the one-day race in Italy.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018220000 +0700" stop="20261018221500 +0700">
+    <title lang="zh">Groundbreaking</title>
+    <desc>A look back at memorable matches played at Goodison Park.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018221500 +0700" stop="20261018224500 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018224500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: Serie A</title>
+    <desc>AC Milan v Atalanta (Kick-off 5.00pm). Coverage of the Italian top-flight match from San Siro.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400480">
@@ -2452,9 +2492,69 @@
     <desc>A look back at the best action from the MLB.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400480" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="400480" start="20261018110000 +0700" stop="20261018113000 +0700">
     <title lang="zh">The Breakdown</title>
     <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018113000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: Men's Cycling World Tour</title>
+    <desc>Coverage of the sixth stage of the Tour of Guangxi.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018130000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Fremantle Dockers Women v St Kilda Saints Women (Bounce-up 7.05am). Coverage of the match from Cockburn ARC Oval in Perth.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">British Superbikes</title>
+    <desc>Action from race one of the 11th round of the season at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018153000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">World Superbikes</title>
+    <desc>Action from Superbike race one at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018160000 +0700" stop="20261018164500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Superbike Superpole race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018164500 +0700" stop="20261018174500 +0700">
+    <title lang="zh">Live: Women's Circuit Racing World Championship</title>
+    <desc>Coverage from the second race at Circuito de Jerez in Spain, where the sixth and final round of the season takes place.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018174500 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Sportbike second race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018184500 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Live: British Superbikes</title>
+    <desc>Coverage from the second day of the 11th and final round of the season, which takes place at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018200000 +0700" stop="20261018211500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Superbike second race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018211500 +0700" stop="20261018230000 +0700">
+    <title lang="zh">Live: British Superbikes</title>
+    <desc>Coverage from the second day of the 11th and final round of the season, which takes place at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">British Superbikes</title>
+    <desc>Coverage of the National Sportbike Race at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Men's Cycling World Tour</title>
+    <desc>Action from stage six of the Tour of Guangxi.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400479">
@@ -2626,9 +2726,34 @@
     <desc>A look back at India v West Indies in the fifth and final T20 of the series.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400479" start="20261018123000 +0700" stop="20261019000000 +0700">
+  <programme channel="400479" start="20261018123000 +0700" stop="20261018124500 +0700">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>India Women v Zimbabwe Women in the first T20.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018124500 +0700" stop="20261018131500 +0700">
+    <title lang="zh">Endurance Uncovered: Racing for Excellence</title>
+    <desc>A special look at the World Endurance Championship, a global series of races that test the limits of both drivers and vehicles.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018131500 +0700" stop="20261018134500 +0700">
+    <title lang="zh">World Superbikes</title>
+    <desc>Action from Superbike race one at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018134500 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Live: Marathon</title>
+    <desc>Coverage of the Amsterdam marathon.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018163000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">Live FIA World Endurance Championship</title>
+    <desc>Coverage of the 6 Hours of Barcelona race, which serves as the seventh round of the season.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: IFSC Climbing World Series</title>
+    <desc>Coverage from the women's boulder semi-final, which takes place in Salt Lake City, USA.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400478">
@@ -2795,9 +2920,59 @@
     <desc>Action from the rounds 10, 11 and 12 at Inje Speedium in South Korea.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400478" start="20261018120000 +0700" stop="20261019000000 +0700">
+  <programme channel="400478" start="20261018120000 +0700" stop="20261018121500 +0700">
     <title lang="zh">FA Cup: The People's Story - Crystal Palace</title>
     <desc>A documentary looking at Crystal Palace's rise from near-extinction in 2010 to a fairytale cup run 15 years later.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018121500 +0700" stop="20261018143000 +0700">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Sydney FC Women v Adelaide United Women (Kick-off 6.30am). Coverage of the match at Sydney Olympic Park Athletic Centre.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018143000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">Premier League</title>
+    <desc>Everton v Chelsea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018160000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018180000 +0700" stop="20261018181500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at India v West Indies in the fifth and final T20 of the series.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018181500 +0700" stop="20261018183000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>India Women v Zimbabwe Women in the first T20.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018183000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018190000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018210000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">TCR World Tour Review</title>
+    <desc>Action from the rounds 10, 11 and 12 at Inje Speedium in South Korea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from week one and the first semi-final of the Ultimate Pool League.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="219100">
@@ -2894,9 +3069,59 @@
     <desc>A look at the world of extreme performances in action and outdoor sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="219100" start="20261018053000 +0700" stop="20261019000000 +0700">
+  <programme channel="219100" start="20261018053000 +0700" stop="20261018073000 +0700">
     <title lang="zh">Champions Cup</title>
     <desc>Stade Rochelais v Lions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018073000 +0700" stop="20261018080000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Brazil.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018080000 +0700" stop="20261018090000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look back at the 2026 Stanley Cup.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018090000 +0700" stop="20261018120000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Utah Mammoth v Edmonton Oilers (Face-off 3.00am). Coverage of the Western Conference match from Delta Center.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018120000 +0700" stop="20261018123000 +0700">
+    <title lang="zh">Michelin Le Mans Cup</title>
+    <desc>Action from Portimao.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018123000 +0700" stop="20261018143000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Espanyol v Atlético Madrid.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018143000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Villarreal v Elche.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018163000 +0700" stop="20261018183000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Connacht Rugby v Saracens.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018183000 +0700" stop="20261018210500 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Section Paloise v Leicester Tigers (Kick-off 1.00pm). Coverage of the Pool One match at Stade du Hameau.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018210500 +0700" stop="20261018234500 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Stade Toulousain v Exeter Chiefs (Kick-off 3.15pm). Coverage of the Pool Two match at Stadium de Toulouse.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018234500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live LaLiga</title>
+    <desc>Malaga v Real Sociedad. Coverage of the match at Estadio La Rosaleda, joining 15 minutes after kick-off.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="219104">
@@ -3003,9 +3228,79 @@
     <desc>News and highlights from the NHL.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="219104" start="20261018060000 +0700" stop="20261019000000 +0700">
+  <programme channel="219104" start="20261018060000 +0700" stop="20261018090000 +0700">
     <title lang="zh">Live NHL Ice Hockey</title>
     <desc>Detroit Red Wings v San Jose Sharks (Face-off 12.00am). Coverage of the inter-conference match at Little Caesars Arena.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018090000 +0700" stop="20261018091000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Barcelona v Getafe.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018091000 +0700" stop="20261018092000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Betis v Osasuna.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018092000 +0700" stop="20261018093000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Racing Santander v Valencia.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018093000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">Live Women's Rugby League World Cup</title>
+    <desc>New Zealand v Fiji (Kick-off 3.50am). Coverage of the Pool B match at McDonald Jones Stadium in Newcastle, Australia.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018140000 +0700" stop="20261018141000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Malaga v Espanyol.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018141000 +0700" stop="20261018142500 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Alaves v Atlético Madrid.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018142500 +0700" stop="20261018145500 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018145500 +0700" stop="20261018165000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>ASM Clermont Auvergne v Leinster Rugby.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018165000 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Bath Rugby v Montpellier Hérault Rugby.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018184500 +0700" stop="20261018211500 +0700">
+    <title lang="zh">Live EPCR Challenge Cup</title>
+    <desc>Harlequins v RC Vannes (Kick-off 1.00pm). Coverage of the Pool 3 match from Twickenham Stoop.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018211500 +0700" stop="20261018213000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Elche v Celta Vigo.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018213000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    <desc>Action from the sixth round of fixtures.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">URC in 60</title>
+    <desc>Action from the third round of United Rugby Championship fixtures.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Northampton Saints v Cardiff Rugby (Kick-off 5.30pm). Coverage of the Pool 4 match from DPD Stadium at Franklin's Gardens.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="399506">
@@ -3774,10 +4069,25 @@
     <desc>When a young mother and her newborn daughter vanish from Austin, detectives and FBI agents rush in to bring them home.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369719" start="20261018214500 +0700" stop="20261019000000 +0700">
+  <programme channel="369719" start="20261018214500 +0700" stop="20261018223000 +0700">
     <title lang="zh">A Plan To Kill S2</title>
     <desc>When police respond to a domestic disturbance in a Bay Area suburb, it's unclear who on scene was the intended victim.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261018223000 +0700" stop="20261018231500 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>When a successful Palm Springs art dealer goes missing, the search leads detectives through a complex web of charismatic conmen.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261018231500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>When a beloved mom is murdered in her suburban Connecticut basement, detectives pursue a camo-clad intruder.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>A young woman vanishes from small-town Oregon after heading to a Halloween party, leaving her family devastated and detectives hitting dead ends.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="517640">
     <display-name lang="Malaysia">Rock Action</display-name>
@@ -4823,9 +5133,19 @@
     <desc>Harry, Ron and Hermione leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369840" start="20261018202000 +0700" stop="20261019000000 +0700">
+  <programme channel="369840" start="20261018202000 +0700" stop="20261018220000 +0700">
     <title lang="zh">FIVE NIGHTS AT FREDDY'S 2</title>
     <desc>After shattering the box office with a global gross of $292M and becoming Blumhouse's highest-grossing film ever, Freddy Fazbear's Pizzeria is reopening its doors. Director Emma Tammi returns to helm the eagerly anticipated sequel, promising a chilling new chapter with a bone-chilling warning: Anyone can survive five nights, this time, there will be no second chances….</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369840" start="20261018220000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">KIMI</title>
+    <desc>An agoraphobic Seattle tech worker uncovers evidence of a crime. In order to get involved, she will have to do the thing she fears most — leave her apartment and step out onto the streets.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369840" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">BLACK PHONE 2</title>
+    <desc>Hear the chilling ring of the Black Phone once more with the sequel to the horror phenomenon from director Scott Derrickson.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="369786">
@@ -5307,9 +5627,29 @@
     <desc>A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture. Wirt refuses her help leaving them in trouble.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369786" start="20261018224700 +0700" stop="20261019000000 +0700">
+  <programme channel="369786" start="20261018224700 +0700" stop="20261018225800 +0700">
     <title lang="zh">OVER THE GARDEN WALL S1</title>
     <desc>Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018225800 +0700" stop="20261018230900 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018230900 +0700" stop="20261018232000 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018232000 +0700" stop="20261018233500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>We join Wirt and Greg on Frogland Ferry and Beatrice acting glum. Things turn emotional for Greg when he realizes that his own frog may be better off living with his amphibian compatriots.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018233500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SUITS LA S1</title>
+    <desc>Ted and Erica take on Samantha to save Lester's movie, but the battle may hurt his murder trial.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="369758">
@@ -5471,9 +5811,19 @@
     <desc>Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369758" start="20261018210000 +0700" stop="20261019000000 +0700">
+  <programme channel="369758" start="20261018210000 +0700" stop="20261018214500 +0700">
     <title lang="zh">DR. DEATH S2</title>
     <desc>A tragedy forces Benita to shift perspectives on her piece, and her relationship with Paolo grows more complicated.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369758" start="20261018214500 +0700" stop="20261018232500 +0700">
+    <title lang="zh">SPLITSVILLE</title>
+    <desc>Carey seeks support after divorce, but learns Julie and Paul's secret: an open marriage. Crossing the line throws all their lives into turmoil.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369758" start="20261018232500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">LAND OF GOLD</title>
+    <desc>A truck driver finds a young Mexican American girl inside his shipping container and his life takes a turn as he tries to reunite her with her family.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="444724">
@@ -6103,10 +6453,210 @@
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="486870" start="20261018050000 +0700" stop="20261019000000 +0700">
+  <programme channel="486870" start="20261018050000 +0700" stop="20261018060000 +0700">
     <title lang="zh">Beckham: Take A Bow</title>
     <desc>Exclusive documentary looking back at key career moments of football superstar David Beckham. With a special focus on his wonder goal versus Wimbledon that helped catapult Becks onto the world stage.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018060000 +0700" stop="20261018061500 +0700">
+    <title lang="zh">Uncut: Press Conference: Leeds (A)</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018061500 +0700" stop="20261018063000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018063000 +0700" stop="20261018070000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018070000 +0700" stop="20261018073000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Chelsea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018073000 +0700" stop="20261018074500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018074500 +0700" stop="20261018080000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018080000 +0700" stop="20261018090000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence and Darren Fletcher join us on Inside Carrington to discuss the academy and our participation in the UEFA Youth League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018090000 +0700" stop="20261018094500 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018094500 +0700" stop="20261018100000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018100000 +0700" stop="20261018103000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018103000 +0700" stop="20261018104500 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018104500 +0700" stop="20261018110000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018110000 +0700" stop="20261018113000 +0700">
+    <title lang="zh">PL: United v Leeds 91/92</title>
+    <desc>United Archives 6/9/92. United faced League champions Leeds looking to add to their run of 3 straight Premiership wins.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018113000 +0700" stop="20261018120000 +0700">
+    <title lang="zh">PL: Leeds v United 96/97</title>
+    <desc>United Archives 7/9/96. Eric Cantona is in the United line up and returns to his former club as the Reds take on Leeds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018120000 +0700" stop="20261018123000 +0700">
+    <title lang="zh">PL: United v Leeds 98/99</title>
+    <desc>United Archives 29/11/98.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018123000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">PL: Leeds v United 98/99</title>
+    <desc>United Archives. As the season enters its final month, United look to pick up points against their Yorkshire rivals, Leeds at Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018130000 +0700" stop="20261018131500 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018131500 +0700" stop="20261018133000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018133000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">PL: United v Leeds 99/00</title>
+    <desc>United Archives 14/8/99. After sweeping aside one Yorkshire club in midweek, United faced old rivals Leeds at Old Trafford.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018140000 +0700" stop="20261018143000 +0700">
+    <title lang="zh">PL: United v Leeds 00/01</title>
+    <desc>United Archives 21/10/00. The Reds looked to strengthen their hold on the top of the table against an injury-ravaged Leeds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018143000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">PL: Leeds v United 01/02</title>
+    <desc>United Archives 30/3/02. Ole Gunnar Solskjaer inspired United to a vital win over Premiership rivals Leeds in a seven-goal thriller at Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">LC: Leeds v United 11/12</title>
+    <desc>United Archives 20/9/11. The white-hot atmosphere of Elland Road awaited a young United side, with Leeds hoping for a repeat of their shock FA Cup win in 2010.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018153000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018160000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018163000 +0700" stop="20261018164500 +0700">
+    <title lang="zh">Top 20 European Away Goals</title>
+    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018164500 +0700" stop="20261018170000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018170000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">Paul Parker: Tackling the Game</title>
+    <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018173000 +0700" stop="20261018174500 +0700">
+    <title lang="zh">PL: Leeds v United 21/22</title>
+    <desc>United Archives 20/02/22. Ralf Rangnick's side travelled to Elland Road to take on bitter rivals Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018174500 +0700" stop="20261018180000 +0700">
+    <title lang="zh">PL: Leeds v United 22/23</title>
+    <desc>United Archives 12/02/23. The Reds had the chance to move up to second in the table should they emerge victorious from their trip to Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018180000 +0700" stop="20261018183000 +0700">
+    <title lang="zh">Highlights: Tour 2026: v Leeds</title>
+    <desc>Highlights of United's Tour 2026 match against Leeds United in Dublin.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018183000 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Sir Alex Ferguson: Games of My Life</title>
+    <desc>With special thanks to Pan Macmillan. We present the full interview with Sir Alex Ferguson ahead of the launch of his new book, Games of My Life.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018184500 +0700" stop="20261018190000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Matchday Live</title>
+    <desc>David May and John O'Shea join us for exclusive build-up to our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018200000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Matchday Live: Radio commentary</title>
+    <desc>Live commentary from Liam Bradford and Ben Thornley. Join us at half-time for first-half analysis from David May and John O'Shea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018220000 +0700" stop="20261018223000 +0700">
+    <title lang="zh">Live: Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018223000 +0700" stop="20261018224500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018224500 +0700" stop="20261018230000 +0700">
+    <title lang="zh">All The Goals: Park</title>
+    <desc>The Korean midfielder won the adulation of the fans with his high energy, commitment and scoring of vital goals.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Chelsea.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
@@ -6282,10 +6832,65 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470446" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470446" start="20261018110000 +0700" stop="20261018120000 +0700">
     <title lang="zh">PBR Bull Riding</title>
     <desc>Coverage of classic bull riding events from around the United States.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018170000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018210000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: NFL Countdown</title>
+    <desc>Highlights from previous week's action in the National Football League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Atlanta Falcons host the Chicago Bears at Mercedes-Benz Stadium in an NFC game. Chicago looks to D'Andre Swift to establish the ground attack, while Atlanta relies on Bijan Robinson on rushing downs after his strong early October touches.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470550">
     <display-name lang="Canada">TSN 2</display-name>
@@ -6426,10 +7031,45 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470550" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470550" start="20261018110000 +0700" stop="20261018130000 +0700">
     <title lang="zh">Live: AFL Women's Premiership Football</title>
     <desc>From Windy Hill in Essendon Apt/Melbourne, Victoria, Australia.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018130000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Montreal Alouettes in Week 20. Montreal won the first meeting last week over Saskatchewan, 44-24, and arrive with three straight wins. Saskatchewan has dropped four in a row heading into the penultimate week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018160000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Calgary Stampeders host the BC Lions in CFL Week 20 at McMahon Stadium. Second in the West and winners of four of the last five meetings, BC Lions arrive on four straight wins. Calgary sits fifth after dropping to Winnipeg, 33-28, last week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018190000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Montreal Alouettes in Week 20. Montreal won the first meeting last week over Saskatchewan, 44-24, and arrive with three straight wins. Saskatchewan has dropped four in a row heading into the penultimate week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">UCI Mountain Bike World Cup</title>
+    <desc>Coverage of the UCI Mountain Bike World Cup.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470888">
     <display-name lang="Canada">TSN 3</display-name>
@@ -6585,10 +7225,75 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470888" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470888" start="20261018110000 +0700" stop="20261018120000 +0700">
     <title lang="zh">PBR Bull Riding</title>
     <desc>Coverage of classic bull riding events from around the United States.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018170000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Atlanta Falcons host the Chicago Bears at Mercedes-Benz Stadium in an NFC game. Chicago looks to D'Andre Swift to establish the ground attack, while Atlanta relies on Bijan Robinson on rushing downs after his strong early October touches.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470730">
     <display-name lang="Canada">TSN 4</display-name>
@@ -6764,10 +7469,65 @@
     <desc>From Lumen Field in Seattle.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470730" start="20261018113000 +0700" stop="20261019000000 +0700">
+  <programme channel="470730" start="20261018113000 +0700" stop="20261018120000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018153000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">Live: 2026 Rolex Shanghai Masters Tennis</title>
+    <desc>From Qizhong Forest Sports City Arena in Shanghai, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018210000 +0700" stop="20261018214800 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018214800 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: 2026 FIFA U-17 Women's World Cup</title>
+    <desc>Group C.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: Northern Super League Soccer</title>
+    <desc>From BMO Field in Toronto.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470390">
     <display-name lang="Canada">TSN 5</display-name>
@@ -6918,9 +7678,74 @@
     <desc>From Lumen Field in Seattle.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470390" start="20261018113000 +0700" stop="20261019000000 +0700">
+  <programme channel="470390" start="20261018113000 +0700" stop="20261018120000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018170000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018173000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Live: 2026 Dongfeng Voyah Wuhan Open Tennis</title>
+    <desc>From Optics Valley International Tennis Center in Wuhan, Hubei, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">PBR Bull Riding</title>
+    <desc>Coverage of classic bull riding events from around the United States.</desc>
+    <date>2026-10-19</date>
   </programme>
 </tv>
