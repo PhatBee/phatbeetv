@@ -5,7 +5,7 @@ import gzip
 
 # Danh sách URL EPG của bạn
 urls = [
-   'https://epg.io.vn/epg.xml',
+   'https://epg.blaosolar.vn/schedule/epg.xml',
    # 'https://tvbvn.quanlehong539.workers.dev/xml',
     # 'https://vnepg.site/epg.xml',
     # 'https://live.qphim.xyz/epg.xml',
