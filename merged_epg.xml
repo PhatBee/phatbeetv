@@ -2,97 +2,97 @@
 <tv><channel id="vtv1hd">
     <display-name lang="vi">VTV1</display-name> 
     <display-number>1</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv1hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv1hd.jpg" />
 </channel> 
 <channel id="vtv2hd">
     <display-name lang="vi">VTV2</display-name> 
     <display-number>2</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv2hd.jpg" />
 </channel> 
 <channel id="vtv3hd">
     <display-name lang="vi">VTV3</display-name> 
     <display-number>3</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv3hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv3hd.jpg" />
 </channel> 
 <channel id="vtv4hd">
     <display-name lang="vi">VTV4</display-name> 
     <display-number>4</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv4hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv4hd.jpg" />
 </channel> 
 <channel id="vtv5hd">
     <display-name lang="vi">VTV5</display-name> 
     <display-number>5</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv5hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv5hd.jpg" />
 </channel> 
 <channel id="vtv6hd">
     <display-name lang="vi">VTV6</display-name> 
     <display-number>6</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv6hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv6hd.png" />
 </channel> 
 <channel id="vtv7hd">
     <display-name lang="vi">VTV7</display-name> 
     <display-number>7</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv7hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv7hd.jpg" />
 </channel> 
 <channel id="vtv8hd">
     <display-name lang="vi">VTV8</display-name> 
     <display-number>8</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv8hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv8hd.jpg" />
 </channel> 
 <channel id="vtv9hd">
     <display-name lang="vi">VTV9</display-name> 
     <display-number>9</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv9hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv9hd.jpg" />
 </channel> 
 <channel id="vtv10hd">
     <display-name lang="vi">VTV10</display-name> 
     <display-number>10</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv10hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv10hd.jpg" />
 </channel> 
 <channel id="vtv5hdtn">
     <display-name lang="vi">VTV5 - Tây Nguyên</display-name> 
     <display-number>11</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtn.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv5hdtn.jpg" />
 </channel> 
 <channel id="vtv5hdtnb">
     <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name> 
     <display-number>12</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hdtnb.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv5hdtnb.jpg" />
 </channel> 
 <channel id="vietnamtoday">
     <display-name lang="vi">VIETNAM TODAY</display-name> 
     <display-number>13</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vietnamtoday.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vietnamtoday.jpg" />
 </channel> 
 <channel id="antvhd">
     <display-name lang="vi">ANTV HD</display-name> 
     <display-number>14</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/antv.png" />
+    <icon src="http://image4.blaosolar.vn/logo/antv.png" />
 </channel> 
 <channel id="qpvnhd">
     <display-name lang="vi">QPVN HD</display-name> 
     <display-number>15</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/qpvnhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/qpvnhd.jpg" />
 </channel> 
 <channel id="onviegiaitri">
     <display-name lang="vi">ON Vie Giải Trí</display-name> 
     <display-number>16</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-viegiaitri.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-viegiaitri.jpg" />
 </channel> 
 <channel id="onphimviet">
     <display-name lang="vi">ON Phim Việt</display-name> 
     <display-number>17</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-phimviet.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-phimviet.jpg" />
 </channel> 
 <channel id="onsports">
     <display-name lang="vi">ON Sports HD</display-name> 
     <display-number>18</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sports.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sports.jpg" />
 </channel> 
 <channel id="onmovies">
     <display-name lang="vi">ON Movies</display-name> 
     <display-number>19</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-movies.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-movies.jpg" />
 </channel> 
 <channel id="onechannel">
     <display-name lang="vi">ON Echannel</display-name> 
@@ -102,37 +102,37 @@
 <channel id="onsportsplus">
     <display-name lang="vi">ON Sports+</display-name> 
     <display-number>21</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sportsplus.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-sportsplus.jpg" />
 </channel> 
 <channel id="ono2tv">
     <display-name lang="vi">ON O2TV</display-name> 
     <display-number>22</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-o2tv.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-o2tv.jpg" />
 </channel> 
 <channel id="onbibi">
     <display-name lang="vi">ON BiBi</display-name> 
     <display-number>23</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-bibi.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-bibi.jpg" />
 </channel> 
 <channel id="oninfotv">
     <display-name lang="vi">ON Info TV</display-name> 
     <display-number>24</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-infotv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-infotv.jpg" />
 </channel> 
 <channel id="oncine">
     <display-name lang="vi">ON Cine</display-name> 
     <display-number>25</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-cine.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-cine.jpg" />
 </channel> 
 <channel id="onstyle">
     <display-name lang="vi">On Style</display-name> 
     <display-number>26</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-style.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-style.jpg" />
 </channel> 
 <channel id="onmusic">
     <display-name lang="vi">ON Music</display-name> 
     <display-number>27</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-music.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-music.jpg" />
 </channel> 
 <channel id="onfootball">
     <display-name lang="vi">ON Football HD</display-name> 
@@ -147,7 +147,7 @@
 <channel id="onsportsnews">
     <display-name lang="vi">ON Sports News</display-name> 
     <display-number>30</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sportsnews.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sportsnews.jpg" />
 </channel> 
 <channel id="onviedramas">
     <display-name lang="vi">ON Vie DRAMAS</display-name> 
@@ -157,7 +157,7 @@
 <channel id="onvfamily">
     <display-name lang="vi">ON VFamily</display-name> 
     <display-number>32</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-vfamily.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-vfamily.jpg" />
 </channel> 
 <channel id="onkids">
     <display-name lang="vi">ON Kids</display-name> 
@@ -172,12 +172,12 @@
 <channel id="ongolf">
     <display-name lang="vi">ON Golf</display-name> 
     <display-number>35</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-golf.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-golf.jpg" />
 </channel> 
 <channel id="htv1">
     <display-name lang="vi">HTV1</display-name> 
     <display-number>36</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htv1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htv1.jpg" />
 </channel> 
 <channel id="htv2hd">
     <display-name lang="vi">HTV2 HD</display-name> 
@@ -187,42 +187,42 @@
 <channel id="htv3">
     <display-name lang="vi">HTV3</display-name> 
     <display-number>38</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htv3.png" />
+    <icon src="http://image4.blaosolar.vn/logo/htv3.png" />
 </channel> 
 <channel id="htvkey">
     <display-name lang="vi">HTV Key</display-name> 
     <display-number>39</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvkey.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvkey.jpg" />
 </channel> 
 <channel id="htv5">
     <display-name lang="vi">HTV5 Bchannel</display-name> 
     <display-number>40</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htv5.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htv5.jpg" />
 </channel> 
 <channel id="htv7hd">
     <display-name lang="vi">HTV7 HD</display-name> 
     <display-number>41</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htv7hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htv7hd.jpg" />
 </channel> 
 <channel id="htv9hd">
     <display-name lang="vi">HTV9 HD</display-name> 
     <display-number>42</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htv9hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htv9hd.jpg" />
 </channel> 
 <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao HD</display-name> 
     <display-number>43</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvthethaohd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvthethaohd.jpg" />
 </channel> 
 <channel id="htvcphimhd">
     <display-name lang="vi">HTVC Phim HD</display-name> 
     <display-number>44</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcphimhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcphimhd.jpg" />
 </channel> 
 <channel id="htvcthuanviethd">
     <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
     <display-number>45</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvcthuanviethd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcthuanviethd.jpg" />
 </channel> 
 <channel id="htvcgiadinhhd">
     <display-name lang="vi">HTVC Gia Đình HD</display-name> 
@@ -232,12 +232,12 @@
 <channel id="htvcphunuhd">
     <display-name lang="vi">HTVC Phụ Nữ HD</display-name> 
     <display-number>47</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch HD</display-name> 
     <display-number>48</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvcdulichhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcdulichhd.jpg" />
 </channel> 
 <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
@@ -247,17 +247,17 @@
 <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus HD</display-name> 
     <display-number>50</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcplushd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htvcplushd.jpg" />
 </channel> 
 <channel id="sctv1hd">
     <display-name lang="vi">SCTV1 HD</display-name> 
     <display-number>51</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv1hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv1hd.png" />
 </channel> 
 <channel id="sctv2hd">
     <display-name lang="vi">SCTV2 HD</display-name> 
     <display-number>52</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv2hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv2hd.png" />
 </channel> 
 <channel id="sctv3hd">
     <display-name lang="vi">SCTV3 HD</display-name> 
@@ -267,27 +267,27 @@
 <channel id="sctv4hd">
     <display-name lang="vi">SCTV4 HD</display-name> 
     <display-number>54</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv4hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv4hd.png" />
 </channel> 
 <channel id="sctv6hd">
     <display-name lang="vi">SCTV6 HD</display-name> 
     <display-number>55</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv6hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv6hd.png" />
 </channel> 
 <channel id="sctv7hd">
     <display-name lang="vi">SCTV7 HD</display-name> 
     <display-number>56</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv7hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv7hd.png" />
 </channel> 
 <channel id="sctv8hd">
     <display-name lang="vi">SCTV8 HD</display-name> 
     <display-number>57</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv8hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv8hd.png" />
 </channel> 
 <channel id="sctv9hd">
     <display-name lang="vi">SCTV9 HD</display-name> 
     <display-number>58</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv9hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv9hd.png" />
 </channel> 
 <channel id="sctv11hd">
     <display-name lang="vi">SCTV11 HD</display-name> 
@@ -297,12 +297,12 @@
 <channel id="sctv12hd">
     <display-name lang="vi">SCTV12 HD</display-name> 
     <display-number>60</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv12hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv12hd.png" />
 </channel> 
 <channel id="sctv13hd">
     <display-name lang="vi">SCTV13 HD</display-name> 
     <display-number>61</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv13hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv13hd.png" />
 </channel> 
 <channel id="sctv14hd">
     <display-name lang="vi">SCTV14 HD</display-name> 
@@ -312,17 +312,17 @@
 <channel id="sctv15hd">
     <display-name lang="vi">SCTV15 HD</display-name> 
     <display-number>63</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv15hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv15hd.png" />
 </channel> 
 <channel id="sctv16hd">
     <display-name lang="vi">SCTV16 HD</display-name> 
     <display-number>64</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv16hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv16hd.png" />
 </channel> 
 <channel id="sctv17hd">
     <display-name lang="vi">SCTV17 HD</display-name> 
     <display-number>65</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv17hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv17hd.png" />
 </channel> 
 <channel id="sctv18hd">
     <display-name lang="vi">SCTV18 HD</display-name> 
@@ -332,27 +332,27 @@
 <channel id="sctv19hd">
     <display-name lang="vi">SCTV19 HD</display-name> 
     <display-number>67</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv19hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv19hd.png" />
 </channel> 
 <channel id="sctv20hd">
     <display-name lang="vi">SCTV20 HD</display-name> 
     <display-number>68</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv20hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv20hd.png" />
 </channel> 
 <channel id="sctv21hd">
     <display-name lang="vi">SCTV21 HD</display-name> 
     <display-number>69</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv21hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv21hd.jpg" />
 </channel> 
 <channel id="sctv22hd">
     <display-name lang="vi">SCTV22 HD</display-name> 
     <display-number>70</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv22hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv22hd.png" />
 </channel> 
 <channel id="sctvhdpth">
     <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
     <display-number>71</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctvhdpth.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctvhdpth.png" />
 </channel> 
 <channel id="sctv4k">
     <display-name lang="vi">SCTV 4K</display-name> 
@@ -362,7 +362,7 @@
 <channel id="axnhd">
     <display-name lang="vi">AXN HD</display-name> 
     <display-number>73</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/axn.png" />
+    <icon src="http://image2.blaosolar.vn/logo/axn.png" />
 </channel> 
 <channel id="hbohd">
     <display-name lang="vi">HBO HD</display-name> 
@@ -377,17 +377,17 @@
 <channel id="warnertvhd">
     <display-name lang="vi">Warner TV HD</display-name> 
     <display-number>76</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/warnertvhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/warnertvhd.jpg" />
 </channel> 
 <channel id="cinemaworldhd">
     <display-name lang="vi">Cinema World HD</display-name> 
     <display-number>77</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cinemaworldhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cinemaworldhd.jpg" />
 </channel> 
 <channel id="animalhd">
     <display-name lang="vi">Animal Planet HD</display-name> 
     <display-number>78</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/animalhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/animalhd.jpg" />
 </channel> 
 <channel id="bbcearth">
     <display-name lang="vi">BBC Earth</display-name> 
@@ -397,7 +397,7 @@
 <channel id="bbclifestyle">
     <display-name lang="vi">BBC Life Style</display-name> 
     <display-number>80</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bbclifestyle.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/bbclifestyle.jpg" />
 </channel> 
 <channel id="bbcworldnews">
     <display-name lang="vi">BBC World News</display-name> 
@@ -407,42 +407,42 @@
 <channel id="dmax">
     <display-name lang="vi">Dmax</display-name> 
     <display-number>82</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dmax.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dmax.jpg" />
 </channel> 
 <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia HD</display-name> 
     <display-number>83</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/discoveryasiahd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/discoveryasiahd.jpg" />
 </channel> 
 <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel HD</display-name> 
     <display-number>84</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/discoveryhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/discoveryhd.jpg" />
 </channel> 
 <channel id="tlchd">
     <display-name lang="vi">Travel &amp; Living HD</display-name> 
     <display-number>85</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/tlc.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/tlc.jpg" />
 </channel> 
 <channel id="cbeebies">
     <display-name lang="vi">Cbeebies</display-name> 
     <display-number>86</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cbeebies.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cbeebies.jpg" />
 </channel> 
 <channel id="davinci">
     <display-name lang="vi">DaVinci HD</display-name> 
     <display-number>87</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/davinci.png" />
+    <icon src="http://image4.blaosolar.vn/logo/davinci.png" />
 </channel> 
 <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network HD</display-name> 
     <display-number>88</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/cartoonhd.jpg" />
 </channel> 
 <channel id="cartoonito">
     <display-name lang="vi">Cartoonito</display-name> 
     <display-number>89</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cartoonito.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/cartoonito.jpg" />
 </channel> 
 <channel id="fashionhd">
     <display-name lang="vi">Fashion TV HD</display-name> 
@@ -452,7 +452,7 @@
 <channel id="afnhd">
     <display-name lang="vi">AFN HD</display-name> 
     <display-number>91</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/afnhd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/afnhd.png" />
 </channel> 
 <channel id="kbsworld">
     <display-name lang="vi">KBS World</display-name> 
@@ -472,12 +472,12 @@
 <channel id="hollywoodclassics">
     <display-name lang="vi">Hollywood Classics</display-name> 
     <display-number>95</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hollywoodclassics.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/hollywoodclassics.jpg" />
 </channel> 
 <channel id="woman">
     <display-name lang="vi">Woman HD</display-name> 
     <display-number>96</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/woman.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/woman.jpg" />
 </channel> 
 <channel id="boxhits">
     <display-name lang="vi">Box Hits HD</display-name> 
@@ -487,17 +487,17 @@
 <channel id="musicbox">
     <display-name lang="vi">Music Box HD</display-name> 
     <display-number>98</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/musicbox.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/musicbox.jpg" />
 </channel> 
 <channel id="happykids">
     <display-name lang="vi">Happy Kids HD</display-name> 
     <display-number>99</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/happykids.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/happykids.jpg" />
 </channel> 
 <channel id="dreamworks">
     <display-name lang="vi">Dreamworks HD</display-name> 
     <display-number>100</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dreamworks.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/dreamworks.jpg" />
 </channel> 
 <channel id="historyhd">
     <display-name lang="vi">History HD</display-name> 
@@ -507,37 +507,37 @@
 <channel id="kix">
     <display-name lang="vi">Kix HD</display-name> 
     <display-number>102</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/kix.png" />
+    <icon src="http://image1.blaosolar.vn/logo/kix.png" />
 </channel> 
 <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name> 
     <display-number>103</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/hgtv.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/hgtv.jpg" />
 </channel> 
 <channel id="dw">
     <display-name lang="vi">DW HD</display-name> 
     <display-number>104</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dw.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/dw.jpg" />
 </channel> 
 <channel id="abcaustralia">
     <display-name lang="vi">ABC Australia</display-name> 
     <display-number>105</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/abcaustralia.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/abcaustralia.jpg" />
 </channel> 
 <channel id="arirang">
     <display-name lang="vi">Arirang</display-name> 
     <display-number>106</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/arirang.png" />
+    <icon src="http://image2.blaosolar.vn/logo/arirang.png" />
 </channel> 
 <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name> 
     <display-number>107</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/bloomberg.png" />
+    <icon src="http://image1.blaosolar.vn/logo/bloomberg.png" />
 </channel> 
 <channel id="cnn">
     <display-name lang="vi">CNN</display-name> 
     <display-number>108</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cnn.png" />
+    <icon src="http://image4.blaosolar.vn/logo/cnn.png" />
 </channel> 
 <channel id="cna">
     <display-name lang="vi">Channel News Asia</display-name> 
@@ -552,7 +552,7 @@
 <channel id="nhkworld">
     <display-name lang="vi">NHK World</display-name> 
     <display-number>111</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/nhkworld.png" />
+    <icon src="http://image4.blaosolar.vn/logo/nhkworld.png" />
 </channel> 
 <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name> 
@@ -562,7 +562,7 @@
 <channel id="tv5monde">
     <display-name lang="vi">TV5 Monde</display-name> 
     <display-number>113</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/tv5monde.png" />
+    <icon src="http://image2.blaosolar.vn/logo/tv5monde.png" />
 </channel> 
 <channel id="spotv1">
     <display-name lang="vi">SPOTV1 HD</display-name> 
@@ -577,142 +577,142 @@
 <channel id="anvienhd">
     <display-name lang="vi">An Viên HD</display-name> 
     <display-number>116</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/anvien.png" />
+    <icon src="http://image1.blaosolar.vn/logo/anvien.png" />
 </channel> 
 <channel id="angiang1">
     <display-name lang="vi">An Giang 1</display-name> 
     <display-number>117</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/angiang1.png" />
 </channel> 
 <channel id="angiang2">
     <display-name lang="vi">An Giang 2</display-name> 
     <display-number>118</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang2.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/angiang2.jpg" />
 </channel> 
 <channel id="angiang3">
     <display-name lang="vi">An Giang 3</display-name> 
     <display-number>119</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/angiang3.png" />
+    <icon src="http://image2.blaosolar.vn/logo/angiang3.png" />
 </channel> 
 <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name> 
     <display-number>120</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bacninh.png" />
+    <icon src="http://image3.blaosolar.vn/logo/bacninh.png" />
 </channel> 
 <channel id="camau">
     <display-name lang="vi">Cà Mau</display-name> 
     <display-number>121</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/camau.png" />
+    <icon src="http://image4.blaosolar.vn/logo/camau.png" />
 </channel> 
 <channel id="cantho1">
     <display-name lang="vi">Cần Thơ 1</display-name> 
     <display-number>122</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cantho1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cantho1.jpg" />
 </channel> 
 <channel id="cantho2">
     <display-name lang="vi">Cần Thơ 2</display-name> 
     <display-number>123</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cantho2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/cantho2.png" />
 </channel> 
 <channel id="cantho3">
     <display-name lang="vi">Cần Thơ 3</display-name> 
     <display-number>124</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cantho3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/cantho3.png" />
 </channel> 
 <channel id="caobang">
     <display-name lang="vi">Cao Bằng</display-name> 
     <display-number>125</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/caobang.png" />
+    <icon src="http://image4.blaosolar.vn/logo/caobang.png" />
 </channel> 
 <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name> 
     <display-number>126</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/danang1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/danang1.png" />
 </channel> 
 <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name> 
     <display-number>127</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/danang2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/danang2.png" />
 </channel> 
 <channel id="daklak">
     <display-name lang="vi">Đắk Lắk</display-name> 
     <display-number>128</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/daklak.png" />
+    <icon src="http://image4.blaosolar.vn/logo/daklak.png" />
 </channel> 
 <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name> 
     <display-number>129</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dienbien.png" />
+    <icon src="http://image3.blaosolar.vn/logo/dienbien.png" />
 </channel> 
 <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name> 
     <display-number>130</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dongnai1.png" />
+    <icon src="http://image2.blaosolar.vn/logo/dongnai1.png" />
 </channel> 
 <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name> 
     <display-number>131</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dongnai2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/dongnai2.png" />
 </channel> 
 <channel id="dongthap1">
     <display-name lang="vi">Đồng Tháp 1</display-name> 
     <display-number>132</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dongthap1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dongthap1.jpg" />
 </channel> 
 <channel id="dongthap2">
     <display-name lang="vi">Đồng Tháp 2</display-name> 
     <display-number>133</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongthap2.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/dongthap2.jpg" />
 </channel> 
 <channel id="gialai">
     <display-name lang="vi">Gia Lai</display-name> 
     <display-number>134</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/gialai.png" />
+    <icon src="http://image3.blaosolar.vn/logo/gialai.png" />
 </channel> 
 <channel id="hanoi1">
     <display-name lang="vi">Hà Nội 1</display-name> 
     <display-number>135</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hanoi1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/hanoi1.png" />
 </channel> 
 <channel id="hanoi2">
     <display-name lang="vi">Hà Nội 2</display-name> 
     <display-number>136</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hanoi2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hanoi2.png" />
 </channel> 
 <channel id="hatinh">
     <display-name lang="vi">Hà Tĩnh</display-name> 
     <display-number>137</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/hatinh.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/hatinh.jpg" />
 </channel> 
 <channel id="haiphong">
     <display-name lang="vi">Hải Phòng</display-name> 
     <display-number>138</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/haiphong.png" />
+    <icon src="http://image1.blaosolar.vn/logo/haiphong.png" />
 </channel> 
 <channel id="haiphong3">
     <display-name lang="vi">Hải Phòng 3</display-name> 
     <display-number>139</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/haiphong3.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/haiphong3.jpg" />
 </channel> 
 <channel id="hue">
     <display-name lang="vi">Huế</display-name> 
     <display-number>140</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hue.png" />
+    <icon src="http://image3.blaosolar.vn/logo/hue.png" />
 </channel> 
 <channel id="hungyen">
     <display-name lang="vi">Hưng Yên</display-name> 
     <display-number>141</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hungyen.png" />
+    <icon src="http://image4.blaosolar.vn/logo/hungyen.png" />
 </channel> 
 <channel id="tuyenquang">
     <display-name lang="vi">Tuyên Quang</display-name> 
     <display-number>142</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/tuyenquang.png" />
+    <icon src="http://image4.blaosolar.vn/logo/tuyenquang.png" />
 </channel> 
 <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name> 
     <display-number>143</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/khanhhoa.png" />
+    <icon src="http://image4.blaosolar.vn/logo/khanhhoa.png" />
 </channel> 
 <channel id="khanhhoa1">
     <display-name lang="vi">Khánh Hòa 1</display-name> 
@@ -722,7 +722,7 @@
 <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name> 
     <display-number>145</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/laichau.png" />
+    <icon src="http://image2.blaosolar.vn/logo/laichau.png" />
 </channel> 
 <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name> 
@@ -732,22 +732,22 @@
 <channel id="lamdong1">
     <display-name lang="vi">Lâm Đồng 1</display-name> 
     <display-number>147</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/lamdong1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/lamdong1.jpg" />
 </channel> 
 <channel id="lamdong2">
     <display-name lang="vi">Lâm Đồng 2</display-name> 
     <display-number>148</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/lamdong2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/lamdong2.jpg" />
 </channel> 
 <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name> 
     <display-number>149</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/langson.png" />
+    <icon src="http://image3.blaosolar.vn/logo/langson.png" />
 </channel> 
 <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name> 
     <display-number>150</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/nghean.png" />
+    <icon src="http://image1.blaosolar.vn/logo/nghean.png" />
 </channel> 
 <channel id="ninhbinh">
     <display-name lang="vi">Ninh Bình</display-name> 
@@ -757,7 +757,7 @@
 <channel id="phutho">
     <display-name lang="vi">Phú Thọ</display-name> 
     <display-number>152</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/phutho.png" />
+    <icon src="http://image3.blaosolar.vn/logo/phutho.png" />
 </channel> 
 <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name> 
@@ -767,42 +767,42 @@
 <channel id="quangngai2">
     <display-name lang="vi">Quảng Ngãi 2</display-name> 
     <display-number>154</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangngai2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/quangngai2.png" />
 </channel> 
 <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name> 
     <display-number>155</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/quangninh1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/quangninh1.png" />
 </channel> 
 <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name> 
     <display-number>156</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangninh3.png" />
+    <icon src="http://image3.blaosolar.vn/logo/quangninh3.png" />
 </channel> 
 <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name> 
     <display-number>157</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangtri.webp" />
+    <icon src="http://image2.blaosolar.vn/logo/quangtri.webp" />
 </channel> 
 <channel id="sonla">
     <display-name lang="vi">Sơn La</display-name> 
     <display-number>158</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sonla.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sonla.png" />
 </channel> 
 <channel id="tayninh1">
     <display-name lang="vi">Tây Ninh 1</display-name> 
     <display-number>159</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tayninh1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/tayninh1.jpg" />
 </channel> 
 <channel id="thainguyen">
     <display-name lang="vi">Thái Nguyên</display-name> 
     <display-number>160</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/thainguyen.png" />
+    <icon src="http://image3.blaosolar.vn/logo/thainguyen.png" />
 </channel> 
 <channel id="thanhhoa">
     <display-name lang="vi">Thanh Hóa</display-name> 
     <display-number>161</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/thanhhoa.png" />
+    <icon src="http://image3.blaosolar.vn/logo/thanhhoa.png" />
 </channel> 
 <channel id="vinhlong1hd">
     <display-name lang="vi">Vĩnh Long 1 HD</display-name> 
@@ -817,17 +817,17 @@
 <channel id="vinhlong3hd">
     <display-name lang="vi">Vĩnh Long 3 HD</display-name> 
     <display-number>164</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vinhlong3hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong3hd.jpg" />
 </channel> 
 <channel id="vinhlong4hd">
     <display-name lang="vi">Vĩnh Long 4 HD</display-name> 
     <display-number>165</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vinhlong4hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/vinhlong4hd.png" />
 </channel> 
 <channel id="vinhlong5hd">
     <display-name lang="vi">Vĩnh Long 5 HD</display-name> 
     <display-number>166</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vinhlong5hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vinhlong5hd.jpg" />
 </channel> 
 <channel id="360c1">
     <display-name lang="vi">TV360 C1 Châu Âu</display-name> 
@@ -837,12 +837,12 @@
 <channel id="360c2">
     <display-name lang="vi">TV360 C2 Châu Âu</display-name> 
     <display-number>168</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360c2.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360c2.jpg" />
 </channel> 
 <channel id="360c3">
     <display-name lang="vi">TV360 C3 Châu Âu</display-name> 
     <display-number>169</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360c3.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360c3.jpg" />
 </channel> 
 <channel id="360thethaochaua">
     <display-name lang="vi">TV360 Thể Thao Châu Á</display-name> 
@@ -852,47 +852,47 @@
 <channel id="360congthuc1">
     <display-name lang="vi">TV360 Công Thức 1</display-name> 
     <display-number>171</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360congthuc1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360congthuc1.jpg" />
 </channel> 
 <channel id="360bundesliga">
     <display-name lang="vi">TV360 Bundesliga</display-name> 
     <display-number>172</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360bundesliga.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360bundesliga.jpg" />
 </channel> 
 <channel id="360golf">
     <display-name lang="vi">TV360 Golf</display-name> 
     <display-number>173</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360golf.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360golf.jpg" />
 </channel> 
 <channel id="360tennis">
     <display-name lang="vi">TV360 Tennis</display-name> 
     <display-number>174</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360tennis.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360tennis.jpg" />
 </channel> 
 <channel id="360phimviet">
     <display-name lang="vi">TV360 Phim Việt</display-name> 
     <display-number>175</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360phimviet.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360phimviet.jpg" />
 </channel> 
 <channel id="360phimaumy">
     <display-name lang="vi">TV360 Phim Âu Mỹ</display-name> 
     <display-number>176</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimaumy.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360phimaumy.jpg" />
 </channel> 
 <channel id="360hoathinh">
     <display-name lang="vi">TV360 Hoạt Hình</display-name> 
     <display-number>177</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360hoathinh.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360hoathinh.jpg" />
 </channel> 
 <channel id="360phimhoangu">
     <display-name lang="vi">TV360 Phim Hoa Ngữ</display-name> 
     <display-number>178</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimhoangu.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimhoangu.jpg" />
 </channel> 
 <channel id="360hanhdongchaua">
     <display-name lang="vi">TV360 Hành Động Châu Á</display-name> 
     <display-number>179</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360hanhdongchaua.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360hanhdongchaua.jpg" />
 </channel> 
 <channel id="360kdrama">
     <display-name lang="vi">TV360 K-Drama</display-name> 
@@ -902,12 +902,12 @@
 <channel id="360haitinhcam">
     <display-name lang="vi">TV360 Hài - Tình Cảm</display-name> 
     <display-number>181</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360haitinhcam.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360haitinhcam.jpg" />
 </channel> 
 <channel id="360phimkinhdien">
     <display-name lang="vi">TV360 Phim Kinh Điển</display-name> 
     <display-number>182</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360phimkinhdien.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimkinhdien.jpg" />
 </channel> 
 <channel id="360anime">
     <display-name lang="vi">TV360 Anime</display-name> 
@@ -10358,6 +10358,118 @@
 </programme> 
 <programme channel="onphimviet" channel-number="17" start="20261018230000 +0700" stop="20261018230500 +0700">
     <title lang="vi">HOÀNG HẠC LÂU (VN_32T) - TẬP 9</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019000000 +0700" stop="20261019003000 +0700">
+    <title lang="vi">CHA ANH MẸ EM (VN_221T) - TẬP 176</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019003000 +0700" stop="20261019010000 +0700">
+    <title lang="vi">KHU TẬP THỂ RẤT ỔN (VN_75T) - TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019010000 +0700" stop="20261019020000 +0700">
+    <title lang="vi">ĐẢO NGỌC HUYỀN BÍ (VN_30T) - TẬP 9</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019020000 +0700" stop="20261019030000 +0700">
+    <title lang="vi">MẮT LỤA (VN_37T) - TẬP 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019030000 +0700" stop="20261019040000 +0700">
+    <title lang="vi">CHIẾC VÒNG NGỌC HUYẾT (VN_40T) - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019040000 +0700" stop="20261019050000 +0700">
+    <title lang="vi">ANH VÀ EM (VN_67T) - TẬP 39</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019050000 +0700" stop="20261019053000 +0700">
+    <title lang="vi">CHA ANH MẸ EM (VN_221T) - TẬP 176</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019053000 +0700" stop="20261019060000 +0700">
+    <title lang="vi">KHU TẬP THỂ RẤT ỔN (VN_75T) - TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019060000 +0700" stop="20261019070000 +0700">
+    <title lang="vi">HOÀNG HẠC LÂU (VN_32T) - TẬP 10</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019070000 +0700" stop="20261019080000 +0700">
+    <title lang="vi">ĐẢO NGỌC HUYỀN BÍ (VN_30T) - TẬP 9</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019080000 +0700" stop="20261019090000 +0700">
+    <title lang="vi">CHIẾC VÒNG NGỌC HUYẾT (VN_40T) - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019090000 +0700" stop="20261019100000 +0700">
+    <title lang="vi">MẮT LỤA (VN_37T) - TẬP 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019100000 +0700" stop="20261019103000 +0700">
+    <title lang="vi">CHA ANH MẸ EM (VN_221T) - TẬP 176</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019103000 +0700" stop="20261019110000 +0700">
+    <title lang="vi">KHU TẬP THỂ RẤT ỔN (VN_75T) - TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019110000 +0700" stop="20261019120000 +0700">
+    <title lang="vi">ANH VÀ EM (VN_67T) - TẬP 39</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019120000 +0700" stop="20261019130000 +0700">
+    <title lang="vi">ĐẢO NGỌC HUYỀN BÍ (VN_30T) - TẬP 10</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019130000 +0700" stop="20261019140000 +0700">
+    <title lang="vi">CHIẾC VÒNG NGỌC HUYẾT (VN_40T) - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019140000 +0700" stop="20261019150000 +0700">
+    <title lang="vi">HOÀNG HẠC LÂU (VN_32T) - TẬP 10</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019150000 +0700" stop="20261019160000 +0700">
+    <title lang="vi">MẮT LỤA (VN_37T) - TẬP 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019160000 +0700" stop="20261019170000 +0700">
+    <title lang="vi">ANH VÀ EM (VN_67T) - TẬP 39</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019170000 +0700" stop="20261019180000 +0700">
+    <title lang="vi">ĐẢO NGỌC HUYỀN BÍ (VN_30T) - TẬP 10</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019180000 +0700" stop="20261019183000 +0700">
+    <title lang="vi">CHA ANH MẸ EM (VN_221T) - TẬP 177</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019183000 +0700" stop="20261019190000 +0700">
+    <title lang="vi">KHU TẬP THỂ RẤT ỔN (VN_75T) - TẬP 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019190000 +0700" stop="20261019200000 +0700">
+    <title lang="vi">HOÀNG HẠC LÂU (VN_32T) - TẬP 11</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019200000 +0700" stop="20261019210000 +0700">
+    <title lang="vi">CHIẾC VÒNG NGỌC HUYẾT (VN_40T) - TẬP 18</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019210000 +0700" stop="20261019220000 +0700">
+    <title lang="vi">ANH VÀ EM (VN_67T) - TẬP 40</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019220000 +0700" stop="20261019230000 +0700">
+    <title lang="vi">MẮT LỤA (VN_37T) - TẬP 20</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onphimviet" channel-number="17" start="20261019230000 +0700" stop="20261019230500 +0700">
+    <title lang="vi">HOÀNG HẠC LÂU (VN_32T) - TẬP 10</title> 
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
 </programme> 
 <programme channel="onphimviet" channel-number="17" start="20261020000000 +0700" stop="20261020003000 +0700">
@@ -21494,6 +21606,394 @@
 </programme> 
 <programme channel="htv5" channel-number="40" start="20261018234000 +0700" stop="20261019000000 +0700">
     <title lang="vi">MIỀN ĐẤT PHẬT - LÂM ĐỒNG - ĐẤT PHẬT CAO NGUYÊN - TẬP 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019000000 +0700" stop="20261019001500 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÙNG TÌM HIỂU VỀ CHÚ ĐẠI BI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019001500 +0700" stop="20261019003000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 63</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019003000 +0700" stop="20261019010000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: ƯƠM MẦM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019010000 +0700" stop="20261019014000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU:</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019014000 +0700" stop="20261019020000 +0700">
+    <title lang="vi">CHUYỆN LÀNG CHUYỆN PHỐ: NHÀ ĐẦU TƯ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019020000 +0700" stop="20261019025000 +0700">
+    <title lang="vi">YOGA: SỐ 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019025000 +0700" stop="20261019033000 +0700">
+    <title lang="vi">ĐẶC SẮC BCHANNEL: SỐ 33</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019033000 +0700" stop="20261019040000 +0700">
+    <title lang="vi">PHIM TRUYỆN: BAO GIỜ CHO ĐẾN THÁNG 10 - PHẦN 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019040000 +0700" stop="20261019043000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: NHỮNG NGƯỜI CON CỦA NHÂN DÂN - TẬP 24</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019043000 +0700" stop="20261019050000 +0700">
+    <title lang="vi">KÝ SỰ HOẢ XA - HÀNH TRÌNH XUYÊN LỤC ĐỊA: PHẦN 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019050000 +0700" stop="20261019060000 +0700">
+    <title lang="vi">YOGA: SỐ 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019060000 +0700" stop="20261019063000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH SỨC MẠNH QUÁN ÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019063000 +0700" stop="20261019070000 +0700">
+    <title lang="vi">CHÙA VIỆT - NGƯỜI VIỆT: SỐ 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019070000 +0700" stop="20261019071500 +0700">
+    <title lang="vi">THẦY TÔI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019071500 +0700" stop="20261019073000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: LÂM ĐỒNG - ĐẤT PHẬT CAO NGUYÊN - TẬP 6</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019073000 +0700" stop="20261019080000 +0700">
+    <title lang="vi">DƯỚI BÓNG BỒ ĐỀ: CÔNG ÁN THIỀN - CÁNH CỬA CỦA TỈNH THỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019080000 +0700" stop="20261019084500 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 293</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019084500 +0700" stop="20261019090000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019090000 +0700" stop="20261019094500 +0700">
+    <title lang="vi">ĐẶC SẮC BCHANNEL: SỐ 33</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019094500 +0700" stop="20261019100000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 31</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019100000 +0700" stop="20261019103000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 16</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019103000 +0700" stop="20261019111500 +0700">
+    <title lang="vi">ĐẠO PHÁP VÀ DÂN TỘC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019111500 +0700" stop="20261019113000 +0700">
+    <title lang="vi">SỐNG TỈNH THỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019113000 +0700" stop="20261019120000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019120000 +0700" stop="20261019123000 +0700">
+    <title lang="vi">MÊ KÔNG KÝ SỰ: TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019123000 +0700" stop="20261019130000 +0700">
+    <title lang="vi">PHIM TRUYỆN: BAO GIỜ CHO ĐẾN THÁNG 10 - PHẦN 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019130000 +0700" stop="20261019133000 +0700">
+    <title lang="vi">CHÙA LÀNG: CHÙA BỔ ĐÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019133000 +0700" stop="20261019140000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: XƯNG TÁN ĐỨC PHẬT A DI ĐÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019140000 +0700" stop="20261019144500 +0700">
+    <title lang="vi">PHIM TRUYỆN: TÌM LẠI TÌNH YÊU - TẬP 82</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019144500 +0700" stop="20261019150000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: VĂN KHẤN LÀ GÌ?</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019150000 +0700" stop="20261019153000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019153000 +0700" stop="20261019160000 +0700">
+    <title lang="vi">DƯỚI BÓNG BỒ ĐỀ: ỨNG DỤNG VÔ NGÃ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019160000 +0700" stop="20261019165000 +0700">
+    <title lang="vi">YOGA: SỐ 16</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019165000 +0700" stop="20261019170000 +0700">
+    <title lang="vi">CHÙA XANH LAN TỎA LỐI SỐNG XANH:</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019170000 +0700" stop="20261019173000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019173000 +0700" stop="20261019183000 +0700">
+    <title lang="vi">ĐẠO PHÁP VÀ DÂN TỘC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019183000 +0700" stop="20261019190000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019190000 +0700" stop="20261019195000 +0700">
+    <title lang="vi">PHIM TRUYỆN: CHỊ EM ĐỊNH MỆNH - TẬP 83</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019195000 +0700" stop="20261019200000 +0700">
+    <title lang="vi">TỰ HÀO NGƯỜI CON PHẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019200000 +0700" stop="20261019203000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019203000 +0700" stop="20261019211500 +0700">
+    <title lang="vi">VĂN HÓA BCHANNEL: SỐ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019211500 +0700" stop="20261019213000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÙNG TÌM HIỂU VỀ LỤC THÔNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019213000 +0700" stop="20261019215000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019215000 +0700" stop="20261019220000 +0700">
+    <title lang="vi">THẦY TÔI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019220000 +0700" stop="20261019223000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019223000 +0700" stop="20261019230000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH PHƯỚC ĐỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019230000 +0700" stop="20261019233000 +0700">
+    <title lang="vi">CHÙA VIỆT - NGƯỜI VIỆT: SỐ 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019233000 +0700" stop="20261019234000 +0700">
+    <title lang="vi">SỐNG TỈNH THỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261019234000 +0700" stop="20261020000000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: LÀO - ĐẤT NƯỚC TRIỆU VOI - TẬP 6</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020000000 +0700" stop="20261020001500 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: TU THÂN VÀ TU TÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020001500 +0700" stop="20261020003000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 64</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020003000 +0700" stop="20261020010000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: TÂM AN LẠC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020010000 +0700" stop="20261020014000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020014000 +0700" stop="20261020020000 +0700">
+    <title lang="vi">CHUYỆN LÀNG CHUYỆN PHỐ: KHÔNG NÓI DỐI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020020000 +0700" stop="20261020030000 +0700">
+    <title lang="vi">YOGA: SỐ 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020030000 +0700" stop="20261020033000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020033000 +0700" stop="20261020040000 +0700">
+    <title lang="vi">PHIM TRUYỆN: BAO GIỜ CHO ĐẾN THÁNG 10 - PHẦN 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020040000 +0700" stop="20261020043000 +0700">
+    <title lang="vi">TẠP CHÍ VÕ THUẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020043000 +0700" stop="20261020050000 +0700">
+    <title lang="vi">MÊ KÔNG KÝ SỰ: TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020050000 +0700" stop="20261020060000 +0700">
+    <title lang="vi">YOGA: SỐ 12</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020060000 +0700" stop="20261020063000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH PHƯỚC ĐỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020063000 +0700" stop="20261020071500 +0700">
+    <title lang="vi">ĐẶC SẮC BCHANNEL: SỐ 33</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020071500 +0700" stop="20261020073000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: LÂM ĐỒNG - ĐẤT PHẬT CAO NGUYÊN - TẬP 7</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020073000 +0700" stop="20261020080000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020080000 +0700" stop="20261020084500 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 290</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020084500 +0700" stop="20261020090000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020090000 +0700" stop="20261020094500 +0700">
+    <title lang="vi">VĂN HÓA BCHANNEL: SỐ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020094500 +0700" stop="20261020100000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 63</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020100000 +0700" stop="20261020103000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020103000 +0700" stop="20261020111500 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 293</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020111500 +0700" stop="20261020113000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÙNG TÌM HIỂU VỀ CHÚ ĐẠI BI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020113000 +0700" stop="20261020120000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020120000 +0700" stop="20261020123000 +0700">
+    <title lang="vi">MÊ KÔNG KÝ SỰ: TẬP 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020123000 +0700" stop="20261020130000 +0700">
+    <title lang="vi">PHIM TRUYỆN: MẸ VẮNG NHÀ - PHẦN 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020130000 +0700" stop="20261020133000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020133000 +0700" stop="20261020140000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: CAM LỘ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020140000 +0700" stop="20261020144500 +0700">
+    <title lang="vi">PHIM TRUYỆN: TÌM LẠI TÌNH YÊU - TẬP 83</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020144500 +0700" stop="20261020150000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÕI ĐỊA NGỤC CÓ HAY KHÔNG?</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020150000 +0700" stop="20261020153000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020153000 +0700" stop="20261020160000 +0700">
+    <title lang="vi">CHÙA VIỆT - NGƯỜI VIỆT: SỐ 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020160000 +0700" stop="20261020165000 +0700">
+    <title lang="vi">YOGA: SỐ 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020165000 +0700" stop="20261020170000 +0700">
+    <title lang="vi">TỰ HÀO NGƯỜI CON PHẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020170000 +0700" stop="20261020173000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 18</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020173000 +0700" stop="20261020181000 +0700">
+    <title lang="vi">VĂN HÓA BCHANNEL: SỐ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020181000 +0700" stop="20261020183000 +0700">
+    <title lang="vi">CHÙA LÀNG: CHÙA BỔ ĐÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020183000 +0700" stop="20261020190000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020190000 +0700" stop="20261020195000 +0700">
+    <title lang="vi">PHIM TRUYỆN: CHỊ EM ĐỊNH MỆNH - TẬP 84</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020195000 +0700" stop="20261020200000 +0700">
+    <title lang="vi">TỰ HÀO NGƯỜI CON PHẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020200000 +0700" stop="20261020203000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020203000 +0700" stop="20261020211500 +0700">
+    <title lang="vi">ĐẠO PHÁP VÀ DÂN TỘC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020211500 +0700" stop="20261020213000 +0700">
+    <title lang="vi">SỐNG TỈNH THỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020213000 +0700" stop="20261020215000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020215000 +0700" stop="20261020220000 +0700">
+    <title lang="vi">CHÙA XANH LAN TỎA LỐI SỐNG XANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020220000 +0700" stop="20261020223000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020223000 +0700" stop="20261020230000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH SỨC MẠNH QUÁN ÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020230000 +0700" stop="20261020234000 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 293</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="htv5" channel-number="40" start="20261020234000 +0700" stop="20261021000000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: BẮC NINH, CÁI NÔI PHẬT GIÁO VIỆT NAM - TẬP 1</title> 
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
 </programme> 
 <programme channel="htv7hd" channel-number="41" start="20261018000000 +0700" stop="20261018003000 +0700">
@@ -51736,6 +52236,426 @@
     <title lang="vi">GUGAK THE MUSIC OF KOREA - 143</title> 
     <desc lang="vi">Chương trình này có thời lượng là 3 giờ.</desc> 
 </programme> 
+<programme channel="arirang" channel-number="106" start="20261019000000 +0700" stop="20261019010000 +0700">
+    <title lang="vi">SIMPLY K-POP 2026 - 6</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019010000 +0700" stop="20261019013000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 241</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019013000 +0700" stop="20261019020000 +0700">
+    <title lang="vi">VIBE IN ACTION: K-INITIATIVE - 7</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019020000 +0700" stop="20261019023000 +0700">
+    <title lang="vi">PREMIUM COLLECTION - 212</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019023000 +0700" stop="20261019030000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 232</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019030000 +0700" stop="20261019033000 +0700">
+    <title lang="vi">MOO NO PLAN - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019033000 +0700" stop="20261019040000 +0700">
+    <title lang="vi">MOO NO PLAN - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019040000 +0700" stop="20261019043000 +0700">
+    <title lang="vi">MOO NO PLAN - 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019043000 +0700" stop="20261019050000 +0700">
+    <title lang="vi">I'M LIVE - 440</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019050000 +0700" stop="20261019053000 +0700">
+    <title lang="vi">TALK ROOM - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019053000 +0700" stop="20261019055000 +0700">
+    <title lang="vi">K ARTS ARTISTS - 32</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019055000 +0700" stop="20261019060000 +0700">
+    <title lang="vi">HERITAGE WALKS WITH LITTLE FRIEND - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019060000 +0700" stop="20261019063000 +0700">
+    <title lang="vi">TRIP IN KOREA - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019063000 +0700" stop="20261019065000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-NOW - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019065000 +0700" stop="20261019070000 +0700">
+    <title lang="vi">THE LIVING SEA OF JEJU - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019070000 +0700" stop="20261019073000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS - 257</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019073000 +0700" stop="20261019080000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019080000 +0700" stop="20261019083000 +0700">
+    <title lang="vi">NEW DAY AT ARIRANG - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019083000 +0700" stop="20261019090000 +0700">
+    <title lang="vi">NEWS GENERATION - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019090000 +0700" stop="20261019100000 +0700">
+    <title lang="vi">CULTURE CRUNCH - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019100000 +0700" stop="20261019103000 +0700">
+    <title lang="vi">ARIRANG NEWS - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019103000 +0700" stop="20261019110000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS - 257</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019110000 +0700" stop="20261019120000 +0700">
+    <title lang="vi">PERFORMARTS RELOAD - 35</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019120000 +0700" stop="20261019123000 +0700">
+    <title lang="vi">K CULTURE DIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019123000 +0700" stop="20261019130000 +0700">
+    <title lang="vi">NEWS GENERATION - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019130000 +0700" stop="20261019133000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019133000 +0700" stop="20261019135000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-NOW - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019135000 +0700" stop="20261019140000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS 2 - 479</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019140000 +0700" stop="20261019141500 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 182</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019141500 +0700" stop="20261019143000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 178</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019143000 +0700" stop="20261019150000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS - 257</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019150000 +0700" stop="20261019153000 +0700">
+    <title lang="vi">THE DAILY REPORT - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019153000 +0700" stop="20261019160000 +0700">
+    <title lang="vi">PRESS PERSPECTIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019160000 +0700" stop="20261019171000 +0700">
+    <title lang="vi">SHOW K-POP - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019171000 +0700" stop="20261019173000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-PEOPLE - 12</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019173000 +0700" stop="20261019180000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019180000 +0700" stop="20261019183000 +0700">
+    <title lang="vi">NEWSCENTER - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019183000 +0700" stop="20261019190000 +0700">
+    <title lang="vi">WITHIN THE FRAME - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019190000 +0700" stop="20261019193000 +0700">
+    <title lang="vi">K CULTURE DIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019193000 +0700" stop="20261019195000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-NOW - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019195000 +0700" stop="20261019200000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS 2 - 479</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019200000 +0700" stop="20261019201500 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 182</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019201500 +0700" stop="20261019203000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 178</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019203000 +0700" stop="20261019210000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS - 257</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019210000 +0700" stop="20261019213000 +0700">
+    <title lang="vi">PRESS PERSPECTIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019213000 +0700" stop="20261019215000 +0700">
+    <title lang="vi">THE GRAND HERITAGE ASMR - 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019215000 +0700" stop="20261019220000 +0700">
+    <title lang="vi">HANOK SCENE - 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019220000 +0700" stop="20261019223000 +0700">
+    <title lang="vi">NEWS GENERATION - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019223000 +0700" stop="20261019230000 +0700">
+    <title lang="vi">TRIP IN KOREA - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019230000 +0700" stop="20261019232000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-NOW - 38</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019232000 +0700" stop="20261019233000 +0700">
+    <title lang="vi">HERITAGE WALKS WITH LITTLE FRIEND - 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261019233000 +0700" stop="20261020000000 +0700">
+    <title lang="vi">TRIP IN KOREA - 41</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020000000 +0700" stop="20261020010000 +0700">
+    <title lang="vi">PERFORMARTS RELOAD - 35</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020010000 +0700" stop="20261020013000 +0700">
+    <title lang="vi">K CULTURE DIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020013000 +0700" stop="20261020020000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS - 257</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020020000 +0700" stop="20261020023000 +0700">
+    <title lang="vi">WITHIN THE FRAME - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020023000 +0700" stop="20261020025000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-NOW - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020025000 +0700" stop="20261020030000 +0700">
+    <title lang="vi">THE LIVING SEA OF JEJU - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020030000 +0700" stop="20261020033000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020033000 +0700" stop="20261020035000 +0700">
+    <title lang="vi">THE GRAND HERITAGE ASMR - 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020035000 +0700" stop="20261020040000 +0700">
+    <title lang="vi">HANOK SCENE - 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020040000 +0700" stop="20261020050000 +0700">
+    <title lang="vi">PERFORMARTS RELOAD - 35</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020050000 +0700" stop="20261020053000 +0700">
+    <title lang="vi">WITH SCIENCE, WE LIVE - 7</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020053000 +0700" stop="20261020055000 +0700">
+    <title lang="vi">K ARTS ARTISTS - 33</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020055000 +0700" stop="20261020060000 +0700">
+    <title lang="vi">HERITAGE WALKS WITH LITTLE FRIEND - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020060000 +0700" stop="20261020063000 +0700">
+    <title lang="vi">TRIP IN KOREA - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020063000 +0700" stop="20261020065000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-PEOPLE - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020065000 +0700" stop="20261020070000 +0700">
+    <title lang="vi">THE LIVING SEA OF JEJU - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020070000 +0700" stop="20261020073000 +0700">
+    <title lang="vi">DIPLOMAT'S ARCHIVE: HIDDEN STORIES - 66</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020073000 +0700" stop="20261020080000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020080000 +0700" stop="20261020083000 +0700">
+    <title lang="vi">NEW DAY AT ARIRANG - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020083000 +0700" stop="20261020090000 +0700">
+    <title lang="vi">NEWS GENERATION - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020090000 +0700" stop="20261020100000 +0700">
+    <title lang="vi">CULTURE CRUNCH - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020100000 +0700" stop="20261020103000 +0700">
+    <title lang="vi">ARIRANG NEWS - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020103000 +0700" stop="20261020110000 +0700">
+    <title lang="vi">DIPLOMAT'S ARCHIVE: HIDDEN STORIES - 66</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020110000 +0700" stop="20261020120000 +0700">
+    <title lang="vi">GUGAK THE MUSIC OF KOREA - 144</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020120000 +0700" stop="20261020123000 +0700">
+    <title lang="vi">K CULTURE DIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020123000 +0700" stop="20261020130000 +0700">
+    <title lang="vi">NEWS GENERATION - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020130000 +0700" stop="20261020133000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020133000 +0700" stop="20261020135000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-PEOPLE - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020135000 +0700" stop="20261020140000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS 2 - 480</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020140000 +0700" stop="20261020141500 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 183</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020141500 +0700" stop="20261020143000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 179</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020143000 +0700" stop="20261020150000 +0700">
+    <title lang="vi">DIPLOMAT'S ARCHIVE: HIDDEN STORIES - 66</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020150000 +0700" stop="20261020153000 +0700">
+    <title lang="vi">THE DAILY REPORT - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020153000 +0700" stop="20261020160000 +0700">
+    <title lang="vi">PRESS PERSPECTIVE - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020160000 +0700" stop="20261020170000 +0700">
+    <title lang="vi">GUGAK THE MUSIC OF KOREA - 144</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020170000 +0700" stop="20261020173000 +0700">
+    <title lang="vi">WITH SCIENCE, WE LIVE - 7</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020173000 +0700" stop="20261020180000 +0700">
+    <title lang="vi">COUNTRYSIDE ESCAPE - 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020180000 +0700" stop="20261020183000 +0700">
+    <title lang="vi">NEWSCENTER - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020183000 +0700" stop="20261020190000 +0700">
+    <title lang="vi">WITHIN THE FRAME - 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020190000 +0700" stop="20261020193000 +0700">
+    <title lang="vi">K CULTURE DIVE - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020193000 +0700" stop="20261020195000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-PEOPLE - 42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020195000 +0700" stop="20261020200000 +0700">
+    <title lang="vi">SMARTBIZ ACCELERATORS 2 - 480</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020200000 +0700" stop="20261020201500 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 183</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020201500 +0700" stop="20261020203000 +0700">
+    <title lang="vi">ARIRANG SPECIAL - 179</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020203000 +0700" stop="20261020210000 +0700">
+    <title lang="vi">DIPLOMAT'S ARCHIVE: HIDDEN STORIES - 66</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020210000 +0700" stop="20261020213000 +0700">
+    <title lang="vi">PRESS PERSPECTIVE - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020213000 +0700" stop="20261020215000 +0700">
+    <title lang="vi">THE GRAND HERITAGE ASMR - 6</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020215000 +0700" stop="20261020220000 +0700">
+    <title lang="vi">HANOK SCENE - 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020220000 +0700" stop="20261020223000 +0700">
+    <title lang="vi">NEWS GENERATION - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020223000 +0700" stop="20261020230000 +0700">
+    <title lang="vi">TRIP IN KOREA - 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020230000 +0700" stop="20261020232000 +0700">
+    <title lang="vi">K CULTURE MINUTES: K-PEOPLE - 38</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020232000 +0700" stop="20261020233000 +0700">
+    <title lang="vi">EXPLORING KOREAN LITERATURE B - 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="arirang" channel-number="106" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="vi">REGIONAL TASTES: CHUNGCHEONG - 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
 <programme channel="bloomberg" channel-number="107" start="20261018000000 +0700" stop="20261018003000 +0700">
     <title lang="vi">LEADERS WITH FRANCINE LACQUA: THE PODCAST</title> 
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
@@ -58534,6 +59454,198 @@
 <programme channel="anvienhd" channel-number="116" start="20261019234000 +0700" stop="20261019235959 +0700">
     <title lang="vi">MIỀN ĐẤT PHẬT: LÀO - ĐẤT NƯỚC TRIỆU VOI - TẬP 6</title> 
     <desc lang="vi">Chương trình này có thời lượng là 19 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020000000 +0700" stop="20261020001500 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: TU THÂN VÀ TU TÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020001500 +0700" stop="20261020003000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 64</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020003000 +0700" stop="20261020010000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: TÂM AN LẠC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020010000 +0700" stop="20261020014000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020014000 +0700" stop="20261020020000 +0700">
+    <title lang="vi">CHUYỆN LÀNG CHUYỆN PHỐ: KHÔNG NÓI DỐI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020020000 +0700" stop="20261020030000 +0700">
+    <title lang="vi">YOGA: SỐ 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020030000 +0700" stop="20261020033000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020033000 +0700" stop="20261020040000 +0700">
+    <title lang="vi">PHIM TRUYỆN: BAO GIỜ CHO ĐẾN THÁNG 10 - PHẦN 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020040000 +0700" stop="20261020043000 +0700">
+    <title lang="vi">TẠP CHÍ VÕ THUẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020043000 +0700" stop="20261020050000 +0700">
+    <title lang="vi">MÊ KÔNG KÝ SỰ: TẬP 4</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020050000 +0700" stop="20261020060000 +0700">
+    <title lang="vi">YOGA: SỐ 12</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020060000 +0700" stop="20261020063000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH PHƯỚC ĐỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020063000 +0700" stop="20261020071500 +0700">
+    <title lang="vi">ĐẶC SẮC BCHANNEL: SỐ 33</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020071500 +0700" stop="20261020073000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: LÂM ĐỒNG - ĐẤT PHẬT CAO NGUYÊN - TẬP 7</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020073000 +0700" stop="20261020080000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020080000 +0700" stop="20261020084500 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 290</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020084500 +0700" stop="20261020090000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020090000 +0700" stop="20261020094500 +0700">
+    <title lang="vi">VĂN HÓA BCHANNEL: SỐ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020094500 +0700" stop="20261020100000 +0700">
+    <title lang="vi">CƠM CHAY CỬA THIỀN: SỐ 63</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020100000 +0700" stop="20261020103000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020103000 +0700" stop="20261020111500 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 293</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020111500 +0700" stop="20261020113000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÙNG TÌM HIỂU VỀ CHÚ ĐẠI BI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020113000 +0700" stop="20261020120000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020120000 +0700" stop="20261020123000 +0700">
+    <title lang="vi">MÊ KÔNG KÝ SỰ: TẬP 5</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020123000 +0700" stop="20261020130000 +0700">
+    <title lang="vi">PHIM TRUYỆN: MẸ VẮNG NHÀ - PHẦN 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020130000 +0700" stop="20261020133000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020133000 +0700" stop="20261020140000 +0700">
+    <title lang="vi">HƯƠNG SEN MẦU NHIỆM: CAM LỘ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020140000 +0700" stop="20261020144500 +0700">
+    <title lang="vi">PHIM TRUYỆN: TÌM LẠI TÌNH YÊU - TẬP 83</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020144500 +0700" stop="20261020150000 +0700">
+    <title lang="vi">ĐÂU KHÓ CÓ AN VIÊN: CÕI ĐỊA NGỤC CÓ HAY KHÔNG?</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020150000 +0700" stop="20261020153000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020153000 +0700" stop="20261020160000 +0700">
+    <title lang="vi">CHÙA VIỆT - NGƯỜI VIỆT: SỐ 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020160000 +0700" stop="20261020165000 +0700">
+    <title lang="vi">YOGA: SỐ 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020165000 +0700" stop="20261020170000 +0700">
+    <title lang="vi">TỰ HÀO NGƯỜI CON PHẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020170000 +0700" stop="20261020173000 +0700">
+    <title lang="vi">PHIM TRUYỆN: DƯỚI MỘT MÁI NHÀ - TẬP 18</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020173000 +0700" stop="20261020181000 +0700">
+    <title lang="vi">VĂN HÓA BCHANNEL: SỐ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020181000 +0700" stop="20261020183000 +0700">
+    <title lang="vi">CHÙA LÀNG: CHÙA BỔ ĐÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020183000 +0700" stop="20261020190000 +0700">
+    <title lang="vi">VƯƠN KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020190000 +0700" stop="20261020195000 +0700">
+    <title lang="vi">PHIM TRUYỆN: CHỊ EM ĐỊNH MỆNH - TẬP 84</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020195000 +0700" stop="20261020200000 +0700">
+    <title lang="vi">TỰ HÀO NGƯỜI CON PHẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020200000 +0700" stop="20261020203000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020203000 +0700" stop="20261020211500 +0700">
+    <title lang="vi">ĐẠO PHÁP VÀ DÂN TỘC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020211500 +0700" stop="20261020213000 +0700">
+    <title lang="vi">SỐNG TỈNH THỨC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020213000 +0700" stop="20261020215000 +0700">
+    <title lang="vi">NHỊP SỐNG ĐƯƠNG ĐẠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020215000 +0700" stop="20261020220000 +0700">
+    <title lang="vi">CHÙA XANH LAN TỎA LỐI SỐNG XANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020220000 +0700" stop="20261020223000 +0700">
+    <title lang="vi">BẢN TIN BCHANNEL - AN VIÊN 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020223000 +0700" stop="20261020230000 +0700">
+    <title lang="vi">KHAI TÂM NHẬT TỤNG: KINH SỨC MẠNH QUÁN ÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020230000 +0700" stop="20261020234000 +0700">
+    <title lang="vi">BƯỚC NGOẶT CUỘC ĐỜI: SỐ 293</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc> 
+</programme> 
+<programme channel="anvienhd" channel-number="116" start="20261020234000 +0700" stop="20261021000000 +0700">
+    <title lang="vi">MIỀN ĐẤT PHẬT: BẮC NINH, CÁI NÔI PHẬT GIÁO VIỆT NAM - TẬP 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
 </programme> 
 <programme channel="angiang1" channel-number="117" start="20261018051500 +0700" stop="20261018052000 +0700">
     <title lang="vi">NHẠC HIỆU – CHÀO CỜ BUỔI SÁNG – GIỚI THIỆU CHƯƠNG TRÌNH</title> 
@@ -93556,9 +94668,64 @@
     <desc>Action from the 11th round of the season at Brands Hatch.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="400477" start="20261020113000 +0700" stop="20261021000000 +0700">
+  <programme channel="400477" start="20261020113000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Premier League Stories</title>
     <desc>From sweeper-keepers to playing out under pressure, a look at the innovations and changing demands that have revolutionised goalkeeping.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday seven of the top flight, featuring Everton v Chelsea, Manchester City v Ipswich Town, Leeds United v Manchester United, and more.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>All the best action from the latest round of fixtures.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Tuesday's fixtures, including Arsenal v Lille, Atletico Madrid v Manchester United, Galatasaray v Barcelona and Viking v Bayern Munich.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020150000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Wednesday's fixtures, including LASK v Liverpool, Aston Villa v Fenerbahce, and Manchester City v Paris Saint-Germain.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020160000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the third day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020180000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday seven of the top flight, featuring Everton v Chelsea, Manchester City v Ipswich Town, Leeds United v Manchester United, and more.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020190000 +0700" stop="20261020193000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020193000 +0700" stop="20261020194500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at India v West Indies in the fifth and final T20 of the series.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020194500 +0700" stop="20261020200000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>India Women v Zimbabwe Women in the first T20.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020200000 +0700" stop="20261020201500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>India Women v Zimbabwe Women in the second T20.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400477" start="20261020201500 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Live Women's International T20 Cricket</title>
+    <desc>India v Zimbabwe. Coverage of the third Twenty20 in the three-match series, which takes place at Shaheed Veer Narayan Singh International Cricket Stadium in Raipur.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="400480">
@@ -93740,9 +94907,89 @@
     <desc>Action from Salt Lake City, USA.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="400480" start="20261020120000 +0700" stop="20261021000000 +0700">
+  <programme channel="400480" start="20261020120000 +0700" stop="20261020123000 +0700">
     <title lang="zh">Ninja A-League Women Highlights</title>
     <desc>Action from the latest round of matches.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020123000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">A-League Highlights</title>
+    <desc>A review of all the goals and talking points from the weekend's A-League games.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Juventus v Lazio.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020150000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">British Superbikes Highlights</title>
+    <desc>Action from the 11th round of the season at Brands Hatch.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020160000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">World Superbike Highlights</title>
+    <desc>Action from the 12th and final round of the season, which took place at Circuito de Jerez - Angel Nieto in Spain.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020170000 +0700" stop="20261020173000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>Ahead of Leeds United's crunch match against Manchester United, Noah Okafor reflects on last season's encounter at Old Trafford, when a brace secured his name in the history books.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020173000 +0700" stop="20261020183000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A look at Portuguese side Torreense and their remarkable journey, plus an in-depth review of their clash with Sunderland in matchday two.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020183000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Walter Samuel returns to Rome to watch former clubs AS Roma and Real Madrid face-off. Isco leads Betis back into the big time and a round-up of Matchday Two's clashes.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020190000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">Live UEFA Youth League</title>
+    <desc>Manchester City U19 v AEK Athens U19 (Kick-off TBA). Coverage of the league phase match from MCFC Academy Stadium.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020210000 +0700" stop="20261020211500 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020211500 +0700" stop="20261020214500 +0700">
+    <title lang="zh">UEFA Extraordinary Stories</title>
+    <desc>A profile of Romanian footballer Miodrag Belodedici, who defected from the country and headed for Belgrade, and became the first man to win the European Cup with two clubs.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020214500 +0700" stop="20261020221500 +0700">
+    <title lang="zh">UEFA Extraordinary Stories</title>
+    <desc>A look at how SC Bastia made it to the 1978 UEFA Cup final.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020221500 +0700" stop="20261020224500 +0700">
+    <title lang="zh">UEFA Extraordinary Stories</title>
+    <desc>A profile of Bela Guttmann, a Holocaust survivor who led Portuguese giants Benfica to back-to-back European Cup titles.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020224500 +0700" stop="20261020231500 +0700">
+    <title lang="zh">UEFA Extraordinary Stories</title>
+    <desc>A profile of Italian footballer Gianlugi Lentini.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020231500 +0700" stop="20261020234500 +0700">
+    <title lang="zh">Match Officials Mic'd Up</title>
+    <desc>Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400480" start="20261020234500 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Sabah v Borussia Dortmund (Kick-off 5.45pm). Coverage of the league phase match from Baku Olympic Stadium.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="400479">
@@ -93909,9 +95156,84 @@
     <desc>A round-up of all the goals from Wednesday's fixtures, including LASK v Liverpool, Aston Villa v Fenerbahce, and Manchester City v Paris Saint-Germain.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="400479" start="20261020113000 +0700" stop="20261021000000 +0700">
+  <programme channel="400479" start="20261020113000 +0700" stop="20261020120000 +0700">
     <title lang="zh">UEFA Champions League Magazine</title>
     <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Women's Cycling Pro Series</title>
+    <desc>Action from the fifth and final stage of the 2026 Eneco Tour.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the fifth and final stage of the 2026 Eneco Tour.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Venetia Classic in Italy.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020150000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">UCI Track Cycling World Championship</title>
+    <desc>Action from the fifth day of the competition in Shanghai, China.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020160000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">BMX Racing</title>
+    <desc>Action from the women's freestyle park final in Shanghai, China.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020170000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">BMX Racing</title>
+    <desc>Action from the men's freestyle park final in Shanghai, China.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020180000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">IFSC Climbing World Series Highlights</title>
+    <desc>Action from Salt Lake City, USA.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020190000 +0700" stop="20261020191500 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Danny Jamieson heads to Sunderland to meet Head Coach, Régis Le Bris, Director of Football, Florent Ghisolfi and Captain, Granit Xhaka.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020191500 +0700" stop="20261020201500 +0700">
+    <title lang="zh">A-League</title>
+    <desc>Sydney FC v Western Sydney Wanderers.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020201500 +0700" stop="20261020211500 +0700">
+    <title lang="zh">A-League</title>
+    <desc>Auckland FC v Melbourne City.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020211500 +0700" stop="20261020214500 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest round of matches.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020214500 +0700" stop="20261020224500 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday seven of the top flight, featuring Everton v Chelsea, Manchester City v Ipswich Town, Leeds United v Manchester United, and more.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020224500 +0700" stop="20261020231500 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020231500 +0700" stop="20261020234500 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Walter Samuel returns to Rome to watch former clubs AS Roma and Real Madrid face-off. Isco leads Betis back into the big time and a round-up of Matchday Two's clashes.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400479" start="20261020234500 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Fenerbahce v Slavia Prague (Kick-off 5.45pm). Coverage of the league phase match from Sukru Saracoglu Stadium.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="400478">
@@ -94093,10 +95415,60 @@
     <desc>Action from the women's exact cross race in Meulebeke, Belgium.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="400478" start="20261020113000 +0700" stop="20261021000000 +0700">
+  <programme channel="400478" start="20261020113000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Cyclocross</title>
     <desc>Action from the men's exact cross race in Meulebeke, Belgium.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020120000 +0700" stop="20261020143000 +0700">
+    <title lang="zh">MLB</title>
+    <desc>Toronto Blue Jays v Los Angeles Dodgers. Action from game one of the World Series at Rogers Centre.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020143000 +0700" stop="20261020153000 +0700">
+    <title lang="zh">Marathons</title>
+    <desc>Action from the Amsterdam marathon.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020153000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020160000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the third day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020180000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">Women's International T20 Cricket</title>
+    <desc>India v Zimbabwe. Action from the second Twenty20 in the three-match series, which took place at Shaheed Veer Narayan Singh International Cricket Stadium in Raipur.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020190000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the third day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020210000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the third day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">Michelin Le Mans Cup Highlights</title>
+    <desc>Action from the latest round of the season in Portimao, Portugal.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">UIM F1H2O World Championship Highlights</title>
+    <desc>A review of the best action from the latest round of the season in China.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="400478" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">ESC European Championship</title>
+    <desc>A look back at the latest event in Greece.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="219100">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>
@@ -94217,10 +95589,135 @@
     <desc>Action from the opening round of pool fixtures.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="219100" start="20261020053000 +0700" stop="20261021000000 +0700">
+  <programme channel="219100" start="20261020053000 +0700" stop="20261020073000 +0700">
     <title lang="zh">LaLiga</title>
     <desc>Malaga v Real Sociedad.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020073000 +0700" stop="20261020080000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020080000 +0700" stop="20261020110000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Utah Mammoth v Pittsburgh Penguins (Face-off 2.00am). Coverage of the inter-conference match at Delta Center.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020110000 +0700" stop="20261020113000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Argentina.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020113000 +0700" stop="20261020120000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020120000 +0700" stop="20261020123000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020123000 +0700" stop="20261020143000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Getafe v Rayo Vallecano.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020143000 +0700" stop="20261020153000 +0700">
+    <title lang="zh">NASCAR Highlights</title>
+    <desc>The Freeway Insurance 500.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020153000 +0700" stop="20261020154000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Deportivo v Levante.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020154000 +0700" stop="20261020155000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Espanyol v Atletico Madrid.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020155000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Villarreal v Elche.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020160000 +0700" stop="20261020161000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Betis v Barcelona.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020161000 +0700" stop="20261020162000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Osasuna v Racing Santander.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020162000 +0700" stop="20261020163000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Celta Vigo v Alaves.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020163000 +0700" stop="20261020164000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Malaga v Real Sociedad.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020164000 +0700" stop="20261020165000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Madrid v Sevilla.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020165000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Getafe v Rayo Vallecano.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020170000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">Champions Cup Highlights</title>
+    <desc>Action from the opening round of pool fixtures.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020180000 +0700" stop="20261020200000 +0700">
+    <title lang="zh">Men's Rugby League World Cup</title>
+    <desc>England v Tonga.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020200000 +0700" stop="20261020203000 +0700">
+    <title lang="zh">NHL on the Fly</title>
+    <desc>Highlights and news from the NHL.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020203000 +0700" stop="20261020213000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look at the top 20 defensemen in the NHL.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020213000 +0700" stop="20261020214000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Celta Vigo v Alaves.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020214000 +0700" stop="20261020215000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Malaga v Real Sociedad.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020215000 +0700" stop="20261020220000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Madrid v Sevilla.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261020220000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Stormers v Bristol Bears.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219100" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Gloucester Rugby v Union Bordeaux Bègles.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
@@ -94321,9 +95818,69 @@
     <desc>A look at the top 20 centers in the NHL.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="219104" start="20261020060000 +0700" stop="20261021000000 +0700">
+  <programme channel="219104" start="20261020060000 +0700" stop="20261020090000 +0700">
     <title lang="zh">Live NHL Ice Hockey</title>
     <desc>Philadelphia Flyers v Colorado Avalanche (Face-off 12.00am). Coverage of the inter-conference match from Xfinity Mobile Arena.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020090000 +0700" stop="20261020093000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020093000 +0700" stop="20261020100000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020100000 +0700" stop="20261020120000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Celta Vigo v Alaves.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020120000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Bulls v Stade Francais.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020140000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">EPCR Challenge Cup</title>
+    <desc>Harlequins v RC Vannes.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020160000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">EPCR Challenge Cup</title>
+    <desc>Edinburgh Rugby v RC Toulon.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020180000 +0700" stop="20261020200000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Stade Rochelais v Lions.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020200000 +0700" stop="20261020203000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020203000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020210000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>ASM Clermont Auvergne v Leinster Rugby.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="219104" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Bath Rugby v Montpellier Hérault Rugby.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="399506">
@@ -94485,9 +96042,99 @@
     <desc>All the action from the latest round of the AFLW.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="399506" start="20261020055200 +0700" stop="20261021000000 +0700">
+  <programme channel="399506" start="20261020055200 +0700" stop="20261020074200 +0700">
     <title lang="zh">Bledisloe Cup: Australia V New Zealand</title>
     <desc>The 2026 Bledisloe Cup is a two-test rugby union series between New Zealand and Australia.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020074200 +0700" stop="20261020093200 +0700">
+    <title lang="zh">Champions Cup : Northampton V Cardiff</title>
+    <desc>Coverage of the Investec Champions Cup as Northampton Saints and Cardiff Rugby go head-to-head in this Pool 4 matchup from DPD Stadium at Franklin's Gardens.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020093200 +0700" stop="20261020100200 +0700">
+    <title lang="zh">5 and 6 Nations Classics: 1986 - England V Ireland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020100200 +0700" stop="20261020115200 +0700">
+    <title lang="zh">Women's RLWC 2026: Australia V Samoa</title>
+    <desc>The seventh edition of the Women's Rugby League World Cup is co-hosted by Australia New Zealand and Papua New Guinea.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020115200 +0700" stop="20261020134200 +0700">
+    <title lang="zh">Women's RLWC 2026: New Zealand V Fiji</title>
+    <desc>The seventh edition of the Women's Rugby League World Cup is co-hosted by Australia New Zealand and Papua New Guinea.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020134200 +0700" stop="20261020135700 +0700">
+    <title lang="zh">AFLW Highlights: Melbourne V Richmond</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020135700 +0700" stop="20261020141200 +0700">
+    <title lang="zh">AFLW Highlights: Adelaide V Gold Coast</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020141200 +0700" stop="20261020142700 +0700">
+    <title lang="zh">AFLW Highlights: Carlton V Bulldogs</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020142700 +0700" stop="20261020144200 +0700">
+    <title lang="zh">AFLW Highlights: Brisbane V Port Adelaide</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020144200 +0700" stop="20261020145700 +0700">
+    <title lang="zh">AFLW Highlights: West Coast V Geelong</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020145700 +0700" stop="20261020151200 +0700">
+    <title lang="zh">AFLW Highlights: Collingwood V Sydney</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020151200 +0700" stop="20261020152700 +0700">
+    <title lang="zh">AFLW Highlights: GWS Giants V Hawthorn</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020152700 +0700" stop="20261020154200 +0700">
+    <title lang="zh">AFLW Highlights: Essendon V North Melbourne</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020154200 +0700" stop="20261020160200 +0700">
+    <title lang="zh">AFLW Highlights: Fremantle V St Kilda</title>
+    <desc>All the action from the latest round of the AFLW.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020160200 +0700" stop="20261020175200 +0700">
+    <title lang="zh">Bledisloe Cup: Australia V New Zealand</title>
+    <desc>The 2026 Bledisloe Cup is a two-test rugby union series between New Zealand and Australia.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020175200 +0700" stop="20261020194200 +0700">
+    <title lang="zh">Champions Cup : Gloucester V Bordeaux Begles</title>
+    <desc>Coverage of the Investec Champions Cup as Gloucester and Bordeaux Begles open up with group stages with this Pool 3 clash from Kingsholm Stadium.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020194200 +0700" stop="20261020213200 +0700">
+    <title lang="zh">Champions Cup : Bulls V Stade Francais</title>
+    <desc>Coverage of the Investec Champions Cup as the Vodacom Bulls and Stade Francais meet in this Pool 4 contest from Loftus Versfeld.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020213200 +0700" stop="20261020220200 +0700">
+    <title lang="zh">5 and 6 Nations Classics: 1988 - Wales V Scotland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="399506" start="20261020220200 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Champions Cup : Sale V Glasgow Warriors</title>
+    <desc>Coverage of the Investec Champions Cup as Sale Sharks and Glasgow Warriors go head-to-head in this Pool 1 contest at CorpAcq Stadium.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="465291">
@@ -95102,7 +96749,22 @@
     <desc>Investigating a magical ley line at a historic resort, the Librarians' vacation is derailed by a sentient puppet's evil plot. They must partner with an aging puppeteer to stop the puppet from destroying the resort.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="369719" start="20261020213000 +0700" stop="20261021000000 +0700">
+  <programme channel="369719" start="20261020213000 +0700" stop="20261020221500 +0700">
+    <title lang="zh">Below Deck Mediterranean S11</title>
+    <desc>Luke makes a final plea to Joy while Gen confronts him about his behavior.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369719" start="20261020221500 +0700" stop="20261020230000 +0700">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S14</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369719" start="20261020230000 +0700" stop="20261020234500 +0700">
+    <title lang="zh">Late Night With Seth Meyers S14</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369719" start="20261020234500 +0700" stop="20261021000000 +0700">
     <title lang="zh">Below Deck Mediterranean S11</title>
     <desc>Luke makes a final plea to Joy while Gen confronts him about his behavior.</desc>
     <date>2026-10-20</date>
@@ -96171,9 +97833,14 @@
     <desc>A juror in a high-profile murder trial faces a serious moral dilemma… one that could sway the jury to convict or free the accused killer.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="369840" start="20261020200000 +0700" stop="20261021000000 +0700">
+  <programme channel="369840" start="20261020200000 +0700" stop="20261020220000 +0700">
     <title lang="zh">CRAZY, STUPID, LOVE</title>
     <desc>A straight-laced man tries to play the field, but discovers that his heart will always be with his wife.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369840" start="20261020220000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">FANTASTIC BEASTS: THE SECRETS OF DUMBLEDORE</title>
+    <desc>Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="369786">
@@ -96575,10 +98242,25 @@
     <desc>A British college student falls for an American student but finds out that they have to be separated.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="369786" start="20261020210000 +0700" stop="20261021000000 +0700">
+  <programme channel="369786" start="20261020210000 +0700" stop="20261020214500 +0700">
     <title lang="zh">SUITS LA S1</title>
     <desc>The death of a beloved client brings Ted and Rick back together. Kevin helps Erica with a family matter.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="369786" start="20261020214500 +0700" stop="20261020231500 +0700">
+    <title lang="zh">THE NATIONAL DOG SHOW ('20)</title>
+    <desc>From the Kennel Club of Philadelphia, this cherished competition for all dog lovers returns for the 17th year. Hosted by John O'Hurley, the event features 2,000 of the nation's leading canines, including the world's largest, smallest and most exotic. Over 170 breeds strut their stuff with the hope of becoming this year's top dog. “The Dean” David Frei provides expert show commentary, and Mary Cari</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369786" start="20261020231500 +0700" stop="20261021000000 +0700">
+    <title lang="zh">THE TITAN GAMES S1</title>
+    <desc>The competition continues with competitors pushing their bodies to the limit by battling opponents in unforgiving head-to-head challenges, designed by Dwayne Johnson. Winners will advance to the ultimate challenge of Mt. Olympus, the consummate athletic test of speed, strength, agility and endurance. The male and female competitors who conquer Mt. Olympus will become a Titan, and in the end, the T</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369786" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">UNCLE GRANDPA S5</title>
+    <desc>Mr. Gus and Belly Bag are throwing a surprise party for Pizza Steve, as long as Uncle Grandpa doesn't spoil their surprise.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="369758">
     <display-name lang="Singapore">HBO Signature (HD)</display-name>
@@ -96729,9 +98411,19 @@
     <desc>O.G. follows Louis (Wright), a maximum-security prison inmate on the cusp of release from a sentence he's served for the last 24 years.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="369758" start="20261020190000 +0700" stop="20261021000000 +0700">
+  <programme channel="369758" start="20261020190000 +0700" stop="20261020210000 +0700">
     <title lang="zh">CHOCOLAT</title>
     <desc>A woman opens a chocolate shop in a French town and creates confections that inspire the straitlaced villagers to abandon themselves to temptation and happiness.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369758" start="20261020210000 +0700" stop="20261020230500 +0700">
+    <title lang="zh">THE BRIDE!</title>
+    <desc />
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="369758" start="20261020230500 +0700" stop="20261021000000 +0700">
+    <title lang="zh">RED SONJA</title>
+    <desc>A barbarian huntress, Red Sonja, must unite a group of unlikely warriors to face off against Emperor Draygan and his deadly bride.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="444724">
@@ -97206,10 +98898,115 @@
     <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="486870" start="20261020053000 +0700" stop="20261021000000 +0700">
+  <programme channel="486870" start="20261020053000 +0700" stop="20261020060000 +0700">
     <title lang="zh">Paul Parker: Tackling the Game</title>
     <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020060000 +0700" stop="20261020080000 +0700">
+    <title lang="zh">PL Match: Leeds (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Leeds United.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020080000 +0700" stop="20261020083000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020083000 +0700" stop="20261020093000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence, Jim Thwaites and Amir Ibragimov join us on Inside Carrington.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020093000 +0700" stop="20261020100000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020100000 +0700" stop="20261020110000 +0700">
+    <title lang="zh">Beckham: Take A Bow</title>
+    <desc>Exclusive documentary looking back at key career moments of football superstar David Beckham. With a special focus on his wonder goal versus Wimbledon that helped catapult Becks onto the world stage.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020110000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">PL Match: Leeds (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Leeds United.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020130000 +0700" stop="20261020133000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020133000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">Paul Parker: Tackling the Game</title>
+    <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence and Darren Fletcher join us on Inside Carrington to discuss the academy and our participation in the UEFA Youth League.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020150000 +0700" stop="20261020164500 +0700">
+    <title lang="zh">UEFA Champions League 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020164500 +0700" stop="20261020173000 +0700">
+    <title lang="zh">Live: United In Training</title>
+    <desc>Join us for live training as we prepare for our UEFA Champions League match against Como 1907.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020173000 +0700" stop="20261020174500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020174500 +0700" stop="20261020184500 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence and Darren Fletcher join us on Inside Carrington to discuss the academy and our participation in the UEFA Youth League.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020184500 +0700" stop="20261020190000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020190000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">PL Match: Leeds (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Leeds United.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020210000 +0700" stop="20261020213000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020213000 +0700" stop="20261020223000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence and Darren Fletcher join us on Inside Carrington to discuss the academy and our participation in the UEFA Youth League.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020223000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">Paul Parker: Tackling the Game</title>
+    <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="486870" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down for an exclusive interview with Andrey Santos as he reflects on his first few months as a Red.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
@@ -97340,9 +99137,74 @@
     <desc>The San Francisco 49ers host the Washington Commanders in Week 6 at Levi's Stadium. San Francisco beat Seattle, 32-29, to maintain their unbeaten streak. The Commanders tied with the Giants after overtime, stopping a multi-game slide with the draw.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="470446" start="20261020103000 +0700" stop="20261021000000 +0700">
+  <programme channel="470446" start="20261020103000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020140000 +0700" stop="20261020143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020143000 +0700" stop="20261020153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020153000 +0700" stop="20261020163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020163000 +0700" stop="20261020173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020173000 +0700" stop="20261020183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020183000 +0700" stop="20261020193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020193000 +0700" stop="20261020203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020203000 +0700" stop="20261020213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020213000 +0700" stop="20261020223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020223000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470446" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="470550">
@@ -97514,10 +99376,135 @@
     <desc>Basketball Island experts discuss the sport's future stars.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="470550" start="20261020113000 +0700" stop="20261021000000 +0700">
+  <programme channel="470550" start="20261020113000 +0700" stop="20261020120000 +0700">
     <title lang="zh">2026-27 Raptors Preview Show</title>
     <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020120000 +0700" stop="20261020123000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020123000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020130000 +0700" stop="20261020133000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020133000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020140000 +0700" stop="20261020143000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020143000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020150000 +0700" stop="20261020153000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020153000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020160000 +0700" stop="20261020163000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020163000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020170000 +0700" stop="20261020173000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020173000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020180000 +0700" stop="20261020183000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020183000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020190000 +0700" stop="20261020193000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020193000 +0700" stop="20261020200000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020200000 +0700" stop="20261020203000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020203000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020210000 +0700" stop="20261020213000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020213000 +0700" stop="20261020220000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020220000 +0700" stop="20261020223000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020223000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">2026-27 Raptors Preview Show</title>
+    <desc>Experts discuss the upcoming season of Raptors' basketball, including a roster breakdown.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470550" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="470888">
     <display-name lang="Canada">TSN 3</display-name>
@@ -97653,10 +99640,80 @@
     <desc>The San Francisco 49ers host the Washington Commanders in Week 6 at Levi's Stadium. San Francisco beat Seattle, 32-29, to maintain their unbeaten streak. The Commanders tied with the Giants after overtime, stopping a multi-game slide with the draw.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="470888" start="20261020103000 +0700" stop="20261021000000 +0700">
+  <programme channel="470888" start="20261020103000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020140000 +0700" stop="20261020143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020143000 +0700" stop="20261020153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020153000 +0700" stop="20261020163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020163000 +0700" stop="20261020173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020173000 +0700" stop="20261020183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020183000 +0700" stop="20261020193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020193000 +0700" stop="20261020203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020203000 +0700" stop="20261020213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020213000 +0700" stop="20261020223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020223000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470888" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-21</date>
   </programme>
 <channel id="470730">
     <display-name lang="Canada">TSN 4</display-name>
@@ -97812,9 +99869,69 @@
     <desc>The San Francisco 49ers host the Washington Commanders in Week 6 at Levi's Stadium. San Francisco beat Seattle, 32-29, to maintain their unbeaten streak. The Commanders tied with the Giants after overtime, stopping a multi-game slide with the draw.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="470730" start="20261020103000 +0700" stop="20261021000000 +0700">
+  <programme channel="470730" start="20261020103000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020150000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020160000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020170000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020180000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020190000 +0700" stop="20261020200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020200000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020210000 +0700" stop="20261020220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020220000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470730" start="20261020230000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.</desc>
     <date>2026-10-20</date>
   </programme>
 <channel id="470390">
@@ -97981,9 +100098,79 @@
     <desc>The San Francisco 49ers host the Washington Commanders in Week 6 at Levi's Stadium. San Francisco beat Seattle, 32-29, to maintain their unbeaten streak. The Commanders tied with the Giants after overtime, stopping a multi-game slide with the draw.</desc>
     <date>2026-10-20</date>
   </programme>
-  <programme channel="470390" start="20261020103000 +0700" stop="20261021000000 +0700">
+  <programme channel="470390" start="20261020103000 +0700" stop="20261020120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020120000 +0700" stop="20261020130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020130000 +0700" stop="20261020140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020140000 +0700" stop="20261020150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020150000 +0700" stop="20261020160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020160000 +0700" stop="20261020170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020170000 +0700" stop="20261020180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020180000 +0700" stop="20261020190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020190000 +0700" stop="20261020200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020200000 +0700" stop="20261020210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020210000 +0700" stop="20261020220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020220000 +0700" stop="20261020230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-20</date>
+  </programme>
+  <programme channel="470390" start="20261021000000 +0700" stop="20261022000000 +0700">
+    <title lang="zh">Basketball Island: Futures Day Special</title>
+    <desc>Basketball Island experts discuss the sport's future stars.</desc>
+    <date>2026-10-21</date>
   </programme>
 </tv>
