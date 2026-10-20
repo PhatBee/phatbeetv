@@ -2,27 +2,27 @@
 <tv><channel id="vtv1hd">
     <display-name lang="vi">VTV1</display-name> 
     <display-number>1</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv1hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv1hd.jpg" />
 </channel> 
 <channel id="vtv2hd">
     <display-name lang="vi">VTV2</display-name> 
     <display-number>2</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv2hd.jpg" />
 </channel> 
 <channel id="vtv3hd">
     <display-name lang="vi">VTV3</display-name> 
     <display-number>3</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv3hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv3hd.jpg" />
 </channel> 
 <channel id="vtv4hd">
     <display-name lang="vi">VTV4</display-name> 
     <display-number>4</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv4hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv4hd.jpg" />
 </channel> 
 <channel id="vtv5hd">
     <display-name lang="vi">VTV5</display-name> 
     <display-number>5</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hd.jpg" />
 </channel> 
 <channel id="vtv6hd">
     <display-name lang="vi">VTV6</display-name> 
@@ -32,7 +32,7 @@
 <channel id="vtv7hd">
     <display-name lang="vi">VTV7</display-name> 
     <display-number>7</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv7hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv7hd.jpg" />
 </channel> 
 <channel id="vtv8hd">
     <display-name lang="vi">VTV8</display-name> 
@@ -42,42 +42,42 @@
 <channel id="vtv9hd">
     <display-name lang="vi">VTV9</display-name> 
     <display-number>9</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv9hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv9hd.jpg" />
 </channel> 
 <channel id="vtv10hd">
     <display-name lang="vi">VTV10</display-name> 
     <display-number>10</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv10hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv10hd.jpg" />
 </channel> 
 <channel id="vtv5hdtn">
     <display-name lang="vi">VTV5 - Tây Nguyên</display-name> 
     <display-number>11</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv5hdtn.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv5hdtn.jpg" />
 </channel> 
 <channel id="vtv5hdtnb">
     <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name> 
     <display-number>12</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hdtnb.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtnb.jpg" />
 </channel> 
 <channel id="vietnamtoday">
     <display-name lang="vi">VIETNAM TODAY</display-name> 
     <display-number>13</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vietnamtoday.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vietnamtoday.jpg" />
 </channel> 
 <channel id="antvhd">
     <display-name lang="vi">ANTV HD</display-name> 
     <display-number>14</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/antv.png" />
+    <icon src="http://image2.blaosolar.vn/logo/antv.png" />
 </channel> 
 <channel id="qpvnhd">
     <display-name lang="vi">QPVN HD</display-name> 
     <display-number>15</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/qpvnhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/qpvnhd.jpg" />
 </channel> 
 <channel id="onviegiaitri">
     <display-name lang="vi">ON Vie Giải Trí</display-name> 
     <display-number>16</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-viegiaitri.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-viegiaitri.jpg" />
 </channel> 
 <channel id="onphimviet">
     <display-name lang="vi">ON Phim Việt</display-name> 
@@ -87,12 +87,12 @@
 <channel id="onsports">
     <display-name lang="vi">ON Sports HD</display-name> 
     <display-number>18</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sports.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sports.jpg" />
 </channel> 
 <channel id="onmovies">
     <display-name lang="vi">ON Movies</display-name> 
     <display-number>19</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-movies.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-movies.jpg" />
 </channel> 
 <channel id="onechannel">
     <display-name lang="vi">ON Echannel</display-name> 
@@ -102,12 +102,12 @@
 <channel id="onsportsplus">
     <display-name lang="vi">ON Sports+</display-name> 
     <display-number>21</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-sportsplus.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sportsplus.jpg" />
 </channel> 
 <channel id="ono2tv">
     <display-name lang="vi">ON O2TV</display-name> 
     <display-number>22</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-o2tv.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-o2tv.jpg" />
 </channel> 
 <channel id="onbibi">
     <display-name lang="vi">ON BiBi</display-name> 
@@ -122,27 +122,27 @@
 <channel id="oncine">
     <display-name lang="vi">ON Cine</display-name> 
     <display-number>25</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-cine.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-cine.jpg" />
 </channel> 
 <channel id="onstyle">
     <display-name lang="vi">On Style</display-name> 
     <display-number>26</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-style.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-style.jpg" />
 </channel> 
 <channel id="onmusic">
     <display-name lang="vi">ON Music</display-name> 
     <display-number>27</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-music.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-music.jpg" />
 </channel> 
 <channel id="onfootball">
     <display-name lang="vi">ON Football HD</display-name> 
     <display-number>28</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-football.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-football.jpg" />
 </channel> 
 <channel id="ontrending">
     <display-name lang="vi">ON Trending</display-name> 
     <display-number>29</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-trending.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-trending.jpg" />
 </channel> 
 <channel id="onsportsnews">
     <display-name lang="vi">ON Sports News</display-name> 
@@ -152,12 +152,12 @@
 <channel id="onviedramas">
     <display-name lang="vi">ON Vie DRAMAS</display-name> 
     <display-number>31</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-viedramas.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-viedramas.jpg" />
 </channel> 
 <channel id="onvfamily">
     <display-name lang="vi">ON VFamily</display-name> 
     <display-number>32</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-vfamily.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-vfamily.jpg" />
 </channel> 
 <channel id="onkids">
     <display-name lang="vi">ON Kids</display-name> 
@@ -167,17 +167,17 @@
 <channel id="onlife">
     <display-name lang="vi">ON Life</display-name> 
     <display-number>34</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-life.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-life.jpg" />
 </channel> 
 <channel id="ongolf">
     <display-name lang="vi">ON Golf</display-name> 
     <display-number>35</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-golf.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-golf.jpg" />
 </channel> 
 <channel id="htv1">
     <display-name lang="vi">HTV1</display-name> 
     <display-number>36</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htv1.jpg" />
 </channel> 
 <channel id="htv2hd">
     <display-name lang="vi">HTV2 HD</display-name> 
@@ -187,12 +187,12 @@
 <channel id="htv3">
     <display-name lang="vi">HTV3</display-name> 
     <display-number>38</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htv3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/htv3.png" />
 </channel> 
 <channel id="htvkey">
     <display-name lang="vi">HTV Key</display-name> 
     <display-number>39</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvkey.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvkey.jpg" />
 </channel> 
 <channel id="htv5">
     <display-name lang="vi">HTV5 Bchannel</display-name> 
@@ -202,7 +202,7 @@
 <channel id="htv7hd">
     <display-name lang="vi">HTV7 HD</display-name> 
     <display-number>41</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htv7hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htv7hd.jpg" />
 </channel> 
 <channel id="htv9hd">
     <display-name lang="vi">HTV9 HD</display-name> 
@@ -212,12 +212,12 @@
 <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao HD</display-name> 
     <display-number>43</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvthethaohd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvthethaohd.jpg" />
 </channel> 
 <channel id="htvcphimhd">
     <display-name lang="vi">HTVC Phim HD</display-name> 
     <display-number>44</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcphimhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcphimhd.jpg" />
 </channel> 
 <channel id="htvcthuanviethd">
     <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
@@ -237,12 +237,12 @@
 <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch HD</display-name> 
     <display-number>48</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvcdulichhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcdulichhd.jpg" />
 </channel> 
 <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
     <display-number>49</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvccanhachd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvccanhachd.jpg" />
 </channel> 
 <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus HD</display-name> 
@@ -252,67 +252,67 @@
 <channel id="sctv1hd">
     <display-name lang="vi">SCTV1 HD</display-name> 
     <display-number>51</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv1hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv1hd.png" />
 </channel> 
 <channel id="sctv2hd">
     <display-name lang="vi">SCTV2 HD</display-name> 
     <display-number>52</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv2hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv2hd.png" />
 </channel> 
 <channel id="sctv3hd">
     <display-name lang="vi">SCTV3 HD</display-name> 
     <display-number>53</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv3hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv3hd.png" />
 </channel> 
 <channel id="sctv4hd">
     <display-name lang="vi">SCTV4 HD</display-name> 
     <display-number>54</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv4hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv4hd.png" />
 </channel> 
 <channel id="sctv6hd">
     <display-name lang="vi">SCTV6 HD</display-name> 
     <display-number>55</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv6hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv6hd.png" />
 </channel> 
 <channel id="sctv7hd">
     <display-name lang="vi">SCTV7 HD</display-name> 
     <display-number>56</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv7hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv7hd.png" />
 </channel> 
 <channel id="sctv8hd">
     <display-name lang="vi">SCTV8 HD</display-name> 
     <display-number>57</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv8hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv8hd.png" />
 </channel> 
 <channel id="sctv9hd">
     <display-name lang="vi">SCTV9 HD</display-name> 
     <display-number>58</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv9hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv9hd.png" />
 </channel> 
 <channel id="sctv11hd">
     <display-name lang="vi">SCTV11 HD</display-name> 
     <display-number>59</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv11hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv11hd.png" />
 </channel> 
 <channel id="sctv12hd">
     <display-name lang="vi">SCTV12 HD</display-name> 
     <display-number>60</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv12hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv12hd.png" />
 </channel> 
 <channel id="sctv13hd">
     <display-name lang="vi">SCTV13 HD</display-name> 
     <display-number>61</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv13hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv13hd.png" />
 </channel> 
 <channel id="sctv14hd">
     <display-name lang="vi">SCTV14 HD</display-name> 
     <display-number>62</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv14hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv14hd.png" />
 </channel> 
 <channel id="sctv15hd">
     <display-name lang="vi">SCTV15 HD</display-name> 
     <display-number>63</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv15hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv15hd.png" />
 </channel> 
 <channel id="sctv16hd">
     <display-name lang="vi">SCTV16 HD</display-name> 
@@ -322,7 +322,7 @@
 <channel id="sctv17hd">
     <display-name lang="vi">SCTV17 HD</display-name> 
     <display-number>65</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv17hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv17hd.png" />
 </channel> 
 <channel id="sctv18hd">
     <display-name lang="vi">SCTV18 HD</display-name> 
@@ -332,27 +332,27 @@
 <channel id="sctv19hd">
     <display-name lang="vi">SCTV19 HD</display-name> 
     <display-number>67</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv19hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv19hd.png" />
 </channel> 
 <channel id="sctv20hd">
     <display-name lang="vi">SCTV20 HD</display-name> 
     <display-number>68</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv20hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv20hd.png" />
 </channel> 
 <channel id="sctv21hd">
     <display-name lang="vi">SCTV21 HD</display-name> 
     <display-number>69</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv21hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv21hd.jpg" />
 </channel> 
 <channel id="sctv22hd">
     <display-name lang="vi">SCTV22 HD</display-name> 
     <display-number>70</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv22hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv22hd.png" />
 </channel> 
 <channel id="sctvhdpth">
     <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
     <display-number>71</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctvhdpth.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctvhdpth.png" />
 </channel> 
 <channel id="sctv4k">
     <display-name lang="vi">SCTV 4K</display-name> 
@@ -367,57 +367,57 @@
 <channel id="hbohd">
     <display-name lang="vi">HBO HD</display-name> 
     <display-number>74</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/hbohd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/hbohd.png" />
 </channel> 
 <channel id="cinemaxhd">
     <display-name lang="vi">Cinemax HD</display-name> 
     <display-number>75</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cinemaxhd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/cinemaxhd.png" />
 </channel> 
 <channel id="warnertvhd">
     <display-name lang="vi">Warner TV HD</display-name> 
     <display-number>76</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/warnertvhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/warnertvhd.jpg" />
 </channel> 
 <channel id="cinemaworldhd">
     <display-name lang="vi">Cinema World HD</display-name> 
     <display-number>77</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cinemaworldhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/cinemaworldhd.jpg" />
 </channel> 
 <channel id="animalhd">
     <display-name lang="vi">Animal Planet HD</display-name> 
     <display-number>78</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/animalhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/animalhd.jpg" />
 </channel> 
 <channel id="bbcearth">
     <display-name lang="vi">BBC Earth</display-name> 
     <display-number>79</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bbcearth.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/bbcearth.jpg" />
 </channel> 
 <channel id="bbclifestyle">
     <display-name lang="vi">BBC Life Style</display-name> 
     <display-number>80</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/bbclifestyle.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/bbclifestyle.jpg" />
 </channel> 
 <channel id="bbcworldnews">
     <display-name lang="vi">BBC World News</display-name> 
     <display-number>81</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bbcnews.png" />
+    <icon src="http://image3.blaosolar.vn/logo/bbcnews.png" />
 </channel> 
 <channel id="dmax">
     <display-name lang="vi">Dmax</display-name> 
     <display-number>82</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dmax.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/dmax.jpg" />
 </channel> 
 <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia HD</display-name> 
     <display-number>83</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/discoveryasiahd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/discoveryasiahd.jpg" />
 </channel> 
 <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel HD</display-name> 
     <display-number>84</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/discoveryhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/discoveryhd.jpg" />
 </channel> 
 <channel id="tlchd">
     <display-name lang="vi">Travel &amp; Living HD</display-name> 
@@ -427,7 +427,7 @@
 <channel id="cbeebies">
     <display-name lang="vi">Cbeebies</display-name> 
     <display-number>86</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cbeebies.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cbeebies.jpg" />
 </channel> 
 <channel id="davinci">
     <display-name lang="vi">DaVinci HD</display-name> 
@@ -437,52 +437,52 @@
 <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network HD</display-name> 
     <display-number>88</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cartoonhd.jpg" />
 </channel> 
 <channel id="cartoonito">
     <display-name lang="vi">Cartoonito</display-name> 
     <display-number>89</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cartoonito.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cartoonito.jpg" />
 </channel> 
 <channel id="fashionhd">
     <display-name lang="vi">Fashion TV HD</display-name> 
     <display-number>90</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/fashionhd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/fashionhd.png" />
 </channel> 
 <channel id="afnhd">
     <display-name lang="vi">AFN HD</display-name> 
     <display-number>91</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/afnhd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/afnhd.png" />
 </channel> 
 <channel id="kbsworld">
     <display-name lang="vi">KBS World</display-name> 
     <display-number>92</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/kbsworld.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/kbsworld.jpg" />
 </channel> 
 <channel id="outdoorhd">
     <display-name lang="vi">Outdoor Channel HD</display-name> 
     <display-number>93</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/outdoorhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/outdoorhd.jpg" />
 </channel> 
 <channel id="boxmovie1">
     <display-name lang="vi">Box Movie 1</display-name> 
     <display-number>94</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/boxmovie1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/boxmovie1.jpg" />
 </channel> 
 <channel id="hollywoodclassics">
     <display-name lang="vi">Hollywood Classics</display-name> 
     <display-number>95</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/hollywoodclassics.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/hollywoodclassics.jpg" />
 </channel> 
 <channel id="woman">
     <display-name lang="vi">Woman HD</display-name> 
     <display-number>96</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/woman.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/woman.jpg" />
 </channel> 
 <channel id="boxhits">
     <display-name lang="vi">Box Hits HD</display-name> 
     <display-number>97</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/boxhits.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/boxhits.jpg" />
 </channel> 
 <channel id="musicbox">
     <display-name lang="vi">Music Box HD</display-name> 
@@ -492,27 +492,27 @@
 <channel id="happykids">
     <display-name lang="vi">Happy Kids HD</display-name> 
     <display-number>99</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/happykids.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/happykids.jpg" />
 </channel> 
 <channel id="dreamworks">
     <display-name lang="vi">Dreamworks HD</display-name> 
     <display-number>100</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dreamworks.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/dreamworks.jpg" />
 </channel> 
 <channel id="historyhd">
     <display-name lang="vi">History HD</display-name> 
     <display-number>101</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/historyhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/historyhd.jpg" />
 </channel> 
 <channel id="kix">
     <display-name lang="vi">Kix HD</display-name> 
     <display-number>102</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/kix.png" />
+    <icon src="http://image1.blaosolar.vn/logo/kix.png" />
 </channel> 
 <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name> 
     <display-number>103</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/hgtv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/hgtv.jpg" />
 </channel> 
 <channel id="dw">
     <display-name lang="vi">DW HD</display-name> 
@@ -522,62 +522,62 @@
 <channel id="abcaustralia">
     <display-name lang="vi">ABC Australia</display-name> 
     <display-number>105</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/abcaustralia.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/abcaustralia.jpg" />
 </channel> 
 <channel id="arirang">
     <display-name lang="vi">Arirang</display-name> 
     <display-number>106</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/arirang.png" />
+    <icon src="http://image3.blaosolar.vn/logo/arirang.png" />
 </channel> 
 <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name> 
     <display-number>107</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/bloomberg.png" />
+    <icon src="http://image2.blaosolar.vn/logo/bloomberg.png" />
 </channel> 
 <channel id="cnn">
     <display-name lang="vi">CNN</display-name> 
     <display-number>108</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cnn.png" />
+    <icon src="http://image4.blaosolar.vn/logo/cnn.png" />
 </channel> 
 <channel id="cna">
     <display-name lang="vi">Channel News Asia</display-name> 
     <display-number>109</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cna.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cna.jpg" />
 </channel> 
 <channel id="cnbc">
     <display-name lang="vi">CNBC</display-name> 
     <display-number>110</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cnbc.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cnbc.jpg" />
 </channel> 
 <channel id="nhkworld">
     <display-name lang="vi">NHK World</display-name> 
     <display-number>111</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/nhkworld.png" />
+    <icon src="http://image2.blaosolar.vn/logo/nhkworld.png" />
 </channel> 
 <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name> 
     <display-number>112</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/france24eng.png" />
+    <icon src="http://image2.blaosolar.vn/logo/france24eng.png" />
 </channel> 
 <channel id="tv5monde">
     <display-name lang="vi">TV5 Monde</display-name> 
     <display-number>113</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/tv5monde.png" />
+    <icon src="http://image1.blaosolar.vn/logo/tv5monde.png" />
 </channel> 
 <channel id="spotv1">
     <display-name lang="vi">SPOTV1 HD</display-name> 
     <display-number>114</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/spotv1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/spotv1.jpg" />
 </channel> 
 <channel id="spotv2">
     <display-name lang="vi">SPOTV2 HD</display-name> 
     <display-number>115</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/spotv2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/spotv2.jpg" />
 </channel> 
 <channel id="anvienhd">
     <display-name lang="vi">An Viên HD</display-name> 
     <display-number>116</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/anvien.png" />
+    <icon src="http://image2.blaosolar.vn/logo/anvien.png" />
 </channel> 
 <channel id="angiang1">
     <display-name lang="vi">An Giang 1</display-name> 
@@ -587,12 +587,12 @@
 <channel id="angiang2">
     <display-name lang="vi">An Giang 2</display-name> 
     <display-number>118</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/angiang2.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/angiang2.jpg" />
 </channel> 
 <channel id="angiang3">
     <display-name lang="vi">An Giang 3</display-name> 
     <display-number>119</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang3.png" />
+    <icon src="http://image4.blaosolar.vn/logo/angiang3.png" />
 </channel> 
 <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name> 
@@ -602,7 +602,7 @@
 <channel id="camau">
     <display-name lang="vi">Cà Mau</display-name> 
     <display-number>121</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/camau.png" />
+    <icon src="http://image4.blaosolar.vn/logo/camau.png" />
 </channel> 
 <channel id="cantho1">
     <display-name lang="vi">Cần Thơ 1</display-name> 
@@ -612,12 +612,12 @@
 <channel id="cantho2">
     <display-name lang="vi">Cần Thơ 2</display-name> 
     <display-number>123</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cantho2.png" />
+    <icon src="http://image4.blaosolar.vn/logo/cantho2.png" />
 </channel> 
 <channel id="cantho3">
     <display-name lang="vi">Cần Thơ 3</display-name> 
     <display-number>124</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cantho3.png" />
+    <icon src="http://image2.blaosolar.vn/logo/cantho3.png" />
 </channel> 
 <channel id="caobang">
     <display-name lang="vi">Cao Bằng</display-name> 
@@ -627,7 +627,7 @@
 <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name> 
     <display-number>126</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/danang1.png" />
+    <icon src="http://image3.blaosolar.vn/logo/danang1.png" />
 </channel> 
 <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name> 
@@ -637,27 +637,27 @@
 <channel id="daklak">
     <display-name lang="vi">Đắk Lắk</display-name> 
     <display-number>128</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/daklak.png" />
+    <icon src="http://image4.blaosolar.vn/logo/daklak.png" />
 </channel> 
 <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name> 
     <display-number>129</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dienbien.png" />
+    <icon src="http://image4.blaosolar.vn/logo/dienbien.png" />
 </channel> 
 <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name> 
     <display-number>130</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongnai1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/dongnai1.png" />
 </channel> 
 <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name> 
     <display-number>131</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dongnai2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/dongnai2.png" />
 </channel> 
 <channel id="dongthap1">
     <display-name lang="vi">Đồng Tháp 1</display-name> 
     <display-number>132</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dongthap1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/dongthap1.jpg" />
 </channel> 
 <channel id="dongthap2">
     <display-name lang="vi">Đồng Tháp 2</display-name> 
@@ -667,12 +667,12 @@
 <channel id="gialai">
     <display-name lang="vi">Gia Lai</display-name> 
     <display-number>134</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/gialai.png" />
+    <icon src="http://image3.blaosolar.vn/logo/gialai.png" />
 </channel> 
 <channel id="hanoi1">
     <display-name lang="vi">Hà Nội 1</display-name> 
     <display-number>135</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hanoi1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/hanoi1.png" />
 </channel> 
 <channel id="hanoi2">
     <display-name lang="vi">Hà Nội 2</display-name> 
@@ -687,27 +687,27 @@
 <channel id="haiphong">
     <display-name lang="vi">Hải Phòng</display-name> 
     <display-number>138</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/haiphong.png" />
+    <icon src="http://image3.blaosolar.vn/logo/haiphong.png" />
 </channel> 
 <channel id="haiphong3">
     <display-name lang="vi">Hải Phòng 3</display-name> 
     <display-number>139</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/haiphong3.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/haiphong3.jpg" />
 </channel> 
 <channel id="hue">
     <display-name lang="vi">Huế</display-name> 
     <display-number>140</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/hue.png" />
+    <icon src="http://image4.blaosolar.vn/logo/hue.png" />
 </channel> 
 <channel id="hungyen">
     <display-name lang="vi">Hưng Yên</display-name> 
     <display-number>141</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hungyen.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hungyen.png" />
 </channel> 
 <channel id="tuyenquang">
     <display-name lang="vi">Tuyên Quang</display-name> 
     <display-number>142</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/tuyenquang.png" />
+    <icon src="http://image3.blaosolar.vn/logo/tuyenquang.png" />
 </channel> 
 <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name> 
@@ -722,17 +722,17 @@
 <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name> 
     <display-number>145</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/laichau.png" />
+    <icon src="http://image1.blaosolar.vn/logo/laichau.png" />
 </channel> 
 <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name> 
     <display-number>146</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/laocai.png" />
+    <icon src="http://image1.blaosolar.vn/logo/laocai.png" />
 </channel> 
 <channel id="lamdong1">
     <display-name lang="vi">Lâm Đồng 1</display-name> 
     <display-number>147</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/lamdong1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/lamdong1.jpg" />
 </channel> 
 <channel id="lamdong2">
     <display-name lang="vi">Lâm Đồng 2</display-name> 
@@ -742,7 +742,7 @@
 <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name> 
     <display-number>149</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/langson.png" />
+    <icon src="http://image4.blaosolar.vn/logo/langson.png" />
 </channel> 
 <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name> 
@@ -752,47 +752,47 @@
 <channel id="ninhbinh">
     <display-name lang="vi">Ninh Bình</display-name> 
     <display-number>151</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/ninhbinh.png" />
+    <icon src="http://image4.blaosolar.vn/logo/ninhbinh.png" />
 </channel> 
 <channel id="phutho">
     <display-name lang="vi">Phú Thọ</display-name> 
     <display-number>152</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/phutho.png" />
+    <icon src="http://image2.blaosolar.vn/logo/phutho.png" />
 </channel> 
 <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name> 
     <display-number>153</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/quangngai.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/quangngai.jpg" />
 </channel> 
 <channel id="quangngai2">
     <display-name lang="vi">Quảng Ngãi 2</display-name> 
     <display-number>154</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/quangngai2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/quangngai2.png" />
 </channel> 
 <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name> 
     <display-number>155</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangninh1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/quangninh1.png" />
 </channel> 
 <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name> 
     <display-number>156</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangninh3.png" />
+    <icon src="http://image4.blaosolar.vn/logo/quangninh3.png" />
 </channel> 
 <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name> 
     <display-number>157</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/quangtri.webp" />
+    <icon src="http://image4.blaosolar.vn/logo/quangtri.webp" />
 </channel> 
 <channel id="sonla">
     <display-name lang="vi">Sơn La</display-name> 
     <display-number>158</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sonla.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sonla.png" />
 </channel> 
 <channel id="tayninh1">
     <display-name lang="vi">Tây Ninh 1</display-name> 
     <display-number>159</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/tayninh1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/tayninh1.jpg" />
 </channel> 
 <channel id="thainguyen">
     <display-name lang="vi">Thái Nguyên</display-name> 
@@ -807,12 +807,12 @@
 <channel id="vinhlong1hd">
     <display-name lang="vi">Vĩnh Long 1 HD</display-name> 
     <display-number>162</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vinhlong1hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vinhlong1hd.jpg" />
 </channel> 
 <channel id="vinhlong2hd">
     <display-name lang="vi">Vĩnh Long 2 HD</display-name> 
     <display-number>163</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vinhlong2hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vinhlong2hd.jpg" />
 </channel> 
 <channel id="vinhlong3hd">
     <display-name lang="vi">Vĩnh Long 3 HD</display-name> 
@@ -822,22 +822,22 @@
 <channel id="vinhlong4hd">
     <display-name lang="vi">Vĩnh Long 4 HD</display-name> 
     <display-number>165</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vinhlong4hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong4hd.png" />
 </channel> 
 <channel id="vinhlong5hd">
     <display-name lang="vi">Vĩnh Long 5 HD</display-name> 
     <display-number>166</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vinhlong5hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vinhlong5hd.jpg" />
 </channel> 
 <channel id="360c1">
     <display-name lang="vi">TV360 C1 Châu Âu</display-name> 
     <display-number>167</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360c1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360c1.jpg" />
 </channel> 
 <channel id="360c2">
     <display-name lang="vi">TV360 C2 Châu Âu</display-name> 
     <display-number>168</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360c2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360c2.jpg" />
 </channel> 
 <channel id="360c3">
     <display-name lang="vi">TV360 C3 Châu Âu</display-name> 
@@ -847,7 +847,7 @@
 <channel id="360thethaochaua">
     <display-name lang="vi">TV360 Thể Thao Châu Á</display-name> 
     <display-number>170</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360thethaochaua.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360thethaochaua.jpg" />
 </channel> 
 <channel id="360congthuc1">
     <display-name lang="vi">TV360 Công Thức 1</display-name> 
@@ -857,12 +857,12 @@
 <channel id="360bundesliga">
     <display-name lang="vi">TV360 Bundesliga</display-name> 
     <display-number>172</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360bundesliga.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360bundesliga.jpg" />
 </channel> 
 <channel id="360golf">
     <display-name lang="vi">TV360 Golf</display-name> 
     <display-number>173</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360golf.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360golf.jpg" />
 </channel> 
 <channel id="360tennis">
     <display-name lang="vi">TV360 Tennis</display-name> 
@@ -872,12 +872,12 @@
 <channel id="360phimviet">
     <display-name lang="vi">TV360 Phim Việt</display-name> 
     <display-number>175</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360phimviet.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360phimviet.jpg" />
 </channel> 
 <channel id="360phimaumy">
     <display-name lang="vi">TV360 Phim Âu Mỹ</display-name> 
     <display-number>176</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360phimaumy.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360phimaumy.jpg" />
 </channel> 
 <channel id="360hoathinh">
     <display-name lang="vi">TV360 Hoạt Hình</display-name> 
@@ -887,12 +887,12 @@
 <channel id="360phimhoangu">
     <display-name lang="vi">TV360 Phim Hoa Ngữ</display-name> 
     <display-number>178</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360phimhoangu.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimhoangu.jpg" />
 </channel> 
 <channel id="360hanhdongchaua">
     <display-name lang="vi">TV360 Hành Động Châu Á</display-name> 
     <display-number>179</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360hanhdongchaua.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360hanhdongchaua.jpg" />
 </channel> 
 <channel id="360kdrama">
     <display-name lang="vi">TV360 K-Drama</display-name> 
@@ -907,7 +907,7 @@
 <channel id="360phimkinhdien">
     <display-name lang="vi">TV360 Phim Kinh Điển</display-name> 
     <display-number>182</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360phimkinhdien.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360phimkinhdien.jpg" />
 </channel> 
 <channel id="360anime">
     <display-name lang="vi">TV360 Anime</display-name> 
@@ -9260,6 +9260,278 @@
 <programme channel="vietnamtoday" channel-number="13" start="20261020234500 +0700" stop="20261021000000 +0700">
     <title lang="vi">VIBES OF VIETNAM: ARTISTRY IN THE DIGITAL WORLD</title> 
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="00010101000000 +0700" stop="20261021000000 +0700">
+    <title lang="vi">PHÁT LẠI BẢN TIN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 17757816 giờ 6 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021000000 +0700" stop="20261021003000 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021003000 +0700" stop="20261021010000 +0700">
+    <title lang="vi">HERITAGE JOURNEY: THAI "XOÈ" - DANCE OF THE FOREST</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021010000 +0700" stop="20261021011500 +0700">
+    <title lang="vi">DAILY BIZ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021011500 +0700" stop="20261021014500 +0700">
+    <title lang="vi">THE LENS: UNDER ONE ROOF</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021014500 +0700" stop="20261021020000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: DA NANG BIODIVERSITY CITY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021020000 +0700" stop="20261021021500 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021021500 +0700" stop="20261021023000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: DAO NOM SCRIPT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021023000 +0700" stop="20261021030000 +0700">
+    <title lang="vi">CHINA LINK: NO.21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021030000 +0700" stop="20261021033000 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021033000 +0700" stop="20261021040000 +0700">
+    <title lang="vi">VIETNAM 360: VIETNAM’S GROWTH BALANCING ACT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021040000 +0700" stop="20261021041500 +0700">
+    <title lang="vi">CULTURE SCENE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021041500 +0700" stop="20261021043000 +0700">
+    <title lang="vi">S: FOR PEACE: BORDER GUARD OFFICER TRAINING</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021043000 +0700" stop="20261021050000 +0700">
+    <title lang="vi">INSIDE ASIA: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021050000 +0700" stop="20261021051500 +0700">
+    <title lang="vi">THE MARTIAL LAND: THE GRACE AND RESOLVE OF VOVINAM WOMEN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021051500 +0700" stop="20261021054500 +0700">
+    <title lang="vi">EYES ON V: THE LOCAL X-FACTOR</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021054500 +0700" stop="20261021060000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: LIFTING DREAMS INTO SPACE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021060000 +0700" stop="20261021061500 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021061500 +0700" stop="20261021064500 +0700">
+    <title lang="vi">CHINA LINK: NO.21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021064500 +0700" stop="20261021070000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: XÔ ĐỤNG FESTIVAL</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021070000 +0700" stop="20261021073000 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021073000 +0700" stop="20261021080000 +0700">
+    <title lang="vi">VIETNAM 360: VIETNAM’S GROWTH BALANCING ACT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021080000 +0700" stop="20261021081800 +0700">
+    <title lang="vi">DAILY BIZ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 18 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021081800 +0700" stop="20261021083000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: THE COLOURS OF CHAM POTTERY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 12 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021083000 +0700" stop="20261021090000 +0700">
+    <title lang="vi">FLAVOURS &amp; BEYOND: TOFU - THE TASTE OF TIMELESS TRADITION</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021090000 +0700" stop="20261021091500 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021091500 +0700" stop="20261021100000 +0700">
+    <title lang="vi">TALK VIETNAM: LÊ GIANG PATRIK- THE GUADIAN OF DREAMS</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021100000 +0700" stop="20261021101500 +0700">
+    <title lang="vi">CULTURE SCENE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021101500 +0700" stop="20261021104500 +0700">
+    <title lang="vi">INSIDE ASIA: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021104500 +0700" stop="20261021110000 +0700">
+    <title lang="vi">VIETNAM EXPLAINED: A LOOK AT VIETNAM'S NIGHTLIFE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021110000 +0700" stop="20261021111500 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021111500 +0700" stop="20261021114500 +0700">
+    <title lang="vi">EYES ON V: THE LOCAL X-FACTOR</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021114500 +0700" stop="20261021120000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: DAK LAK - A PLACE TO FALL FOR (EP1)</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021120000 +0700" stop="20261021123300 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 33 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021123300 +0700" stop="20261021130000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: SECRETS OF THE UNDERWATER CORAL KINGDOM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 27 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021130000 +0700" stop="20261021131500 +0700">
+    <title lang="vi">CULTURE SCENE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021131500 +0700" stop="20261021133000 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021133000 +0700" stop="20261021134500 +0700">
+    <title lang="vi">SPEAK LIKE A LOCAL: NAVIGATING VIETNAMESE NIGHTLIFE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021134500 +0700" stop="20261021140000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: HAI PHONG - A LIFELINE FROM THE SEA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021140000 +0700" stop="20261021141500 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021141500 +0700" stop="20261021144500 +0700">
+    <title lang="vi">THE LENS: UNDER ONE ROOF</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021144500 +0700" stop="20261021150000 +0700">
+    <title lang="vi">STREET FOOD: DA NANG, ONE ROLL AT A TIME</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021150000 +0700" stop="20261021153000 +0700">
+    <title lang="vi">VIETNAM 360: VIETNAM’S GROWTH BALANCING ACT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021153000 +0700" stop="20261021160000 +0700">
+    <title lang="vi">FLAVOURS &amp; BEYOND: TOFU - THE TASTE OF TIMELESS TRADITION</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021160000 +0700" stop="20261021161500 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021161500 +0700" stop="20261021163000 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021163000 +0700" stop="20261021170000 +0700">
+    <title lang="vi">INSIGHTS: AREM - ECHOES FROM THE MOUNTAINS</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021170000 +0700" stop="20261021171500 +0700">
+    <title lang="vi">CULTURE SCENE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021171500 +0700" stop="20261021173000 +0700">
+    <title lang="vi">S: FOR PEACE: BORDER GUARD OFFICER TRAINING</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021173000 +0700" stop="20261021180000 +0700">
+    <title lang="vi">CHINA LINK: NO.21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021180000 +0700" stop="20261021181500 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021181500 +0700" stop="20261021183000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: CU LAO XANH ISLAND</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021183000 +0700" stop="20261021190000 +0700">
+    <title lang="vi">INSIDE ASIA: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021190000 +0700" stop="20261021193000 +0700">
+    <title lang="vi">VIETNAM AT A GLANCE: A HERITAGE QUEST</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021193000 +0700" stop="20261021194500 +0700">
+    <title lang="vi">VIBES OF VIETNAM: FOOTSTEPS IN THE FAR BORDERLANDS</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021194500 +0700" stop="20261021200000 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021200000 +0700" stop="20261021201500 +0700">
+    <title lang="vi">DAILY BIZ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021201500 +0700" stop="20261021204500 +0700">
+    <title lang="vi">THE LENS: WOMEN OF THE MOUNTAINS</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021204500 +0700" stop="20261021205000 +0700">
+    <title lang="vi">THE RHYTHMS OF VIETNAM: UNIQUE COCONUT LAND</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021205000 +0700" stop="20261021210000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: LIFE IN THE BORDERLANDS OF LUNG CU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021210000 +0700" stop="20261021213000 +0700">
+    <title lang="vi">NEWSLINE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021213000 +0700" stop="20261021220000 +0700">
+    <title lang="vi">FLAVOURS &amp; BEYOND: THE CACAO AWAKENING</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021220000 +0700" stop="20261021221500 +0700">
+    <title lang="vi">CULTURE SCENE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021221500 +0700" stop="20261021223000 +0700">
+    <title lang="vi">THE POINT: NO.42</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021223000 +0700" stop="20261021230000 +0700">
+    <title lang="vi">EYES ON V: THE LOCAL X-FACTOR</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021230000 +0700" stop="20261021231500 +0700">
+    <title lang="vi">DAILY BIZ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021231500 +0700" stop="20261021234500 +0700">
+    <title lang="vi">CHINA LINK: NO.21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vietnamtoday" channel-number="13" start="20261021234500 +0700" stop="20261021000000 +0700">
+    <title lang="vi">VIBES OF VIETNAM: DAK LAK - A PLACE TO FALL FOR (EP2 )</title> 
+    <desc lang="vi">Chương trình này có thời lượng là -45 phút.</desc> 
 </programme> 
 <programme channel="antvhd" channel-number="14" start="20261019000000 +0700" stop="20261019005500 +0700">
     <title lang="vi">PHIM TRUYỆN 17H05 - CHUỖI VÒNG QUỶ ÁM - TẬP 9/26</title> 
@@ -85158,6 +85430,606 @@
 <programme channel="quangninh3" channel-number="156" start="20261019234000 +0700" stop="20261020000000 +0700">
     <title lang="vi">NÔNG NGHIỆP, NÔNG THÔN HỘI NHẬP: NÔNG NGHIỆP XANH Ở ĐẢO XANH CÔ TÔ</title> 
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020000000 +0700" stop="20261020003000 +0700">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020003000 +0700" stop="20261020004500 +0700">
+    <title lang="vi">PHÓNG SỰ: QUẢNG NINH VƯƠN RA BIỂN LỚN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020004500 +0700" stop="20261020005500 +0700">
+    <title lang="vi">THẾ GIỚI 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020005500 +0700" stop="20261020010000 +0700">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020010000 +0700" stop="20261020011000 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: BÊN TRONG VŨ TRỤ - TẬP 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020011000 +0700" stop="20261020014500 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: QUÂN KHU 3 - HÀO KHÍ NGƯỜI ĐỒNG BẰNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 35 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020014500 +0700" stop="20261020020000 +0700">
+    <title lang="vi">TÁC GIẢ - TÁC PHẨM: EM CÓ NGHE</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020020000 +0700" stop="20261020021500 +0700">
+    <title lang="vi">KHOA GIÁO: SẢN XUẤT NÔNG NGHIỆP THÍCH ỨNG BIẾN ĐỔI KHÍ HẬU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020021500 +0700" stop="20261020024500 +0700">
+    <title lang="vi">GIAO LƯU-ĐỐI THOẠI: ĐẢM BẢO AN TOÀN GIAO THÔNG CHO HỌC SINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020024500 +0700" stop="20261020030000 +0700">
+    <title lang="vi">CÔNG NGHIỆP MỎ: NHỮNG NGƯỜI PHỤ NỮ GIỎI VIỆC NƯỚC ĐẢM VIỆC NHÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020030000 +0700" stop="20261020031000 +0700">
+    <title lang="vi">TRANG VĂN HÓA: KHI NGƯỜI TRẺ TÌM VỀ GIÁ TRỊ XƯA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020031000 +0700" stop="20261020032500 +0700">
+    <title lang="vi">VÌ CHỦ QUYỀN AN NINH BIÊN GIỚI: ĐƯA CÔNG NGHỆ SỐ VỀ THÔN BẢN BIÊN GIỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020032500 +0700" stop="20261020034500 +0700">
+    <title lang="vi">CHUYỆN NGHỀ: NGƯỜI LÁI TÀU GIỮA DI SẢN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020034500 +0700" stop="20261020035500 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: BỘ SÁCH CÔNG NGHỆ TIẾNG ANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020035500 +0700" stop="20261020041000 +0700">
+    <title lang="vi">DI SẢN TRƯỜNG TỒN: KHI ĐÁ KỂ CHUYỆN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020041000 +0700" stop="20261020043000 +0700">
+    <title lang="vi">TUYỆT CHIÊU NHÀ NÔNG - TẬP 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020043000 +0700" stop="20261020045500 +0700">
+    <title lang="vi">CA NHẠC: HÁT MÃI KHÚC QUÂN HÀNH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020045500 +0700" stop="20261020051000 +0700">
+    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH: NƠI KHƠI NGUỒN CẢM HỨNG NGHỆ THUẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020051000 +0700" stop="20261020053000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: PHẬT GIÁO TRÚC LÂM- QUỐC ĐẠO CỦA ĐẠI VIỆT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020053000 +0700" stop="20261020054500 +0700">
+    <title lang="vi">THỢ MỎ VÀO CA: NHỮNG NGƯỜI GIỮ BÌNH YÊN CHO MỎ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020054500 +0700" stop="20261020060000 +0700">
+    <title lang="vi">DOANH NGHIỆP DOANH NHÂN: DOANH NGHIỆP TĂNG TỐC ĐỂ CHẠM ĐÍCH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020060000 +0700" stop="20261020063000 +0700">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020063000 +0700" stop="20261020064000 +0700">
+    <title lang="vi">CHƯƠNG TRÌNH THIẾU NHI: MỘT NGÀY CÙNG CÁC TUYỂN THỦ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020064000 +0700" stop="20261020070000 +0700">
+    <title lang="vi">PHÓNG SỰ: QUẢNG NINH VƯƠN RA BIỂN LỚN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020070000 +0700" stop="20261020072000 +0700">
+    <title lang="vi">CHUYỂN ĐỘNG ĐÔNG BẮC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020072000 +0700" stop="20261020073000 +0700">
+    <title lang="vi">ẨM THỰC QUẢNG NINH: TÔM HẤP TRÁI DỪA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020073000 +0700" stop="20261020074000 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: BÊN TRONG VŨ TRỤ - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020074000 +0700" stop="20261020081000 +0700">
+    <title lang="vi">GIAO LƯU - ĐỐI THOẠI: LAN TỎA KỸ NĂNG SỐ TRONG CỘNG ĐỒNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020081000 +0700" stop="20261020082500 +0700">
+    <title lang="vi">TUYỆT CHIÊU NHÀ NÔNG - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020082500 +0700" stop="20261020084000 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: BÁCH KHOA TOÀN THƯ LÀNG VIỆT CỔ TRUYỀN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020084000 +0700" stop="20261020090000 +0700">
+    <title lang="vi">TÁC GIẢ - TÁC PHẨM: TỰ HÀO LÀ CÔNG DÂN QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020090000 +0700" stop="20261020094500 +0700">
+    <title lang="vi">PHIM TRUYỆN: BÁC SĨ ĐƯỜNG - TẬP 11</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020094500 +0700" stop="20261020100000 +0700">
+    <title lang="vi">VẤN ĐỀ BẠN QUAN TÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020100000 +0700" stop="20261020101500 +0700">
+    <title lang="vi">KHOA GIÁO: HƯỚNG DẪN SỬ DỤNG HIỆU QUẢ ĐIỆN MẶT TRỜI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020101500 +0700" stop="20261020103000 +0700">
+    <title lang="vi">ĐẠI ĐOÀN KẾT: ĐỒNG HÀNH CÙNG CHÍNH QUYỀN ĐỊA PHƯƠNG 2 CẤP</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020103000 +0700" stop="20261020103500 +0700">
+    <title lang="vi">BẢN TIN 5 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020103500 +0700" stop="20261020110000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: PHẬT GIÁO TRÚC LÂM- QUỐC ĐẠO CỦA ĐẠI VIỆT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020110000 +0700" stop="20261020114500 +0700">
+    <title lang="vi">PHIM TRUYỆN: VỆ SĨ ĐỘC QUYỀN - TẬP 52</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020114500 +0700" stop="20261020120000 +0700">
+    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH: NƠI KHƠI NGUỒN CẢM HỨNG NGHỆ THUẬT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020120000 +0700" stop="20261020121000 +0700">
+    <title lang="vi">BẢN TIN 10 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020121000 +0700" stop="20261020122500 +0700">
+    <title lang="vi">CHUYỆN CÙNG BÁC SĨ: DỰ PHÒNG UNG THƯ CỔ TỬ CUNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020122500 +0700" stop="20261020125500 +0700">
+    <title lang="vi">CHƯƠNG TRÌNH THIẾU NHI: LÁ THUYỀN ƯỚC MƠ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020125500 +0700" stop="20261020130000 +0700">
+    <title lang="vi">THỜI SỰ QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020130000 +0700" stop="20261020134500 +0700">
+    <title lang="vi">PHIM TRUYỆN: BÁNH MÌ ÔNG MÀU - PHẦN 2 - TẬP 9</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020134500 +0700" stop="20261020140000 +0700">
+    <title lang="vi">TÁC GIẢ - TÁC PHẨM: TỰ HÀO LÀ CÔNG DÂN QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020140000 +0700" stop="20261020143000 +0700">
+    <title lang="vi">CA NHẠC: HÁT MÃI KHÚC QUÂN HÀNH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020143000 +0700" stop="20261020143500 +0700">
+    <title lang="vi">BẢN TIN TIẾNG TRUNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020143500 +0700" stop="20261020150500 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: QUÂN KHU 3 - HÀO KHÍ NGƯỜI ĐỒNG BẰNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020150500 +0700" stop="20261020153500 +0700">
+    <title lang="vi">GIAO LƯU-ĐỐI THOẠI: ĐẢM BẢO AN TOÀN GIAO THÔNG CHO HỌC SINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020153500 +0700" stop="20261020154500 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: BỘ SÁCH CÔNG NGHỆ TIẾNG ANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020154500 +0700" stop="20261020160000 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: BÊN TRONG VŨ TRỤ - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020160000 +0700" stop="20261020161000 +0700">
+    <title lang="vi">BẢN TIN 10 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020161000 +0700" stop="20261020162000 +0700">
+    <title lang="vi">HOẠT HÌNH: MOLEY VÀ NHỮNG NGƯỜI BẠN - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020162000 +0700" stop="20261020163000 +0700">
+    <title lang="vi">THỜI SỰ QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020163000 +0700" stop="20261020171500 +0700">
+    <title lang="vi">PHIM TRUYỆN: ĐƯỜNG RANH GIỚI - TẬP 23</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020171500 +0700" stop="20261020173500 +0700">
+    <title lang="vi">TUYỆT CHIÊU NHÀ NÔNG - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020173500 +0700" stop="20261020174500 +0700">
+    <title lang="vi">VÌ CHỦ QUYỀN AN NINH BIÊN GIỚI: ĐƯA CÔNG NGHỆ SỐ VỀ THÔN BẢN BIÊN GIỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020174500 +0700" stop="20261020180000 +0700">
+    <title lang="vi">VẤN ĐỀ BẠN QUAN TÂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020180000 +0700" stop="20261020182000 +0700">
+    <title lang="vi">NHỊP SỐNG 365</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020182000 +0700" stop="20261020183000 +0700">
+    <title lang="vi">THẾ GIỚI 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020183000 +0700" stop="20261020184000 +0700">
+    <title lang="vi">HOẠT HÌNH: 100% SÓI - JANE BỎ TRỐN - PHẦN 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020184000 +0700" stop="20261020190000 +0700">
+    <title lang="vi">CÔNG NGHIỆP MỎ: NHỮNG NGƯỜI PHỤ NỮ GIỎI VIỆC NƯỚC ĐẢM VIỆC NHÀ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020190000 +0700" stop="20261020194500 +0700">
+    <title lang="vi">PHIM TRUYỆN: NƯƠNG TỰA VÀO ANH - TẬP 35</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020194500 +0700" stop="20261020195500 +0700">
+    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH: VỀ THĂM ĐỀN THỜ VUA LÊ THÁI TỔ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020195500 +0700" stop="20261020200000 +0700">
+    <title lang="vi">ẨM THỰC QUẢNG NINH: LẨU TÔM BẦU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020200000 +0700" stop="20261020204500 +0700">
+    <title lang="vi">PHIM TRUYỆN: HOA TRONG BÃO - TẬP 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020204500 +0700" stop="20261020210000 +0700">
+    <title lang="vi">DÂN TỘC MIỀN NÚI: KHI VĂN HÓA SÁN CHỈ TRỞ THÀNH SỨC SỐNG MỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020210000 +0700" stop="20261020213000 +0700">
+    <title lang="vi">THỜI SỰ QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020213000 +0700" stop="20261020214000 +0700">
+    <title lang="vi">CHUYỆN CÙNG BÁC SĨ: NỘI SOI TRONG TẦM SOÁT UNG THƯ TIÊU HÓA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020214000 +0700" stop="20261020221000 +0700">
+    <title lang="vi">GIAO LƯU - ĐỐI THOẠI: GIẢI PHÁP AN TOÀN GIAO THÔNG NHỮNG THÁNG CUỐI NĂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020221000 +0700" stop="20261020222500 +0700">
+    <title lang="vi">THỢ MỎ VÀO CA: NHỮNG NGƯỜI GIỮ NHỊP THAN GIỮA TRÙNG KHƠI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020222500 +0700" stop="20261020224500 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: BÊN TRONG VŨ TRỤ - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020224500 +0700" stop="20261020230000 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: KHÉO KHÔN VỚI TIỀN</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020230000 +0700" stop="20261020233000 +0700">
+    <title lang="vi">THỜI SỰ QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261020233000 +0700" stop="20261021000000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: QUÂN KHU 3 - HÀO KHÍ NGƯỜI ĐỒNG BẰNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021000000 +0700" stop="20261021003000 +0700">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021003000 +0700" stop="20261021004500 +0700">
+    <title lang="vi">PHÓNG SỰ: DU LỊCH CHỮA LÀNH, GÓC XANH YÊN TỬ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021004500 +0700" stop="20261021005500 +0700">
+    <title lang="vi">THẾ GIỚI 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021005500 +0700" stop="20261021010000 +0700">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021010000 +0700" stop="20261021011500 +0700">
+    <title lang="vi">THÁM HIỂM THIÊN NHIÊN CÙNG TERRI VÀ TODD - TẬP 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021011500 +0700" stop="20261021014500 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: BÁC HỒ VỚI QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021014500 +0700" stop="20261021020000 +0700">
+    <title lang="vi">TÁC GIẢ - TÁC PHẨM: THƯƠNG NẮNG CHỜ MÂY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021020000 +0700" stop="20261021021500 +0700">
+    <title lang="vi">KHOA GIÁO: SẢN XUẤT NÔNG NGHIỆP THÍCH ỨNG BIẾN ĐỔI KHÍ HẬU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021021500 +0700" stop="20261021024500 +0700">
+    <title lang="vi">GIAO LƯU-ĐỐI THOẠI: ĐẢM BẢO AN TOÀN GIAO THÔNG CHO HỌC SINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021024500 +0700" stop="20261021030000 +0700">
+    <title lang="vi">PHỤ NỮ VÀ THỜI ĐẠI: PHỤ NỮ QUẢNG NINH - LAN TỎA NHỮNG MÔ HÌNH HAY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021030000 +0700" stop="20261021031000 +0700">
+    <title lang="vi">TRANG VĂN HÓA: MỸ THUẬT QUẢNG NINH VỀ ĐỀ TÀI BÁC HỒ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021031000 +0700" stop="20261021032500 +0700">
+    <title lang="vi">PHÓNG SỰ: KÉO GIẢM TAI NẠN GIAO THÔNG TỪ CƠ SỞ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021032500 +0700" stop="20261021034000 +0700">
+    <title lang="vi">CHUYỆN NGHỀ: HƯƠNG CHÈ QUA BAO THẾ HỆ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021034000 +0700" stop="20261021035500 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: BÁC HANA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021035500 +0700" stop="20261021040500 +0700">
+    <title lang="vi">DI SẢN TRƯỜNG TỒN: THEO DẤU ĐÁ VÀ NƯỚC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021040500 +0700" stop="20261021042000 +0700">
+    <title lang="vi">DU LỊCH: DU LỊCH QUẢNG NINH BỨT PHÁ TỪ NGHỊ QUYẾT 26</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021042000 +0700" stop="20261021044500 +0700">
+    <title lang="vi">CA NHẠC: BÀI CA CHIẾN THẮNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021044500 +0700" stop="20261021050000 +0700">
+    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH: HOÀNH MÔ - MỘT DẢI BIÊN CƯƠNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021050000 +0700" stop="20261021053000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: THANH ÂM VÙNG MỎ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021053000 +0700" stop="20261021054500 +0700">
+    <title lang="vi">GIÁO DỤC VÀ PHÁT TRIỂN: BỒI ĐẮP NGUỒN NHÂN LỰC TƯƠNG LAI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021054500 +0700" stop="20261021060500 +0700">
+    <title lang="vi">THỢ MỎ VÀO CA: SẮC MÀU TAN CA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021060500 +0700" stop="20261021063500 +0700">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021063500 +0700" stop="20261021064500 +0700">
+    <title lang="vi">CHƯƠNG TRÌNH THIẾU NHI: QUÀ TẶNG YÊU THƯƠNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021064500 +0700" stop="20261021070000 +0700">
+    <title lang="vi">PHÓNG SỰ: DU LỊCH CHỮA LÀNH, GÓC XANH YÊN TỬ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021070000 +0700" stop="20261021072000 +0700">
+    <title lang="vi">CHUYỂN ĐỘNG ĐÔNG BẮC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021072000 +0700" stop="20261021073000 +0700">
+    <title lang="vi">ẨM THỰC QUẢNG NINH: LẨU TÔM BẦU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021073000 +0700" stop="20261021074000 +0700">
+    <title lang="vi">THÁM HIỂM THIÊN NHIÊN CÙNG TERRI VÀ TODD - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021074000 +0700" stop="20261021081500 +0700">
+    <title lang="vi">GIAO LƯU - ĐỐI THOẠI: GIẢI PHÁP AN TOÀN GIAO THÔNG NHỮNG THÁNG CUỐI NĂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 35 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021081500 +0700" stop="20261021083500 +0700">
+    <title lang="vi">PHÓNG SỰ: MƯỜI NĂM DÂN VẬN TUYẾN BIÊN GIỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021083500 +0700" stop="20261021084500 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: CÁC ĐẾ CHẾ NGÔN TỪ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021084500 +0700" stop="20261021090000 +0700">
+    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH: VỀ THĂM ĐỀN THỜ VUA LÊ THÁI TỔ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021090000 +0700" stop="20261021094500 +0700">
+    <title lang="vi">PHIM TRUYỆN: BÁC SĨ ĐƯỜNG - TẬP 12/ 36</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021094500 +0700" stop="20261021100000 +0700">
+    <title lang="vi">DÂN TỘC MIỀN NÚI: KHI VĂN HÓA SÁN CHỈ TRỞ THÀNH SỨC SỐNG MỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021100000 +0700" stop="20261021101500 +0700">
+    <title lang="vi">KHOA GIÁO: SẢN XUẤT NÔNG NGHIỆP THÍCH ỨNG BIẾN ĐỔI KHÍ HẬU</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021101500 +0700" stop="20261021103000 +0700">
+    <title lang="vi">PHỤ NỮ VÀ THỜI ĐẠI: PHỤ NỮ QUẢNG NINH - LAN TỎA NHỮNG MÔ HÌNH HAY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021103000 +0700" stop="20261021103500 +0700">
+    <title lang="vi">BẢN TIN 5 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021103500 +0700" stop="20261021110000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: BÁC HỒ VỚI QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021110000 +0700" stop="20261021115000 +0700">
+    <title lang="vi">PHIM TRUYỆN: VỆ SĨ ĐỘC QUYỀN - TẬP 53/ 65</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021115000 +0700" stop="20261021120000 +0700">
+    <title lang="vi">DI SẢN TRƯỜNG TỒN: THEO DẤU ĐÁ VÀ NƯỚC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021120000 +0700" stop="20261021121000 +0700">
+    <title lang="vi">BẢN TIN 10 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021121000 +0700" stop="20261021122500 +0700">
+    <title lang="vi">CHUYỆN CÙNG BÁC SĨ: NỘI SOI TRONG TẦM SOÁT UNG THƯ TIÊU HÓA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021122500 +0700" stop="20261021124500 +0700">
+    <title lang="vi">CHƯƠNG TRÌNH THIẾU NHI: HÁT LỜI YÊU THƯƠNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021124500 +0700" stop="20261021125500 +0700">
+    <title lang="vi">PHÓNG SỰ: KÉO GIẢM TAI NẠN GIAO THÔNG TỪ CƠ SỞ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021125500 +0700" stop="20261021130000 +0700">
+    <title lang="vi">THỜI SỰ QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021130000 +0700" stop="20261021134500 +0700">
+    <title lang="vi">PHIM TRUYỆN: BÁNH MÌ ÔNG MÀU - PHẦN 2 - TẬP 10/ 40</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021134500 +0700" stop="20261021135500 +0700">
+    <title lang="vi">VỀ THĂM ĐỀN THỜ VUA LÊ THÁI TỔ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021135500 +0700" stop="20261021143000 +0700">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 35 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021143000 +0700" stop="20261021143500 +0700">
+    <title lang="vi">BẢN TIN TIẾNG TRUNG</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021143500 +0700" stop="20261021150000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: BÁO CHÍ QUẢNG NINH - TỪ MẠCH NGUỒN ĐẾN DÒNG CHẢY MỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021150000 +0700" stop="20261021153000 +0700">
+    <title lang="vi">GIAO LƯU - ĐỐI THOẠI: GIẢI PHÁP AN TOÀN GIAO THÔNG NHỮNG THÁNG CUỐI NĂM</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021153000 +0700" stop="20261021154000 +0700">
+    <title lang="vi">PHÓNG SỰ: QUẢNG NINH - ĐIỂM ĐẾN BỐN MÙA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021154000 +0700" stop="20261021160000 +0700">
+    <title lang="vi">THÁM HIỂM THIÊN NHIÊN CÙNG TERRI VÀ TODD - TẬP 15</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021160000 +0700" stop="20261021161000 +0700">
+    <title lang="vi">BẢN TIN 10 PHÚT</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021161000 +0700" stop="20261021162000 +0700">
+    <title lang="vi">HOẠT HÌNH: MOLEY VÀ NHỮNG NGƯỜI BẠN - TẬP 16</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021162000 +0700" stop="20261021163000 +0700">
+    <title lang="vi">THỜI SỰ QUỐC TẾ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021163000 +0700" stop="20261021171500 +0700">
+    <title lang="vi">PHIM TRUYỆN: ĐƯỜNG RANH GIỚI - TẬP 24/ 40</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021171500 +0700" stop="20261021173000 +0700">
+    <title lang="vi">TÁC GIẢ - TÁC PHẨM: THƯƠNG NẮNG CHỜ MÂY</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021173000 +0700" stop="20261021174500 +0700">
+    <title lang="vi">DU LỊCH: DU LỊCH QUẢNG NINH BỨT PHÁ TỪ NGHỊ QUYẾT 26</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021174500 +0700" stop="20261021180000 +0700">
+    <title lang="vi">DÂN TỘC MIỀN NÚI: KHI VĂN HÓA SÁN CHỈ TRỞ THÀNH SỨC SỐNG MỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021180000 +0700" stop="20261021182000 +0700">
+    <title lang="vi">NHỊP SỐNG 365</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021182000 +0700" stop="20261021183000 +0700">
+    <title lang="vi">THẾ GIỚI 24H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021183000 +0700" stop="20261021184000 +0700">
+    <title lang="vi">HOẠT HÌNH: 100% SÓI - JANE BỎ TRỐN - PHẦN 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021184000 +0700" stop="20261021190000 +0700">
+    <title lang="vi">DI SẢN TRƯỜNG TỒN: THẾ GIỚI SAU VÁCH ĐÁ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021190000 +0700" stop="20261021194500 +0700">
+    <title lang="vi">PHIM TRUYỆN: NƯƠNG TỰA VÀO ANH - TẬP 36/ 41</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021194500 +0700" stop="20261021200000 +0700">
+    <title lang="vi">CHUYỂN ĐỔI SỐ</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021200000 +0700" stop="20261021204500 +0700">
+    <title lang="vi">PHIM TRUYỆN: HOA TRONG BÃO - TẬP 4/ 30</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021204500 +0700" stop="20261021210000 +0700">
+    <title lang="vi">ĐẢNG TRONG CUỘC SỐNG HÔM NAY: NGÀNH TÒA ÁN NHÂN DÂN HỌC THỰC HÀNH THEO BÁC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021210000 +0700" stop="20261021213000 +0700">
+    <title lang="vi">THỜI SỰ QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021213000 +0700" stop="20261021214000 +0700">
+    <title lang="vi">CHUYỆN CÙNG BÁC SĨ: CÁC BỆNH LÂY NHIỄM QUA ĐƯỜNG TÌNH DỤC</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021214000 +0700" stop="20261021215500 +0700">
+    <title lang="vi">TRUYỀN HÌNH QUÂN KHU 3</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021215500 +0700" stop="20261021221500 +0700">
+    <title lang="vi">GIÁO DỤC VÀ PHÁT TRIỂN: BỒI ĐẮP NGUỒN NHÂN LỰC TƯƠNG LAI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021221500 +0700" stop="20261021224500 +0700">
+    <title lang="vi">GIAO LƯU - ĐỐI THOẠI: ĐẢM BẢO AN TOÀN GIAO THÔNG CHO HỌC SINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021224500 +0700" stop="20261021230000 +0700">
+    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI: BÁC HANA</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021230000 +0700" stop="20261021233000 +0700">
+    <title lang="vi">THỜI SỰ QUẢNG NINH</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="quangninh3" channel-number="156" start="20261021233000 +0700" stop="20261022000000 +0700">
+    <title lang="vi">PHIM TÀI LIỆU: BÁO CHÍ QUẢNG NINH - TỪ MẠCH NGUỒN ĐẾN DÒNG CHẢY MỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
 </programme> 
 <programme channel="quangtri" channel-number="157" start="20261019060000 +0700" stop="20261019062000 +0700">
     <title lang="vi">QUẢNG TRỊ NGÀY MỚI</title> 
