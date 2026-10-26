@@ -2,7 +2,7 @@
 <tv><channel id="vtv1hd">
     <display-name lang="vi">VTV1</display-name> 
     <display-number>1</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv1hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv1hd.jpg" />
 </channel> 
 <channel id="vtv2hd">
     <display-name lang="vi">VTV2</display-name> 
@@ -12,17 +12,17 @@
 <channel id="vtv3hd">
     <display-name lang="vi">VTV3</display-name> 
     <display-number>3</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv3hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv3hd.jpg" />
 </channel> 
 <channel id="vtv4hd">
     <display-name lang="vi">VTV4</display-name> 
     <display-number>4</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv4hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv4hd.jpg" />
 </channel> 
 <channel id="vtv5hd">
     <display-name lang="vi">VTV5</display-name> 
     <display-number>5</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hd.jpg" />
 </channel> 
 <channel id="vtv6hd">
     <display-name lang="vi">VTV6</display-name> 
@@ -37,12 +37,12 @@
 <channel id="vtv8hd">
     <display-name lang="vi">VTV8</display-name> 
     <display-number>8</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv8hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv8hd.jpg" />
 </channel> 
 <channel id="vtv9hd">
     <display-name lang="vi">VTV9</display-name> 
     <display-number>9</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv9hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv9hd.jpg" />
 </channel> 
 <channel id="vtv10hd">
     <display-name lang="vi">VTV10</display-name> 
@@ -52,17 +52,17 @@
 <channel id="vtv5hdtn">
     <display-name lang="vi">VTV5 - Tây Nguyên</display-name> 
     <display-number>11</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv5hdtn.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtn.jpg" />
 </channel> 
 <channel id="vtv5hdtnb">
     <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name> 
     <display-number>12</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv5hdtnb.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv5hdtnb.jpg" />
 </channel> 
 <channel id="vietnamtoday">
     <display-name lang="vi">VIETNAM TODAY</display-name> 
     <display-number>13</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vietnamtoday.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vietnamtoday.jpg" />
 </channel> 
 <channel id="antvhd">
     <display-name lang="vi">ANTV HD</display-name> 
@@ -77,37 +77,37 @@
 <channel id="onviegiaitri">
     <display-name lang="vi">ON Vie Giải Trí</display-name> 
     <display-number>16</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-viegiaitri.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-viegiaitri.jpg" />
 </channel> 
 <channel id="onphimviet">
     <display-name lang="vi">ON Phim Việt</display-name> 
     <display-number>17</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-phimviet.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-phimviet.jpg" />
 </channel> 
 <channel id="onsports">
     <display-name lang="vi">ON Sports HD</display-name> 
     <display-number>18</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-sports.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sports.jpg" />
 </channel> 
 <channel id="onmovies">
     <display-name lang="vi">ON Movies</display-name> 
     <display-number>19</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-movies.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-movies.jpg" />
 </channel> 
 <channel id="onechannel">
     <display-name lang="vi">ON Echannel</display-name> 
     <display-number>20</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-echannel.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-echannel.jpg" />
 </channel> 
 <channel id="onsportsplus">
     <display-name lang="vi">ON Sports+</display-name> 
     <display-number>21</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sportsplus.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sportsplus.jpg" />
 </channel> 
 <channel id="ono2tv">
     <display-name lang="vi">ON O2TV</display-name> 
     <display-number>22</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-o2tv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-o2tv.jpg" />
 </channel> 
 <channel id="onbibi">
     <display-name lang="vi">ON BiBi</display-name> 
@@ -117,7 +117,7 @@
 <channel id="oninfotv">
     <display-name lang="vi">ON Info TV</display-name> 
     <display-number>24</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-infotv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-infotv.jpg" />
 </channel> 
 <channel id="oncine">
     <display-name lang="vi">ON Cine</display-name> 
@@ -132,22 +132,22 @@
 <channel id="onmusic">
     <display-name lang="vi">ON Music</display-name> 
     <display-number>27</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-music.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-music.jpg" />
 </channel> 
 <channel id="onfootball">
     <display-name lang="vi">ON Football HD</display-name> 
     <display-number>28</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-football.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-football.jpg" />
 </channel> 
 <channel id="ontrending">
     <display-name lang="vi">ON Trending</display-name> 
     <display-number>29</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-trending.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-trending.jpg" />
 </channel> 
 <channel id="onsportsnews">
     <display-name lang="vi">ON Sports News</display-name> 
     <display-number>30</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-sportsnews.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-sportsnews.jpg" />
 </channel> 
 <channel id="onviedramas">
     <display-name lang="vi">ON Vie DRAMAS</display-name> 
@@ -157,17 +157,17 @@
 <channel id="onvfamily">
     <display-name lang="vi">ON VFamily</display-name> 
     <display-number>32</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-vfamily.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-vfamily.jpg" />
 </channel> 
 <channel id="onkids">
     <display-name lang="vi">ON Kids</display-name> 
     <display-number>33</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-kids.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-kids.jpg" />
 </channel> 
 <channel id="onlife">
     <display-name lang="vi">ON Life</display-name> 
     <display-number>34</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-life.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-life.jpg" />
 </channel> 
 <channel id="ongolf">
     <display-name lang="vi">ON Golf</display-name> 
@@ -177,22 +177,22 @@
 <channel id="htv1">
     <display-name lang="vi">HTV1</display-name> 
     <display-number>36</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htv1.jpg" />
 </channel> 
 <channel id="htv2hd">
     <display-name lang="vi">HTV2 HD</display-name> 
     <display-number>37</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv2hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htv2hd.jpg" />
 </channel> 
 <channel id="htv3">
     <display-name lang="vi">HTV3</display-name> 
     <display-number>38</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htv3.png" />
+    <icon src="http://image3.blaosolar.vn/logo/htv3.png" />
 </channel> 
 <channel id="htvkey">
     <display-name lang="vi">HTV Key</display-name> 
     <display-number>39</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvkey.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htvkey.jpg" />
 </channel> 
 <channel id="htv5">
     <display-name lang="vi">HTV5 Bchannel</display-name> 
@@ -212,32 +212,32 @@
 <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao HD</display-name> 
     <display-number>43</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvthethaohd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvthethaohd.jpg" />
 </channel> 
 <channel id="htvcphimhd">
     <display-name lang="vi">HTVC Phim HD</display-name> 
     <display-number>44</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcphimhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htvcphimhd.jpg" />
 </channel> 
 <channel id="htvcthuanviethd">
     <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
     <display-number>45</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcthuanviethd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcthuanviethd.jpg" />
 </channel> 
 <channel id="htvcgiadinhhd">
     <display-name lang="vi">HTVC Gia Đình HD</display-name> 
     <display-number>46</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcphunuhd">
     <display-name lang="vi">HTVC Phụ Nữ HD</display-name> 
     <display-number>47</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch HD</display-name> 
     <display-number>48</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcdulichhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htvcdulichhd.jpg" />
 </channel> 
 <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
@@ -247,7 +247,7 @@
 <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus HD</display-name> 
     <display-number>50</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcplushd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcplushd.jpg" />
 </channel> 
 <channel id="sctv1hd">
     <display-name lang="vi">SCTV1 HD</display-name> 
@@ -257,22 +257,22 @@
 <channel id="sctv2hd">
     <display-name lang="vi">SCTV2 HD</display-name> 
     <display-number>52</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv2hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv2hd.png" />
 </channel> 
 <channel id="sctv3hd">
     <display-name lang="vi">SCTV3 HD</display-name> 
     <display-number>53</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv3hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv3hd.png" />
 </channel> 
 <channel id="sctv4hd">
     <display-name lang="vi">SCTV4 HD</display-name> 
     <display-number>54</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv4hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv4hd.png" />
 </channel> 
 <channel id="sctv6hd">
     <display-name lang="vi">SCTV6 HD</display-name> 
     <display-number>55</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv6hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv6hd.png" />
 </channel> 
 <channel id="sctv7hd">
     <display-name lang="vi">SCTV7 HD</display-name> 
@@ -282,7 +282,7 @@
 <channel id="sctv8hd">
     <display-name lang="vi">SCTV8 HD</display-name> 
     <display-number>57</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv8hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv8hd.png" />
 </channel> 
 <channel id="sctv9hd">
     <display-name lang="vi">SCTV9 HD</display-name> 
@@ -292,32 +292,32 @@
 <channel id="sctv11hd">
     <display-name lang="vi">SCTV11 HD</display-name> 
     <display-number>59</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv11hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv11hd.png" />
 </channel> 
 <channel id="sctv12hd">
     <display-name lang="vi">SCTV12 HD</display-name> 
     <display-number>60</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv12hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv12hd.png" />
 </channel> 
 <channel id="sctv13hd">
     <display-name lang="vi">SCTV13 HD</display-name> 
     <display-number>61</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv13hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv13hd.png" />
 </channel> 
 <channel id="sctv14hd">
     <display-name lang="vi">SCTV14 HD</display-name> 
     <display-number>62</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv14hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv14hd.png" />
 </channel> 
 <channel id="sctv15hd">
     <display-name lang="vi">SCTV15 HD</display-name> 
     <display-number>63</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv15hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv15hd.png" />
 </channel> 
 <channel id="sctv16hd">
     <display-name lang="vi">SCTV16 HD</display-name> 
     <display-number>64</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv16hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv16hd.png" />
 </channel> 
 <channel id="sctv17hd">
     <display-name lang="vi">SCTV17 HD</display-name> 
@@ -327,12 +327,12 @@
 <channel id="sctv18hd">
     <display-name lang="vi">SCTV18 HD</display-name> 
     <display-number>66</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv18hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv18hd.png" />
 </channel> 
 <channel id="sctv19hd">
     <display-name lang="vi">SCTV19 HD</display-name> 
     <display-number>67</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv19hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv19hd.png" />
 </channel> 
 <channel id="sctv20hd">
     <display-name lang="vi">SCTV20 HD</display-name> 
@@ -352,22 +352,22 @@
 <channel id="sctvhdpth">
     <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
     <display-number>71</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctvhdpth.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctvhdpth.png" />
 </channel> 
 <channel id="sctv4k">
     <display-name lang="vi">SCTV 4K</display-name> 
     <display-number>72</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv4k.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv4k.jpg" />
 </channel> 
 <channel id="axnhd">
     <display-name lang="vi">AXN HD</display-name> 
     <display-number>73</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/axn.png" />
+    <icon src="http://image1.blaosolar.vn/logo/axn.png" />
 </channel> 
 <channel id="hbohd">
     <display-name lang="vi">HBO HD</display-name> 
     <display-number>74</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hbohd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hbohd.png" />
 </channel> 
 <channel id="cinemaxhd">
     <display-name lang="vi">Cinemax HD</display-name> 
@@ -377,27 +377,27 @@
 <channel id="warnertvhd">
     <display-name lang="vi">Warner TV HD</display-name> 
     <display-number>76</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/warnertvhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/warnertvhd.jpg" />
 </channel> 
 <channel id="cinemaworldhd">
     <display-name lang="vi">Cinema World HD</display-name> 
     <display-number>77</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cinemaworldhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cinemaworldhd.jpg" />
 </channel> 
 <channel id="animalhd">
     <display-name lang="vi">Animal Planet HD</display-name> 
     <display-number>78</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/animalhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/animalhd.jpg" />
 </channel> 
 <channel id="bbcearth">
     <display-name lang="vi">BBC Earth</display-name> 
     <display-number>79</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/bbcearth.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/bbcearth.jpg" />
 </channel> 
 <channel id="bbclifestyle">
     <display-name lang="vi">BBC Life Style</display-name> 
     <display-number>80</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/bbclifestyle.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/bbclifestyle.jpg" />
 </channel> 
 <channel id="bbcworldnews">
     <display-name lang="vi">BBC World News</display-name> 
@@ -407,22 +407,22 @@
 <channel id="dmax">
     <display-name lang="vi">Dmax</display-name> 
     <display-number>82</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dmax.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/dmax.jpg" />
 </channel> 
 <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia HD</display-name> 
     <display-number>83</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/discoveryasiahd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/discoveryasiahd.jpg" />
 </channel> 
 <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel HD</display-name> 
     <display-number>84</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/discoveryhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/discoveryhd.jpg" />
 </channel> 
 <channel id="tlchd">
     <display-name lang="vi">Travel &amp; Living HD</display-name> 
     <display-number>85</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tlc.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/tlc.jpg" />
 </channel> 
 <channel id="cbeebies">
     <display-name lang="vi">Cbeebies</display-name> 
@@ -432,22 +432,22 @@
 <channel id="davinci">
     <display-name lang="vi">DaVinci HD</display-name> 
     <display-number>87</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/davinci.png" />
+    <icon src="http://image3.blaosolar.vn/logo/davinci.png" />
 </channel> 
 <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network HD</display-name> 
     <display-number>88</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cartoonhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/cartoonhd.jpg" />
 </channel> 
 <channel id="cartoonito">
     <display-name lang="vi">Cartoonito</display-name> 
     <display-number>89</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cartoonito.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cartoonito.jpg" />
 </channel> 
 <channel id="fashionhd">
     <display-name lang="vi">Fashion TV HD</display-name> 
     <display-number>90</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/fashionhd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/fashionhd.png" />
 </channel> 
 <channel id="afnhd">
     <display-name lang="vi">AFN HD</display-name> 
@@ -462,7 +462,7 @@
 <channel id="outdoorhd">
     <display-name lang="vi">Outdoor Channel HD</display-name> 
     <display-number>93</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/outdoorhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/outdoorhd.jpg" />
 </channel> 
 <channel id="boxmovie1">
     <display-name lang="vi">Box Movie 1</display-name> 
@@ -477,32 +477,32 @@
 <channel id="woman">
     <display-name lang="vi">Woman HD</display-name> 
     <display-number>96</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/woman.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/woman.jpg" />
 </channel> 
 <channel id="boxhits">
     <display-name lang="vi">Box Hits HD</display-name> 
     <display-number>97</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/boxhits.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/boxhits.jpg" />
 </channel> 
 <channel id="musicbox">
     <display-name lang="vi">Music Box HD</display-name> 
     <display-number>98</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/musicbox.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/musicbox.jpg" />
 </channel> 
 <channel id="happykids">
     <display-name lang="vi">Happy Kids HD</display-name> 
     <display-number>99</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/happykids.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/happykids.jpg" />
 </channel> 
 <channel id="dreamworks">
     <display-name lang="vi">Dreamworks HD</display-name> 
     <display-number>100</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dreamworks.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dreamworks.jpg" />
 </channel> 
 <channel id="historyhd">
     <display-name lang="vi">History HD</display-name> 
     <display-number>101</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/historyhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/historyhd.jpg" />
 </channel> 
 <channel id="kix">
     <display-name lang="vi">Kix HD</display-name> 
@@ -512,7 +512,7 @@
 <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name> 
     <display-number>103</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hgtv.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/hgtv.jpg" />
 </channel> 
 <channel id="dw">
     <display-name lang="vi">DW HD</display-name> 
@@ -527,7 +527,7 @@
 <channel id="arirang">
     <display-name lang="vi">Arirang</display-name> 
     <display-number>106</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/arirang.png" />
+    <icon src="http://image3.blaosolar.vn/logo/arirang.png" />
 </channel> 
 <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name> 
@@ -542,32 +542,32 @@
 <channel id="cna">
     <display-name lang="vi">Channel News Asia</display-name> 
     <display-number>109</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cna.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cna.jpg" />
 </channel> 
 <channel id="cnbc">
     <display-name lang="vi">CNBC</display-name> 
     <display-number>110</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cnbc.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/cnbc.jpg" />
 </channel> 
 <channel id="nhkworld">
     <display-name lang="vi">NHK World</display-name> 
     <display-number>111</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/nhkworld.png" />
+    <icon src="http://image2.blaosolar.vn/logo/nhkworld.png" />
 </channel> 
 <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name> 
     <display-number>112</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/france24eng.png" />
+    <icon src="http://image4.blaosolar.vn/logo/france24eng.png" />
 </channel> 
 <channel id="tv5monde">
     <display-name lang="vi">TV5 Monde</display-name> 
     <display-number>113</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/tv5monde.png" />
+    <icon src="http://image2.blaosolar.vn/logo/tv5monde.png" />
 </channel> 
 <channel id="spotv1">
     <display-name lang="vi">SPOTV1 HD</display-name> 
     <display-number>114</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/spotv1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/spotv1.jpg" />
 </channel> 
 <channel id="spotv2">
     <display-name lang="vi">SPOTV2 HD</display-name> 
@@ -582,32 +582,32 @@
 <channel id="angiang1">
     <display-name lang="vi">An Giang 1</display-name> 
     <display-number>117</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/angiang1.png" />
 </channel> 
 <channel id="angiang2">
     <display-name lang="vi">An Giang 2</display-name> 
     <display-number>118</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang2.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/angiang2.jpg" />
 </channel> 
 <channel id="angiang3">
     <display-name lang="vi">An Giang 3</display-name> 
     <display-number>119</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/angiang3.png" />
+    <icon src="http://image3.blaosolar.vn/logo/angiang3.png" />
 </channel> 
 <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name> 
     <display-number>120</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bacninh.png" />
+    <icon src="http://image1.blaosolar.vn/logo/bacninh.png" />
 </channel> 
 <channel id="camau">
     <display-name lang="vi">Cà Mau</display-name> 
     <display-number>121</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/camau.png" />
+    <icon src="http://image4.blaosolar.vn/logo/camau.png" />
 </channel> 
 <channel id="cantho1">
     <display-name lang="vi">Cần Thơ 1</display-name> 
     <display-number>122</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cantho1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cantho1.jpg" />
 </channel> 
 <channel id="cantho2">
     <display-name lang="vi">Cần Thơ 2</display-name> 
@@ -627,12 +627,12 @@
 <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name> 
     <display-number>126</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/danang1.png" />
+    <icon src="http://image3.blaosolar.vn/logo/danang1.png" />
 </channel> 
 <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name> 
     <display-number>127</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/danang2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/danang2.png" />
 </channel> 
 <channel id="daklak">
     <display-name lang="vi">Đắk Lắk</display-name> 
@@ -642,7 +642,7 @@
 <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name> 
     <display-number>129</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dienbien.png" />
+    <icon src="http://image4.blaosolar.vn/logo/dienbien.png" />
 </channel> 
 <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name> 
@@ -652,22 +652,22 @@
 <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name> 
     <display-number>131</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dongnai2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/dongnai2.png" />
 </channel> 
 <channel id="dongthap1">
     <display-name lang="vi">Đồng Tháp 1</display-name> 
     <display-number>132</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dongthap1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/dongthap1.jpg" />
 </channel> 
 <channel id="dongthap2">
     <display-name lang="vi">Đồng Tháp 2</display-name> 
     <display-number>133</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongthap2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dongthap2.jpg" />
 </channel> 
 <channel id="gialai">
     <display-name lang="vi">Gia Lai</display-name> 
     <display-number>134</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/gialai.png" />
+    <icon src="http://image1.blaosolar.vn/logo/gialai.png" />
 </channel> 
 <channel id="hanoi1">
     <display-name lang="vi">Hà Nội 1</display-name> 
@@ -677,22 +677,22 @@
 <channel id="hanoi2">
     <display-name lang="vi">Hà Nội 2</display-name> 
     <display-number>136</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hanoi2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hanoi2.png" />
 </channel> 
 <channel id="hatinh">
     <display-name lang="vi">Hà Tĩnh</display-name> 
     <display-number>137</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hatinh.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/hatinh.jpg" />
 </channel> 
 <channel id="haiphong">
     <display-name lang="vi">Hải Phòng</display-name> 
     <display-number>138</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/haiphong.png" />
+    <icon src="http://image3.blaosolar.vn/logo/haiphong.png" />
 </channel> 
 <channel id="haiphong3">
     <display-name lang="vi">Hải Phòng 3</display-name> 
     <display-number>139</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/haiphong3.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/haiphong3.jpg" />
 </channel> 
 <channel id="hue">
     <display-name lang="vi">Huế</display-name> 
@@ -707,7 +707,7 @@
 <channel id="tuyenquang">
     <display-name lang="vi">Tuyên Quang</display-name> 
     <display-number>142</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/tuyenquang.png" />
+    <icon src="http://image1.blaosolar.vn/logo/tuyenquang.png" />
 </channel> 
 <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name> 
@@ -722,27 +722,27 @@
 <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name> 
     <display-number>145</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/laichau.png" />
+    <icon src="http://image4.blaosolar.vn/logo/laichau.png" />
 </channel> 
 <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name> 
     <display-number>146</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/laocai.png" />
+    <icon src="http://image4.blaosolar.vn/logo/laocai.png" />
 </channel> 
 <channel id="lamdong1">
     <display-name lang="vi">Lâm Đồng 1</display-name> 
     <display-number>147</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/lamdong1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/lamdong1.jpg" />
 </channel> 
 <channel id="lamdong2">
     <display-name lang="vi">Lâm Đồng 2</display-name> 
     <display-number>148</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/lamdong2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/lamdong2.jpg" />
 </channel> 
 <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name> 
     <display-number>149</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/langson.png" />
+    <icon src="http://image2.blaosolar.vn/logo/langson.png" />
 </channel> 
 <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name> 
@@ -762,17 +762,17 @@
 <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name> 
     <display-number>153</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangngai.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/quangngai.jpg" />
 </channel> 
 <channel id="quangngai2">
     <display-name lang="vi">Quảng Ngãi 2</display-name> 
     <display-number>154</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangngai2.png" />
+    <icon src="http://image4.blaosolar.vn/logo/quangngai2.png" />
 </channel> 
 <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name> 
     <display-number>155</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/quangninh1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/quangninh1.png" />
 </channel> 
 <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name> 
@@ -782,7 +782,7 @@
 <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name> 
     <display-number>157</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangtri.webp" />
+    <icon src="http://image4.blaosolar.vn/logo/quangtri.webp" />
 </channel> 
 <channel id="sonla">
     <display-name lang="vi">Sơn La</display-name> 
@@ -792,7 +792,7 @@
 <channel id="tayninh1">
     <display-name lang="vi">Tây Ninh 1</display-name> 
     <display-number>159</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tayninh1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/tayninh1.jpg" />
 </channel> 
 <channel id="thainguyen">
     <display-name lang="vi">Thái Nguyên</display-name> 
@@ -812,7 +812,7 @@
 <channel id="vinhlong2hd">
     <display-name lang="vi">Vĩnh Long 2 HD</display-name> 
     <display-number>163</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vinhlong2hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vinhlong2hd.jpg" />
 </channel> 
 <channel id="vinhlong3hd">
     <display-name lang="vi">Vĩnh Long 3 HD</display-name> 
@@ -822,12 +822,12 @@
 <channel id="vinhlong4hd">
     <display-name lang="vi">Vĩnh Long 4 HD</display-name> 
     <display-number>165</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vinhlong4hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/vinhlong4hd.png" />
 </channel> 
 <channel id="vinhlong5hd">
     <display-name lang="vi">Vĩnh Long 5 HD</display-name> 
     <display-number>166</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vinhlong5hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vinhlong5hd.jpg" />
 </channel> 
 <channel id="360c1">
     <display-name lang="vi">TV360 C1 Châu Âu</display-name> 
@@ -842,27 +842,27 @@
 <channel id="360c3">
     <display-name lang="vi">TV360 C3 Châu Âu</display-name> 
     <display-number>169</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360c3.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360c3.jpg" />
 </channel> 
 <channel id="360thethaochaua">
     <display-name lang="vi">TV360 Thể Thao Châu Á</display-name> 
     <display-number>170</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360thethaochaua.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360thethaochaua.jpg" />
 </channel> 
 <channel id="360congthuc1">
     <display-name lang="vi">TV360 Công Thức 1</display-name> 
     <display-number>171</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360congthuc1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360congthuc1.jpg" />
 </channel> 
 <channel id="360bundesliga">
     <display-name lang="vi">TV360 Bundesliga</display-name> 
     <display-number>172</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360bundesliga.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360bundesliga.jpg" />
 </channel> 
 <channel id="360golf">
     <display-name lang="vi">TV360 Golf</display-name> 
     <display-number>173</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360golf.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360golf.jpg" />
 </channel> 
 <channel id="360tennis">
     <display-name lang="vi">TV360 Tennis</display-name> 
@@ -872,12 +872,12 @@
 <channel id="360phimviet">
     <display-name lang="vi">TV360 Phim Việt</display-name> 
     <display-number>175</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimviet.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360phimviet.jpg" />
 </channel> 
 <channel id="360phimaumy">
     <display-name lang="vi">TV360 Phim Âu Mỹ</display-name> 
     <display-number>176</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimaumy.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimaumy.jpg" />
 </channel> 
 <channel id="360hoathinh">
     <display-name lang="vi">TV360 Hoạt Hình</display-name> 
@@ -887,17 +887,17 @@
 <channel id="360phimhoangu">
     <display-name lang="vi">TV360 Phim Hoa Ngữ</display-name> 
     <display-number>178</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimhoangu.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimhoangu.jpg" />
 </channel> 
 <channel id="360hanhdongchaua">
     <display-name lang="vi">TV360 Hành Động Châu Á</display-name> 
     <display-number>179</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360hanhdongchaua.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360hanhdongchaua.jpg" />
 </channel> 
 <channel id="360kdrama">
     <display-name lang="vi">TV360 K-Drama</display-name> 
     <display-number>180</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360kdrama.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360kdrama.jpg" />
 </channel> 
 <channel id="360haitinhcam">
     <display-name lang="vi">TV360 Hài - Tình Cảm</display-name> 
@@ -907,12 +907,12 @@
 <channel id="360phimkinhdien">
     <display-name lang="vi">TV360 Phim Kinh Điển</display-name> 
     <display-number>182</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimkinhdien.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360phimkinhdien.jpg" />
 </channel> 
 <channel id="360anime">
     <display-name lang="vi">TV360 Anime</display-name> 
     <display-number>183</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360anime.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360anime.jpg" />
 </channel> 
 <programme channel="vtv1hd" channel-number="1" start="20261025000035 +0700" stop="20261025003035 +0700">
     <title lang="vi">PHIM TRUYỆN: NHỮNG NHÂN VIÊN GƯƠNG MẪU - TẬP 31</title> 
@@ -90054,10 +90054,75 @@
     <desc>Action from the final round of the season in Portimao.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="400477" start="20261027123000 +0700" stop="20261028000000 +0700">
+  <programme channel="400477" start="20261027123000 +0700" stop="20261027124500 +0700">
     <title lang="zh">The Gallagher PREM - The Wrap Up</title>
     <desc>A look at the biggest stories and best action from round four, including Leicester Tigers v Northampton Saints, Bristol Bears v Exeter Chiefs, and Gloucester Rugby v Bath Rugby.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027124500 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Roll the Tape</title>
+    <desc>Featuring Brighton and Hove Albion star Fran Kirby.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027130000 +0700" stop="20261027131500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>India Women v Zimbabwe Women in the second one-day international.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027131500 +0700" stop="20261027133000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>New Zealand v India in the first T20.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027133000 +0700" stop="20261027134500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>New Zealand v India in the second T20.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027134500 +0700" stop="20261027180000 +0700">
+    <title lang="zh">Live International T20 Cricket</title>
+    <desc>New Zealand v India. Coverage of the third Twenty20 in the five-match series, which takes place at Hnry Stadium in Wellington.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027180000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A review of the 2006/07 season. Ashley Cole began life at Chelsea, Arsene Wenger celebrated his 10th year in charge and West Ham snapped up Carlos Tevez and Javier Mascherano.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027190000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with Chelsea midfielder Romeo Lavia.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027193000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">Match Officials Mic'd Up</title>
+    <desc>Howard Webb joins Michael Owen to review Rodrigo Bentancur's red card in Spurs' 1-1 draw at Old Trafford, plus other major Premier League calls.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027200000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday eight, including Aston Villa v Manchester City, Liverpool v Brighton &amp; Hove Albion, and Manchester United v Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027210000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Napoli v AS Roma.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027220000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Udinese v AC Milan.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261027230000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">Women's FA Cup</title>
+    <desc>Exeter City v Hashtag United.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400477" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">Miracle of Istanbul</title>
+    <desc>A look back at Liverpool's famous comeback in the 2005 Champions League final.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -90228,10 +90293,75 @@
     <desc>Udinese v AC Milan.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="400480" start="20261027110000 +0700" stop="20261028000000 +0700">
+  <programme channel="400480" start="20261027110000 +0700" stop="20261027120000 +0700">
     <title lang="zh">UEFA Champions League Highlights Show</title>
     <desc>A round-up of all the goals from Tuesday's matchday three fixtures, including Manchester City v AEK Athens, Paris Saint-Germain v Barcelona, and Liverpool v Villarreal.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Wednesday's matchday three fixtures, including Como v Manchester United, Aston Villa v Viking, Bayern Munich v Arsenal, and Real Madrid v Leipzig.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027130000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">Women's FA Cup</title>
+    <desc>Exeter City v Hashtag United.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027140000 +0700" stop="20261027150000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday eight, including Aston Villa v Manchester City, Liverpool v Brighton &amp; Hove Albion, and Manchester United v Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027150000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Napoli v AS Roma.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027160000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Udinese v AC Milan.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027170000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">A-League Highlights</title>
+    <desc>A review of all the goals and talking points from the weekend's A-League games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027173000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest round of matches.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027180000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Australia Moto3 race. Action from the 18th round of the season at Phillip Island, Australia.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027190000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Australia Moto2 race. Action from the 18th round of the season at Phillip Island, Australia.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027200000 +0700" stop="20261027203000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Australia MotoGP sprint race. Action from the 18th round of the season at Phillip Island, Australia.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027203000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Australia MotoGP race. Action from the 18th round of the season at Phillip Island Grand Prix Circuit.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261027213000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">MLB</title>
+    <desc>Action from game three of the World Series.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400480" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Australia Moto3 race. Action from the 18th round of the season at Phillip Island, Australia.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
@@ -90422,10 +90552,120 @@
     <desc>A look back at the thrilling welterweight clash between Gunnar Nelson and Rick Story at UFC Fight Night in Stockholm, from October 2014.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="400479" start="20261027101500 +0700" stop="20261028000000 +0700">
+  <programme channel="400479" start="20261027101500 +0700" stop="20261027120000 +0700">
     <title lang="zh">UFC Reloaded</title>
     <desc>We revisit UFC 110 from February 2010 in Sydney, featuring the captivating headline bout between Minotauro Nogueira and Cain Velasquez.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">IFSC Climbing World Series Highlights</title>
+    <desc>Action from the event in Santiago, Chile.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Viking v Bayern Munich.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027133000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Feyenoord v Como.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027140000 +0700" stop="20261027143000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Bodo/Glimt v Borussia Dortmund.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027143000 +0700" stop="20261027150000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>RB Leipzig v PSV Eindhoven.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027150000 +0700" stop="20261027153000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Villarreal v Napoli.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027153000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>LASK v Liverpool.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027160000 +0700" stop="20261027163000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>AS Roma v Real Madrid.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027163000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Aston Villa v Fenerbahce.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027170000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Shakhtar Donetsk v AEK Athens.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027173000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Como v Manchester United.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027180000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Aston Villa v Viking.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027183000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Real Betis v Feyenoord.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027190000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>VfB Stuttgart v Atletico Madrid.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027193000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Lille v Galatasaray.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027200000 +0700" stop="20261027203000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Club Brugge v Lens.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027203000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Bayern Munich v Arsenal.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027210000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Inter Milan v Shakhtar Donetsk.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027213000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">UEFA Champions League</title>
+    <desc>Real Madrid v RB Leipzig.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027220000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Wednesday's matchday three fixtures, including Como v Manchester United, Aston Villa v Viking, Bayern Munich v Arsenal, and Real Madrid v Leipzig.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261027230000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Bath Rugby.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400479" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Sale Sharks.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
@@ -90611,10 +90851,65 @@
     <desc>Action from the men's HG Cross event in Heerde, Netherlands.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="400478" start="20261027120000 +0700" stop="20261028000000 +0700">
+  <programme channel="400478" start="20261027120000 +0700" stop="20261027123000 +0700">
     <title lang="zh">Cyclocross</title>
     <desc>Action from the women's superprestige in Overijse, Belgium.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027123000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Cyclocross</title>
+    <desc>Action from the men's superprestige in Overijse, Belgium.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027130000 +0700" stop="20261027153000 +0700">
+    <title lang="zh">MLB</title>
+    <desc>Action from game one of the World Series.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027153000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">MLB</title>
+    <desc>Action from Milwaukee Brewers v Tampa Bay Rays in game two of the World Series.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027180000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v West Indies. Action from the first ODI in the three-match series from Greenfield International Stadium in Thiruvananthapuram.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027190000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v West Indies. Action from the second ODI in the three-match series from Barsapara Stadium in Barsapara, Guwahati.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027200000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v West Indies. Action from the third and final ODI in the series from Maharaja Yadvindra Singh PCA Stadium in New Chandigarh, Punjab.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027210000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">CPL Highlights</title>
+    <desc>Antigua &amp; Barbuda Falcons v Jamaica Kingsmen in the 2026 final.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027213000 +0700" stop="20261027223000 +0700">
+    <title lang="zh">IFSC Climbing World Series Highlights</title>
+    <desc>Action from the event in Santiago, Chile.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027223000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">UIM F1H2O World Championship Highlights</title>
+    <desc>A review of the best action from the latest round of the season in China.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261027230000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">A-League</title>
+    <desc>Melbourne Victory v Melbourne City.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="400478" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest round of matches.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="219100">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>
@@ -90735,10 +91030,125 @@
     <desc>Focusing on some of the most memorable moments in sports history.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="219100" start="20261027053000 +0700" stop="20261028000000 +0700">
+  <programme channel="219100" start="20261027053000 +0700" stop="20261027073000 +0700">
     <title lang="zh">LaLiga</title>
     <desc>Valencia v Villarreal.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027073000 +0700" stop="20261027083000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look at the top 10 goalies in the NHL.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027083000 +0700" stop="20261027113000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Edmonton Oilers v Detroit Red Wings (Face-off 1.30am). Coverage of the inter-conference match from Rogers Place.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027113000 +0700" stop="20261027120000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look at the top 20 centers in the NHL.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title lang="zh">Sporting Countdowns</title>
+    <desc>Focusing on some of the most memorable moments in sports history.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027133000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">Sporting Countdowns</title>
+    <desc>Focusing on some of the most memorable moments in sports history.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027140000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Sevilla v Osasuna.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027160000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">NASCAR Highlights</title>
+    <desc>Action from the 2026 YellaWood 500.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027170000 +0700" stop="20261027171000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Alaves v Malaga.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027171000 +0700" stop="20261027172000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Rayo Vallecano v Elche.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027172000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Racing Santander v Espanyol.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027173000 +0700" stop="20261027174000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Valencia v Villarreal.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027174000 +0700" stop="20261027175000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Athletic Bilbao v Getafe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027175000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Celta Vigo v Real Betis.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027180000 +0700" stop="20261027181000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Sociedad v Levante.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027181000 +0700" stop="20261027182000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Barcelona v Real Madrid.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027182000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Sevilla v Osasuna.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027183000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    <desc>Action from the seventh round of fixtures.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027190000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">Men's Rugby League World Cup</title>
+    <desc>England v France.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027210000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">NHL on the Fly</title>
+    <desc>Catch up on all the latest NHL news.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027213000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Colombia.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261027220000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">Women's Rugby League World Cup</title>
+    <desc>Australia v England.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219100" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">Sporting Countdowns</title>
+    <desc>Focusing on some of the most memorable moments in sports history.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
@@ -90829,10 +91239,80 @@
     <desc>Columbus Blue Jackets v Vegas Golden Knights.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="219104" start="20261027060000 +0700" stop="20261028000000 +0700">
+  <programme channel="219104" start="20261027060000 +0700" stop="20261027090000 +0700">
     <title lang="zh">Live NHL Ice Hockey</title>
     <desc>New York Rangers v Los Angeles Kings (Face-off 11.00pm). Coverage of the inter-conference match from Madison Square Garden.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027090000 +0700" stop="20261027093000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Mexico.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027093000 +0700" stop="20261027100000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027100000 +0700" stop="20261027103000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027103000 +0700" stop="20261027110000 +0700">
+    <title lang="zh">MotorSport</title>
+    <desc>A look at the career of Valentino Rossi.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027110000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Top 14 Rugby Union</title>
+    <desc>La Rochelle v Bordeaux Begles.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027133000 +0700" stop="20261027163000 +0700">
+    <title lang="zh">NASCAR O'Reilly Series</title>
+    <desc>Further action from Talladega Speedway.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027163000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">Bike World</title>
+    <desc>The latest news and reports from two-wheel competitions.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027170000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027173000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">Men's Rugby League World Cup</title>
+    <desc>New Zealand v Cook Islands.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027193000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">Men's Rugby League World Cup</title>
+    <desc>Australia v Fiji.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027213000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261027220000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Edinburgh Rugby v Lions.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="219104" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Benetton v Glasgow Warriors.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="399506">
     <display-name lang="Malaysia">Premier Sports Rugby</display-name>
@@ -91690,7 +92170,22 @@
     <desc>While the team is away on a Library retreat, Charlie gets a call on a toy phone from a child trapped in a haunted house. She must enlist original Librarians Jacob Stone and Cassandra Cillian to rescue the child.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="369719" start="20261027213000 +0700" stop="20261028000000 +0700">
+  <programme channel="369719" start="20261027213000 +0700" stop="20261027221500 +0700">
+    <title lang="zh">Below Deck Mediterranean S11</title>
+    <desc>Chef Joy and Aesha grapple with a difficult primary who has enlisted a familiar matchmaker to help her and her dog find love. Cooper suffers a health scare that threatens to end his charter season. Nathan struggles to forgive an enormous betrayal.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369719" start="20261027221500 +0700" stop="20261027230000 +0700">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S14</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369719" start="20261027230000 +0700" stop="20261027234500 +0700">
+    <title lang="zh">Late Night With Seth Meyers S14</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369719" start="20261027234500 +0700" stop="20261028000000 +0700">
     <title lang="zh">Below Deck Mediterranean S11</title>
     <desc>Chef Joy and Aesha grapple with a difficult primary who has enlisted a familiar matchmaker to help her and her dog find love. Cooper suffers a health scare that threatens to end his charter season. Nathan struggles to forgive an enormous betrayal.</desc>
     <date>2026-10-27</date>
@@ -92794,9 +93289,19 @@
     <desc>Just as the city rebuilds from the ruins, the Autobots are swept up in yet another war of good and evil, ultimately leading to a climactic battle across the world.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="369840" start="20261027195500 +0700" stop="20261028000000 +0700">
+  <programme channel="369840" start="20261027195500 +0700" stop="20261027220000 +0700">
     <title lang="zh">FATHER OF THE BRIDE</title>
     <desc>An uptight father tries to come to grips with his daughter's upcoming wedding, framed through the prism of multiple relationships within a big, sprawling Cuban-American Latino clan.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369840" start="20261027220000 +0700" stop="20261027234000 +0700">
+    <title lang="zh">SULLY</title>
+    <desc>Tom Hanks stars as Captain Chesley 'Sully' Sullenberger, who landed his disabled plane on the Hudson River, saving the lives of all on board.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369840" start="20261027234000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">A STAR IS BORN</title>
+    <desc>In this new take on the tragic love story, a seasoned musician discovers and falls in love with a struggling artiste.</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="369786">
@@ -93248,9 +93753,19 @@
     <desc>A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="369786" start="20261027210000 +0700" stop="20261028000000 +0700">
+  <programme channel="369786" start="20261027210000 +0700" stop="20261027215000 +0700">
     <title lang="zh">SUITS LA S1</title>
     <desc>Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369786" start="20261027215000 +0700" stop="20261027235000 +0700">
+    <title lang="zh">WARCRAFT</title>
+    <desc>The peaceful realm of Azeroth stands on the brink of war as its civilisation faces a fearsome race of invaders.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369786" start="20261027235000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">THE TITAN GAMES S1</title>
+    <desc>The competition continues with competitors pushing their bodies to the limit by battling opponents in unforgiving head-to-head challenges, designed by Dwayne Johnson. Winners will advance to the ultimate challenge of Mt. Olympus, the consummate athletic test of speed, strength, agility and endurance. The male and female competitors who conquer Mt. Olympus will become a Titan, and in the end, the T</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="369758">
@@ -93407,9 +93922,14 @@
     <desc>Carey seeks support after divorce, but learns Julie and Paul's secret: an open marriage. Crossing the line throws all their lives into turmoil.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="369758" start="20261027210000 +0700" stop="20261028000000 +0700">
+  <programme channel="369758" start="20261027210000 +0700" stop="20261027224000 +0700">
     <title lang="zh">PRIME MINISTER</title>
     <desc>A view inside the life of former New Zealand Prime Minister Jacinda Ardern.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369758" start="20261027224000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">SHUTTER ISLAND</title>
+    <desc>Up-and-coming U.S. marshal Teddy Daniels is assigned to investigate the disappearance of a patient from Boston's Shutter Island Ashecliffe Hospital.</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="444724">
@@ -94009,9 +94529,134 @@
     <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="486870" start="20261027050000 +0700" stop="20261028000000 +0700">
+  <programme channel="486870" start="20261027050000 +0700" stop="20261027070000 +0700">
     <title lang="zh">PL Match: Bournemouth (H) 26/27</title>
     <desc>Full coverage of our Premier League match against AFC Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027070000 +0700" stop="20261027073000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>Wes Brown and Siobhan Chamberlain join us to discuss our Premier League match against AFC Bournemouth, plus exclusive post-match interviews.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027073000 +0700" stop="20261027080000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027080000 +0700" stop="20261027081500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We learn a little bit more about United and Canada midfielder Simi Awujo.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027081500 +0700" stop="20261027083000 +0700">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Liverpool.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027083000 +0700" stop="20261027103000 +0700">
+    <title lang="zh">PL Match: Bournemouth (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against AFC Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027103000 +0700" stop="20261027110000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>Wes Brown and Siobhan Chamberlain join us to discuss our Premier League match against AFC Bournemouth, plus exclusive post-match interviews.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027110000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">PL Match: Bournemouth (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against AFC Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>Wes Brown and Siobhan Chamberlain join us to discuss our Premier League match against AFC Bournemouth, plus exclusive post-match interviews.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027133000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027140000 +0700" stop="20261027144500 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027144500 +0700" stop="20261027150000 +0700">
+    <title lang="zh">Top 20 Goals 2006/07</title>
+    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2006/07 season.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027150000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">PL Match: Bournemouth (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against AFC Bournemouth.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027170000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>Wes Brown and Siobhan Chamberlain join us to discuss our Premier League match against AFC Bournemouth, plus exclusive post-match interviews.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027173000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Chelsea.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027180000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027183000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027190000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">Paul Parker: Tackling the Game</title>
+    <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027193000 +0700" stop="20261027195500 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Liverpool.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027195500 +0700" stop="20261027220000 +0700">
+    <title lang="zh">Live: U18s 26/27</title>
+    <desc>Live coverage of the U18s game against Burnley.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027220000 +0700" stop="20261027221500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027221500 +0700" stop="20261027230000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027230000 +0700" stop="20261027233000 +0700">
+    <title lang="zh">25 Memorable Old Trafford Moments</title>
+    <desc>Relive these 25 incredible Old Trafford moments.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027233000 +0700" stop="20261027234500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027234500 +0700" stop="20261027235500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="486870" start="20261027235500 +0700" stop="20261028000000 +0700">
+    <title lang="zh">U18s Replayed 26/27</title>
+    <desc>Full coverage of the U18s game against Burnley.</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="470446">
@@ -94143,9 +94788,74 @@
     <desc>The Eagles host the Cowboys in NFC East play at Lincoln Financial Field. Both sides sit at 2-4, but Philadelphia has dropped four straight heading into this divisional meeting and QB Jalen Hurts is out for the season due to a medical concern.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="470446" start="20261027103000 +0700" stop="20261028000000 +0700">
+  <programme channel="470446" start="20261027103000 +0700" stop="20261027120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027130000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027140000 +0700" stop="20261027143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027143000 +0700" stop="20261027153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027153000 +0700" stop="20261027163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027163000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027173000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027183000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027193000 +0700" stop="20261027203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027203000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027213000 +0700" stop="20261027223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027223000 +0700" stop="20261027233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470446" start="20261027233000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="470550">
@@ -94317,10 +95027,130 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="470550" start="20261027113000 +0700" stop="20261028000000 +0700">
+  <programme channel="470550" start="20261027113000 +0700" stop="20261027120000 +0700">
     <title lang="zh">SC</title>
     <desc>2025 SC Top 10 Grey Cup Games.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027120000 +0700" stop="20261027123000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027123000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027130000 +0700" stop="20261027133000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027133000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027140000 +0700" stop="20261027143000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027143000 +0700" stop="20261027150000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027150000 +0700" stop="20261027153000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027153000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027160000 +0700" stop="20261027163000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027163000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027170000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027173000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027180000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027183000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027190000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027193000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027200000 +0700" stop="20261027203000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027203000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027210000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027213000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027220000 +0700" stop="20261027223000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027223000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261027230000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470550" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>Features the top 100 catches of all-time.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="470888">
     <display-name lang="Canada">TSN 3</display-name>
@@ -94441,10 +95271,80 @@
     <desc>The Eagles host the Cowboys in NFC East play at Lincoln Financial Field. Both sides sit at 2-4, but Philadelphia has dropped four straight heading into this divisional meeting and QB Jalen Hurts is out for the season due to a medical concern.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="470888" start="20261027103000 +0700" stop="20261028000000 +0700">
+  <programme channel="470888" start="20261027103000 +0700" stop="20261027120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027130000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027140000 +0700" stop="20261027143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027143000 +0700" stop="20261027153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027153000 +0700" stop="20261027163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027163000 +0700" stop="20261027173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027173000 +0700" stop="20261027183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027183000 +0700" stop="20261027193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027193000 +0700" stop="20261027203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027203000 +0700" stop="20261027213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027213000 +0700" stop="20261027223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027223000 +0700" stop="20261027233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261027233000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">Canadian Dirt Tour Racing</title>
+    <desc>A look at the action from dirt tracks across the country.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470888" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Shannonville Motorsport Park in Belleville, Ontario.</desc>
+    <date>2026-10-28</date>
   </programme>
 <channel id="470730">
     <display-name lang="Canada">TSN 4</display-name>
@@ -94595,9 +95495,69 @@
     <desc>The Eagles host the Cowboys in NFC East play at Lincoln Financial Field. Both sides sit at 2-4, but Philadelphia has dropped four straight heading into this divisional meeting and QB Jalen Hurts is out for the season due to a medical concern.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="470730" start="20261027103000 +0700" stop="20261028000000 +0700">
+  <programme channel="470730" start="20261027103000 +0700" stop="20261027120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027130000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027140000 +0700" stop="20261027150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027150000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027160000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027170000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027180000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027190000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027200000 +0700" stop="20261027210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027210000 +0700" stop="20261027220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027220000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470730" start="20261027230000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.</desc>
     <date>2026-10-27</date>
   </programme>
 <channel id="470390">
@@ -94744,9 +95704,54 @@
     <desc>The Eagles host the Cowboys in NFC East play at Lincoln Financial Field. Both sides sit at 2-4, but Philadelphia has dropped four straight heading into this divisional meeting and QB Jalen Hurts is out for the season due to a medical concern.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="470390" start="20261027103000 +0700" stop="20261028000000 +0700">
+  <programme channel="470390" start="20261027103000 +0700" stop="20261027120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027120000 +0700" stop="20261027130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027130000 +0700" stop="20261027140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027140000 +0700" stop="20261027150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027150000 +0700" stop="20261027160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027160000 +0700" stop="20261027170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027170000 +0700" stop="20261027180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027180000 +0700" stop="20261027190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027190000 +0700" stop="20261027200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="470390" start="20261027200000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">Live: 2026 Swiss Indoors Basel Tennis</title>
+    <desc>From St. Jakobshalle in Basel, Basel-Stadt, Switzerland.</desc>
     <date>2026-10-27</date>
   </programme>
 </tv>
