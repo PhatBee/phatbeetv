@@ -2,12 +2,12 @@
 <tv><channel id="vtv1hd">
     <display-name lang="vi">VTV1</display-name> 
     <display-number>1</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv1hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv1hd.jpg" />
 </channel> 
 <channel id="vtv2hd">
     <display-name lang="vi">VTV2</display-name> 
     <display-number>2</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv2hd.jpg" />
 </channel> 
 <channel id="vtv3hd">
     <display-name lang="vi">VTV3</display-name> 
@@ -17,12 +17,12 @@
 <channel id="vtv4hd">
     <display-name lang="vi">VTV4</display-name> 
     <display-number>4</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv4hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv4hd.jpg" />
 </channel> 
 <channel id="vtv5hd">
     <display-name lang="vi">VTV5</display-name> 
     <display-number>5</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hd.jpg" />
 </channel> 
 <channel id="vtv6hd">
     <display-name lang="vi">VTV6</display-name> 
@@ -32,12 +32,12 @@
 <channel id="vtv7hd">
     <display-name lang="vi">VTV7</display-name> 
     <display-number>7</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv7hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vtv7hd.jpg" />
 </channel> 
 <channel id="vtv8hd">
     <display-name lang="vi">VTV8</display-name> 
     <display-number>8</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv8hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv8hd.jpg" />
 </channel> 
 <channel id="vtv9hd">
     <display-name lang="vi">VTV9</display-name> 
@@ -52,7 +52,7 @@
 <channel id="vtv5hdtn">
     <display-name lang="vi">VTV5 - Tây Nguyên</display-name> 
     <display-number>11</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtn.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv5hdtn.jpg" />
 </channel> 
 <channel id="vtv5hdtnb">
     <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name> 
@@ -62,17 +62,17 @@
 <channel id="vietnamtoday">
     <display-name lang="vi">VIETNAM TODAY</display-name> 
     <display-number>13</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vietnamtoday.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vietnamtoday.jpg" />
 </channel> 
 <channel id="antvhd">
     <display-name lang="vi">ANTV HD</display-name> 
     <display-number>14</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/antv.png" />
+    <icon src="http://image3.blaosolar.vn/logo/antv.png" />
 </channel> 
 <channel id="qpvnhd">
     <display-name lang="vi">QPVN HD</display-name> 
     <display-number>15</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/qpvnhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/qpvnhd.jpg" />
 </channel> 
 <channel id="onviegiaitri">
     <display-name lang="vi">ON Vie Giải Trí</display-name> 
@@ -87,92 +87,92 @@
 <channel id="onsports">
     <display-name lang="vi">ON Sports HD</display-name> 
     <display-number>18</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-sports.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-sports.jpg" />
 </channel> 
 <channel id="onmovies">
     <display-name lang="vi">ON Movies</display-name> 
     <display-number>19</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-movies.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-movies.jpg" />
 </channel> 
 <channel id="onechannel">
     <display-name lang="vi">ON Echannel</display-name> 
     <display-number>20</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-echannel.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-echannel.jpg" />
 </channel> 
 <channel id="onsportsplus">
     <display-name lang="vi">ON Sports+</display-name> 
     <display-number>21</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-sportsplus.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-sportsplus.jpg" />
 </channel> 
 <channel id="ono2tv">
     <display-name lang="vi">ON O2TV</display-name> 
     <display-number>22</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-o2tv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-o2tv.jpg" />
 </channel> 
 <channel id="onbibi">
     <display-name lang="vi">ON BiBi</display-name> 
     <display-number>23</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-bibi.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-bibi.jpg" />
 </channel> 
 <channel id="oninfotv">
     <display-name lang="vi">ON Info TV</display-name> 
     <display-number>24</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-infotv.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-infotv.jpg" />
 </channel> 
 <channel id="oncine">
     <display-name lang="vi">ON Cine</display-name> 
     <display-number>25</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-cine.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-cine.jpg" />
 </channel> 
 <channel id="onstyle">
     <display-name lang="vi">On Style</display-name> 
     <display-number>26</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-style.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-style.jpg" />
 </channel> 
 <channel id="onmusic">
     <display-name lang="vi">ON Music</display-name> 
     <display-number>27</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-music.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-music.jpg" />
 </channel> 
 <channel id="onfootball">
     <display-name lang="vi">ON Football HD</display-name> 
     <display-number>28</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-football.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-football.jpg" />
 </channel> 
 <channel id="ontrending">
     <display-name lang="vi">ON Trending</display-name> 
     <display-number>29</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-trending.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-trending.jpg" />
 </channel> 
 <channel id="onsportsnews">
     <display-name lang="vi">ON Sports News</display-name> 
     <display-number>30</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-sportsnews.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-sportsnews.jpg" />
 </channel> 
 <channel id="onviedramas">
     <display-name lang="vi">ON Vie DRAMAS</display-name> 
     <display-number>31</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-viedramas.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-viedramas.jpg" />
 </channel> 
 <channel id="onvfamily">
     <display-name lang="vi">ON VFamily</display-name> 
     <display-number>32</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-vfamily.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-vfamily.jpg" />
 </channel> 
 <channel id="onkids">
     <display-name lang="vi">ON Kids</display-name> 
     <display-number>33</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-kids.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-kids.jpg" />
 </channel> 
 <channel id="onlife">
     <display-name lang="vi">ON Life</display-name> 
     <display-number>34</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-life.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-life.jpg" />
 </channel> 
 <channel id="ongolf">
     <display-name lang="vi">ON Golf</display-name> 
     <display-number>35</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-golf.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-golf.jpg" />
 </channel> 
 <channel id="htv1">
     <display-name lang="vi">HTV1</display-name> 
@@ -182,7 +182,7 @@
 <channel id="htv2hd">
     <display-name lang="vi">HTV2 HD</display-name> 
     <display-number>37</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htv2hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htv2hd.jpg" />
 </channel> 
 <channel id="htv3">
     <display-name lang="vi">HTV3</display-name> 
@@ -192,12 +192,12 @@
 <channel id="htvkey">
     <display-name lang="vi">HTV Key</display-name> 
     <display-number>39</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvkey.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvkey.jpg" />
 </channel> 
 <channel id="htv5">
     <display-name lang="vi">HTV5 Bchannel</display-name> 
     <display-number>40</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htv5.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htv5.jpg" />
 </channel> 
 <channel id="htv7hd">
     <display-name lang="vi">HTV7 HD</display-name> 
@@ -207,7 +207,7 @@
 <channel id="htv9hd">
     <display-name lang="vi">HTV9 HD</display-name> 
     <display-number>42</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv9hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htv9hd.jpg" />
 </channel> 
 <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao HD</display-name> 
@@ -217,37 +217,37 @@
 <channel id="htvcphimhd">
     <display-name lang="vi">HTVC Phim HD</display-name> 
     <display-number>44</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcphimhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcphimhd.jpg" />
 </channel> 
 <channel id="htvcthuanviethd">
     <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
     <display-number>45</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcthuanviethd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcthuanviethd.jpg" />
 </channel> 
 <channel id="htvcgiadinhhd">
     <display-name lang="vi">HTVC Gia Đình HD</display-name> 
     <display-number>46</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcphunuhd">
     <display-name lang="vi">HTVC Phụ Nữ HD</display-name> 
     <display-number>47</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch HD</display-name> 
     <display-number>48</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/htvcdulichhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcdulichhd.jpg" />
 </channel> 
 <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
     <display-number>49</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvccanhachd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvccanhachd.jpg" />
 </channel> 
 <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus HD</display-name> 
     <display-number>50</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcplushd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcplushd.jpg" />
 </channel> 
 <channel id="sctv1hd">
     <display-name lang="vi">SCTV1 HD</display-name> 
@@ -267,12 +267,12 @@
 <channel id="sctv4hd">
     <display-name lang="vi">SCTV4 HD</display-name> 
     <display-number>54</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv4hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv4hd.png" />
 </channel> 
 <channel id="sctv6hd">
     <display-name lang="vi">SCTV6 HD</display-name> 
     <display-number>55</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv6hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv6hd.png" />
 </channel> 
 <channel id="sctv7hd">
     <display-name lang="vi">SCTV7 HD</display-name> 
@@ -282,37 +282,37 @@
 <channel id="sctv8hd">
     <display-name lang="vi">SCTV8 HD</display-name> 
     <display-number>57</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv8hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv8hd.png" />
 </channel> 
 <channel id="sctv9hd">
     <display-name lang="vi">SCTV9 HD</display-name> 
     <display-number>58</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv9hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv9hd.png" />
 </channel> 
 <channel id="sctv11hd">
     <display-name lang="vi">SCTV11 HD</display-name> 
     <display-number>59</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv11hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv11hd.png" />
 </channel> 
 <channel id="sctv12hd">
     <display-name lang="vi">SCTV12 HD</display-name> 
     <display-number>60</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv12hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv12hd.png" />
 </channel> 
 <channel id="sctv13hd">
     <display-name lang="vi">SCTV13 HD</display-name> 
     <display-number>61</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv13hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv13hd.png" />
 </channel> 
 <channel id="sctv14hd">
     <display-name lang="vi">SCTV14 HD</display-name> 
     <display-number>62</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv14hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv14hd.png" />
 </channel> 
 <channel id="sctv15hd">
     <display-name lang="vi">SCTV15 HD</display-name> 
     <display-number>63</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv15hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv15hd.png" />
 </channel> 
 <channel id="sctv16hd">
     <display-name lang="vi">SCTV16 HD</display-name> 
@@ -322,42 +322,42 @@
 <channel id="sctv17hd">
     <display-name lang="vi">SCTV17 HD</display-name> 
     <display-number>65</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv17hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv17hd.png" />
 </channel> 
 <channel id="sctv18hd">
     <display-name lang="vi">SCTV18 HD</display-name> 
     <display-number>66</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv18hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv18hd.png" />
 </channel> 
 <channel id="sctv19hd">
     <display-name lang="vi">SCTV19 HD</display-name> 
     <display-number>67</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv19hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv19hd.png" />
 </channel> 
 <channel id="sctv20hd">
     <display-name lang="vi">SCTV20 HD</display-name> 
     <display-number>68</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv20hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv20hd.png" />
 </channel> 
 <channel id="sctv21hd">
     <display-name lang="vi">SCTV21 HD</display-name> 
     <display-number>69</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv21hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv21hd.jpg" />
 </channel> 
 <channel id="sctv22hd">
     <display-name lang="vi">SCTV22 HD</display-name> 
     <display-number>70</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv22hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv22hd.png" />
 </channel> 
 <channel id="sctvhdpth">
     <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
     <display-number>71</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctvhdpth.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctvhdpth.png" />
 </channel> 
 <channel id="sctv4k">
     <display-name lang="vi">SCTV 4K</display-name> 
     <display-number>72</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv4k.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv4k.jpg" />
 </channel> 
 <channel id="axnhd">
     <display-name lang="vi">AXN HD</display-name> 
@@ -377,57 +377,57 @@
 <channel id="warnertvhd">
     <display-name lang="vi">Warner TV HD</display-name> 
     <display-number>76</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/warnertvhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/warnertvhd.jpg" />
 </channel> 
 <channel id="cinemaworldhd">
     <display-name lang="vi">Cinema World HD</display-name> 
     <display-number>77</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cinemaworldhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cinemaworldhd.jpg" />
 </channel> 
 <channel id="animalhd">
     <display-name lang="vi">Animal Planet HD</display-name> 
     <display-number>78</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/animalhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/animalhd.jpg" />
 </channel> 
 <channel id="bbcearth">
     <display-name lang="vi">BBC Earth</display-name> 
     <display-number>79</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/bbcearth.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/bbcearth.jpg" />
 </channel> 
 <channel id="bbclifestyle">
     <display-name lang="vi">BBC Life Style</display-name> 
     <display-number>80</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/bbclifestyle.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/bbclifestyle.jpg" />
 </channel> 
 <channel id="bbcworldnews">
     <display-name lang="vi">BBC World News</display-name> 
     <display-number>81</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/bbcnews.png" />
+    <icon src="http://image3.blaosolar.vn/logo/bbcnews.png" />
 </channel> 
 <channel id="dmax">
     <display-name lang="vi">Dmax</display-name> 
     <display-number>82</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dmax.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dmax.jpg" />
 </channel> 
 <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia HD</display-name> 
     <display-number>83</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/discoveryasiahd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/discoveryasiahd.jpg" />
 </channel> 
 <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel HD</display-name> 
     <display-number>84</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/discoveryhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/discoveryhd.jpg" />
 </channel> 
 <channel id="tlchd">
     <display-name lang="vi">Travel &amp; Living HD</display-name> 
     <display-number>85</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tlc.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/tlc.jpg" />
 </channel> 
 <channel id="cbeebies">
     <display-name lang="vi">Cbeebies</display-name> 
     <display-number>86</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cbeebies.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cbeebies.jpg" />
 </channel> 
 <channel id="davinci">
     <display-name lang="vi">DaVinci HD</display-name> 
@@ -437,17 +437,17 @@
 <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network HD</display-name> 
     <display-number>88</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cartoonhd.jpg" />
 </channel> 
 <channel id="cartoonito">
     <display-name lang="vi">Cartoonito</display-name> 
     <display-number>89</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonito.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cartoonito.jpg" />
 </channel> 
 <channel id="fashionhd">
     <display-name lang="vi">Fashion TV HD</display-name> 
     <display-number>90</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/fashionhd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/fashionhd.png" />
 </channel> 
 <channel id="afnhd">
     <display-name lang="vi">AFN HD</display-name> 
@@ -457,12 +457,12 @@
 <channel id="kbsworld">
     <display-name lang="vi">KBS World</display-name> 
     <display-number>92</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/kbsworld.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/kbsworld.jpg" />
 </channel> 
 <channel id="outdoorhd">
     <display-name lang="vi">Outdoor Channel HD</display-name> 
     <display-number>93</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/outdoorhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/outdoorhd.jpg" />
 </channel> 
 <channel id="boxmovie1">
     <display-name lang="vi">Box Movie 1</display-name> 
@@ -472,22 +472,22 @@
 <channel id="hollywoodclassics">
     <display-name lang="vi">Hollywood Classics</display-name> 
     <display-number>95</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hollywoodclassics.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/hollywoodclassics.jpg" />
 </channel> 
 <channel id="woman">
     <display-name lang="vi">Woman HD</display-name> 
     <display-number>96</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/woman.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/woman.jpg" />
 </channel> 
 <channel id="boxhits">
     <display-name lang="vi">Box Hits HD</display-name> 
     <display-number>97</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/boxhits.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/boxhits.jpg" />
 </channel> 
 <channel id="musicbox">
     <display-name lang="vi">Music Box HD</display-name> 
     <display-number>98</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/musicbox.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/musicbox.jpg" />
 </channel> 
 <channel id="happykids">
     <display-name lang="vi">Happy Kids HD</display-name> 
@@ -497,72 +497,72 @@
 <channel id="dreamworks">
     <display-name lang="vi">Dreamworks HD</display-name> 
     <display-number>100</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dreamworks.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/dreamworks.jpg" />
 </channel> 
 <channel id="historyhd">
     <display-name lang="vi">History HD</display-name> 
     <display-number>101</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/historyhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/historyhd.jpg" />
 </channel> 
 <channel id="kix">
     <display-name lang="vi">Kix HD</display-name> 
     <display-number>102</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/kix.png" />
+    <icon src="http://image2.blaosolar.vn/logo/kix.png" />
 </channel> 
 <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name> 
     <display-number>103</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/hgtv.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/hgtv.jpg" />
 </channel> 
 <channel id="dw">
     <display-name lang="vi">DW HD</display-name> 
     <display-number>104</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dw.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/dw.jpg" />
 </channel> 
 <channel id="abcaustralia">
     <display-name lang="vi">ABC Australia</display-name> 
     <display-number>105</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/abcaustralia.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/abcaustralia.jpg" />
 </channel> 
 <channel id="arirang">
     <display-name lang="vi">Arirang</display-name> 
     <display-number>106</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/arirang.png" />
+    <icon src="http://image1.blaosolar.vn/logo/arirang.png" />
 </channel> 
 <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name> 
     <display-number>107</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bloomberg.png" />
+    <icon src="http://image1.blaosolar.vn/logo/bloomberg.png" />
 </channel> 
 <channel id="cnn">
     <display-name lang="vi">CNN</display-name> 
     <display-number>108</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cnn.png" />
+    <icon src="http://image2.blaosolar.vn/logo/cnn.png" />
 </channel> 
 <channel id="cna">
     <display-name lang="vi">Channel News Asia</display-name> 
     <display-number>109</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cna.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cna.jpg" />
 </channel> 
 <channel id="cnbc">
     <display-name lang="vi">CNBC</display-name> 
     <display-number>110</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cnbc.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cnbc.jpg" />
 </channel> 
 <channel id="nhkworld">
     <display-name lang="vi">NHK World</display-name> 
     <display-number>111</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/nhkworld.png" />
+    <icon src="http://image4.blaosolar.vn/logo/nhkworld.png" />
 </channel> 
 <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name> 
     <display-number>112</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/france24eng.png" />
+    <icon src="http://image2.blaosolar.vn/logo/france24eng.png" />
 </channel> 
 <channel id="tv5monde">
     <display-name lang="vi">TV5 Monde</display-name> 
     <display-number>113</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/tv5monde.png" />
+    <icon src="http://image1.blaosolar.vn/logo/tv5monde.png" />
 </channel> 
 <channel id="spotv1">
     <display-name lang="vi">SPOTV1 HD</display-name> 
@@ -572,27 +572,27 @@
 <channel id="spotv2">
     <display-name lang="vi">SPOTV2 HD</display-name> 
     <display-number>115</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/spotv2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/spotv2.jpg" />
 </channel> 
 <channel id="anvienhd">
     <display-name lang="vi">An Viên HD</display-name> 
     <display-number>116</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/anvien.png" />
+    <icon src="http://image2.blaosolar.vn/logo/anvien.png" />
 </channel> 
 <channel id="angiang1">
     <display-name lang="vi">An Giang 1</display-name> 
     <display-number>117</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/angiang1.png" />
 </channel> 
 <channel id="angiang2">
     <display-name lang="vi">An Giang 2</display-name> 
     <display-number>118</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/angiang2.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/angiang2.jpg" />
 </channel> 
 <channel id="angiang3">
     <display-name lang="vi">An Giang 3</display-name> 
     <display-number>119</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/angiang3.png" />
 </channel> 
 <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name> 
@@ -607,32 +607,32 @@
 <channel id="cantho1">
     <display-name lang="vi">Cần Thơ 1</display-name> 
     <display-number>122</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cantho1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cantho1.jpg" />
 </channel> 
 <channel id="cantho2">
     <display-name lang="vi">Cần Thơ 2</display-name> 
     <display-number>123</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/cantho2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/cantho2.png" />
 </channel> 
 <channel id="cantho3">
     <display-name lang="vi">Cần Thơ 3</display-name> 
     <display-number>124</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cantho3.png" />
+    <icon src="http://image2.blaosolar.vn/logo/cantho3.png" />
 </channel> 
 <channel id="caobang">
     <display-name lang="vi">Cao Bằng</display-name> 
     <display-number>125</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/caobang.png" />
+    <icon src="http://image3.blaosolar.vn/logo/caobang.png" />
 </channel> 
 <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name> 
     <display-number>126</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/danang1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/danang1.png" />
 </channel> 
 <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name> 
     <display-number>127</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/danang2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/danang2.png" />
 </channel> 
 <channel id="daklak">
     <display-name lang="vi">Đắk Lắk</display-name> 
@@ -642,22 +642,22 @@
 <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name> 
     <display-number>129</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dienbien.png" />
+    <icon src="http://image4.blaosolar.vn/logo/dienbien.png" />
 </channel> 
 <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name> 
     <display-number>130</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongnai1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/dongnai1.png" />
 </channel> 
 <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name> 
     <display-number>131</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongnai2.png" />
+    <icon src="http://image3.blaosolar.vn/logo/dongnai2.png" />
 </channel> 
 <channel id="dongthap1">
     <display-name lang="vi">Đồng Tháp 1</display-name> 
     <display-number>132</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongthap1.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/dongthap1.jpg" />
 </channel> 
 <channel id="dongthap2">
     <display-name lang="vi">Đồng Tháp 2</display-name> 
@@ -672,12 +672,12 @@
 <channel id="hanoi1">
     <display-name lang="vi">Hà Nội 1</display-name> 
     <display-number>135</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hanoi1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hanoi1.png" />
 </channel> 
 <channel id="hanoi2">
     <display-name lang="vi">Hà Nội 2</display-name> 
     <display-number>136</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hanoi2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hanoi2.png" />
 </channel> 
 <channel id="hatinh">
     <display-name lang="vi">Hà Tĩnh</display-name> 
@@ -692,7 +692,7 @@
 <channel id="haiphong3">
     <display-name lang="vi">Hải Phòng 3</display-name> 
     <display-number>139</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/haiphong3.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/haiphong3.jpg" />
 </channel> 
 <channel id="hue">
     <display-name lang="vi">Huế</display-name> 
@@ -702,92 +702,92 @@
 <channel id="hungyen">
     <display-name lang="vi">Hưng Yên</display-name> 
     <display-number>141</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/hungyen.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hungyen.png" />
 </channel> 
 <channel id="tuyenquang">
     <display-name lang="vi">Tuyên Quang</display-name> 
     <display-number>142</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tuyenquang.png" />
+    <icon src="http://image4.blaosolar.vn/logo/tuyenquang.png" />
 </channel> 
 <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name> 
     <display-number>143</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/khanhhoa.png" />
+    <icon src="http://image2.blaosolar.vn/logo/khanhhoa.png" />
 </channel> 
 <channel id="khanhhoa1">
     <display-name lang="vi">Khánh Hòa 1</display-name> 
     <display-number>144</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/khanhhoa1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/khanhhoa1.jpg" />
 </channel> 
 <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name> 
     <display-number>145</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/laichau.png" />
+    <icon src="http://image1.blaosolar.vn/logo/laichau.png" />
 </channel> 
 <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name> 
     <display-number>146</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/laocai.png" />
+    <icon src="http://image4.blaosolar.vn/logo/laocai.png" />
 </channel> 
 <channel id="lamdong1">
     <display-name lang="vi">Lâm Đồng 1</display-name> 
     <display-number>147</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/lamdong1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/lamdong1.jpg" />
 </channel> 
 <channel id="lamdong2">
     <display-name lang="vi">Lâm Đồng 2</display-name> 
     <display-number>148</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/lamdong2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/lamdong2.jpg" />
 </channel> 
 <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name> 
     <display-number>149</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/langson.png" />
+    <icon src="http://image3.blaosolar.vn/logo/langson.png" />
 </channel> 
 <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name> 
     <display-number>150</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/nghean.png" />
+    <icon src="http://image2.blaosolar.vn/logo/nghean.png" />
 </channel> 
 <channel id="ninhbinh">
     <display-name lang="vi">Ninh Bình</display-name> 
     <display-number>151</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/ninhbinh.png" />
+    <icon src="http://image3.blaosolar.vn/logo/ninhbinh.png" />
 </channel> 
 <channel id="phutho">
     <display-name lang="vi">Phú Thọ</display-name> 
     <display-number>152</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/phutho.png" />
+    <icon src="http://image4.blaosolar.vn/logo/phutho.png" />
 </channel> 
 <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name> 
     <display-number>153</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangngai.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/quangngai.jpg" />
 </channel> 
 <channel id="quangngai2">
     <display-name lang="vi">Quảng Ngãi 2</display-name> 
     <display-number>154</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangngai2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/quangngai2.png" />
 </channel> 
 <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name> 
     <display-number>155</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/quangninh1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/quangninh1.png" />
 </channel> 
 <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name> 
     <display-number>156</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/quangninh3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/quangninh3.png" />
 </channel> 
 <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name> 
     <display-number>157</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/quangtri.webp" />
+    <icon src="http://image1.blaosolar.vn/logo/quangtri.webp" />
 </channel> 
 <channel id="sonla">
     <display-name lang="vi">Sơn La</display-name> 
     <display-number>158</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sonla.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sonla.png" />
 </channel> 
 <channel id="tayninh1">
     <display-name lang="vi">Tây Ninh 1</display-name> 
@@ -802,7 +802,7 @@
 <channel id="thanhhoa">
     <display-name lang="vi">Thanh Hóa</display-name> 
     <display-number>161</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/thanhhoa.png" />
+    <icon src="http://image4.blaosolar.vn/logo/thanhhoa.png" />
 </channel> 
 <channel id="vinhlong1hd">
     <display-name lang="vi">Vĩnh Long 1 HD</display-name> 
@@ -812,12 +812,12 @@
 <channel id="vinhlong2hd">
     <display-name lang="vi">Vĩnh Long 2 HD</display-name> 
     <display-number>163</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vinhlong2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong2hd.jpg" />
 </channel> 
 <channel id="vinhlong3hd">
     <display-name lang="vi">Vĩnh Long 3 HD</display-name> 
     <display-number>164</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vinhlong3hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong3hd.jpg" />
 </channel> 
 <channel id="vinhlong4hd">
     <display-name lang="vi">Vĩnh Long 4 HD</display-name> 
@@ -827,7 +827,7 @@
 <channel id="vinhlong5hd">
     <display-name lang="vi">Vĩnh Long 5 HD</display-name> 
     <display-number>166</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vinhlong5hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/vinhlong5hd.jpg" />
 </channel> 
 <channel id="360c1">
     <display-name lang="vi">TV360 C1 Châu Âu</display-name> 
@@ -837,12 +837,12 @@
 <channel id="360c2">
     <display-name lang="vi">TV360 C2 Châu Âu</display-name> 
     <display-number>168</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360c2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360c2.jpg" />
 </channel> 
 <channel id="360c3">
     <display-name lang="vi">TV360 C3 Châu Âu</display-name> 
     <display-number>169</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360c3.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360c3.jpg" />
 </channel> 
 <channel id="360thethaochaua">
     <display-name lang="vi">TV360 Thể Thao Châu Á</display-name> 
@@ -852,7 +852,7 @@
 <channel id="360congthuc1">
     <display-name lang="vi">TV360 Công Thức 1</display-name> 
     <display-number>171</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360congthuc1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360congthuc1.jpg" />
 </channel> 
 <channel id="360bundesliga">
     <display-name lang="vi">TV360 Bundesliga</display-name> 
@@ -872,32 +872,32 @@
 <channel id="360phimviet">
     <display-name lang="vi">TV360 Phim Việt</display-name> 
     <display-number>175</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360phimviet.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimviet.jpg" />
 </channel> 
 <channel id="360phimaumy">
     <display-name lang="vi">TV360 Phim Âu Mỹ</display-name> 
     <display-number>176</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360phimaumy.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360phimaumy.jpg" />
 </channel> 
 <channel id="360hoathinh">
     <display-name lang="vi">TV360 Hoạt Hình</display-name> 
     <display-number>177</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360hoathinh.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360hoathinh.jpg" />
 </channel> 
 <channel id="360phimhoangu">
     <display-name lang="vi">TV360 Phim Hoa Ngữ</display-name> 
     <display-number>178</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimhoangu.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360phimhoangu.jpg" />
 </channel> 
 <channel id="360hanhdongchaua">
     <display-name lang="vi">TV360 Hành Động Châu Á</display-name> 
     <display-number>179</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360hanhdongchaua.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360hanhdongchaua.jpg" />
 </channel> 
 <channel id="360kdrama">
     <display-name lang="vi">TV360 K-Drama</display-name> 
     <display-number>180</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360kdrama.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360kdrama.jpg" />
 </channel> 
 <channel id="360haitinhcam">
     <display-name lang="vi">TV360 Hài - Tình Cảm</display-name> 
@@ -907,12 +907,12 @@
 <channel id="360phimkinhdien">
     <display-name lang="vi">TV360 Phim Kinh Điển</display-name> 
     <display-number>182</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360phimkinhdien.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360phimkinhdien.jpg" />
 </channel> 
 <channel id="360anime">
     <display-name lang="vi">TV360 Anime</display-name> 
     <display-number>183</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360anime.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360anime.jpg" />
 </channel> 
 <programme channel="vtv1hd" channel-number="1" start="20261028000038 +0700" stop="20261028003038 +0700">
     <title lang="vi">PHIM TRUYỆN: NHỮNG NHÂN VIÊN GƯƠNG MẪU - TẬP 34</title> 
@@ -46038,6 +46038,258 @@
     <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
     <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
     <icon src="https://image4.blaosolar.vn/50e5a42ea50caed6119b4fa73dbf0f67/1793207916/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030002000 +0700" stop="20261030005000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/5a945f1b46562ed5b2f18ca4b67df047/1793236644/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030005000 +0700" stop="20261030014500 +0700">
+    <title lang="vi">A SWEET TASTE OF ART - S1 - NGHỆ THUẬT LÀM MÓN TRÁNG MIỆNG (MÙA 1)</title> 
+    <desc lang="vi">Sự khéo léo của món tráng miệng Nhật Bản thật nổi bật. Wagashi là món tráng miệng truyền thống của Nhật Bản và cũng là biểu tượng của văn hóa.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/adaed10f21e6f1021eca82b31f7207aa/1793236644/schedule/afnhd/asweettasteofarts1nghethuatlammontrangmiengmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030014500 +0700" stop="20261030021000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/ff868be1964655063f674d5c0c417bfa/1793236644/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030021000 +0700" stop="20261030024000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/ff868be1964655063f674d5c0c417bfa/1793236644/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030024000 +0700" stop="20261030030500 +0700">
+    <title lang="vi">THE CHOCOLATE QUEEN - S6 - NỮ HOÀNG SÔCÔLA (MÙA 6)</title> 
+    <desc lang="vi">Hãy sẵn sàng cho một mùa giải hấp dẫn khác của Nữ hoàng sô cô la, bởi vì Kirsten Tibballs đã trở lại với nhiều sáng tạo sô cô la không thể cưỡng lại!</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/9ae628722c258eed4f4648c01f5d1421/1793236644/schedule/afnhd/thechocolatequeens6nuhoangsocolamua6.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030030500 +0700" stop="20261030033500 +0700">
+    <title lang="vi">THE CHOCOLATE QUEEN - S6 - NỮ HOÀNG SÔCÔLA (MÙA 6)</title> 
+    <desc lang="vi">Hãy sẵn sàng cho một mùa giải hấp dẫn khác của Nữ hoàng sô cô la, bởi vì Kirsten Tibballs đã trở lại với nhiều sáng tạo sô cô la không thể cưỡng lại!</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/9ae628722c258eed4f4648c01f5d1421/1793236644/schedule/afnhd/thechocolatequeens6nuhoangsocolamua6.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030033500 +0700" stop="20261030043000 +0700">
+    <title lang="vi">A SWEET TASTE OF ART - S1 - NGHỆ THUẬT LÀM MÓN TRÁNG MIỆNG (MÙA 1)</title> 
+    <desc lang="vi">Sự khéo léo của món tráng miệng Nhật Bản thật nổi bật. Wagashi là món tráng miệng truyền thống của Nhật Bản và cũng là biểu tượng của văn hóa.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/adaed10f21e6f1021eca82b31f7207aa/1793236644/schedule/afnhd/asweettasteofarts1nghethuatlammontrangmiengmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030043000 +0700" stop="20261030050000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/ff868be1964655063f674d5c0c417bfa/1793236644/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030050000 +0700" stop="20261030052500 +0700">
+    <title lang="vi">FRENCH GOURMET WITH JUSTINE SCHOFIELD - S1 - MÓN PHÁP TUYỆT HẢO (MÙA 1)</title> 
+    <desc lang="vi">Bắt tay vào cuộc phiêu lưu ẩm thực xuyên miền Nam nước Pháp với đầu bếp nổi tiếng Justine Scholfield trong 'Người sành ăn Pháp'.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/71e172a5d8e47238e5bd1f3810d19ce0/1793236644/schedule/afnhd/frenchgourmetwithjustineschofields1monphaptuyethaomua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030052500 +0700" stop="20261030055000 +0700">
+    <title lang="vi">FRENCH GOURMET WITH JUSTINE SCHOFIELD - S1 - MÓN PHÁP TUYỆT HẢO (MÙA 1)</title> 
+    <desc lang="vi">Bắt tay vào cuộc phiêu lưu ẩm thực xuyên miền Nam nước Pháp với đầu bếp nổi tiếng Justine Scholfield trong 'Người sành ăn Pháp'.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/71e172a5d8e47238e5bd1f3810d19ce0/1793236644/schedule/afnhd/frenchgourmetwithjustineschofields1monphaptuyethaomua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030055000 +0700" stop="20261030061500 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030061500 +0700" stop="20261030064500 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030064500 +0700" stop="20261030071000 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/8cd68e2633f94fea4fe34c99e823a425/1793236644/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030071000 +0700" stop="20261030074000 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/8cd68e2633f94fea4fe34c99e823a425/1793236644/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030074000 +0700" stop="20261030083500 +0700">
+    <title lang="vi">MAKAN ON WHEELS - S1 - VI VU KHÁM PHÁ ẨM THỰC (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Bryan, Herman và Đầu bếp Melvyn bắt đầu chuyến đi đến Malaysia trên xe bán đồ ăn để trao đổi ẩm thực giữa Singapore và Malaysia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/176e2ec922c93ecd105689810edfd72b/1793236644/schedule/afnhd/makanonwheelss1vivukhamphaamthucmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030083500 +0700" stop="20261030090000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/39b7307189f2faf07e54ee719db63e41/1793236644/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030090000 +0700" stop="20261030093000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/39b7307189f2faf07e54ee719db63e41/1793236644/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030093000 +0700" stop="20261030095500 +0700">
+    <title lang="vi">COOKING WITH CHOI - S1 - NẤU ĂN CÙNG CHOI (MÙA 1)</title> 
+    <desc lang="vi">Esther Choi dạy cách làm hai loại kim chi và chia sẻ công thức làm kim chi, bao gồm cơm chiên kim chi và bì bụng heo Hàn Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/9779a503f4cd63358c76d547eeb9ac74/1793236644/schedule/afnhd/cookingwithchois1nauancungchoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030095500 +0700" stop="20261030102500 +0700">
+    <title lang="vi">SECRETS OF THE CURRY KITCHEN - S1 - BÍ MẬT CĂN BẾP CÀ RI (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Asma Khan tôn vinh việc là một người kiên nhẫn nấu món kosha mangsho nấu chậm, món bhuna vịt thần thánh, món paratha nhân rau củ và một món tráng miệng lạ thường.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/f06565e2f63ab1629c52eb8bd32c5ab8/1793236644/schedule/afnhd/secretsofthecurrykitchens1bimatcanbepcarimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030102500 +0700" stop="20261030105000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/5a945f1b46562ed5b2f18ca4b67df047/1793236644/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030105000 +0700" stop="20261030112000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/5a945f1b46562ed5b2f18ca4b67df047/1793236644/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030112000 +0700" stop="20261030114500 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030114500 +0700" stop="20261030121500 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030121500 +0700" stop="20261030124000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/ff868be1964655063f674d5c0c417bfa/1793236644/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030124000 +0700" stop="20261030131000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/ff868be1964655063f674d5c0c417bfa/1793236644/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030131000 +0700" stop="20261030140500 +0700">
+    <title lang="vi">A SWEET TASTE OF ART - S1 - NGHỆ THUẬT LÀM MÓN TRÁNG MIỆNG (MÙA 1)</title> 
+    <desc lang="vi">Sự khéo léo của món tráng miệng Nhật Bản thật nổi bật. Wagashi là món tráng miệng truyền thống của Nhật Bản và cũng là biểu tượng của văn hóa.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/adaed10f21e6f1021eca82b31f7207aa/1793236644/schedule/afnhd/asweettasteofarts1nghethuatlammontrangmiengmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030140500 +0700" stop="20261030150000 +0700">
+    <title lang="vi">MAKAN ON WHEELS - S1 - VI VU KHÁM PHÁ ẨM THỰC (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Bryan, Herman và Đầu bếp Melvyn bắt đầu chuyến đi đến Malaysia trên xe bán đồ ăn để trao đổi ẩm thực giữa Singapore và Malaysia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/176e2ec922c93ecd105689810edfd72b/1793236644/schedule/afnhd/makanonwheelss1vivukhamphaamthucmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030150000 +0700" stop="20261030153000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/39b7307189f2faf07e54ee719db63e41/1793236644/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030153000 +0700" stop="20261030160000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/39b7307189f2faf07e54ee719db63e41/1793236644/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030160000 +0700" stop="20261030170000 +0700">
+    <title lang="vi">JEREMY PANG'S HONG KONG KITCHEN - S1 - JEREMY PANG KHÁM PHÁ XỨ CẢNG THƠM (MÙA 1)</title> 
+    <desc lang="vi">Jeremy bắt đầu chuyến du lịch ẩm thực tới Hồng Kông cùng người bạn tốt Mel Giedroyc. Họ nấu một món ăn gây bão trong bếp với món bánh pudding sữa hấp gừng.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/dc1d943b0da8f7843929c17d9be6766c/1793236644/schedule/afnhd/jeremypangshongkongkitchens1jeremypangkhamphaxucangthommua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030170000 +0700" stop="20261030180000 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/d14573888cfcb7922820d5cf4eb028f1/1793236644/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030180000 +0700" stop="20261030183000 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030183000 +0700" stop="20261030190000 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030190000 +0700" stop="20261030193000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/5a945f1b46562ed5b2f18ca4b67df047/1793236644/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030193000 +0700" stop="20261030200000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/5a945f1b46562ed5b2f18ca4b67df047/1793236644/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030200000 +0700" stop="20261030210000 +0700">
+    <title lang="vi">A TASTE OF FESTIVAL - S1 - HƯƠNG VỊ LỄ HỘI (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Pornsak giới thiệu các món ăn Tết Nguyên Đán của người Triều Châu và Khách Gia và học cách nấu các món ăn đó.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/8f1db914d38537c0e9c89da3a8f451f4/1793236644/schedule/afnhd/atasteoffestivals1huongvilehoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030210000 +0700" stop="20261030213000 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/8cd68e2633f94fea4fe34c99e823a425/1793236644/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030213000 +0700" stop="20261030220000 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/8cd68e2633f94fea4fe34c99e823a425/1793236644/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030220000 +0700" stop="20261030223000 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030223000 +0700" stop="20261030230000 +0700">
+    <title lang="vi">JASON TASTES ASIA - S1 - JASON KHÁM PHÁ CHÂU Á (MÙA 1)</title> 
+    <desc lang="vi">Jason sớm phát hiện ra rằng nhiều món ngon địa phương của Việt Nam phản ánh ảnh hưởng của Trung Quốc và bắt đầu so sánh Bánh Chang với món Zongzi tương tự của Trung Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/85507eea84cc1156ff4fa64791a6348e/1793236644/schedule/afnhd/jasontastesasias1jasonkhamphachauamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030230000 +0700" stop="20261030235500 +0700">
+    <title lang="vi">LOVE IN A POT - S1 - QUÂY QUẦN BÊN BẾP LẨU (MÙA 1)</title> 
+    <desc lang="vi">Lyu Linxuan mời các diễn viên Jeremy Chan và Zong Zijie tham gia thử thách ăn lẩu Trùng Khánh ở Singapore.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/44352a8b319901beb252ec64d9325139/1793236644/schedule/afnhd/loveinapots1quayquanbenbeplaumua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261030235500 +0700" stop="20261031000000 +0700">
+    <title lang="vi">FRENCH GOURMET WITH JUSTINE SCHOFIELD - S1 - MÓN PHÁP TUYỆT HẢO (MÙA 1)</title> 
+    <desc lang="vi">Bắt tay vào cuộc phiêu lưu ẩm thực xuyên miền Nam nước Pháp với đầu bếp nổi tiếng Justine Scholfield trong 'Người sành ăn Pháp'.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/71e172a5d8e47238e5bd1f3810d19ce0/1793236644/schedule/afnhd/frenchgourmetwithjustineschofields1monphaptuyethaomua1.webp" />
 </programme> 
 <programme channel="kbsworld" channel-number="92" start="20261028000000 +0700" stop="20261028013000 +0700">
     <title lang="vi">IMMORTAL SONGS</title> 
@@ -97530,10 +97782,25 @@
     <desc>A personal clash between Asher and Archer reaches a breaking point.</desc>
     <date>2026-10-30</date>
   </programme>
-  <programme channel="369719" start="20261030214500 +0700" stop="20261031000000 +0700">
+  <programme channel="369719" start="20261030214500 +0700" stop="20261030223000 +0700">
     <title lang="zh">Chicago Med S11</title>
     <desc>Secrets are uncovered when Goodwin's family comes together for Bert. Ripley and Frost treat two children stung by hornets in a treehouse.</desc>
     <date>2026-10-30</date>
+  </programme>
+  <programme channel="369719" start="20261030223000 +0700" stop="20261030231500 +0700">
+    <title lang="zh">Chicago Med S11</title>
+    <desc>Charles grows increasingly suspicious of a colleague's intentions. Lenox crosses a line to protect a patient.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369719" start="20261030231500 +0700" stop="20261031000000 +0700">
+    <title lang="zh">Chicago Med S11</title>
+    <desc>The doctors deal with the professional and personal fallout from the choices made during a power outage.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369719" start="20261031000000 +0700" stop="20261101000000 +0700">
+    <title lang="zh">Chicago Med S11</title>
+    <desc>Tensions spike when a road-rage incident sends three patients into the E.D. Frost's former television co-star resurfaces.</desc>
+    <date>2026-10-31</date>
   </programme>
 <channel id="517640">
     <display-name lang="Malaysia">Rock Action</display-name>
@@ -98709,9 +98976,19 @@
     <desc>Set in the mythical world of burly Vikings and wild dragons, a Viking teenager's world is turned upside down when he is challenged by an unusual dragon.</desc>
     <date>2026-10-30</date>
   </programme>
-  <programme channel="369840" start="20261030193000 +0700" stop="20261031000000 +0700">
+  <programme channel="369840" start="20261030193000 +0700" stop="20261030220000 +0700">
     <title lang="zh">TRANSFORMERS: THE LAST KNIGHT</title>
     <desc>The world's greatest hero becomes the fiercest enemy when Optimus Prime launches a mission to save Cybertron by destroying Earth.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369840" start="20261030220000 +0700" stop="20261030235500 +0700">
+    <title lang="zh">ROCKETMAN</title>
+    <desc>A shy, small-town boy becomes one of the most iconic figures in rock &amp; roll we all know as Elton John.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369840" start="20261030235500 +0700" stop="20261031000000 +0700">
+    <title lang="zh">WANTED</title>
+    <desc>A clerk with no future finds his world tossed upside down after he joins a secret group of assassins when he discovers he has special powers.</desc>
     <date>2026-10-30</date>
   </programme>
 <channel id="369786">
@@ -99168,9 +99445,14 @@
     <desc>Scooby and the gang face their biggest, most challenging mystery ever, a plot to unleash the ghost dog Cerberus upon the world.</desc>
     <date>2026-10-30</date>
   </programme>
-  <programme channel="369786" start="20261030193500 +0700" stop="20261031000000 +0700">
+  <programme channel="369786" start="20261030193500 +0700" stop="20261030220500 +0700">
     <title lang="zh">HARRY POTTER AND THE SORCERER'S STONE</title>
     <desc>Harry Potter learns that he is the orphaned son of two powerful wizards and possesses magical powers.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369786" start="20261030220500 +0700" stop="20261031000000 +0700">
+    <title lang="zh">SUPERMAN</title>
+    <desc>This star-packed extravaganza brings the comic book legend to the big screen where an infant superhero is sent to Earth just as his home planet, Krypton, explodes.</desc>
     <date>2026-10-30</date>
   </programme>
 <channel id="369758">
@@ -99337,9 +99619,19 @@
     <desc>As George faces opposition for a new railway plan, Bertha prepares for the Duke's return, and Ada finds purpose in the temperance movement.</desc>
     <date>2026-10-30</date>
   </programme>
-  <programme channel="369758" start="20261030215500 +0700" stop="20261031000000 +0700">
+  <programme channel="369758" start="20261030215500 +0700" stop="20261030225000 +0700">
     <title lang="zh">THE GILDED AGE S3</title>
     <desc>Amid their domestic quibbles, Agnes and Ada welcome the Scotts into their home. Bertha and George disagree about Gladys's future.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369758" start="20261030225000 +0700" stop="20261030235000 +0700">
+    <title lang="zh">THE GILDED AGE S3</title>
+    <desc>While George enters tense negotiations with the Duke, Larry and Jack meet with a potential investor. Later, the Scotts meet the Kirklands.</desc>
+    <date>2026-10-30</date>
+  </programme>
+  <programme channel="369758" start="20261030235000 +0700" stop="20261031000000 +0700">
+    <title lang="zh">THE GILDED AGE S3</title>
+    <desc>Bertha deals with unwanted rumors in the press… and the surprise arrival of her sister Monica.</desc>
     <date>2026-10-30</date>
   </programme>
 <channel id="444724">
