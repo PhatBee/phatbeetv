@@ -2,77 +2,77 @@
 <tv><channel id="vtv1hd">
     <display-name lang="vi">VTV1</display-name> 
     <display-number>1</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv1hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv1hd.jpg" />
 </channel> 
 <channel id="vtv2hd">
     <display-name lang="vi">VTV2</display-name> 
     <display-number>2</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv2hd.jpg" />
 </channel> 
 <channel id="vtv3hd">
     <display-name lang="vi">VTV3</display-name> 
     <display-number>3</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv3hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv3hd.jpg" />
 </channel> 
 <channel id="vtv4hd">
     <display-name lang="vi">VTV4</display-name> 
     <display-number>4</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv4hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv4hd.jpg" />
 </channel> 
 <channel id="vtv5hd">
     <display-name lang="vi">VTV5</display-name> 
     <display-number>5</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv5hd.jpg" />
 </channel> 
 <channel id="vtv6hd">
     <display-name lang="vi">VTV6</display-name> 
     <display-number>6</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vtv6hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv6hd.png" />
 </channel> 
 <channel id="vtv7hd">
     <display-name lang="vi">VTV7</display-name> 
     <display-number>7</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv7hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vtv7hd.jpg" />
 </channel> 
 <channel id="vtv8hd">
     <display-name lang="vi">VTV8</display-name> 
     <display-number>8</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv8hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv8hd.jpg" />
 </channel> 
 <channel id="vtv9hd">
     <display-name lang="vi">VTV9</display-name> 
     <display-number>9</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv9hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv9hd.jpg" />
 </channel> 
 <channel id="vtv10hd">
     <display-name lang="vi">VTV10</display-name> 
     <display-number>10</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vtv10hd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/vtv10hd.jpg" />
 </channel> 
 <channel id="vtv5hdtn">
     <display-name lang="vi">VTV5 - Tây Nguyên</display-name> 
     <display-number>11</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hdtn.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtn.jpg" />
 </channel> 
 <channel id="vtv5hdtnb">
     <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name> 
     <display-number>12</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vtv5hdtnb.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vtv5hdtnb.jpg" />
 </channel> 
 <channel id="vietnamtoday">
     <display-name lang="vi">VIETNAM TODAY</display-name> 
     <display-number>13</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vietnamtoday.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vietnamtoday.jpg" />
 </channel> 
 <channel id="antvhd">
     <display-name lang="vi">ANTV HD</display-name> 
     <display-number>14</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/antv.png" />
+    <icon src="http://image3.blaosolar.vn/logo/antv.png" />
 </channel> 
 <channel id="qpvnhd">
     <display-name lang="vi">QPVN HD</display-name> 
     <display-number>15</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/qpvnhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/qpvnhd.jpg" />
 </channel> 
 <channel id="onviegiaitri">
     <display-name lang="vi">ON Vie Giải Trí</display-name> 
@@ -82,17 +82,17 @@
 <channel id="onphimviet">
     <display-name lang="vi">ON Phim Việt</display-name> 
     <display-number>17</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-phimviet.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-phimviet.jpg" />
 </channel> 
 <channel id="onsports">
     <display-name lang="vi">ON Sports HD</display-name> 
     <display-number>18</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-sports.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-sports.jpg" />
 </channel> 
 <channel id="onmovies">
     <display-name lang="vi">ON Movies</display-name> 
     <display-number>19</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-movies.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-movies.jpg" />
 </channel> 
 <channel id="onechannel">
     <display-name lang="vi">ON Echannel</display-name> 
@@ -102,17 +102,17 @@
 <channel id="onsportsplus">
     <display-name lang="vi">ON Sports+</display-name> 
     <display-number>21</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/on-sportsplus.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-sportsplus.jpg" />
 </channel> 
 <channel id="ono2tv">
     <display-name lang="vi">ON O2TV</display-name> 
     <display-number>22</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-o2tv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/on-o2tv.jpg" />
 </channel> 
 <channel id="onbibi">
     <display-name lang="vi">ON BiBi</display-name> 
     <display-number>23</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-bibi.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-bibi.jpg" />
 </channel> 
 <channel id="oninfotv">
     <display-name lang="vi">ON Info TV</display-name> 
@@ -122,7 +122,7 @@
 <channel id="oncine">
     <display-name lang="vi">ON Cine</display-name> 
     <display-number>25</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-cine.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-cine.jpg" />
 </channel> 
 <channel id="onstyle">
     <display-name lang="vi">On Style</display-name> 
@@ -157,87 +157,87 @@
 <channel id="onvfamily">
     <display-name lang="vi">ON VFamily</display-name> 
     <display-number>32</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-vfamily.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/on-vfamily.jpg" />
 </channel> 
 <channel id="onkids">
     <display-name lang="vi">ON Kids</display-name> 
     <display-number>33</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/on-kids.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-kids.jpg" />
 </channel> 
 <channel id="onlife">
     <display-name lang="vi">ON Life</display-name> 
     <display-number>34</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/on-life.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/on-life.jpg" />
 </channel> 
 <channel id="ongolf">
     <display-name lang="vi">ON Golf</display-name> 
     <display-number>35</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/on-golf.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/on-golf.jpg" />
 </channel> 
 <channel id="htv1">
     <display-name lang="vi">HTV1</display-name> 
     <display-number>36</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htv1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htv1.jpg" />
 </channel> 
 <channel id="htv2hd">
     <display-name lang="vi">HTV2 HD</display-name> 
     <display-number>37</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv2hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htv2hd.jpg" />
 </channel> 
 <channel id="htv3">
     <display-name lang="vi">HTV3</display-name> 
     <display-number>38</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htv3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/htv3.png" />
 </channel> 
 <channel id="htvkey">
     <display-name lang="vi">HTV Key</display-name> 
     <display-number>39</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvkey.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvkey.jpg" />
 </channel> 
 <channel id="htv5">
     <display-name lang="vi">HTV5 Bchannel</display-name> 
     <display-number>40</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htv5.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htv5.jpg" />
 </channel> 
 <channel id="htv7hd">
     <display-name lang="vi">HTV7 HD</display-name> 
     <display-number>41</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htv7hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htv7hd.jpg" />
 </channel> 
 <channel id="htv9hd">
     <display-name lang="vi">HTV9 HD</display-name> 
     <display-number>42</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htv9hd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htv9hd.jpg" />
 </channel> 
 <channel id="htvthethaohd">
     <display-name lang="vi">HTV Thể Thao HD</display-name> 
     <display-number>43</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvthethaohd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvthethaohd.jpg" />
 </channel> 
 <channel id="htvcphimhd">
     <display-name lang="vi">HTVC Phim HD</display-name> 
     <display-number>44</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcphimhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/htvcphimhd.jpg" />
 </channel> 
 <channel id="htvcthuanviethd">
     <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
     <display-number>45</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcthuanviethd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcthuanviethd.jpg" />
 </channel> 
 <channel id="htvcgiadinhhd">
     <display-name lang="vi">HTVC Gia Đình HD</display-name> 
     <display-number>46</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcphunuhd">
     <display-name lang="vi">HTVC Phụ Nữ HD</display-name> 
     <display-number>47</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcphunuhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcphunuhd.jpg" />
 </channel> 
 <channel id="htvcdulichhd">
     <display-name lang="vi">HTVC Du Lịch HD</display-name> 
     <display-number>48</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/htvcdulichhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/htvcdulichhd.jpg" />
 </channel> 
 <channel id="htvccanhachd">
     <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
@@ -247,7 +247,7 @@
 <channel id="htvcplushd">
     <display-name lang="vi">HTVC Plus HD</display-name> 
     <display-number>50</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/htvcplushd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/htvcplushd.jpg" />
 </channel> 
 <channel id="sctv1hd">
     <display-name lang="vi">SCTV1 HD</display-name> 
@@ -257,12 +257,12 @@
 <channel id="sctv2hd">
     <display-name lang="vi">SCTV2 HD</display-name> 
     <display-number>52</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv2hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv2hd.png" />
 </channel> 
 <channel id="sctv3hd">
     <display-name lang="vi">SCTV3 HD</display-name> 
     <display-number>53</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv3hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv3hd.png" />
 </channel> 
 <channel id="sctv4hd">
     <display-name lang="vi">SCTV4 HD</display-name> 
@@ -277,27 +277,27 @@
 <channel id="sctv7hd">
     <display-name lang="vi">SCTV7 HD</display-name> 
     <display-number>56</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv7hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv7hd.png" />
 </channel> 
 <channel id="sctv8hd">
     <display-name lang="vi">SCTV8 HD</display-name> 
     <display-number>57</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv8hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv8hd.png" />
 </channel> 
 <channel id="sctv9hd">
     <display-name lang="vi">SCTV9 HD</display-name> 
     <display-number>58</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv9hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv9hd.png" />
 </channel> 
 <channel id="sctv11hd">
     <display-name lang="vi">SCTV11 HD</display-name> 
     <display-number>59</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv11hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv11hd.png" />
 </channel> 
 <channel id="sctv12hd">
     <display-name lang="vi">SCTV12 HD</display-name> 
     <display-number>60</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv12hd.png" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv12hd.png" />
 </channel> 
 <channel id="sctv13hd">
     <display-name lang="vi">SCTV13 HD</display-name> 
@@ -307,27 +307,27 @@
 <channel id="sctv14hd">
     <display-name lang="vi">SCTV14 HD</display-name> 
     <display-number>62</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv14hd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/sctv14hd.png" />
 </channel> 
 <channel id="sctv15hd">
     <display-name lang="vi">SCTV15 HD</display-name> 
     <display-number>63</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv15hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv15hd.png" />
 </channel> 
 <channel id="sctv16hd">
     <display-name lang="vi">SCTV16 HD</display-name> 
     <display-number>64</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv16hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv16hd.png" />
 </channel> 
 <channel id="sctv17hd">
     <display-name lang="vi">SCTV17 HD</display-name> 
     <display-number>65</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/sctv17hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv17hd.png" />
 </channel> 
 <channel id="sctv18hd">
     <display-name lang="vi">SCTV18 HD</display-name> 
     <display-number>66</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sctv18hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv18hd.png" />
 </channel> 
 <channel id="sctv19hd">
     <display-name lang="vi">SCTV19 HD</display-name> 
@@ -337,7 +337,7 @@
 <channel id="sctv20hd">
     <display-name lang="vi">SCTV20 HD</display-name> 
     <display-number>68</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/sctv20hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/sctv20hd.png" />
 </channel> 
 <channel id="sctv21hd">
     <display-name lang="vi">SCTV21 HD</display-name> 
@@ -347,7 +347,7 @@
 <channel id="sctv22hd">
     <display-name lang="vi">SCTV22 HD</display-name> 
     <display-number>70</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv22hd.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sctv22hd.png" />
 </channel> 
 <channel id="sctvhdpth">
     <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
@@ -357,27 +357,27 @@
 <channel id="sctv4k">
     <display-name lang="vi">SCTV 4K</display-name> 
     <display-number>72</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/sctv4k.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/sctv4k.jpg" />
 </channel> 
 <channel id="axnhd">
     <display-name lang="vi">AXN HD</display-name> 
     <display-number>73</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/axn.png" />
+    <icon src="http://image2.blaosolar.vn/logo/axn.png" />
 </channel> 
 <channel id="hbohd">
     <display-name lang="vi">HBO HD</display-name> 
     <display-number>74</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/hbohd.png" />
+    <icon src="http://image1.blaosolar.vn/logo/hbohd.png" />
 </channel> 
 <channel id="cinemaxhd">
     <display-name lang="vi">Cinemax HD</display-name> 
     <display-number>75</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cinemaxhd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/cinemaxhd.png" />
 </channel> 
 <channel id="warnertvhd">
     <display-name lang="vi">Warner TV HD</display-name> 
     <display-number>76</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/warnertvhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/warnertvhd.jpg" />
 </channel> 
 <channel id="cinemaworldhd">
     <display-name lang="vi">Cinema World HD</display-name> 
@@ -387,7 +387,7 @@
 <channel id="animalhd">
     <display-name lang="vi">Animal Planet HD</display-name> 
     <display-number>78</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/animalhd.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/animalhd.jpg" />
 </channel> 
 <channel id="bbcearth">
     <display-name lang="vi">BBC Earth</display-name> 
@@ -397,57 +397,57 @@
 <channel id="bbclifestyle">
     <display-name lang="vi">BBC Life Style</display-name> 
     <display-number>80</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/bbclifestyle.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/bbclifestyle.jpg" />
 </channel> 
 <channel id="bbcworldnews">
     <display-name lang="vi">BBC World News</display-name> 
     <display-number>81</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/bbcnews.png" />
+    <icon src="http://image2.blaosolar.vn/logo/bbcnews.png" />
 </channel> 
 <channel id="dmax">
     <display-name lang="vi">Dmax</display-name> 
     <display-number>82</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/dmax.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/dmax.jpg" />
 </channel> 
 <channel id="discoveryasiahd">
     <display-name lang="vi">Discovery Asia HD</display-name> 
     <display-number>83</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/discoveryasiahd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/discoveryasiahd.jpg" />
 </channel> 
 <channel id="discoveryhd">
     <display-name lang="vi">Discovery Channel HD</display-name> 
     <display-number>84</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/discoveryhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/discoveryhd.jpg" />
 </channel> 
 <channel id="tlchd">
     <display-name lang="vi">Travel &amp; Living HD</display-name> 
     <display-number>85</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tlc.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/tlc.jpg" />
 </channel> 
 <channel id="cbeebies">
     <display-name lang="vi">Cbeebies</display-name> 
     <display-number>86</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cbeebies.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cbeebies.jpg" />
 </channel> 
 <channel id="davinci">
     <display-name lang="vi">DaVinci HD</display-name> 
     <display-number>87</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/davinci.png" />
+    <icon src="http://image3.blaosolar.vn/logo/davinci.png" />
 </channel> 
 <channel id="cartoonhd">
     <display-name lang="vi">Cartoon Network HD</display-name> 
     <display-number>88</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonhd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/cartoonhd.jpg" />
 </channel> 
 <channel id="cartoonito">
     <display-name lang="vi">Cartoonito</display-name> 
     <display-number>89</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cartoonito.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cartoonito.jpg" />
 </channel> 
 <channel id="fashionhd">
     <display-name lang="vi">Fashion TV HD</display-name> 
     <display-number>90</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/fashionhd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/fashionhd.png" />
 </channel> 
 <channel id="afnhd">
     <display-name lang="vi">AFN HD</display-name> 
@@ -462,97 +462,97 @@
 <channel id="outdoorhd">
     <display-name lang="vi">Outdoor Channel HD</display-name> 
     <display-number>93</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/outdoorhd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/outdoorhd.jpg" />
 </channel> 
 <channel id="boxmovie1">
     <display-name lang="vi">Box Movie 1</display-name> 
     <display-number>94</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/boxmovie1.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/boxmovie1.jpg" />
 </channel> 
 <channel id="hollywoodclassics">
     <display-name lang="vi">Hollywood Classics</display-name> 
     <display-number>95</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/hollywoodclassics.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/hollywoodclassics.jpg" />
 </channel> 
 <channel id="woman">
     <display-name lang="vi">Woman HD</display-name> 
     <display-number>96</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/woman.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/woman.jpg" />
 </channel> 
 <channel id="boxhits">
     <display-name lang="vi">Box Hits HD</display-name> 
     <display-number>97</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/boxhits.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/boxhits.jpg" />
 </channel> 
 <channel id="musicbox">
     <display-name lang="vi">Music Box HD</display-name> 
     <display-number>98</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/musicbox.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/musicbox.jpg" />
 </channel> 
 <channel id="happykids">
     <display-name lang="vi">Happy Kids HD</display-name> 
     <display-number>99</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/happykids.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/happykids.jpg" />
 </channel> 
 <channel id="dreamworks">
     <display-name lang="vi">Dreamworks HD</display-name> 
     <display-number>100</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dreamworks.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dreamworks.jpg" />
 </channel> 
 <channel id="historyhd">
     <display-name lang="vi">History HD</display-name> 
     <display-number>101</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/historyhd.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/historyhd.jpg" />
 </channel> 
 <channel id="kix">
     <display-name lang="vi">Kix HD</display-name> 
     <display-number>102</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/kix.png" />
+    <icon src="http://image3.blaosolar.vn/logo/kix.png" />
 </channel> 
 <channel id="hgtv">
     <display-name lang="vi">HGTV</display-name> 
     <display-number>103</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/hgtv.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/hgtv.jpg" />
 </channel> 
 <channel id="dw">
     <display-name lang="vi">DW HD</display-name> 
     <display-number>104</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dw.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/dw.jpg" />
 </channel> 
 <channel id="abcaustralia">
     <display-name lang="vi">ABC Australia</display-name> 
     <display-number>105</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/abcaustralia.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/abcaustralia.jpg" />
 </channel> 
 <channel id="arirang">
     <display-name lang="vi">Arirang</display-name> 
     <display-number>106</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/arirang.png" />
+    <icon src="http://image4.blaosolar.vn/logo/arirang.png" />
 </channel> 
 <channel id="bloomberg">
     <display-name lang="vi">Bloomberg</display-name> 
     <display-number>107</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/bloomberg.png" />
+    <icon src="http://image1.blaosolar.vn/logo/bloomberg.png" />
 </channel> 
 <channel id="cnn">
     <display-name lang="vi">CNN</display-name> 
     <display-number>108</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cnn.png" />
+    <icon src="http://image2.blaosolar.vn/logo/cnn.png" />
 </channel> 
 <channel id="cna">
     <display-name lang="vi">Channel News Asia</display-name> 
     <display-number>109</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cna.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cna.jpg" />
 </channel> 
 <channel id="cnbc">
     <display-name lang="vi">CNBC</display-name> 
     <display-number>110</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/cnbc.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/cnbc.jpg" />
 </channel> 
 <channel id="nhkworld">
     <display-name lang="vi">NHK World</display-name> 
     <display-number>111</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/nhkworld.png" />
+    <icon src="http://image4.blaosolar.vn/logo/nhkworld.png" />
 </channel> 
 <channel id="france24eng">
     <display-name lang="vi">France 24 English</display-name> 
@@ -567,97 +567,97 @@
 <channel id="spotv1">
     <display-name lang="vi">SPOTV1 HD</display-name> 
     <display-number>114</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/spotv1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/spotv1.jpg" />
 </channel> 
 <channel id="spotv2">
     <display-name lang="vi">SPOTV2 HD</display-name> 
     <display-number>115</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/spotv2.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/spotv2.jpg" />
 </channel> 
 <channel id="anvienhd">
     <display-name lang="vi">An Viên HD</display-name> 
     <display-number>116</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/anvien.png" />
+    <icon src="http://image3.blaosolar.vn/logo/anvien.png" />
 </channel> 
 <channel id="angiang1">
     <display-name lang="vi">An Giang 1</display-name> 
     <display-number>117</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/angiang1.png" />
+    <icon src="http://image4.blaosolar.vn/logo/angiang1.png" />
 </channel> 
 <channel id="angiang2">
     <display-name lang="vi">An Giang 2</display-name> 
     <display-number>118</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/angiang2.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/angiang2.jpg" />
 </channel> 
 <channel id="angiang3">
     <display-name lang="vi">An Giang 3</display-name> 
     <display-number>119</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/angiang3.png" />
+    <icon src="http://image1.blaosolar.vn/logo/angiang3.png" />
 </channel> 
 <channel id="bacninh">
     <display-name lang="vi">Bắc Ninh</display-name> 
     <display-number>120</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/bacninh.png" />
+    <icon src="http://image3.blaosolar.vn/logo/bacninh.png" />
 </channel> 
 <channel id="camau">
     <display-name lang="vi">Cà Mau</display-name> 
     <display-number>121</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/camau.png" />
+    <icon src="http://image1.blaosolar.vn/logo/camau.png" />
 </channel> 
 <channel id="cantho1">
     <display-name lang="vi">Cần Thơ 1</display-name> 
     <display-number>122</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cantho1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/cantho1.jpg" />
 </channel> 
 <channel id="cantho2">
     <display-name lang="vi">Cần Thơ 2</display-name> 
     <display-number>123</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/cantho2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/cantho2.png" />
 </channel> 
 <channel id="cantho3">
     <display-name lang="vi">Cần Thơ 3</display-name> 
     <display-number>124</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/cantho3.png" />
+    <icon src="http://image3.blaosolar.vn/logo/cantho3.png" />
 </channel> 
 <channel id="caobang">
     <display-name lang="vi">Cao Bằng</display-name> 
     <display-number>125</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/caobang.png" />
+    <icon src="http://image4.blaosolar.vn/logo/caobang.png" />
 </channel> 
 <channel id="danang1">
     <display-name lang="vi">Đà Nẵng 1</display-name> 
     <display-number>126</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/danang1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/danang1.png" />
 </channel> 
 <channel id="danang2">
     <display-name lang="vi">Đà Nẵng 2</display-name> 
     <display-number>127</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/danang2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/danang2.png" />
 </channel> 
 <channel id="daklak">
     <display-name lang="vi">Đắk Lắk</display-name> 
     <display-number>128</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/daklak.png" />
+    <icon src="http://image1.blaosolar.vn/logo/daklak.png" />
 </channel> 
 <channel id="dienbien">
     <display-name lang="vi">Điện Biên</display-name> 
     <display-number>129</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/dienbien.png" />
+    <icon src="http://image2.blaosolar.vn/logo/dienbien.png" />
 </channel> 
 <channel id="dongnai1">
     <display-name lang="vi">Đồng Nai 1</display-name> 
     <display-number>130</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongnai1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/dongnai1.png" />
 </channel> 
 <channel id="dongnai2">
     <display-name lang="vi">Đồng Nai 2</display-name> 
     <display-number>131</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/dongnai2.png" />
+    <icon src="http://image1.blaosolar.vn/logo/dongnai2.png" />
 </channel> 
 <channel id="dongthap1">
     <display-name lang="vi">Đồng Tháp 1</display-name> 
     <display-number>132</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/dongthap1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/dongthap1.jpg" />
 </channel> 
 <channel id="dongthap2">
     <display-name lang="vi">Đồng Tháp 2</display-name> 
@@ -692,7 +692,7 @@
 <channel id="haiphong3">
     <display-name lang="vi">Hải Phòng 3</display-name> 
     <display-number>139</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/haiphong3.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/haiphong3.jpg" />
 </channel> 
 <channel id="hue">
     <display-name lang="vi">Huế</display-name> 
@@ -707,12 +707,12 @@
 <channel id="tuyenquang">
     <display-name lang="vi">Tuyên Quang</display-name> 
     <display-number>142</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/tuyenquang.png" />
+    <icon src="http://image2.blaosolar.vn/logo/tuyenquang.png" />
 </channel> 
 <channel id="khanhhoa">
     <display-name lang="vi">Khánh Hòa</display-name> 
     <display-number>143</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/khanhhoa.png" />
+    <icon src="http://image3.blaosolar.vn/logo/khanhhoa.png" />
 </channel> 
 <channel id="khanhhoa1">
     <display-name lang="vi">Khánh Hòa 1</display-name> 
@@ -722,107 +722,107 @@
 <channel id="laichau">
     <display-name lang="vi">Lai Châu</display-name> 
     <display-number>145</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/laichau.png" />
+    <icon src="http://image3.blaosolar.vn/logo/laichau.png" />
 </channel> 
 <channel id="laocai">
     <display-name lang="vi">Lào Cai</display-name> 
     <display-number>146</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/laocai.png" />
+    <icon src="http://image2.blaosolar.vn/logo/laocai.png" />
 </channel> 
 <channel id="lamdong1">
     <display-name lang="vi">Lâm Đồng 1</display-name> 
     <display-number>147</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/lamdong1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/lamdong1.jpg" />
 </channel> 
 <channel id="lamdong2">
     <display-name lang="vi">Lâm Đồng 2</display-name> 
     <display-number>148</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/lamdong2.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/lamdong2.jpg" />
 </channel> 
 <channel id="langson">
     <display-name lang="vi">Lạng Sơn</display-name> 
     <display-number>149</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/langson.png" />
+    <icon src="http://image4.blaosolar.vn/logo/langson.png" />
 </channel> 
 <channel id="nghean">
     <display-name lang="vi">Nghệ An</display-name> 
     <display-number>150</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/nghean.png" />
+    <icon src="http://image1.blaosolar.vn/logo/nghean.png" />
 </channel> 
 <channel id="ninhbinh">
     <display-name lang="vi">Ninh Bình</display-name> 
     <display-number>151</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/ninhbinh.png" />
+    <icon src="http://image4.blaosolar.vn/logo/ninhbinh.png" />
 </channel> 
 <channel id="phutho">
     <display-name lang="vi">Phú Thọ</display-name> 
     <display-number>152</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/phutho.png" />
+    <icon src="http://image3.blaosolar.vn/logo/phutho.png" />
 </channel> 
 <channel id="quangngai">
     <display-name lang="vi">Quảng Ngãi</display-name> 
     <display-number>153</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/quangngai.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/quangngai.jpg" />
 </channel> 
 <channel id="quangngai2">
     <display-name lang="vi">Quảng Ngãi 2</display-name> 
     <display-number>154</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/quangngai2.png" />
+    <icon src="http://image2.blaosolar.vn/logo/quangngai2.png" />
 </channel> 
 <channel id="quangninh1">
     <display-name lang="vi">Quảng Ninh 1</display-name> 
     <display-number>155</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangninh1.png" />
+    <icon src="http://image1.blaosolar.vn/logo/quangninh1.png" />
 </channel> 
 <channel id="quangninh3">
     <display-name lang="vi">Quảng Ninh 3</display-name> 
     <display-number>156</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangninh3.png" />
+    <icon src="http://image3.blaosolar.vn/logo/quangninh3.png" />
 </channel> 
 <channel id="quangtri">
     <display-name lang="vi">Quảng Trị</display-name> 
     <display-number>157</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/quangtri.webp" />
+    <icon src="http://image1.blaosolar.vn/logo/quangtri.webp" />
 </channel> 
 <channel id="sonla">
     <display-name lang="vi">Sơn La</display-name> 
     <display-number>158</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/sonla.png" />
+    <icon src="http://image3.blaosolar.vn/logo/sonla.png" />
 </channel> 
 <channel id="tayninh1">
     <display-name lang="vi">Tây Ninh 1</display-name> 
     <display-number>159</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/tayninh1.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/tayninh1.jpg" />
 </channel> 
 <channel id="thainguyen">
     <display-name lang="vi">Thái Nguyên</display-name> 
     <display-number>160</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/thainguyen.png" />
+    <icon src="http://image4.blaosolar.vn/logo/thainguyen.png" />
 </channel> 
 <channel id="thanhhoa">
     <display-name lang="vi">Thanh Hóa</display-name> 
     <display-number>161</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/thanhhoa.png" />
+    <icon src="http://image1.blaosolar.vn/logo/thanhhoa.png" />
 </channel> 
 <channel id="vinhlong1hd">
     <display-name lang="vi">Vĩnh Long 1 HD</display-name> 
     <display-number>162</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/vinhlong1hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong1hd.jpg" />
 </channel> 
 <channel id="vinhlong2hd">
     <display-name lang="vi">Vĩnh Long 2 HD</display-name> 
     <display-number>163</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/vinhlong2hd.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/vinhlong2hd.jpg" />
 </channel> 
 <channel id="vinhlong3hd">
     <display-name lang="vi">Vĩnh Long 3 HD</display-name> 
     <display-number>164</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/vinhlong3hd.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/vinhlong3hd.jpg" />
 </channel> 
 <channel id="vinhlong4hd">
     <display-name lang="vi">Vĩnh Long 4 HD</display-name> 
     <display-number>165</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/vinhlong4hd.png" />
+    <icon src="http://image4.blaosolar.vn/logo/vinhlong4hd.png" />
 </channel> 
 <channel id="vinhlong5hd">
     <display-name lang="vi">Vĩnh Long 5 HD</display-name> 
@@ -832,12 +832,12 @@
 <channel id="360c1">
     <display-name lang="vi">TV360 C1 Châu Âu</display-name> 
     <display-number>167</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360c1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360c1.jpg" />
 </channel> 
 <channel id="360c2">
     <display-name lang="vi">TV360 C2 Châu Âu</display-name> 
     <display-number>168</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360c2.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360c2.jpg" />
 </channel> 
 <channel id="360c3">
     <display-name lang="vi">TV360 C3 Châu Âu</display-name> 
@@ -847,17 +847,17 @@
 <channel id="360thethaochaua">
     <display-name lang="vi">TV360 Thể Thao Châu Á</display-name> 
     <display-number>170</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360thethaochaua.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360thethaochaua.jpg" />
 </channel> 
 <channel id="360congthuc1">
     <display-name lang="vi">TV360 Công Thức 1</display-name> 
     <display-number>171</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360congthuc1.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360congthuc1.jpg" />
 </channel> 
 <channel id="360bundesliga">
     <display-name lang="vi">TV360 Bundesliga</display-name> 
     <display-number>172</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360bundesliga.jpg" />
+    <icon src="http://image4.blaosolar.vn/logo/360bundesliga.jpg" />
 </channel> 
 <channel id="360golf">
     <display-name lang="vi">TV360 Golf</display-name> 
@@ -867,22 +867,22 @@
 <channel id="360tennis">
     <display-name lang="vi">TV360 Tennis</display-name> 
     <display-number>174</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360tennis.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360tennis.jpg" />
 </channel> 
 <channel id="360phimviet">
     <display-name lang="vi">TV360 Phim Việt</display-name> 
     <display-number>175</display-number> 
-    <icon src="http://image1.blaosolar.vn/logo/360phimviet.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360phimviet.jpg" />
 </channel> 
 <channel id="360phimaumy">
     <display-name lang="vi">TV360 Phim Âu Mỹ</display-name> 
     <display-number>176</display-number> 
-    <icon src="http://image3.blaosolar.vn/logo/360phimaumy.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360phimaumy.jpg" />
 </channel> 
 <channel id="360hoathinh">
     <display-name lang="vi">TV360 Hoạt Hình</display-name> 
     <display-number>177</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360hoathinh.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360hoathinh.jpg" />
 </channel> 
 <channel id="360phimhoangu">
     <display-name lang="vi">TV360 Phim Hoa Ngữ</display-name> 
@@ -892,7 +892,7 @@
 <channel id="360hanhdongchaua">
     <display-name lang="vi">TV360 Hành Động Châu Á</display-name> 
     <display-number>179</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360hanhdongchaua.jpg" />
+    <icon src="http://image3.blaosolar.vn/logo/360hanhdongchaua.jpg" />
 </channel> 
 <channel id="360kdrama">
     <display-name lang="vi">TV360 K-Drama</display-name> 
@@ -902,17 +902,17 @@
 <channel id="360haitinhcam">
     <display-name lang="vi">TV360 Hài - Tình Cảm</display-name> 
     <display-number>181</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360haitinhcam.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360haitinhcam.jpg" />
 </channel> 
 <channel id="360phimkinhdien">
     <display-name lang="vi">TV360 Phim Kinh Điển</display-name> 
     <display-number>182</display-number> 
-    <icon src="http://image2.blaosolar.vn/logo/360phimkinhdien.jpg" />
+    <icon src="http://image1.blaosolar.vn/logo/360phimkinhdien.jpg" />
 </channel> 
 <channel id="360anime">
     <display-name lang="vi">TV360 Anime</display-name> 
     <display-number>183</display-number> 
-    <icon src="http://image4.blaosolar.vn/logo/360anime.jpg" />
+    <icon src="http://image2.blaosolar.vn/logo/360anime.jpg" />
 </channel> 
 <programme channel="vtv1hd" channel-number="1" start="20261030000143 +0700" stop="20261030003243 +0700">
     <title lang="vi">PHIM TRUYỆN: NHỮNG NHÂN VIÊN GƯƠNG MẪU - TẬP 36</title> 
@@ -16711,6 +16711,110 @@
 <programme channel="onviedramas" channel-number="31" start="20261031230000 +0700" stop="20261031230500 +0700">
     <title lang="vi">THƯỢNG THỰC - TẬP 13</title> 
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101000000 +0700" stop="20261101003000 +0700">
+    <title lang="vi">GIẤC MƠ CỦA MẸ - TẬP 17</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101003000 +0700" stop="20261101010000 +0700">
+    <title lang="vi">SỐNG CÙNG VIE DRAMAS 2024 - TẬP 21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101010000 +0700" stop="20261101020000 +0700">
+    <title lang="vi">NĂM ẤY HOA NỞ TRĂNG VỪA TRÒN - TẬP 45</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101020000 +0700" stop="20261101030000 +0700">
+    <title lang="vi">GIẤC MƠ CỦA MẸ - TẬP 18</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101030000 +0700" stop="20261101040000 +0700">
+    <title lang="vi">THƯỢNG THỰC - TẬP 12</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101040000 +0700" stop="20261101043000 +0700">
+    <title lang="vi">GIẤC MƠ CỦA MẸ - TẬP 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101043000 +0700" stop="20261101050000 +0700">
+    <title lang="vi">SỐNG CÙNG VIE DRAMAS 2024 - TẬP 21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101050000 +0700" stop="20261101060000 +0700">
+    <title lang="vi">MẬT MÃ NỤ CƯỜI - TẬP 22</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101060000 +0700" stop="20261101070000 +0700">
+    <title lang="vi">GIẤC MƠ CỦA MẸ - TẬP 20</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101070000 +0700" stop="20261101080000 +0700">
+    <title lang="vi">NĂM ẤY HOA NỞ TRĂNG VỪA TRÒN - TẬP 46</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101080000 +0700" stop="20261101090000 +0700">
+    <title lang="vi">THƯỢNG THỰC - TẬP 13</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101090000 +0700" stop="20261101100000 +0700">
+    <title lang="vi">VĨNH DẠ TINH HÀ - TẬP 31</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101100000 +0700" stop="20261101110000 +0700">
+    <title lang="vi">NĂM ẤY HOA NỞ TRĂNG VỪA TRÒN - TẬP 47</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101110000 +0700" stop="20261101120000 +0700">
+    <title lang="vi">MẬT MÃ NỤ CƯỜI - TẬP 23</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101120000 +0700" stop="20261101130000 +0700">
+    <title lang="vi">THƯỢNG THỰC - TẬP 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101130000 +0700" stop="20261101140000 +0700">
+    <title lang="vi">VĨNH DẠ TINH HÀ - TẬP 32</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101140000 +0700" stop="20261101150000 +0700">
+    <title lang="vi">CHIẾC BẬT LỬA VÀ VÁY CÔNG CHÚA - TẬP 19</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101150000 +0700" stop="20261101160000 +0700">
+    <title lang="vi">GIẤC MƠ CỦA MẸ - TẬP 21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101160000 +0700" stop="20261101170000 +0700">
+    <title lang="vi">MẶT TRỜI MÙA ĐÔNG - TẬP 1</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101170000 +0700" stop="20261101180000 +0700">
+    <title lang="vi">MẬT MÃ NỤ CƯỜI - TẬP 24</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101180000 +0700" stop="20261101190000 +0700">
+    <title lang="vi">CHIẾC BẬT LỬA VÀ VÁY CÔNG CHÚA - TẬP 20</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101190000 +0700" stop="20261101200000 +0700">
+    <title lang="vi">NĂM ẤY HOA NỞ TRĂNG VỪA TRÒN - TẬP 48</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101200000 +0700" stop="20261101210000 +0700">
+    <title lang="vi">MẬT MÃ NỤ CƯỜI - TẬP 25</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101210000 +0700" stop="20261101220000 +0700">
+    <title lang="vi">MẶT TRỜI MÙA ĐÔNG - TẬP 2</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101220000 +0700" stop="20261101230000 +0700">
+    <title lang="vi">CHIẾC BẬT LỬA VÀ VÁY CÔNG CHÚA - TẬP 21</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
+</programme> 
+<programme channel="onviedramas" channel-number="31" start="20261101230000 +0700" stop="20261102000000 +0700">
+    <title lang="vi">THƯỢNG THỰC - TẬP 14</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc> 
 </programme> 
 <programme channel="onvfamily" channel-number="32" start="20261030000000 +0700" stop="20261030003000 +0700">
     <title lang="vi">LÀM ĐẸP - SỐ 20</title> 
@@ -43846,6 +43950,228 @@
     <desc lang="vi">Sự khéo léo của món tráng miệng Nhật Bản thật nổi bật. Wagashi là món tráng miệng truyền thống của Nhật Bản và cũng là biểu tượng của văn hóa.</desc> 
     <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
     <icon src="https://image2.blaosolar.vn/28d9162a26a5e6cf217406ad829bb626/1793380449/schedule/afnhd/asweettasteofarts1nghethuatlammontrangmiengmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101005000 +0700" stop="20261101014500 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/0289e3fdf1c263fd6c81240ea288d764/1793410481/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101014500 +0700" stop="20261101021000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/c3fa7804bd53df09358d069fcd804f07/1793410481/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101021000 +0700" stop="20261101024000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/c3fa7804bd53df09358d069fcd804f07/1793410481/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101024000 +0700" stop="20261101030500 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/9862aa163b6be32c19521b106fb1d4d4/1793410481/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101030500 +0700" stop="20261101033500 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/9862aa163b6be32c19521b106fb1d4d4/1793410481/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101033500 +0700" stop="20261101043000 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/0289e3fdf1c263fd6c81240ea288d764/1793410481/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101043000 +0700" stop="20261101050000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/c3fa7804bd53df09358d069fcd804f07/1793410481/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101050000 +0700" stop="20261101052500 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/c6bb369df1aebf1e4d45f9846dc5e37c/1793410482/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101052500 +0700" stop="20261101055000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/c6bb369df1aebf1e4d45f9846dc5e37c/1793410482/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101055000 +0700" stop="20261101064500 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/d09f8c7c6a9c8fa5803ee3131d5c93d4/1793410482/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101064500 +0700" stop="20261101074000 +0700">
+    <title lang="vi">LOVE IN A POT - S1 - QUÂY QUẦN BÊN BẾP LẨU (MÙA 1)</title> 
+    <desc lang="vi">Lyu Linxuan mời các diễn viên Jeremy Chan và Zong Zijie tham gia thử thách ăn lẩu Trùng Khánh ở Singapore.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/0a70c194256dadda64c877029abd3627/1793410482/schedule/afnhd/loveinapots1quayquanbenbeplaumua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101074000 +0700" stop="20261101083500 +0700">
+    <title lang="vi">A TASTE OF FESTIVAL - S1 - HƯƠNG VỊ LỄ HỘI (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Pornsak giới thiệu các món ăn Tết Nguyên Đán của người Triều Châu và Khách Gia và học cách nấu các món ăn đó.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/c71768b39288ae16b4d49944dd093247/1793410482/schedule/afnhd/atasteoffestivals1huongvilehoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101083500 +0700" stop="20261101090000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/81ae9efd50f8327b485fd82597554e8f/1793410482/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101090000 +0700" stop="20261101093000 +0700">
+    <title lang="vi">GOOD CHEF BAD CHEF - S14 - ĐẦU BẾP TRỔ TÀI (MÙA 14)</title> 
+    <desc lang="vi">Đó là cuộc so tài ẩm thực giữa những món ăn ngon nhưng đầy tội lỗi của Đầu bếp Adrian Richardson và những sáng tạo thân thiện với trái tim của các chuyên gia dinh dưỡng hàng đầu Australia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/81ae9efd50f8327b485fd82597554e8f/1793410482/schedule/afnhd/goodchefbadchefs14daubeptrotaimua14.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101093000 +0700" stop="20261101102500 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/d09f8c7c6a9c8fa5803ee3131d5c93d4/1793410482/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101102500 +0700" stop="20261101105000 +0700">
+    <title lang="vi">COOKING WITH CHOI - S1 - NẤU ĂN CÙNG CHOI (MÙA 1)</title> 
+    <desc lang="vi">Esther Choi dạy cách làm hai loại kim chi và chia sẻ công thức làm kim chi, bao gồm cơm chiên kim chi và bì bụng heo Hàn Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/5be3b8880215b98bdde16504eaaeed84/1793410482/schedule/afnhd/cookingwithchois1nauancungchoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101105000 +0700" stop="20261101112000 +0700">
+    <title lang="vi">SECRETS OF THE CURRY KITCHEN - S1 - BÍ MẬT CĂN BẾP CÀ RI (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Asma Khan tôn vinh việc là một người kiên nhẫn nấu món kosha mangsho nấu chậm, món bhuna vịt thần thánh, món paratha nhân rau củ và một món tráng miệng lạ thường.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/624c44cb94a87cac4392736a5068fada/1793410482/schedule/afnhd/secretsofthecurrykitchens1bimatcanbepcarimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101112000 +0700" stop="20261101114500 +0700">
+    <title lang="vi">THE CHOCOLATE QUEEN - S6 - NỮ HOÀNG SÔCÔLA (MÙA 6)</title> 
+    <desc lang="vi">Hãy sẵn sàng cho một mùa giải hấp dẫn khác của Nữ hoàng sô cô la, bởi vì Kirsten Tibballs đã trở lại với nhiều sáng tạo sô cô la không thể cưỡng lại!</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/d01814083034473d71d5eb7600c27fbf/1793410482/schedule/afnhd/thechocolatequeens6nuhoangsocolamua6.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101114500 +0700" stop="20261101121500 +0700">
+    <title lang="vi">THE CHOCOLATE QUEEN - S6 - NỮ HOÀNG SÔCÔLA (MÙA 6)</title> 
+    <desc lang="vi">Hãy sẵn sàng cho một mùa giải hấp dẫn khác của Nữ hoàng sô cô la, bởi vì Kirsten Tibballs đã trở lại với nhiều sáng tạo sô cô la không thể cưỡng lại!</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/d01814083034473d71d5eb7600c27fbf/1793410482/schedule/afnhd/thechocolatequeens6nuhoangsocolamua6.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101121500 +0700" stop="20261101131000 +0700">
+    <title lang="vi">JEREMY PANG'S HONG KONG KITCHEN - S1 - JEREMY PANG KHÁM PHÁ XỨ CẢNG THƠM (MÙA 1)</title> 
+    <desc lang="vi">Jeremy bắt đầu chuyến du lịch ẩm thực tới Hồng Kông cùng người bạn tốt Mel Giedroyc. Họ nấu một món ăn gây bão trong bếp với món bánh pudding sữa hấp gừng.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/cc942f252903d4ea4b89c59a25970d4e/1793410482/schedule/afnhd/jeremypangshongkongkitchens1jeremypangkhamphaxucangthommua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101131000 +0700" stop="20261101133500 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/a8fb394721ee3329e22a69d4f3c889f3/1793410482/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101133500 +0700" stop="20261101140500 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/a8fb394721ee3329e22a69d4f3c889f3/1793410482/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101140500 +0700" stop="20261101150000 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/d09f8c7c6a9c8fa5803ee3131d5c93d4/1793410482/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101150000 +0700" stop="20261101160000 +0700">
+    <title lang="vi">A TASTE OF FESTIVAL - S1 - HƯƠNG VỊ LỄ HỘI (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Pornsak giới thiệu các món ăn Tết Nguyên Đán của người Triều Châu và Khách Gia và học cách nấu các món ăn đó.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/c71768b39288ae16b4d49944dd093247/1793410482/schedule/afnhd/atasteoffestivals1huongvilehoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101160000 +0700" stop="20261101163000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/1bf4ec942e20c8d9981e0f48731e6eb9/1793410482/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101163000 +0700" stop="20261101170000 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/1bf4ec942e20c8d9981e0f48731e6eb9/1793410482/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101170000 +0700" stop="20261101180000 +0700">
+    <title lang="vi">LOVE IN A POT - S1 - QUÂY QUẦN BÊN BẾP LẨU (MÙA 1)</title> 
+    <desc lang="vi">Lyu Linxuan mời các diễn viên Jeremy Chan và Zong Zijie tham gia thử thách ăn lẩu Trùng Khánh ở Singapore.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/0a70c194256dadda64c877029abd3627/1793410482/schedule/afnhd/loveinapots1quayquanbenbeplaumua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101180000 +0700" stop="20261101190000 +0700">
+    <title lang="vi">A SWEET TASTE OF ART - S1 - NGHỆ THUẬT LÀM MÓN TRÁNG MIỆNG (MÙA 1)</title> 
+    <desc lang="vi">Sự khéo léo của món tráng miệng Nhật Bản thật nổi bật. Wagashi là món tráng miệng truyền thống của Nhật Bản và cũng là biểu tượng của văn hóa.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/7f736dfb4d7b5087ae5f21de8ee9f0f7/1793410482/schedule/afnhd/asweettasteofarts1nghethuatlammontrangmiengmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101190000 +0700" stop="20261101200000 +0700">
+    <title lang="vi">MAKAN ON WHEELS - S1 - VI VU KHÁM PHÁ ẨM THỰC (MÙA 1)</title> 
+    <desc lang="vi">Người dẫn chương trình Bryan, Herman và Đầu bếp Melvyn bắt đầu chuyến đi đến Malaysia trên xe bán đồ ăn để trao đổi ẩm thực giữa Singapore và Malaysia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image2.blaosolar.vn/ee5ba581bf5e27d91367be5360d3fec4/1793410482/schedule/afnhd/makanonwheelss1vivukhamphaamthucmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101200000 +0700" stop="20261101210000 +0700">
+    <title lang="vi">BEYOND BALI: THE WORLD'S MOST EXOTIC ISLANDS - S1 - TRỞ VỀ CỘI NGUỒN INDONESIA (MÙA 1)</title> 
+    <desc lang="vi">Lara Lee du hành vượt ra ngoài Bali để khám phá những câu chuyện phong phú chưa được kể về những hòn đảo, nền văn hóa và ẩm thực độc đáo của Indonesia.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/d09f8c7c6a9c8fa5803ee3131d5c93d4/1793410482/schedule/afnhd/beyondbalitheworldsmostexoticislandss1trovecoinguonindonesiamua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101210000 +0700" stop="20261101213000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image4.blaosolar.vn/c6bb369df1aebf1e4d45f9846dc5e37c/1793410482/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101213000 +0700" stop="20261101220000 +0700">
+    <title lang="vi">THE COOK UP WITH ADAM LIAW - S3 - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 3)</title> 
+    <desc lang="vi">Adam tham gia cùng Kumi Taguchi và Chase Kojima khi họ tạo ra một số công thức nấu món đùi gà yêu thích của mình.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/c6bb369df1aebf1e4d45f9846dc5e37c/1793410482/schedule/afnhd/thecookupwithadamliaws3nauandamdaocungadamliawmua3.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101220000 +0700" stop="20261101223000 +0700">
+    <title lang="vi">COOKING WITH CHOI - S1 - NẤU ĂN CÙNG CHOI (MÙA 1)</title> 
+    <desc lang="vi">Esther Choi dạy cách làm hai loại kim chi và chia sẻ công thức làm kim chi, bao gồm cơm chiên kim chi và bì bụng heo Hàn Quốc.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/5be3b8880215b98bdde16504eaaeed84/1793410482/schedule/afnhd/cookingwithchois1nauancungchoimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101223000 +0700" stop="20261101230000 +0700">
+    <title lang="vi">SECRETS OF THE CURRY KITCHEN - S1 - BÍ MẬT CĂN BẾP CÀ RI (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Asma Khan tôn vinh việc là một người kiên nhẫn nấu món kosha mangsho nấu chậm, món bhuna vịt thần thánh, món paratha nhân rau củ và một món tráng miệng lạ thường.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/624c44cb94a87cac4392736a5068fada/1793410482/schedule/afnhd/secretsofthecurrykitchens1bimatcanbepcarimua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101230000 +0700" stop="20261101232500 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/1bf4ec942e20c8d9981e0f48731e6eb9/1793410482/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101232500 +0700" stop="20261101235500 +0700">
+    <title lang="vi">MANEET'S EATS - S1 - NẤU ĂN CÙNG MANEET (MÙA 1)</title> 
+    <desc lang="vi">Đầu bếp Maneet Chauhan đang chuẩn bị công thức rút gọn đặc trưng của mình cho món Gà Tikka Masala cổ điển, giúp gói trọn hương vị trong thời gian chỉ bằng một nửa thời gian.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image1.blaosolar.vn/1bf4ec942e20c8d9981e0f48731e6eb9/1793410482/schedule/afnhd/maneetseatss1nauancungmaneetmua1.webp" />
+</programme> 
+<programme channel="afnhd" channel-number="91" start="20261101235500 +0700" stop="20261102000000 +0700">
+    <title lang="vi">FROM THE SOURCE - S2 - KHƠI NGUỒN ẨM THỰC (MÙA 2)</title> 
+    <desc lang="vi">Katie đến thăm một trang trại của gia đình ở Bluffton, Georgia, nơi nuôi bò ăn cỏ theo cách ông bà của họ đã làm.</desc> 
+    <category lang="vi">Lối sống, Giải trí, Sở thích: Ẩm thực</category> 
+    <icon src="https://image3.blaosolar.vn/a8fb394721ee3329e22a69d4f3c889f3/1793410482/schedule/afnhd/fromthesources2khoinguonamthucmua2.webp" />
 </programme> 
 <programme channel="kbsworld" channel-number="92" start="20261030000000 +0700" stop="20261030011000 +0700">
     <title lang="vi">LOVE IN THE MOONLIGHT</title> 
@@ -93893,131 +94219,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20261030000000 +0700" stop="20261030010000 +0700">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>The Grand Prix of Australia. Action from the 18th round of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030010000 +0700" stop="20261030013000 +0700">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An interview with Liverpool winger Rio Ngumoha.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030013000 +0700" stop="20261030020000 +0700">
-    <title lang="zh">Premier League Stories</title>
-    <desc>With former Newcastle United captain Fabricio Coloccini, who is forging a new path in coaching in Chile.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030020000 +0700" stop="20261030023000 +0700">
-    <title lang="zh">SailGP - Racing on the Edge</title>
-    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030023000 +0700" stop="20261030030000 +0700">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc>A fast-paced look at the best action from matchday eight, including Aston Villa v Manchester City, Liverpool v Brighton &amp; Hove Albion, and Manchester United v Bournemouth.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030030000 +0700" stop="20261030033000 +0700">
-    <title lang="zh">Premier League Legends</title>
-    <desc>A look back on the career of Brazilian star Juninho who starred for Middlesbrough on two separate stints in the Premier League.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030033000 +0700" stop="20261030040000 +0700">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An interview with Liverpool winger Rio Ngumoha.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030040000 +0700" stop="20261030060000 +0700">
-    <title lang="zh">Curling European Championship</title>
-    <desc>Germany v Scotland.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030060000 +0700" stop="20261030073000 +0700">
-    <title lang="zh">Lewis Moody vs MND</title>
-    <desc>Former England rugby union captain and World Cup winner Lewis Moody opens up about his battle with the muscle-wasting condition motor neurone disease.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030073000 +0700" stop="20261030074500 +0700">
-    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
-    <desc>A look at the biggest stories and best action from round four, including Leicester Tigers v Northampton Saints, Bristol Bears v Exeter Chiefs, and Gloucester Rugby v Bath Rugby.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030074500 +0700" stop="20261030080000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030080000 +0700" stop="20261030103000 +0700">
-    <title lang="zh">MLB</title>
-    <desc>Action from game four of the World Series.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030103000 +0700" stop="20261030130000 +0700">
-    <title lang="zh">MLB</title>
-    <desc>Action from game five of the World Series.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030130000 +0700" stop="20261030131500 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>New Zealand v India in the first T20.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030131500 +0700" stop="20261030133000 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>New Zealand v India in the second T20.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030133000 +0700" stop="20261030134500 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>New Zealand v India in the third T20.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030134500 +0700" stop="20261030180000 +0700">
-    <title lang="zh">Live International T20 Cricket</title>
-    <desc>New Zealand v India. Coverage of the fourth Twenty20 in the five-match series, which takes place at Eden Park in Auckland.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030180000 +0700" stop="20261030190000 +0700">
-    <title lang="zh">Women's One-Day International Cricket</title>
-    <desc>India v Zimbabwe. Coverage of the third ODI in the three-match series, which takes place at Baroda Cricket Association Stadium in Vadodara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030190000 +0700" stop="20261030191500 +0700">
-    <title lang="zh">Under the Lights</title>
-    <desc>A look at memorable European Nights at Celtic Park.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030191500 +0700" stop="20261030194500 +0700">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An interview with Liverpool winger Rio Ngumoha.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030194500 +0700" stop="20261030200000 +0700">
-    <title lang="zh">Premier League Reload</title>
-    <desc>A whirlwind catch-up from matchday eight, including Aston Villa v Manchester City, Chelsea v Tottenham Hotspur, and Liverpool v Brighton &amp; Hove Albion.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030200000 +0700" stop="20261030210000 +0700">
-    <title lang="zh">Classic Premier League</title>
-    <desc>A review of the 2012/13 season. Sir Alex Ferguson ended his managerial career as Manchester United clinched their 13th Premier League title and FA Cup winners Wigan were relegated.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030210000 +0700" stop="20261030220000 +0700">
-    <title lang="zh">Classic Premier League</title>
-    <desc>A review of the 2015/16 season. Leicester City shocked the footballing world, Jose Mourinho's second tenure at Chelsea came to an end and Newcastle dropped into the second tier.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030220000 +0700" stop="20261030230000 +0700">
-    <title lang="zh">Serie A</title>
-    <desc>AC Milan v Bologna.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400477" start="20261030230000 +0700" stop="20261031000000 +0700">
-    <title lang="zh">Serie A</title>
-    <desc>Monza v Napoli.</desc>
-    <date>2026-10-30</date>
-  </programme>
   <programme channel="400477" start="20261031000000 +0700" stop="20261031003000 +0700">
     <title lang="zh">The Fantasy Show</title>
     <desc>The Fantasy Premier League experts look ahead to gameweek nine.</desc>
@@ -94108,145 +94309,85 @@
     <desc>Bath Rugby v Sale Sharks (Kick-off 3.05pm). Coverage of the match from the fifth round of fixtures, which takes place at The Recreation Ground.</desc>
     <date>2026-10-31</date>
   </programme>
+  <programme channel="400477" start="20261101001500 +0700" stop="20261101024500 +0700">
+    <title lang="zh">Live: The Gallagher PREM</title>
+    <desc>Northampton Saints v Gloucester Rugby (Kick-off 5.30pm). Coverage of the match from the fifth round of fixtures, which takes place at DPD Stadium at Franklin's Gardens.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101024500 +0700" stop="20261101034500 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Harlequins.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101034500 +0700" stop="20261101044500 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Saracens v Newcastle Red Bulls.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101044500 +0700" stop="20261101050000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Chris Ashton, Austin Healey and Ben Kay are invited to a wine tasting at Saracens where they chat with the management and squad including Owen Farrell, Joe Shaw and Brendan Venter.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101050000 +0700" stop="20261101063000 +0700">
+    <title lang="zh">Lewis Moody vs MND</title>
+    <desc>Former England rugby union captain and World Cup winner Lewis Moody opens up about his battle with the muscle-wasting condition motor neurone disease.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101063000 +0700" stop="20261101070000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Malaysia sprint race. Action from the 19th round of the season at Petronas Sepang International Circuit in Sepang.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101070000 +0700" stop="20261101103000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Milwaukee Brewers v Tampa Bay Rays (Start-time 1.00am). Coverage of game seven of the World Series from American Family Field.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101103000 +0700" stop="20261101104500 +0700">
+    <title lang="zh">FA Cup: The People's Story - Crystal Palace</title>
+    <desc>A documentary looking at Crystal Palace's rise from near-extinction in 2010 to a fairytale cup run 15 years later.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101104500 +0700" stop="20261101130000 +0700">
+    <title lang="zh">Live A-League</title>
+    <desc>Melbourne Victory v Central Coast Mariners (Kick-off 4.00am). Coverage of the Australian top-flight match from AAMI Park.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101130000 +0700" stop="20261101163000 +0700">
+    <title lang="zh">Live: Snooker International Championship</title>
+    <desc>Coverage from the opening round of the tournament at South New City National Fitness Center (SNCNFC) in Nanjing, China.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101163000 +0700" stop="20261101170000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>An inside look at the Ballon d'Or 2026, where Harry Kane became the first English player to win the award in 25 years. Plus, features on Marc Guehi and Matty Cash.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101170000 +0700" stop="20261101180000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101180000 +0700" stop="20261101183000 +0700">
+    <title lang="zh">SailGP - Racing on the Edge</title>
+    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101183000 +0700" stop="20261101220000 +0700">
+    <title lang="zh">Live: Snooker International Championship</title>
+    <desc>Further coverage from the opening round of the tournament at South New City National Fitness Center (SNCNFC) in Nanjing, China.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400477" start="20261101220000 +0700" stop="20261102000000 +0700">
+    <title lang="zh">MLB</title>
+    <desc>Milwaukee Brewers v Tampa Bay Rays. Action from game seven of the World Series at American Family Field.</desc>
+    <date>2026-11-01</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20261030000000 +0700" stop="20261030010000 +0700">
-    <title lang="zh">Women's FA Cup</title>
-    <desc>Exeter City v Hashtag United.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030010000 +0700" stop="20261030013000 +0700">
-    <title lang="zh">European Rally Championship Highlights</title>
-    <desc>The Rally Serras de Fafe e Felgueiras. Action from the seventh and final round of the season, which took place in Braga, Portugal.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030013000 +0700" stop="20261030020000 +0700">
-    <title lang="zh">TCR World Tour Review</title>
-    <desc>Action from the sixth round of the season at Chengdu Tianfu International Circuit in China.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030020000 +0700" stop="20261030030000 +0700">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>The Grand Prix of Australia. Action from the 18th round of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030030000 +0700" stop="20261030043000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>A look back at the biggest stories and best action from the 2026 season.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030043000 +0700" stop="20261030070000 +0700">
-    <title lang="zh">MLB</title>
-    <desc>Action from game five of the World Series.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030070000 +0700" stop="20261030080000 +0700">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>The Grand Prix of Australia. Action from the 18th round of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030080000 +0700" stop="20261030104500 +0700">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Malaysia first free practice session. Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030104500 +0700" stop="20261030110000 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 Grand Prix of Great Britain.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030110000 +0700" stop="20261030111500 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Aragon.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030111500 +0700" stop="20261030113000 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of San Marino.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030113000 +0700" stop="20261030114500 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Austria.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030114500 +0700" stop="20261030120000 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Japan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030120000 +0700" stop="20261030121500 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Indonesia.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030121500 +0700" stop="20261030151500 +0700">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Malaysia practice session. Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030151500 +0700" stop="20261030153000 +0700">
-    <title lang="zh">The Gruppetto</title>
-    <desc>Rob Hatch presents news from the world of cycling.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030153000 +0700" stop="20261030160000 +0700">
-    <title lang="zh">Inside Serie A</title>
-    <desc>A round-up of all the latest news from the Italian top flight.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030160000 +0700" stop="20261030180000 +0700">
-    <title lang="zh">Live A-League</title>
-    <desc>Brisbane Roar v Auckland FC (Kick-off 9.00am). Coverage of the match from the third round of fixtures at Suncorp Stadium.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030180000 +0700" stop="20261030184500 +0700">
-    <title lang="zh">Sign Up - Into Football</title>
-    <desc>Mikel Arteta answers questions from deaf Arsenal fans, and Mikel Merino uses British Sign Language in his goal celebration. Plus, Karen Carney analyses the start of the season.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030184500 +0700" stop="20261030190000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030190000 +0700" stop="20261030193000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Suzi Perry and the team are trackside at Petronas Sepang International Circuit to present action, news and reactions from the Grand Prix of Malaysia.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030193000 +0700" stop="20261030200000 +0700">
-    <title lang="zh">SailGP - Racing on the Edge</title>
-    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030200000 +0700" stop="20261030203000 +0700">
-    <title lang="zh">Golden Trail World Series</title>
-    <desc>Action from day one of the Grand Finale in Deogyusan National Park in Muju, SouthKorea.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030203000 +0700" stop="20261030210000 +0700">
-    <title lang="zh">It's A Numbers Game</title>
-    <desc>The key numbers behind Valentino Rossi and Marc Marquez in MotoGP, Jonathan Rea's record-setting Superbike dominance, the rapid Thruxton circuit, and more.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030210000 +0700" stop="20261030213100 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Suzi Perry and the team are trackside at Petronas Sepang International Circuit to present action, news and reactions from the Grand Prix of Malaysia.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030213100 +0700" stop="20261030230000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>A look back at the biggest stories and best action from the 2026 season.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400480" start="20261030230000 +0700" stop="20261031000000 +0700">
-    <title lang="zh">MotoGP Breakdown Show</title>
-    <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
-    <date>2026-10-30</date>
-  </programme>
   <programme channel="400480" start="20261031000000 +0700" stop="20261031003000 +0700">
     <title lang="zh">MotoGP</title>
     <desc>Suzi Perry and the team are trackside at Petronas Sepang International Circuit to present action, news and reactions from the Grand Prix of Malaysia.</desc>
@@ -94347,120 +94488,120 @@
     <desc>The Gold Coast 500 day two. Action from the 12th round of the season at Surfers Paradise Street Circuit in Queensland.</desc>
     <date>2026-10-31</date>
   </programme>
+  <programme channel="400480" start="20261101003000 +0700" stop="20261101030000 +0700">
+    <title lang="zh">Live: Curling European Championship</title>
+    <desc>Coverage from the men's semi-finals at RT Torax Arena in Ostrava, Czech Republic.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101030000 +0700" stop="20261101033000 +0700">
+    <title lang="zh">Ella Toone's Away Days</title>
+    <desc>A behind the scenes look at the life and travels of England and Manchester United star Ella Toone.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101033000 +0700" stop="20261101040000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>An inside look at the Ballon d'Or 2026, where Harry Kane became the first English player to win the award in 25 years. Plus, features on Marc Guehi and Matty Cash.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101040000 +0700" stop="20261101050000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101050000 +0700" stop="20261101053000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with Liverpool winger Rio Ngumoha.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101053000 +0700" stop="20261101063000 +0700">
+    <title lang="zh">A-League</title>
+    <desc>Melbourne City v Sydney FC.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101063000 +0700" stop="20261101070000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>A look back at the 2007/08 UEFA Champions League final between Manchester United and Chelsea at Moscow's Luzhniki Stadium, the first all-English final in the competition's history.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101070000 +0700" stop="20261101083000 +0700">
+    <title lang="zh">Premier League</title>
+    <desc>Chelsea v Manchester United.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101083000 +0700" stop="20261101093000 +0700">
+    <title lang="zh">Live: Moto4 Asia Cup</title>
+    <desc>Coverage from race two at the fifth round of the season, which takes place at Petronas Sepang International Circuit in Malaysia.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101093000 +0700" stop="20261101100000 +0700">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Malaysia MotoGP warm-up session. Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101100000 +0700" stop="20261101120000 +0700">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Malaysia Moto3 race (Start-time 3.00am). Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101120000 +0700" stop="20261101130000 +0700">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Malaysia Moto2 race (Start-time 5.15am). Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101130000 +0700" stop="20261101131500 +0700">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Malaysia Moto2 race (Start-time 5.15am). Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101131500 +0700" stop="20261101160000 +0700">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Malaysia MotoGP race (Start-time 7.00am). Coverage from the 19th round of the season at Petronas Sepang International Circuit.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101160000 +0700" stop="20261101183000 +0700">
+    <title lang="zh">Live: Curling European Championship</title>
+    <desc>Coverage of the women's final, which takes place in Ostrava, Czech Republic.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101183000 +0700" stop="20261101193000 +0700">
+    <title lang="zh">Longines FEI Jumping World Cup</title>
+    <desc>Action from the Washington International Horse Show at The Show Place Arena in Upper Marlboro, Maryland.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101193000 +0700" stop="20261101200000 +0700">
+    <title lang="zh">TCR World Tour Review</title>
+    <desc>Action from the sixth round of the season at Chengdu Tianfu International Circuit in China.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101200000 +0700" stop="20261101203000 +0700">
+    <title lang="zh">SailGP - Racing on the Edge</title>
+    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101203000 +0700" stop="20261101231500 +0700">
+    <title lang="zh">Live: Marathon</title>
+    <desc>Coverage of the 2026 TCS New York City Marathon, which begins with the iconic ascent over the Verrazzano-Narrows Bridge and ends in Central Park.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101231500 +0700" stop="20261101233000 +0700">
+    <title lang="zh">What I Wore</title>
+    <desc>The best conversations from the show, with some of the biggest names in football focusing on classic football shirts and kit culture in the UK.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261101233000 +0700" stop="20261102000000 +0700">
+    <title lang="zh">SailGP - Racing on the Edge</title>
+    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400480" start="20261102000000 +0700" stop="20261103000000 +0700">
+    <title lang="zh">Longines FEI Jumping World Cup</title>
+    <desc>Action from the Washington International Horse Show at The Show Place Arena in Upper Marlboro, Maryland.</desc>
+    <date>2026-11-02</date>
+  </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20261030003000 +0700" stop="20261030010000 +0700">
-    <title lang="zh">Ninja A-League Women Highlights</title>
-    <desc>Action from the latest round of matches.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030010000 +0700" stop="20261030013000 +0700">
-    <title lang="zh">A-League Highlights</title>
-    <desc>A review of all the goals and talking points from the weekend's A-League games.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030013000 +0700" stop="20261030020000 +0700">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc>A look back at the 2007/08 UEFA Champions League final between Manchester United and Chelsea at Moscow's Luzhniki Stadium, the first all-English final in the competition's history.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030020000 +0700" stop="20261030023000 +0700">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc>A look back at the 2009 UEFA Champions League final between Barcelona and Man Utd in Rome. United were bidding to become the first team to defend the trophy in the modern era.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030023000 +0700" stop="20261030030000 +0700">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc>The 2010/11 UEFA Champions League final saw Manchester United come up against Pep Guardiola's Barcelona at Wembley, the scene of United's first European Cup success back in 1968.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030030000 +0700" stop="20261030033000 +0700">
-    <title lang="zh">UEFA Champions League - Classics</title>
-    <desc>We revisit the 2011/12 UEFA Champions League final between Bayern Munich and Chelsea at the Allianz Arena. This was Chelsea's second final, having lost their first in 2008.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030033000 +0700" stop="20261030040000 +0700">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>A trip to Mumbai, India, discovering how a traditionally cricket-mad country goes crazy for football when the lights come down.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030040000 +0700" stop="20261030070000 +0700">
-    <title lang="zh">UFC</title>
-    <desc>Alexander Volkanovski v Movsar Evloev. Action from the UFC Featherweight title bout at Etihad Arena in Abu Dhabi, plus the undercard for UFC 333.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030070000 +0700" stop="20261030093000 +0700">
-    <title lang="zh">UFC Reloaded</title>
-    <desc>We look back at the enthralling light heavyweight showdown between Quinton 'Rampage' Jackson and Forrest Griffin at UFC 86 in Las Vegas from July 2008.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030093000 +0700" stop="20261030113000 +0700">
-    <title lang="zh">Curling European Championship</title>
-    <desc>Germany v Scotland.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030113000 +0700" stop="20261030123000 +0700">
-    <title lang="zh">Women's FA Cup</title>
-    <desc>Exeter City v Hashtag United.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030123000 +0700" stop="20261030130000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030130000 +0700" stop="20261030133000 +0700">
-    <title lang="zh">Inside Serie A</title>
-    <desc>A round-up of all the latest news from the Italian top flight.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030133000 +0700" stop="20261030153000 +0700">
-    <title lang="zh">Curling European Championship</title>
-    <desc>Germany v Scotland.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030153000 +0700" stop="20261030180000 +0700">
-    <title lang="zh">Live: Curling European Championship</title>
-    <desc>Czechia v Germany. Coverage of the women's Group A match from RT Torax Arena in Ostrava, Czech Republic.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030180000 +0700" stop="20261030183000 +0700">
-    <title lang="zh">Ella Toone's Away Days</title>
-    <desc>A behind the scenes look at the life and travels of England and Manchester United star Ella Toone.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030183000 +0700" stop="20261030193000 +0700">
-    <title lang="zh">Serie A</title>
-    <desc>AC Milan v Bologna.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030193000 +0700" stop="20261030203000 +0700">
-    <title lang="zh">Serie A</title>
-    <desc>Monza v Napoli.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030203000 +0700" stop="20261030213000 +0700">
-    <title lang="zh">IFSC Climbing World Series Highlights</title>
-    <desc>Action from the event in Santiago, Chile.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030213000 +0700" stop="20261030220000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030220000 +0700" stop="20261030230000 +0700">
-    <title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, including action from the Parkdean Resorts Masters 2026.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="400479" start="20261030230000 +0700" stop="20261031000000 +0700">
-    <title lang="zh">Playing for Our Future</title>
-    <desc>Asking what the future holds for sport in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how sport can be a positive force for change.</desc>
-    <date>2026-10-30</date>
-  </programme>
   <programme channel="400479" start="20261031001500 +0700" stop="20261031010000 +0700">
     <title lang="zh">Sign Up - Into Football</title>
     <desc>Highlights and analysis in a series that uses British Sign Language and subtitles to make TNT Sport coverage accessible to deaf and hearing audiences alike.</desc>
@@ -94575,6 +94716,101 @@
     <title lang="zh">MLB</title>
     <desc>Action from game six of the World Series.</desc>
     <date>2026-10-31</date>
+  </programme>
+  <programme channel="400479" start="20261101010000 +0700" stop="20261101020000 +0700">
+    <title lang="zh">A-League</title>
+    <desc>Melbourne City v Sydney FC.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101020000 +0700" stop="20261101033000 +0700">
+    <title lang="zh">Live: BMX Racing</title>
+    <desc>Coverage from the World Cup event in Sarasota, Florida.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101033000 +0700" stop="20261101043000 +0700">
+    <title lang="zh">MotoGP Breakdown Show</title>
+    <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101043000 +0700" stop="20261101050000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>The Grand Prix of Malaysia sprint race. Action from the 19th round of the season at Petronas Sepang International Circuit in Sepang.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101050000 +0700" stop="20261101070000 +0700">
+    <title lang="zh">Live UFC</title>
+    <desc>Coverage of the preliminary bouts from UFC Fight Night 292, which takes place at Meta Apex in Las Vegas, Nevada.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101070000 +0700" stop="20261101103000 +0700">
+    <title lang="zh">Live UFC</title>
+    <desc>Renato Moicano v Tom Nolan. Coverage of the lightweight bout at Meta Apex in Las Vegas, Nevada, plus the undercard for UFC Fight Night 292.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101103000 +0700" stop="20261101104500 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101104500 +0700" stop="20261101130000 +0700">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Canberra United Women v Western Sydney Wanderers Women (Kick-off 4.00am). Coverage of the match at McKellar Park.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101130000 +0700" stop="20261101131500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>New Zealand v India in the second T20.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101131500 +0700" stop="20261101133000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>New Zealand v India in the third T20.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101133000 +0700" stop="20261101134500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at New Zealand v India in the fourth T20 of the series.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101134500 +0700" stop="20261101180000 +0700">
+    <title lang="zh">Live International T20 Cricket</title>
+    <desc>New Zealand v India. Coverage of the fifth and final T20 in the series from Seddon Park, Hamilton.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101180000 +0700" stop="20261101183000 +0700">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101183000 +0700" stop="20261101190000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>An inside look at the Ballon d'Or 2026, where Harry Kane became the first English player to win the award in 25 years. Plus, features on Marc Guehi and Matty Cash.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101190000 +0700" stop="20261101194500 +0700">
+    <title lang="zh">Sign Up - Into Football</title>
+    <desc>Rolf and Damaris visit the club everyone is talking about! Featuring interviews with Enzo Maresca, Jeremy Doku and Lauren Hemp. Plus, England Women's record goalscorer Ellen White.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101194500 +0700" stop="20261101210000 +0700">
+    <title lang="zh">Live: Cyclocross</title>
+    <desc>Coverage from the elite women's X2O Badkamers Trofee Oudenaarde, which takes place in Oudenaarde, Belgium.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101210000 +0700" stop="20261101221500 +0700">
+    <title lang="zh">Live: Cyclocross</title>
+    <desc>Coverage from the elite men's X2O Badkamers Trofee Oudenaarde, which takes place in Oudenaarde, Belgium.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101221500 +0700" stop="20261101231500 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Malaysia.</desc>
+    <date>2026-11-01</date>
+  </programme>
+  <programme channel="400479" start="20261101231500 +0700" stop="20261102000000 +0700">
+    <title lang="zh">Supercars Championship Highlights</title>
+    <desc>The Gold Coast 500 day one. Action from the 12th round of the season at Surfers Paradise Street Circuit in Queensland.</desc>
+    <date>2026-11-01</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
